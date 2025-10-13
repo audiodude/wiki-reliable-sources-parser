@@ -2,6 +2,7 @@
   {
     "id": "112 Ukraine",
     "name": "112 Ukraine",
+    "shortcut": "WP:112UKRAINE",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 281#news-front.info|1]] [[WP:Articles for deletion/Timeline of the war in Donbass (January–March 2016)|A]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 4#112 Ukraine|B]]",
     "rsnl": [
@@ -35,6 +36,7 @@
   {
     "id": "Academic repositories",
     "name": "Academic repositories ",
+    "shortcut": "WP:ZENODO",
     "status": "nc",
     "discussion": "",
     "rsp_last": "2024",
@@ -53,6 +55,7 @@
   {
     "id": "Ad Fontes Media",
     "name": "Ad Fontes Media",
+    "shortcut": "WP:ADFONTES",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 258#media bias chart from adfontes media|1]] [[WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides|2]] [[WP:Reliable sources/Noticeboard/Archive 298#Ad Fontes Media Bias Chart|3]] [[WP:Reliable sources/Noticeboard/Archive 302#Can we call Wonkette far-left on the basis of adfontesmedia.com|4]] [[WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited|5]]",
     "rsp_last": "2021",
@@ -86,6 +89,7 @@
   {
     "id": "The Age",
     "name": "The Age",
+    "shortcut": "WP:THEAGE",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -104,6 +108,7 @@
     "id": "Agence France-Presse",
     "name_qualifier": "(AFP)",
     "name": "Agence France-Presse",
+    "shortcut": "WP:RSPAFP",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 243#Can “wire” news services such AP, Reuters, or AFP ever report inaccurate, misleading, or false information|1]] [[WP:Reliable sources/Noticeboard/Archive 294#AFP|2]] [[WP:Reliable sources/Noticeboard/Archive 332#AFP as a source at Charlie Kirk|3]]",
     "rsp_last": "2021",
@@ -113,6 +118,7 @@
   {
     "id": "Al Arabiya",
     "name": "Al Arabiya",
+    "shortcut": "WP:ALARABIYA",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 98#Alarabiya, reliable or not?|1]] [[WP:Reliable sources/Noticeboard/Archive 130#Al Arabiya|2]] [[WP:Reliable sources/Noticeboard/Archive 139#Al-Arabiya and the Syrian civil war|3]] [[WP:Reliable sources/Noticeboard/Archive 418#Al Arabiya|4]] [[WP:Reliable sources/Noticeboard/Archive 428#Al Arabiya|5]]",
     "summary": "There is consensus that Al Arabiya is a usable source for topics unrelated to the Saudi Arabian government. As it is state-owned by Saudi government since 2018 and is published in a country with low press freedom, editors consider Al Arabiya biased and non-independent for Saudi Arabian politics, and recommend attribution and use amongst other sources to maintain NPOV for coverage in this area. Some editors consider Al Arabiya unreliable for matters related to Saudi geopolitical interests.",
@@ -121,6 +127,7 @@
   {
     "id": "Al Jazeera",
     "name": "Al Jazeera Media Network",
+    "shortcut": "WP:ALJAZEERA",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -138,6 +145,7 @@
   {
     "id": "Al Mayadeen",
     "name": "Al Mayadeen",
+    "shortcut": "WP:ALMAYADEEN",
     "status": "d",
     "discussion": "",
     "rsnl": [
@@ -156,6 +164,7 @@
     "id": "Al-Manar",
     "name": "Al-Manar",
     "content_qualifier": "(general topics)",
+    "shortcut": "WP:ALMANAR",
     "status": "nc",
     "discussion": "[[Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar|1]]",
     "rsnl": [
@@ -174,6 +183,7 @@
     "id": "Al-Manar (controversial topics)",
     "name": "Al-Manar",
     "content_qualifier": "(controversial topics)",
+    "shortcut": "WP:ALMANARPOLITICS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 417#Dead links to Al-Manar|1]] [[Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar|2]]",
     "rsnl": [
@@ -209,6 +219,7 @@
     "id": "AllMovie",
     "name": "AllMovie",
     "content_qualifier": "(2024–present)",
+    "shortcut": "WP:ALLMOVIE",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 442#allmovie.com now using film descriptions and actor biographies from Wikipedia|1]] [[WP:Reliable sources/Noticeboard/Archive 464#Allmovie|2]]",
     "rsp_last": "2025",
@@ -218,6 +229,7 @@
   {
     "id": "AllSides",
     "name": "AllSides",
+    "shortcut": "WP:ALLSIDES",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 235#Allsides.com|1]] [[WP:Reliable sources/Noticeboard/Archive 278#Is Allsides.com a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides|3]] [[WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited|4]] [[WP:Reliable sources/Noticeboard/Archive 366#Allsides.com|5]] [[WP:Reliable sources/Noticeboard/Archive 396#Allsides.com redux, use of Breitbart and Wikipediocracy as a source|6]]",
     "rsnl": [
@@ -244,6 +256,7 @@
   {
     "id": "Amazon",
     "name": "Amazon (company)",
+    "shortcut": "WP:RSPAMAZON",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 20#Citing unverifiable Amazon 'editorial reviews' as book reviews|1]] [[WP:Reliable sources/Noticeboard/Archive 21#Is Amazon.com a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 43#Amazon.com as an RS for unreleased material|3]] [[WP:Reliable sources/Noticeboard/Archive 56#Amazon.com for digital music release info|4]] [[WP:Reliable sources/Noticeboard/Archive 232#BuzzFeed and Amazon.com|5]] [[WP:Reliable sources/Noticeboard/Archive 286#The elephant in the room – amazon.com|6]] [[WP:Reliable sources/Noticeboard/Archive 337#Amazon as a source|7]]",
     "rsp_last": "2021",
@@ -254,6 +267,7 @@
     "id": "The American Conservative",
     "name_qualifier": "(TAC)",
     "name": "The American Conservative",
+    "shortcut": "WP:TAC",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 273#An op-ed by Paul Gottfried about the accuracy of a PragerU video|1]] [[WP:Reliable sources/Noticeboard/Archive 409#Use of The American Conservative for opinion at A Letter to Liberals|2]]",
     "rsnl": [
@@ -284,6 +298,7 @@
     "id": "Amnesty International",
     "name_qualifier": "(Amnesty, AI)",
     "name": "Amnesty International",
+    "shortcut": "WP:RSPAI",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 324#Amnesty|1]] [[WP:Reliable sources/Noticeboard/Archive 276#Is research by Amnesty International a valid source for Wikipedia?|2]] [[WP:Reliable sources/Noticeboard/Archive 414#War crimes|3]]",
     "rsnl": [
@@ -303,6 +318,7 @@
     "name_qualifier": "(AA)",
     "name": "Anadolu Agency",
     "content_qualifier": "(general topics)",
+    "shortcut": "WP:ANADOLU",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 376#Is Anadolu Agency legit source?|1]] [[WP:Reliable sources/Noticeboard/Archive 418#RfC: Anadolu Agency|2]]",
     "rsnl": [
@@ -322,6 +338,7 @@
     "name_qualifier": "(AA)",
     "name": "Anadolu Agency",
     "content_qualifier": "(controversial topics, international politics)",
+    "shortcut": "WP:AAPOLITICS",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -339,6 +356,7 @@
   {
     "id": "Ancestry.com",
     "name": "Ancestry.com",
+    "shortcut": "WP:ANCESTRY",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 61#Question about Ancestry.com|1]] [[WP:Reliable sources/Noticeboard/Archive 92#Ancestry.com|2]] [[WP:Reliable sources/Noticeboard/Archive 150#Ancestry.com|3]] [[WP:Reliable sources/Noticeboard/Archive 189#Ancestry.com|4]] [[WP:Reliable sources/Noticeboard/Archive 298#Royalcruft again|5]] [[WP:Reliable sources/Noticeboard/Archive 335#Ancestry.com|6]]",
     "rsp_last": "2021",
@@ -378,6 +396,7 @@
     "name_qualifier": "(ADL)",
     "name": "Anti-Defamation League",
     "content_qualifier": "(excluding the Israeli–Palestinian conflict and antisemitism)",
+    "shortcut": "WP:ADLHSD",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 9#Are these reliable sources and do they conflict with NPOV?|1]] [[WP:Reliable sources/Noticeboard/Archive 58#Anti-Defamation League|2]] [[WP:Reliable sources/Noticeboard/Archive 147#ADL website as source on noncontroversial facts|3]] [[WP:Reliable sources/Noticeboard/Archive 204#And the ADL|4]] [[WP:Reliable sources/Noticeboard/Archive 234#ADL is being cited as a reliable source|5]] [[WP:Reliable sources/Noticeboard/Archive 336#adl.org/blog (Anti-Defamation League Blog)|6]] [[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|7]]",
     "rsnl": [
@@ -403,6 +422,7 @@
     "name_qualifier": "(ADL)",
     "name": "Anti-Defamation League",
     "content_qualifier": "(antisemitism, excluding Israel or Zionism)",
+    "shortcut": "WP:ADLAS",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|1]]",
     "rsnl": [
@@ -428,6 +448,7 @@
     "name_qualifier": "(ADL)",
     "name": "Anti-Defamation League",
     "content_qualifier": "(Israeli–Palestinian conflict, including related antisemitism)",
+    "shortcut": "WP:ADLIPA",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|1]] [[Wikipedia:Reliable sources/Noticeboard/Archive 468#The Times of Israel and fake news.|2]]",
     "rsnl": [
@@ -454,6 +475,7 @@
   {
     "id": "Aon",
     "name": "Aon (company)",
+    "shortcut": "WP:RSPAON",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 375#Aon|1]]",
     "rsnl": [
@@ -471,6 +493,7 @@
   {
     "id": "Apple Daily",
     "name": "Apple Daily",
+    "shortcut": "WP:APPLEDAILY",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 346#Apple Daily shutting down|1]]",
     "rsnl": [
@@ -505,6 +528,7 @@
   {
     "id": "Army Recognition",
     "name": "",
+    "shortcut": "WP:ARMYRECOGNITION",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 344#armyrecognition.com|1]] [[WP:Reliable sources/Noticeboard/Archive 349#Army Recognition|2]] [[WP:Reliable sources/Noticeboard#Request to revise Army Recognition entry – defamatory & unsourced|3]]",
     "rsp_last": "2025",
@@ -514,6 +538,7 @@
   {
     "id": "Ars Technica",
     "name": "Ars Technica",
+    "shortcut": "WP:ARSTECHNICA",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 2#Ars Technica news?|1]] [[WP:Reliable sources/Noticeboard/Archive 136#Ars Technica a Reliable Source?|2]] [[WP:Reliable sources/Noticeboard/Archive 371# RS for Board Games- Board Game Quest, Ars Technica, Kotaku and TechRaptor|3]]",
     "rsp_last": "2022",
@@ -524,6 +549,7 @@
     "id": "Asian News International",
     "name_qualifier": "(ANI)",
     "name": "Asian News International",
+    "shortcut": "WP:RSPANI",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -541,6 +567,7 @@
   {
     "id": "AskMen",
     "name": "AskMen",
+    "shortcut": "WP:ASKMEN",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 25#askmen.com|1]] [[WP:Reliable sources/Noticeboard/Archive 34#Askmen.com|2]] [[WP:Reliable sources/Noticeboard/Archive 37#AskMen.com|3]] [[WP:Reliable sources/Noticeboard/Archive 51#Ask.com|4]] [[WP:Reliable sources/Noticeboard/Archive 120#Askmen.com|5]] [[WP:Reliable sources/Noticeboard/Archive 284#AskMen|6]]",
     "rsp_last": "2020",
@@ -551,6 +578,7 @@
     "id": "Association of Religion Data Archives",
     "name_qualifier": "(ARDA, Pew–Templeton Global Religious Futures)",
     "name": "Association of Religion Data Archives",
+    "shortcut": "WP:GLOBALRELIGIOUSFUTURES",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 239#thearda.com|1]] [[WP:Reliable sources/Noticeboard/Archive 395#Association of Religion Data Archives and World Religion Database|2]]",
     "rsnl": [
@@ -569,6 +597,7 @@
     "id": "Associated Press",
     "name_qualifier": "(AP)",
     "name": "Associated Press",
+    "shortcut": "WP:RSPAP",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2024",
@@ -579,6 +608,7 @@
     "id": "The Atlantic",
     "name_qualifier": "(The Atlantic Monthly)",
     "name": "The Atlantic",
+    "shortcut": "WP:THEATLANTIC",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 8#The Atlantic Monthly website|1]] [[WP:Reliable sources/Noticeboard/Archive 240#Is Conor Friedersdorf and the Atlantic a Reliable Source?|2]] [[WP:Reliable sources/Noticeboard/Archive 268#The Kingdom in the Closet by Nadya Labi|3]] [[WP:Reliable sources/Noticeboard/Archive 373#How should we treat the Atlantic's Ideas section? Is it news or opinion?|4]] [[WP:Reliable sources/Noticeboard/Archive 441#OpenAI \"content and product partnerships\" with Vox Media and The Atlantic|5]]",
     "rsp_last": "2024",
@@ -588,6 +618,7 @@
   {
     "id": "Atlas Obscura places",
     "name": "Atlas Obscura",
+    "shortcut": "WP:AOPLACES",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura|1]] [[WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura|2]] [[WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles|3]] [[WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?|4]]",
     "rsp_last": "2023",
@@ -597,6 +628,7 @@
   {
     "id": "Atlas Obscura articles",
     "name": "Atlas Obscura",
+    "shortcut": "WP:AOARTICLES",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura|1]] [[WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura|2]] [[WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles|3]] [[WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?|4]]",
     "rsp_last": "2023",
@@ -606,6 +638,7 @@
   {
     "id": "The Australian",
     "name": "The Australian",
+    "shortcut": "WP:THEAUSTRALIAN",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 245#The Australian newspaper|1]] [[WP:Reliable sources/Noticeboard/Archive 309#The Australian|2]] [[WP:Reliable sources/Noticeboard/Archive 442#Is The Australian reliable?|3]]",
     "rsp_last": "2024",
@@ -633,6 +666,7 @@
   {
     "id": "The A.V. Club",
     "name": "The A.V. Club",
+    "shortcut": "WP:AVCLUB",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 9#The A/V Club|1]] [[WP:Reliable sources/Noticeboard/Archive 151#The A.V. Club at Teenage Mutant Ninja Turtles (2014 film)|2]] [[WP:Reliable sources/Noticeboard/Archive 177#Westeros.org. Again|3]] [[WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI|4]] [[Wikipedia talk:WikiProject Albums/Archive 32#Review site: The A.V. Club|A]]",
     "rsp_last": "2023",
@@ -643,6 +677,7 @@
     "id": "AVN",
     "name_qualifier": "(Adult Video News, AVN Magazine)",
     "name": "AVN (magazine)",
+    "shortcut": "WP:AVN",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -660,6 +695,7 @@
   {
     "id": "Axios",
     "name": "Axios (website)",
+    "shortcut": "WP:AXIOS",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 263#Axios (website)|1]] [[WP:Reliable sources/Noticeboard/Archive 289#Axios.com as a generally reliable source?|2]]",
     "rsp_last": "2020",

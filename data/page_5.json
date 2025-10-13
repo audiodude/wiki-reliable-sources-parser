@@ -2,6 +2,7 @@
   {
     "id": "112 Ukraine",
     "name": "112 Ukraine",
+    "shortcut": "WP:112UKRAINE",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 281#news-front.info|1]] [[WP:Articles for deletion/Timeline of the war in Donbass (January–March 2016)|A]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 4#112 Ukraine|B]]",
     "rsnl": [
@@ -35,6 +36,7 @@
   {
     "id": "Academic repositories",
     "name": "Academic repositories ",
+    "shortcut": "WP:ZENODO",
     "status": "nc",
     "discussion": "",
     "rsp_last": "2024",
@@ -53,6 +55,7 @@
   {
     "id": "Ad Fontes Media",
     "name": "Ad Fontes Media",
+    "shortcut": "WP:ADFONTES",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 258#media bias chart from adfontes media|1]] [[WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides|2]] [[WP:Reliable sources/Noticeboard/Archive 298#Ad Fontes Media Bias Chart|3]] [[WP:Reliable sources/Noticeboard/Archive 302#Can we call Wonkette far-left on the basis of adfontesmedia.com|4]] [[WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited|5]]",
     "rsp_last": "2021",
@@ -86,6 +89,7 @@
   {
     "id": "The Age",
     "name": "The Age",
+    "shortcut": "WP:THEAGE",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -104,6 +108,7 @@
     "id": "Agence France-Presse",
     "name_qualifier": "(AFP)",
     "name": "Agence France-Presse",
+    "shortcut": "WP:RSPAFP",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 243#Can “wire” news services such AP, Reuters, or AFP ever report inaccurate, misleading, or false information|1]] [[WP:Reliable sources/Noticeboard/Archive 294#AFP|2]] [[WP:Reliable sources/Noticeboard/Archive 332#AFP as a source at Charlie Kirk|3]]",
     "rsp_last": "2021",
@@ -113,6 +118,7 @@
   {
     "id": "Al Arabiya",
     "name": "Al Arabiya",
+    "shortcut": "WP:ALARABIYA",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 98#Alarabiya, reliable or not?|1]] [[WP:Reliable sources/Noticeboard/Archive 130#Al Arabiya|2]] [[WP:Reliable sources/Noticeboard/Archive 139#Al-Arabiya and the Syrian civil war|3]] [[WP:Reliable sources/Noticeboard/Archive 418#Al Arabiya|4]] [[WP:Reliable sources/Noticeboard/Archive 428#Al Arabiya|5]]",
     "summary": "There is consensus that Al Arabiya is a usable source for topics unrelated to the Saudi Arabian government. As it is state-owned by Saudi government since 2018 and is published in a country with low press freedom, editors consider Al Arabiya biased and non-independent for Saudi Arabian politics, and recommend attribution and use amongst other sources to maintain NPOV for coverage in this area. Some editors consider Al Arabiya unreliable for matters related to Saudi geopolitical interests.",
@@ -121,6 +127,7 @@
   {
     "id": "Al Jazeera",
     "name": "Al Jazeera Media Network",
+    "shortcut": "WP:ALJAZEERA",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -138,6 +145,7 @@
   {
     "id": "Al Mayadeen",
     "name": "Al Mayadeen",
+    "shortcut": "WP:ALMAYADEEN",
     "status": "d",
     "discussion": "",
     "rsnl": [
@@ -156,6 +164,7 @@
     "id": "Al-Manar",
     "name": "Al-Manar",
     "content_qualifier": "(general topics)",
+    "shortcut": "WP:ALMANAR",
     "status": "nc",
     "discussion": "[[Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar|1]]",
     "rsnl": [
@@ -174,6 +183,7 @@
     "id": "Al-Manar (controversial topics)",
     "name": "Al-Manar",
     "content_qualifier": "(controversial topics)",
+    "shortcut": "WP:ALMANARPOLITICS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 417#Dead links to Al-Manar|1]] [[Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar|2]]",
     "rsnl": [
@@ -209,6 +219,7 @@
     "id": "AllMovie",
     "name": "AllMovie",
     "content_qualifier": "(2024–present)",
+    "shortcut": "WP:ALLMOVIE",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 442#allmovie.com now using film descriptions and actor biographies from Wikipedia|1]] [[WP:Reliable sources/Noticeboard/Archive 464#Allmovie|2]]",
     "rsp_last": "2025",
@@ -218,6 +229,7 @@
   {
     "id": "AllSides",
     "name": "AllSides",
+    "shortcut": "WP:ALLSIDES",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 235#Allsides.com|1]] [[WP:Reliable sources/Noticeboard/Archive 278#Is Allsides.com a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides|3]] [[WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited|4]] [[WP:Reliable sources/Noticeboard/Archive 366#Allsides.com|5]] [[WP:Reliable sources/Noticeboard/Archive 396#Allsides.com redux, use of Breitbart and Wikipediocracy as a source|6]]",
     "rsnl": [
@@ -244,6 +256,7 @@
   {
     "id": "Amazon",
     "name": "Amazon (company)",
+    "shortcut": "WP:RSPAMAZON",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 20#Citing unverifiable Amazon 'editorial reviews' as book reviews|1]] [[WP:Reliable sources/Noticeboard/Archive 21#Is Amazon.com a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 43#Amazon.com as an RS for unreleased material|3]] [[WP:Reliable sources/Noticeboard/Archive 56#Amazon.com for digital music release info|4]] [[WP:Reliable sources/Noticeboard/Archive 232#BuzzFeed and Amazon.com|5]] [[WP:Reliable sources/Noticeboard/Archive 286#The elephant in the room – amazon.com|6]] [[WP:Reliable sources/Noticeboard/Archive 337#Amazon as a source|7]]",
     "rsp_last": "2021",
@@ -254,6 +267,7 @@
     "id": "The American Conservative",
     "name_qualifier": "(TAC)",
     "name": "The American Conservative",
+    "shortcut": "WP:TAC",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 273#An op-ed by Paul Gottfried about the accuracy of a PragerU video|1]] [[WP:Reliable sources/Noticeboard/Archive 409#Use of The American Conservative for opinion at A Letter to Liberals|2]]",
     "rsnl": [
@@ -284,6 +298,7 @@
     "id": "Amnesty International",
     "name_qualifier": "(Amnesty, AI)",
     "name": "Amnesty International",
+    "shortcut": "WP:RSPAI",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 324#Amnesty|1]] [[WP:Reliable sources/Noticeboard/Archive 276#Is research by Amnesty International a valid source for Wikipedia?|2]] [[WP:Reliable sources/Noticeboard/Archive 414#War crimes|3]]",
     "rsnl": [
@@ -303,6 +318,7 @@
     "name_qualifier": "(AA)",
     "name": "Anadolu Agency",
     "content_qualifier": "(general topics)",
+    "shortcut": "WP:ANADOLU",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 376#Is Anadolu Agency legit source?|1]] [[WP:Reliable sources/Noticeboard/Archive 418#RfC: Anadolu Agency|2]]",
     "rsnl": [
@@ -322,6 +338,7 @@
     "name_qualifier": "(AA)",
     "name": "Anadolu Agency",
     "content_qualifier": "(controversial topics, international politics)",
+    "shortcut": "WP:AAPOLITICS",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -339,6 +356,7 @@
   {
     "id": "Ancestry.com",
     "name": "Ancestry.com",
+    "shortcut": "WP:ANCESTRY",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 61#Question about Ancestry.com|1]] [[WP:Reliable sources/Noticeboard/Archive 92#Ancestry.com|2]] [[WP:Reliable sources/Noticeboard/Archive 150#Ancestry.com|3]] [[WP:Reliable sources/Noticeboard/Archive 189#Ancestry.com|4]] [[WP:Reliable sources/Noticeboard/Archive 298#Royalcruft again|5]] [[WP:Reliable sources/Noticeboard/Archive 335#Ancestry.com|6]]",
     "rsp_last": "2021",
@@ -378,6 +396,7 @@
     "name_qualifier": "(ADL)",
     "name": "Anti-Defamation League",
     "content_qualifier": "(excluding the Israeli–Palestinian conflict and antisemitism)",
+    "shortcut": "WP:ADLHSD",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 9#Are these reliable sources and do they conflict with NPOV?|1]] [[WP:Reliable sources/Noticeboard/Archive 58#Anti-Defamation League|2]] [[WP:Reliable sources/Noticeboard/Archive 147#ADL website as source on noncontroversial facts|3]] [[WP:Reliable sources/Noticeboard/Archive 204#And the ADL|4]] [[WP:Reliable sources/Noticeboard/Archive 234#ADL is being cited as a reliable source|5]] [[WP:Reliable sources/Noticeboard/Archive 336#adl.org/blog (Anti-Defamation League Blog)|6]] [[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|7]]",
     "rsnl": [
@@ -403,6 +422,7 @@
     "name_qualifier": "(ADL)",
     "name": "Anti-Defamation League",
     "content_qualifier": "(antisemitism, excluding Israel or Zionism)",
+    "shortcut": "WP:ADLAS",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|1]]",
     "rsnl": [
@@ -428,6 +448,7 @@
     "name_qualifier": "(ADL)",
     "name": "Anti-Defamation League",
     "content_qualifier": "(Israeli–Palestinian conflict, including related antisemitism)",
+    "shortcut": "WP:ADLIPA",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|1]] [[Wikipedia:Reliable sources/Noticeboard/Archive 468#The Times of Israel and fake news.|2]]",
     "rsnl": [
@@ -454,6 +475,7 @@
   {
     "id": "Aon",
     "name": "Aon (company)",
+    "shortcut": "WP:RSPAON",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 375#Aon|1]]",
     "rsnl": [
@@ -471,6 +493,7 @@
   {
     "id": "Apple Daily",
     "name": "Apple Daily",
+    "shortcut": "WP:APPLEDAILY",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 346#Apple Daily shutting down|1]]",
     "rsnl": [
@@ -505,6 +528,7 @@
   {
     "id": "Army Recognition",
     "name": "",
+    "shortcut": "WP:ARMYRECOGNITION",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 344#armyrecognition.com|1]] [[WP:Reliable sources/Noticeboard/Archive 349#Army Recognition|2]] [[WP:Reliable sources/Noticeboard#Request to revise Army Recognition entry – defamatory & unsourced|3]]",
     "rsp_last": "2025",
@@ -514,6 +538,7 @@
   {
     "id": "Ars Technica",
     "name": "Ars Technica",
+    "shortcut": "WP:ARSTECHNICA",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 2#Ars Technica news?|1]] [[WP:Reliable sources/Noticeboard/Archive 136#Ars Technica a Reliable Source?|2]] [[WP:Reliable sources/Noticeboard/Archive 371# RS for Board Games- Board Game Quest, Ars Technica, Kotaku and TechRaptor|3]]",
     "rsp_last": "2022",
@@ -524,6 +549,7 @@
     "id": "Asian News International",
     "name_qualifier": "(ANI)",
     "name": "Asian News International",
+    "shortcut": "WP:RSPANI",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -541,6 +567,7 @@
   {
     "id": "AskMen",
     "name": "AskMen",
+    "shortcut": "WP:ASKMEN",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 25#askmen.com|1]] [[WP:Reliable sources/Noticeboard/Archive 34#Askmen.com|2]] [[WP:Reliable sources/Noticeboard/Archive 37#AskMen.com|3]] [[WP:Reliable sources/Noticeboard/Archive 51#Ask.com|4]] [[WP:Reliable sources/Noticeboard/Archive 120#Askmen.com|5]] [[WP:Reliable sources/Noticeboard/Archive 284#AskMen|6]]",
     "rsp_last": "2020",
@@ -551,6 +578,7 @@
     "id": "Association of Religion Data Archives",
     "name_qualifier": "(ARDA, Pew–Templeton Global Religious Futures)",
     "name": "Association of Religion Data Archives",
+    "shortcut": "WP:GLOBALRELIGIOUSFUTURES",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 239#thearda.com|1]] [[WP:Reliable sources/Noticeboard/Archive 395#Association of Religion Data Archives and World Religion Database|2]]",
     "rsnl": [
@@ -569,6 +597,7 @@
     "id": "Associated Press",
     "name_qualifier": "(AP)",
     "name": "Associated Press",
+    "shortcut": "WP:RSPAP",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2024",
@@ -579,6 +608,7 @@
     "id": "The Atlantic",
     "name_qualifier": "(The Atlantic Monthly)",
     "name": "The Atlantic",
+    "shortcut": "WP:THEATLANTIC",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 8#The Atlantic Monthly website|1]] [[WP:Reliable sources/Noticeboard/Archive 240#Is Conor Friedersdorf and the Atlantic a Reliable Source?|2]] [[WP:Reliable sources/Noticeboard/Archive 268#The Kingdom in the Closet by Nadya Labi|3]] [[WP:Reliable sources/Noticeboard/Archive 373#How should we treat the Atlantic's Ideas section? Is it news or opinion?|4]] [[WP:Reliable sources/Noticeboard/Archive 441#OpenAI \"content and product partnerships\" with Vox Media and The Atlantic|5]]",
     "rsp_last": "2024",
@@ -588,6 +618,7 @@
   {
     "id": "Atlas Obscura places",
     "name": "Atlas Obscura",
+    "shortcut": "WP:AOPLACES",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura|1]] [[WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura|2]] [[WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles|3]] [[WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?|4]]",
     "rsp_last": "2023",
@@ -597,6 +628,7 @@
   {
     "id": "Atlas Obscura articles",
     "name": "Atlas Obscura",
+    "shortcut": "WP:AOARTICLES",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura|1]] [[WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura|2]] [[WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles|3]] [[WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?|4]]",
     "rsp_last": "2023",
@@ -606,6 +638,7 @@
   {
     "id": "The Australian",
     "name": "The Australian",
+    "shortcut": "WP:THEAUSTRALIAN",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 245#The Australian newspaper|1]] [[WP:Reliable sources/Noticeboard/Archive 309#The Australian|2]] [[WP:Reliable sources/Noticeboard/Archive 442#Is The Australian reliable?|3]]",
     "rsp_last": "2024",
@@ -633,6 +666,7 @@
   {
     "id": "The A.V. Club",
     "name": "The A.V. Club",
+    "shortcut": "WP:AVCLUB",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 9#The A/V Club|1]] [[WP:Reliable sources/Noticeboard/Archive 151#The A.V. Club at Teenage Mutant Ninja Turtles (2014 film)|2]] [[WP:Reliable sources/Noticeboard/Archive 177#Westeros.org. Again|3]] [[WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI|4]] [[Wikipedia talk:WikiProject Albums/Archive 32#Review site: The A.V. Club|A]]",
     "rsp_last": "2023",
@@ -643,6 +677,7 @@
     "id": "AVN",
     "name_qualifier": "(Adult Video News, AVN Magazine)",
     "name": "AVN (magazine)",
+    "shortcut": "WP:AVN",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -660,6 +695,7 @@
   {
     "id": "Axios",
     "name": "Axios (website)",
+    "shortcut": "WP:AXIOS",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 263#Axios (website)|1]] [[WP:Reliable sources/Noticeboard/Archive 289#Axios.com as a generally reliable source?|2]]",
     "rsp_last": "2020",
@@ -1801,6 +1837,7 @@
     "id": "EADaily",
     "name_qualifier": "(EurAsia Daily)",
     "name": "",
+    "shortcut": "WP:EADAILY",
     "status": "d",
     "discussion": "",
     "rsnl": [
@@ -1818,6 +1855,7 @@
   {
     "id": "The Economist",
     "name": "The Economist",
+    "shortcut": "WP:THEECONOMIST",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 91#The Economist and Hindus victims in Gujarat and Kashmir, India|1]] [[WP:Reliable sources/Noticeboard/Archive 109#Economist blogs and New York Times opinion pieces|2]] [[WP:Reliable sources/Noticeboard/Archive 190#Economist versus letter to local paper|3]] [[WP:Reliable sources/Noticeboard/Archive 450#The Economist, as an acceptable resource.|5]]",
     "rsnl": [
@@ -1836,6 +1874,7 @@
     "id": "The Electronic Intifada",
     "name_qualifier": "(EI)",
     "name": "The Electronic Intifada",
+    "shortcut": "WP:ELECTRONICINTIFADA",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 20#The Electronic Intifada|1]] [[WP:Reliable sources/Noticeboard/Archive 37#Electronic Intifada|2]] [[WP:Reliable sources/Noticeboard/Archive 51#Palestine Telegraph; Adallah's Newsletter, Electronic Intifada, Journal of Refugee Studies, Dissident Voice, and Islam Online|3]] [[WP:Reliable sources/Noticeboard/Archive 136#Electronic Intifada|4]] [[WP:Reliable sources/Noticeboard/Archive 140#Electronic Intifada and allegations of Mossad relationship|5]] [[WP:Reliable sources/Noticeboard/Archive 156#Is electronic intifada a a reliable source regarding issues related to Arab–Israeli conflict, Zionism, Holocaust Anti-Semitism and relationship between Arab world and Nazi Germany|6]] [[WP:Reliable sources/Noticeboard/Archive 172#Electronic Intifada|7]] [[WP:Reliable sources/Noticeboard/Archive 250#Electronic Intifada (Again)|8]]",
     "rsnl": [
@@ -1871,6 +1910,7 @@
     "id": "Encyclopædia Britannica",
     "name_qualifier": "(Encyclopædia Britannica Online)",
     "name": "Encyclopædia Britannica",
+    "shortcut": "WP:BRITANNICA",
     "status": "nc",
     "discussion": "",
     "rsp_last": "2022",
@@ -1890,6 +1930,7 @@
     "id": "Encyclopaedia Metallum",
     "name_qualifier": "(Metal Archives, MA)",
     "name": "Encyclopaedia Metallum",
+    "shortcut": "WP:METALLUM",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 32#www.spirit-of-metal.com|1]] [[WP:Reliable sources/Noticeboard/Archive 207#www.metal-archives.com|2]] [[Talk:Encyclopaedia Metallum#Source|A]] [[Wikipedia talk:WikiProject Albums/Archive 52#Genres and User-Contributed Sources|B]]",
     "rsnl": [
@@ -1962,6 +2003,7 @@
     "id": "The Epoch Times",
     "name_qualifier": "(New Tang Dynasty Television, Vision Times, Vision China Times)",
     "name": "The Epoch Times",
+    "shortcut": "WP:EPOCHTIMES",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 15#The Epoch Times|1]] [[WP:Reliable sources/Noticeboard/Archive 19#Is \"The Epoch Times\" a reliable source|2]] [[WP:Reliable sources/Noticeboard/Archive 34#The Epoch Times|3]] [[WP:Reliable sources/Noticeboard/Archive 191#Epoch Times for story on Monsanto lawsuit|4]] [[WP:Reliable sources/Noticeboard/Archive 251#The Epoch Times for anything related to political controversies involving Falun Gong|5]] [[WP:Reliable sources/Noticeboard/Archive 294#Should we be using this Falun Gong media outfit as a source for BLPs, politics, China, etc?|6]] [[WP:Reliable sources/Noticeboard/Archive 295#Expert interview in Epoch Times spinoff channel|7]] [[WP:Reliable sources/Noticeboard/Archive 376#Are NTD and vision times legit source?|8]]",
     "rsnl": [
@@ -1988,6 +2030,7 @@
   {
     "id": "The EurAsian Times",
     "name": "data-sort-value=\"EurAsian Times\" ",
+    "shortcut": "WP:EURASIANTIMES",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 389#EurAsian Times|1]] [[WP:Reliable sources/Noticeboard/Archive 399#The Eurasian Times|2]] [[WP:Reliable sources/Noticeboard/Archive 458#Eurasian Times|3]]",
     "rsp_last": "2024",
@@ -2008,6 +2051,7 @@
     "id": "Euro-Med",
     "name_qualifier": "(EMHRM, Euro-Med Monitor, Euro-Med HRM)",
     "name": "Euro-Mediterranean Human Rights Monitor",
+    "shortcut": "WP:EMHRM",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -2031,6 +2075,7 @@
     "id": "Evening Standard",
     "name_qualifier": "(London Evening Standard)",
     "name": "Evening Standard",
+    "shortcut": "WP:STANDARDUK",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 26#The Sun/Matt Smith|1]] [[WP:Reliable sources/Noticeboard/Archive 85#Unite Against Fascism and The Times et al|2]] [[WP:Reliable sources/Noticeboard/Archive 102#The London Evening Standard|3]] [[WP:Reliable sources/Noticeboard/Archive 105#The Daily Mail?|4]] [[WP:Reliable sources/Noticeboard/Archive 242#Should The Evening Standard be considered an unreliable source?|5]] [[WP:Reliable sources/Noticeboard/Archive 254#Discussion (The Sun)|6]]",
     "rsp_last": "2018",
@@ -2040,6 +2085,7 @@
   {
     "id": "Examiner.com",
     "name": "Examiner.com",
+    "shortcut": "WP:EXAMINER.COM",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 35#{{urlencode:examiner.com {{=}} paid blogging, no editorial oversight|WIKI}}|1]] [[WP:Reliable sources/Noticeboard/Archive 38#Request to reopen discussion on examiner.com|2]] [[WP:Reliable sources/Noticeboard/Archive 39#Examiner.com|3]] [[WP:Reliable sources/Noticeboard/Archive 47#Examiner.com|4]] [[WP:Reliable sources/Noticeboard/Archive 100#Examiner.com and essay contests as sources on subject for which ample scholarly literature exists|5]] [[WP:Reliable sources/Noticeboard/Archive 139#Examiner.com|6]] [[WP:Reliable sources/Noticeboard/Archive 164#Why is Examiner.com blacklisted?|7]]",
     "rsp_last": "2014",
@@ -2050,6 +2096,7 @@
     "id": "Facebook",
     "name_qualifier": "(Meta)",
     "name": "Facebook",
+    "shortcut": "WP:RSPFACEBOOK",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2085,6 +2132,7 @@
   {
     "id": "FamilySearch",
     "name": "FamilySearch",
+    "shortcut": "WP:FAMILYSEARCH",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 115#familysearch.org|1]] [[WP:Reliable sources/Noticeboard/Archive 193#need to prove familysearch.org can be used as a source for birth records on Wikipedia|2]] [[WP:Reliable sources/Noticeboard/Archive 207#Census documents from FamilySearch|3]] [[WP:Reliable sources/Noticeboard/Archive 225#FamilySearch|4]] [[WP:Reliable sources/Noticeboard/Archive 229#prabook/geni.com/Familysearch|5]] [[WP:Reliable sources/Noticeboard/Archive 250#FamilySearch and LDS historical figures|6]]",
     "rsp_last": "2018",
@@ -2094,6 +2142,7 @@
   {
     "id": "Famous Birthdays",
     "name": "Famous Birthdays",
+    "shortcut": "WP:FAMOUS BIRTHDAYS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 153#Is famousbirthdays.com a reliable source for personal information|1]] [[WP:Reliable sources/Noticeboard/Archive 178#Famous Birthdays for birth info in a BLP|2]] [[WP:Reliable sources/Noticeboard/Archive 224#Why famousbirthdays.com is a reliable source for birth dates|3]] [[WP:Reliable sources/Noticeboard/Archive 249#famousbirthdays.com|4]] [[WP:Reliable sources/Noticeboard/Archive 266#famousbirthdays.com|5]]",
     "rsp_last": "2019",
@@ -2104,6 +2153,7 @@
     "id": "Fandom",
     "name_qualifier": "(Wikia, Wikicities)",
     "name": "Fandom (website)",
+    "shortcut": "WP:RSPWIKIA",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 75#Using Wikia.com|1]] [[WP:Reliable sources/Noticeboard/Archive 128#Marvel Comics Database wikia reliability and use as a reference|2]] [[WP:Reliable sources/Noticeboard/Archive 186#Fan-made wikia site – RS?|3]] [[WP:Reliable sources/Noticeboard/Archive 207#Tractors Wikia as a reliable source?|4]] [[WP:Reliable sources/Noticeboard/Archive 212#Content Usage from WIKIA to Wikipedia|5]] [[WP:Reliable sources/Noticeboard/Archive 283#fandom.com|6]] [[WP:Reliable sources/Noticeboard/Archive 379#Reliability of FANDOM News Stories|7]] [[Wikipedia talk:WikiProject Video games/Sources/Archive 2#Everything2.com, Wikia, Wikipedia|A]]",
     "rsp_last": "2019",
@@ -2122,6 +2172,7 @@
   {
     "id": "The Federalist",
     "name": "The Federalist (website)",
+    "shortcut": "WP:THEFEDERALIST",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 274#The Federalist (website)|1]] [[WP:Reliable sources/Noticeboard/Archive 177#(thefederalist.com) Source directly targets Wikipedia editing. Special Conflict of Interest concerns for this source?|2]] [[WP:Reliable sources/Noticeboard/Archive 448#The Federalist|3]]",
     "rsnl": [
@@ -2149,6 +2200,7 @@
     "id": "Financial Times",
     "name_qualifier": "(FT)",
     "name": "Financial Times",
+    "shortcut": "WP:FINANCIALTIMES",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 29#Sakhalin-II|1]] [[WP:Reliable sources/Noticeboard/Archive 45#Mahmoud Ahmadinejad and the Daily Telegraph|2]] [[WP:Reliable sources/Noticeboard/Archive 67#G. Edward Griffin's \"The Creature from Jekyll Island\" book|3]] [[WP:Reliable sources/Noticeboard/Archive 74#Central bank|4]] [[WP:Reliable sources/Noticeboard/Archive 94#Carola Hoyos / Financial Times on history of slavery|5]] [[WP:Reliable sources/Noticeboard/Archive 249#Using the term \"chess prodigy\"|6]]",
     "rsp_last": "2018",
@@ -2158,6 +2210,7 @@
   {
     "id": "Find a Grave",
     "name": "Find a Grave",
+    "shortcut": "WP:RSPFINDAGRAVE",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 93#Find a Grave as a reliable source or reference|1]] [[WP:Reliable sources/Noticeboard/Archive 117#B./d. dates refrncd to prim. source of grave stone pic hosted @ FindAGrave.com|2]] [[WP:Reliable sources/Noticeboard/Archive 149#findagrave.com redux|3]] [[WP:Reliable sources/Noticeboard/Archive 214#Findagrave redux|4]] [[WP:Reliable sources/Noticeboard/Archive 314#Find a Grave as a reliable source|5]] [[WP:Reliable sources/Noticeboard/Archive 326#Find A Grave|6]]",
     "rsp_last": "2021",
@@ -2167,6 +2220,7 @@
   {
     "id": "Findmypast",
     "name": "Findmypast",
+    "shortcut": "WP:RSPFINDMYPAST",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 84#Personal data on findmypast.co.uk|1]] [[WP:Reliable sources/Noticeboard/Archive 114#Findmypast.co.uk|2]] [[WP:Reliable sources/Noticeboard/Archive 169#UK births database search.findmypast.co.uk|3]] [[WP:Reliable sources/Noticeboard/Archive 191#Findmypast.com|4]] [[WP:Reliable sources/Noticeboard/Archive 256#genealogy site – FindMyPast|5]]",
     "rsp_last": "2019",
@@ -2177,6 +2231,7 @@
     "id": "Flags of the World",
     "name_qualifier": "(FOTW)",
     "name": "Flags of the World (website)",
+    "shortcut": "WP:FOTW",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 4#Flags of the World|1]] [[WP:Reliable sources/Noticeboard/Archive 87#Flags of the World|2]] [[WP:Reliable sources/Noticeboard/Archive 154#\"Flags of the World\"|3]] [[WP:Reliable sources/Noticeboard/Archive 162#Possibly WP:SPS sources used on Coat of arms of the London Borough of Haringey|4]] [[Talk:Flag of Tibet#Massive changes by Quigley|A]]",
     "rsp_last": "2013",
@@ -2186,6 +2241,7 @@
   {
     "id": "Flickr",
     "name": "Flickr",
+    "shortcut": "WP:RSPFLICKR",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 95#Is Flickr a reliable source as to photo contents|1]] [[WP:Reliable sources/Noticeboard/Archive 149#flickr and \"travel-around-japan.com\" as reliable sources|2]] [[WP:Reliable sources/Noticeboard/Archive 322#Flickr as a reliable source|3]]",
     "rsp_last": "2020",
@@ -2195,6 +2251,7 @@
   {
     "id": "Forbes",
     "name": "Forbes",
+    "shortcut": "WP:FORBES",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2024",
@@ -2204,6 +2261,7 @@
   {
     "id": "Forbes.com contributors",
     "name": "Forbes.com",
+    "shortcut": "WP:FORBESCON",
     "status": "gu",
     "discussion": "",
     "rsp_last": "2025",
@@ -2213,6 +2271,7 @@
   {
     "id": "Forbes Advisor",
     "name": "Forbes Advisor ",
+    "shortcut": "WP:FORBESADVISOR",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2231,6 +2290,7 @@
     "id": "Fox News",
     "name": "Fox News",
     "content_qualifier": "(news excluding politics and science)",
+    "shortcut": "WP:FOXNEWS",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -2261,6 +2321,7 @@
     "id": "Fox News (politics and science)",
     "name": "Fox News",
     "content_qualifier": "(politics and science)",
+    "shortcut": "WP:FOXNEWSSCIENCE",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2297,6 +2358,7 @@
     "id": "Fox News (talk shows)",
     "name": "Fox News",
     "content_qualifier": "(talk shows)",
+    "shortcut": "WP:FOXNEWSTALKSHOWS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 226#The status of Fox News|1]] [[WP:Reliable sources/Noticeboard/Archive 237#Is Fox News a WP:RS|2]] [[WP:Reliable sources/Noticeboard/Archive 257#Fox News|3]] [[WP:Reliable sources/Noticeboard/Archive 261#Fox News redux|4]] [[WP:Reliable sources/Noticeboard/Archive 264#Fox News - sources for future discussion|5]] [[WP:Reliable sources/Noticeboard/Archive 276#Litmus test for source reliability in the AmPol2 area|6]] [[WP:Reliable sources/Noticeboard/Archive 278#Suggestion: comparing Fox News real-time coverage of the impeachment inquiry with other outlets'|7]] [[WP:Reliable sources/Noticeboard/Archive 289#Fox News and COVID-19|8]] [[WP:Reliable sources/Noticeboard/Archive 449#Why does Fox News talk shows have it's own section in the list?|9]]",
     "rsp_last": "2024",
@@ -2317,6 +2379,7 @@
     "id": "FrontPage Magazine",
     "name_qualifier": "(FPM, FrontPageMag.com)",
     "name": "FrontPage Magazine",
+    "shortcut": "WP:FPM",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 3#Is FrontPageMag.com a reliable source?|1]] [[WP:Reliable sources/Noticeboard/Archive 3#FrontPage Magazine (again)|2]] [[WP:Reliable sources/Noticeboard/Archive 4#FrontPage Magazine and WorldNetDaily|3]] [[WP:Reliable sources/Noticeboard/Archive 14#RE:FPM|4]] [[WP:Reliable sources/Noticeboard/Archive 15#David Horowitz Freedom Center|5]] [[WP:Reliable sources/Noticeboard/Archive 138#Are Frontpage Magazine and Steven Plaut reliable sources on Bolshevik?|6]] [[WP:Reliable sources/Noticeboard/Archive 226#FrontPage Magazine|7]] [[WP:Reliable sources/Noticeboard/Archive 291#FrontPage Magazine|8]] [[WP:Reliable sources/Noticeboard/Archive 387#Front Page|9]]",
     "rsnl": [
@@ -2335,6 +2398,7 @@
     "id": "Game Developer",
     "name_qualifier": "(Gamasutra)",
     "name": "Game Developer (website)",
+    "shortcut": "WP:GAMASUTRA",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 83#gamasutra.com|1]] [[WP:Reliable sources/Noticeboard/Archive 301#gamasutra.com|2]] [[Wikipedia talk:WikiProject Video games/Archive 67#Are these credible secondary sources|A]]",
     "rsp_last": "2020",
@@ -2344,6 +2408,7 @@
   {
     "id": "Game Informer",
     "name": "Game Informer",
+    "shortcut": "WP:GAMEINFORMER",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 32#Youtube|1]] [[WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources|2]] [[Wikipedia talk:WikiProject Video games/Sources/Archive 5#Screwattack again|A]] [[Wikipedia talk:WikiProject Video games/Archive 79#VG reviews publications|B]] [[Wikipedia talk:WikiProject Video games/Archive 86#Videogame Magazines Should Not Automatically Be Regarded as a Reliable Source|C]] [[Wikipedia talk:WikiProject Video games/Archive 38#VGChartz re-visited|D]]",
     "rsp_last": "2021",
@@ -2353,6 +2418,7 @@
   {
     "id": "GameSpot",
     "name": "GameSpot",
+    "shortcut": "WP:GAMESPOT",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2024",
@@ -2380,6 +2446,7 @@
   {
     "id": "Gawker",
     "name": "Gawker",
+    "shortcut": "WP:GAWKER",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 16#Huffington Post, Gawker and About.com|1]] [[WP:Reliable sources/Noticeboard/Archive 37#Gawker.com|2]] [[WP:Reliable sources/Noticeboard/Archive 77#Is Gawker a reliable source?|3]] [[WP:Reliable sources/Noticeboard/Archive 152#Is Gawker a reliable source?|4]] [[WP:Reliable sources/Noticeboard/Archive 180#Media as RS for their own controversies (GamerGate)|5]] [[WP:Reliable sources/Noticeboard/Archive 220#Impact assessment ?|6]] [[WP:Reliable sources/Noticeboard/Archive 221#Can we have clearer guidance on what sort of sourcing from the Mail is and isn't OK?|7]]",
     "rsnl": [
@@ -2406,6 +2473,7 @@
   {
     "id": "GB News",
     "name": "GB News",
+    "shortcut": "WP:GBNEWS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 345#Should GB News be \"depreciated\"?|1]] [[WP:Reliable sources/Noticeboard/Archive 382#Reliability of GB News as a source for citations|2]] [[WP:Reliable sources/Noticeboard/Archive 449#GB News|3]] [[WP:Reliable sources/Noticeboard/Archive 465#GBNews can be reliable for group based child sex exploitation|4]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 8#Add GB News?|A]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 10#GB News inclusion|B]]",
     "rsp_last": "2024",
@@ -2432,6 +2500,7 @@
   {
     "id": "Geni.com",
     "name": "Geni.com",
+    "shortcut": "WP:GENI",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 106#Geni.com? Reliable source?|1]] [[WP:Reliable sources/Noticeboard/Archive 126#Geni.com for Brian Haberlin birth info|2]] [[WP:Reliable sources/Noticeboard/Archive 229#prabook/geni.com/Familysearch|3]] [[WP:Reliable sources/Noticeboard/Archive 251#Geni.com|4]] [[WP:Reliable sources/Noticeboard/Archive 268#Geni.com|5]]",
     "rsnl": [
@@ -2450,6 +2519,7 @@
     "id": "Genius",
     "name_qualifier": "(Rap Genius)",
     "name": "Genius (website)",
+    "shortcut": "WP:GENIUS",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 206#Genius as a source?|1]] [[WP:Reliable sources/Noticeboard/Archive 258#Genius.com|2]]",
     "rsp_last": "2019",
@@ -2535,6 +2605,7 @@
   {
     "id": "Gizmodo",
     "name": "Gizmodo",
+    "shortcut": "WP:GIZMODO",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 221#paleofuture.gizmodo.com in Napoleon Hill|1]] [[WP:Reliable sources/Noticeboard/Archive 270#Is Gizmodo considered a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources|3]] [[WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI|4]]",
     "rsp_last": "2023",
@@ -2544,6 +2615,7 @@
   {
     "id": "GLAAD",
     "name": "GLAAD",
+    "shortcut": "WP:GLAAD",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 429#Are any of these sources reliable for covering LGBT representation on Nickelodeon?|1]] [[WP:Reliable sources/Noticeboard/Archive 457#GLAAD_&_anti-LGBT_groups|2]]",
     "rsp_last": "2024",
@@ -2554,6 +2626,7 @@
     "id": "Global Times",
     "name_qualifier": "(Huanqiu Shibao)",
     "name": "Global Times",
+    "shortcut": "WP:GLOBALTIMES",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 149#Global times as in Kennedy tragedies|1]] [[WP:Reliable sources/Noticeboard/Archive 165#PRC's Global Times|2]] [[WP:Reliable sources/Noticeboard/Archive 271#Chinese news sources|3]] [[WP:Reliable sources/Noticeboard/Archive 294#Global Times|4]] [[WP:Reliable sources/Noticeboard/Archive 348#Global Times article can't be used even if it's critical of Chinese govt?|5]]",
     "rsnl": [
@@ -2571,6 +2644,7 @@
   {
     "id": "GlobalSecurity.org",
     "name": "GlobalSecurity.org",
+    "shortcut": "WP:GLOBALSECURITY",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2606,6 +2680,7 @@
     "id": "GoFundMe",
     "name_qualifier": "(YouCaring)",
     "name": "GoFundMe",
+    "shortcut": "WP:GOFUNDME",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2623,6 +2698,7 @@
   {
     "id": "Goodreads",
     "name": "Goodreads",
+    "shortcut": "WP:GOODREADS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 204#Goodreads|1]] [[WP:Reliable sources/Noticeboard/Archive 249#goodreads.com|2]]",
     "rsp_last": "2018",
@@ -2633,6 +2709,7 @@
     "id": "Google Maps",
     "name_qualifier": "(Google Street View)",
     "name": "Google Maps",
+    "shortcut": "WP:GOOGLEMAPS",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 30#Google Maps for calculating distances in an article|1]] [[WP:Reliable sources/Noticeboard/Archive 88#Using Google Maps to determine where a property line is|2]] [[WP:Reliable sources/Noticeboard/Archive 97#Google maps?|3]] [[WP:Reliable sources/Noticeboard/Archive 149#Google street view|4]] [[WP:Reliable sources/Noticeboard/Archive 221#Is Google Maps a reliable source for boundaries of a neighborhood?|5]] [[WP:Reliable sources/Noticeboard/Archive 318#Google Maps|6]] [[WP:Reliable sources/Noticeboard/Archive 388#Google Maps|7]]",
     "rsp_last": "2022",
@@ -2643,6 +2720,7 @@
     "id": "GQ",
     "name_qualifier": "(GQ Magazine)",
     "name": "GQ",
+    "shortcut": "WP:RSPGQ",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 218#GQ Magazine|1]] [[WP:Reliable sources/Noticeboard/Archive 271#GQ|2]]",
     "rsp_last": "2019",
@@ -2652,6 +2730,7 @@
   {
     "id": "The Grayzone",
     "name": "The Grayzone",
+    "shortcut": "WP:GRAYZONE",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 272#On the reliability of The Grayzone|1]]",
     "rsnl": [
@@ -2669,6 +2748,7 @@
   {
     "id": "Greco-Roman literary sources",
     "name": "Greco-Roman world",
+    "shortcut": "WP:GRECOROMAN",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 479#Classical sources (Herodotus, Plutarch etc)|1]]",
     "rsp_last": "2025",
@@ -2695,6 +2775,7 @@
     "id": "The Guardian",
     "name_qualifier": "(TheGuardian.com, The Manchester Guardian, The Observer)",
     "name": "The Guardian",
+    "shortcut": "WP:THEGUARDIAN",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2024",
@@ -2704,6 +2785,7 @@
   {
     "id": "The Guardian blogs",
     "name": "The Guardian",
+    "shortcut": "WP:GUARDIANBLOG",
     "status": "nc",
     "discussion": "",
     "rsp_last": "2020",
@@ -2723,6 +2805,7 @@
     "id": "Guinness World Records",
     "name_qualifier": "(The Guinness Book of Records, The Guinness Book of World Records)",
     "name": "Guinness World Records",
+    "shortcut": "WP:GWR",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 120#Reliability of Guinness World Records|1]] [[WP:Reliable sources/Noticeboard/Archive 129#Guinness Book of Records|2]] [[WP:Reliable sources/Noticeboard/Archive 171#Guinness World Records website a valid reference?|3]] [[WP:Reliable sources/Noticeboard/Archive 204#Is being awarded the Guinness World Record a significant award?|4]] [[WP:Reliable sources/Noticeboard/Archive 305#Guinness World Records|5]]",
     "rsp_last": "2020",
@@ -2733,6 +2816,7 @@
     "id": "Haaretz",
     "name_qualifier": "(Ḥadashot Ha'aretz)",
     "name": "Haaretz",
+    "shortcut": "WP:HAARETZ",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2021",
@@ -2743,6 +2827,7 @@
     "id": "Hansard",
     "name_qualifier": "(UK Parliament transcripts, House of Commons, House of Lords)",
     "name": "Hansard",
+    "shortcut": "WP:HANSARD",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 63#Hansard: a reliable source? A primary source?|1]] [[WP:Reliable sources/Noticeboard/Archive 70#Use of Hansard|2]] [[WP:Reliable sources/Noticeboard/Archive 135#Is Hansard the UK parliaments minutes a reliable source?|3]] [[WP:Reliable sources/Noticeboard/Archive 265#House of Lords member statement about MEK targets (People's Mujahedin of Iran)|4]]",
     "rsp_last": "2019",
@@ -2761,6 +2846,7 @@
   {
     "id": "Healthline",
     "name": "Healthline",
+    "shortcut": "WP:HEALTHLINE",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 366#Nutritional information (Healthline/USDA)|1]] [[WP:Reliable sources/Noticeboard/Archive 407#Healthline|2]]",
     "rsnl": [
@@ -2787,6 +2873,7 @@
   {
     "id": "Heavy.com",
     "name": "Heavy.com",
+    "shortcut": "WP:HEAVY.COM",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 226#Murder of Seth Rich article and source Heavy.com|1]] [[WP:Reliable sources/Noticeboard/Archive 263#Heavy.com used as source for birthdate at Katie Bouman|2]] [[WP:Reliable sources/Noticeboard/Archive 364#Heavy.com quoting IMDB|3]]",
     "rsp_last": "2022",
@@ -2797,6 +2884,7 @@
     "id": "The Heritage Foundation",
     "name_qualifier": "(The Daily Signal)",
     "name": "The Heritage Foundation",
+    "shortcut": "WP:HERITAGEFOUNDATION",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 209#Use of US conservative The Daily Signal on Russia-related articles.|1]] [[WP:Reliable sources/Noticeboard/Archive 334#Is the Daily Signal + congressional record RS for a congressional statement?|2]] [[WP:Reliable sources/Noticeboard/Archive 421#The Daily Signal|3]] [[WP:Reliable sources/Noticeboard/Archive 463#Heritage Foundation planning to dox Wikipedia editors|4]]",
     "rsp_last": "2025",
@@ -2806,6 +2894,7 @@
   {
     "id": "The Hill",
     "name": "The Hill (newspaper)",
+    "shortcut": "WP:THEHILL",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2019",
@@ -2815,6 +2904,7 @@
   {
     "id": "The Hindu",
     "name": "The Hindu",
+    "shortcut": "WP:THEHINDU",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 67#The Hindu|1]] [[WP:Reliable sources/Noticeboard/Archive 284#The Hindu mirroring misinformation from WP|2]] [[WP:Reliable sources/Noticeboard/Archive 305#The Hindu|3]] [[WP:Reliable sources/Noticeboard/Archive 389#The Hindu|4]]",
     "rsp_last": "2022",
@@ -2824,6 +2914,7 @@
   {
     "id": "HispanTV",
     "name": "HispanTV",
+    "shortcut": "WP:HISPANTV",
     "status": "d",
     "discussion": "",
     "rsnl": [
@@ -2842,6 +2933,7 @@
     "id": "History",
     "name_qualifier": "(The History Channel, History.com)",
     "name": "History Channel",
+    "shortcut": "WP:RSPHISTORY",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 26#Is a Discovery or History Channel documentary considered a reliable source?|1]] [[WP:Reliable sources/Noticeboard/Archive 294#Is History.com (formerly History Channel) generally reliable?|2]] [[WP:Reliable sources/Noticeboard/Archive 330#Reliability of History (channel) pre-2010|3]]",
     "rsp_last": "2021",
@@ -2852,6 +2944,7 @@
     "id": "The Hollywood Reporter",
     "name_qualifier": "(THR)",
     "name": "The Hollywood Reporter",
+    "shortcut": "WP:THR",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 20#Are Variety and The Hollywood Reporter reliable sources for film reviews?|1]] [[WP:Reliable sources/Noticeboard/Archive 135#Hollywood Reporter|2]] [[WP:Reliable sources/Noticeboard/Archive 148#Box Office Mojo and Boxoffice.com|3]] [[WP:Reliable sources/Noticeboard/Archive 182#Hollywood Reporter & Pumped Up Kicks|4]] [[WP:Reliable sources/Noticeboard/Archive 250#The Biggest Loser (U.S. TV series)|5]]",
     "rsp_last": "2018",
@@ -2881,6 +2974,7 @@
     "name_qualifier": "(The Huffington Post)",
     "name": "HuffPost",
     "content_qualifier": "(excluding politics)",
+    "shortcut": "WP:HUFFPOST",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -2900,6 +2994,7 @@
     "name_qualifier": "(The Huffington Post)",
     "name": "HuffPost",
     "content_qualifier": "(politics)",
+    "shortcut": "WP:HUFFPOLITICS",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -2918,6 +3013,7 @@
     "id": "HuffPost contributors",
     "name_qualifier": "(The Huffington Post)",
     "name": "HuffPost",
+    "shortcut": "WP:HUFFPOCON",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2954,6 +3050,7 @@
     "id": "IGN",
     "name_qualifier": "(Imagine Games Network)",
     "name": "IGN",
+    "shortcut": "WP:IGN",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2017",
@@ -2964,6 +3061,7 @@
     "id": "IMDb",
     "name_qualifier": "(Internet Movie Database)",
     "name": "IMDb",
+    "shortcut": "WP:IMDB",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -2981,6 +3079,7 @@
   {
     "id": "iNaturalist",
     "name": "iNaturalist",
+    "shortcut": "WP:INATURALIST",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 364#is iNaturalist a reliable source?|1]] [[WP:Reliable sources/Noticeboard/Archive 387#INaturalist photos|2]] [[WP:Reliable sources/Noticeboard/Archive_430#Inaturalist.org|3]]",
     "rsnl": [
@@ -2998,6 +3097,7 @@
   {
     "id": "The Independent",
     "name": "The Independent",
+    "shortcut": "WP:INDYUK",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 435#Is this comment in the independent considered reliable for the biography of a non-living person?|9]]",
     "rsnl": [
@@ -3016,6 +3116,7 @@
     "id": "Independent Journal Review",
     "name_qualifier": "(IJR)",
     "name": "Independent Journal Review",
+    "shortcut": "WP:IJR",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 221#IJR.com / \"Independent Journal Review\"|1]] [[WP:Reliable sources/Noticeboard/Archive 242#Independent Journal Review|2]] [[WP:Reliable sources/Noticeboard/Archive 253#Independent Journal Review|3]]",
     "rsp_last": "2018",
@@ -3026,6 +3127,7 @@
     "id": "Independent Media Center",
     "name_qualifier": "(Indymedia, IMC)",
     "name": "Independent Media Center",
+    "shortcut": "WP:INDYMEDIA",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 275#Indymedia|1]] [[WP:Reliable sources/Noticeboard/Archive 316#Indymedia|2]]",
     "rsp_last": "2020",
@@ -3035,6 +3137,7 @@
   {
     "id": "The Indian Express",
     "name": "The Indian Express",
+    "shortcut": "WP:INDIANEXP",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -3070,6 +3173,7 @@
     "id": "Infowars",
     "name_qualifier": "(NewsWars, Banned.video, National File)",
     "name": "Infowars",
+    "shortcut": "WP:INFOWARS",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 106#Alex Jones' Infowars.com|1]] [[WP:Reliable sources/Noticeboard/Archive 458#Infowars|2]]",
     "rsnl": [
@@ -3098,6 +3202,7 @@
     "name_qualifier": "(Insider, Markets Insider, Tech Insider)",
     "name": "Business Insider",
     "content_qualifier": "(excluding culture)",
+    "shortcut": "WP:BUSINESSINSIDER",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -3122,6 +3227,7 @@
     "id": "Insider (culture)",
     "name": "Insider (news website)",
     "content_qualifier": "(culture)",
+    "shortcut": "WP:BICULTURE",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -3146,6 +3252,7 @@
     "id": "Instagram",
     "name_qualifier": "(IG, Insta, The Gram)",
     "name": "Instagram",
+    "shortcut": "WP:RSPINSTAGRAM",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 167#Instagram or Facebook for date of birth|1]] [[WP:Reliable sources/Noticeboard/Archive 210#Can the artist's Instagram be used as a source?|2]] [[WP:Reliable sources/Noticeboard/Archive 223#Is a BLP's own Instagram a RS??|3]] [[WP:Reliable sources/Noticeboard/Archive 256#Facebook, Twitter, Instagram, Blogger and Tumblr, etc.|4]] [[WP:Reliable sources/Noticeboard/Archive 337#MySpace, Instagram, etc.|5]] [[WP:Reliable sources/Noticeboard/Archive 382#Specific case of using Instagram, with limited reason to suspect falsified information|6]] [[WP:Reliable sources/Noticeboard/Archive 407#RfC: Instagram|7]] [[WP:Reliable sources/Noticeboard/Archive 417#Can Instagram be used as a WP:ABOUTSELF if it is the person’s Instagram account?|8]]",
     "rsnl": [
@@ -3183,6 +3290,7 @@
     "id": "International Business Times",
     "name_qualifier": "(IBT, IBTimes)",
     "name": "International Business Times",
+    "shortcut": "WP:IBTIMES",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 83#Times and IBTimes RS?|1]] [[WP:Reliable sources/Noticeboard/Archive 104#International Business Times|2]] [[WP:Reliable sources/Noticeboard/Archive 195#Slate, WGN, International Business Times|3]] [[WP:Reliable sources/Noticeboard/Archive 218#International Business Times as a reliable source?|4]] [[WP:Reliable sources/Noticeboard/Archive 222#International Business Times|5]] [[WP:Reliable sources/Noticeboard/Archive 262#International Business Times|6]] [[WP:Reliable sources/Noticeboard/Archive 262#Use of blogs for sourcing height in BLPs|7]]",
     "rsp_last": "2019",
@@ -3193,6 +3301,7 @@
     "id": "International Fact-Checking Network",
     "name_qualifier": "(IFCN)",
     "name": "International Fact-Checking Network",
+    "shortcut": "WP:IFCN",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -3210,6 +3319,7 @@
   {
     "id": "Investopedia",
     "name": "Investopedia",
+    "shortcut": "WP:INVESTOPEDIA",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 100#Investopedia|1]] [[WP:Reliable sources/Noticeboard/Archive 205#Investopedia|2]] [[WP:Reliable sources/Noticeboard/Archive 238#Investopedia?|3]] [[WP:Reliable sources/Noticeboard/Archive 330#Investopedia|4]] [[WP:Reliable sources/Noticeboard/Archive 399#Investopedia, 5|5]]",
     "rsp_last": "2023",
@@ -3228,6 +3338,7 @@
   {
     "id": "Jacobin",
     "name": "Jacobin (magazine)",
+    "shortcut": "WP:JACOBIN",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 297#Questions about the addition of the Praise & Criticism section to Jacobin (magazine)|1]] [[WP:Reliable sources/Noticeboard/Archive 302#Jacobin|2]] [[WP:Reliable sources/Noticeboard/Archive 324#Jacobin|3]] [[WP:Reliable sources/Noticeboard/Archive 384#Jacobin, RfC closing review|4]] [[WP:Reliable sources/Noticeboard/Archive 465#Jacobin|5]]",
     "rsnl": [
@@ -3252,6 +3363,7 @@
     "id": "JAMA",
     "name_qualifier": "(The Journal of the American Medical Association)",
     "name": "JAMA",
+    "shortcut": "WP:JAMA",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 13#Is the American Medical Association a reliable source?|1]] [[WP:Reliable sources/Noticeboard/Archive 244#RfC: JAMA opinion piece at Trump-related article|2]]",
     "rsp_last": "2018",
@@ -3262,6 +3374,7 @@
     "id": "Jeff Sneider",
     "name_qualifier": "(The InSneider)",
     "name": "Jeff Sneider",
+    "shortcut": "WP:THEINSNEIDER",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 463#Jeff Sneider / The_InSneider|1]] [[Talk:Marvel Cinematic Universe: Phase Five/Archive 1#Harrison Ford as Thunderbolt Ross|A]] [[Talk:Marvel Cinematic Universe: Phase Six/Archive 1#TheInSneider|B]] [[Talk:Star Wars: The Acolyte#About InSneider viability as EXPERTSPS|C]] [[Talk:Spider-Man: Brand New Day#Discussion regarding usage of Jeff Sneider's reporting|D]]",
     "rsp_last": "2025",
@@ -3271,6 +3384,7 @@
   {
     "id": "The Jerusalem Post",
     "name": "The Jerusalem Post",
+    "shortcut": "WP:JERUSALEMPOST",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive_389#Jerusalem_Post_unreliable_for_archaeology?|3]]",
     "rsnl": [
@@ -3289,6 +3403,7 @@
     "id": "The Jewish Chronicle",
     "name_qualifier": "(The JC)",
     "name": "The Jewish Chronicle",
+    "shortcut": "WP:RSPJC",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 60#The Jewish Chronicle|1]] [[WP:Reliable sources/Noticeboard/Archive 98#The Jewish Chronicle -- not reliable for Jewish topics?|2]] [[WP:Reliable sources/Noticeboard/Archive 361#Jewish Chronicle|3]] [[WP:Reliable sources/Noticeboard/Archive 438#Jewish Chronicle|4]] [[WP:Reliable sources/Noticeboard/Archive 452#The Jewish Chronicle|5]] [[WP:Reliable sources/Noticeboard/Archive 456#Overall rating (legend/option) for Jewish Chronicle|6]]",
     "rsnl": [
@@ -3313,6 +3428,7 @@
     "id": "Jewish Virtual Library",
     "name_qualifier": "(JVL)",
     "name": "Jewish Virtual Library",
+    "shortcut": "WP:RSPJVL",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 24#Jewish Virtual Library|1]] [[WP:Reliable sources/Noticeboard/Archive 59#http://www.jewishvirtuallibrary.org/|2]] [[WP:Reliable sources/Noticeboard/Archive 73#Jewish Virtual Library|3]] [[WP:Reliable sources/Noticeboard/Archive 82#Jewish Virtual Library|4]] [[WP:Reliable sources/Noticeboard/Archive 182#Jewish Virtual Library|5]] [[WP:Reliable sources/Noticeboard/Archive 348#Jewish Virtual Library|6]] [[Talk:Jewish Virtual Library#Reliable source?|A]]",
     "rsnl": [
@@ -3330,6 +3446,7 @@
   {
     "id": "Jezebel",
     "name": "Jezebel (website)",
+    "shortcut": "WP:JEZEBEL",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 149#FetLife|1]] [[WP:Reliable sources/Noticeboard/Archive 209#Is Jezebel.com (online news magazine) an RS?|2]] [[WP:Reliable sources/Noticeboard/Archive 401#Do the actions of a Jezebel writer reflect on the source?|3]] [[WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI|4]]",
     "rsp_last": "2023",
@@ -3339,6 +3456,7 @@
   {
     "id": "Jihad Watch",
     "name": "Jihad Watch",
+    "shortcut": "WP:JIHADWATCH",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 228#Jihad Watch|1]] [[WP:Reliable sources/Noticeboard/Archive 277#Jihad Watch, the Middle East Forum and \"Global muslim brotherhood daily watch\" in articles about Islam|2]] [[WP:Reliable sources/Noticeboard/Archive 293#Jihad Watch|3]]",
     "rsnl": [
@@ -3357,6 +3475,7 @@
     "id": "Joshua Project",
     "name_qualifier": "Believers in Christ from a Muslim Background: A Global Census, WEC International",
     "name": "Joshua Project",
+    "shortcut": "WP:JOSHUAPROJECT",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -3400,6 +3519,7 @@
   {
     "id": "Kickstarter",
     "name": "Kickstarter",
+    "shortcut": "WP:KICKSTARTER",
     "status": "gu",
     "discussion": "[[Talk:Kickstarter/Archive 1#Kickstarter as the primary source in this article|A]]",
     "rsnl": [
@@ -3417,6 +3537,7 @@
   {
     "id": "Kirkus Reviews",
     "name": "Kirkus Reviews",
+    "shortcut": "WP:KIRKUS",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 180#Kirkus Reviews|1]] [[WP:Reliable sources/Noticeboard/Archive 190#Kirkus Reviews|2]] [[WP:Reliable sources/Noticeboard/Archive 330#Kirkus Indie|3]] [[WP:Reliable sources/Noticeboard/Archive 356#Kirkus Reviews, again|4]] [[WP:Reliable sources/Noticeboard/Archive 402#Kirkus reviews|5]] [[Wikipedia:Reliable sources/Noticeboard/Archive 425#Kirkus and Publisher's Weekly|6]]",
     "rsp_last": "2025",
@@ -3427,6 +3548,7 @@
     "id": "Know Your Meme",
     "name_qualifier": "(KYM)",
     "name": "Know Your Meme",
+    "shortcut": "WP:KYM",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 61#Is Know Your Meme a reliable source on viral videos?|1]] [[WP:Reliable sources/Noticeboard/Archive 97#Know your Meme|2]] [[WP:Reliable sources/Noticeboard/Archive 158#Know your Meme|3]] [[WP:Reliable sources/Noticeboard/Archive 293#Citing individual Youtube reviews and Know Your Meme|4]] [[WP:Reliable sources/Noticeboard/Archive 388#Know Your Meme interviews|5]] [[WP:Reliable sources/Noticeboard/Archive 390#Know Your Meme|6]]",
     "rsp_last": "2022",
@@ -3464,6 +3586,7 @@
     "id": "Kotaku (2023–present)",
     "name": "Kotaku",
     "content_qualifier": "(2023–present)",
+    "shortcut": "WP:KOTAKU",
     "status": "gu",
     "discussion": "[[WT:WikiProject Video games/Sources/Archive 30#AI writing - Kotaku and others|A]] [[WT:WikiProject Video games/Sources/Archive 30#AI articles allegedly on Kotaku|B]]",
     "rsp_last": "2023",
@@ -3473,6 +3596,7 @@
   {
     "id": "LADbible",
     "name": "LADbible",
+    "shortcut": "WP:LADBIBLE",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 297#LADbible and Joe.ie|1]] [[WP:Reliable sources/Noticeboard/Archive 474#LADbible|2]]",
     "rsp_last": "2025",
@@ -3491,6 +3615,7 @@
   {
     "id": "Last.fm",
     "name": "Last.fm",
+    "shortcut": "WP:LASTFM",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 57#Last.fm|1]]",
     "rsnl": [
@@ -3509,6 +3634,7 @@
     "id": "Lenta.ru",
     "name": "Lenta.ru",
     "content_qualifier": "(March 2014–present)",
+    "shortcut": "WP:LENTA.RU",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 281#news-front.info|1]] [[WP:Reliable sources/Noticeboard/Archive 286#lenta.ru|2]]",
     "rsnl": [
@@ -3527,6 +3653,7 @@
     "id": "LifeSiteNews",
     "name_qualifier": "(Campaign Life Coalition)",
     "name": "LifeSiteNews",
+    "shortcut": "WP:LIFESITENEWS",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 64#lifesitenews.com|1]] [[WP:Reliable sources/Noticeboard/Archive 210#Lifesitenews|2]] [[WP:Reliable sources/Noticeboard/Archive 248#Carlo Maria Viganò|3]] [[WP:Reliable sources/Noticeboard/Archive 277#Life Site News (again)- or rather Crux News|4]] [[WP:Reliable sources/Noticeboard/Archive 277#LifeSiteNews|5]] [[WP:Reliable sources/Noticeboard/Archive 316#Rebel News|6]]",
     "rsnl": [
@@ -3545,6 +3672,7 @@
     "id": "LinkedIn",
     "name_qualifier": "(LinkedIn Pulse)",
     "name": "LinkedIn",
+    "shortcut": "WP:RSPLINKEDIN",
     "status": "gu",
     "discussion": "",
     "rsp_last": "2023",
@@ -3554,6 +3682,7 @@
   {
     "id": "LionhearTV",
     "name": "LionhearTV ",
+    "shortcut": "WP:LIONHEARTV",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 452#LionhearTV|1]]",
     "rsnl": [
@@ -3590,6 +3719,7 @@
     "id": "Los Angeles Times",
     "name_qualifier": "(L.A. Times)",
     "name": "Los Angeles Times",
+    "shortcut": "WP:LATIMES",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 399#LA Times in Chloe Cole article in regards to the Kaiser lawsuit|9]]",
     "rsp_last": "2023",
@@ -3600,6 +3730,7 @@
     "id": "Lulu.com",
     "name_qualifier": "(Lulu Press)",
     "name": "Lulu.com",
+    "shortcut": "WP:LULU",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 24#Lulu.com published books|1]] [[WP:Reliable sources/Noticeboard/Archive 51#Book published by Lulu.com|2]] [[WP:Reliable sources/Noticeboard/Archive 80#Lulu.com and Academic Associations|3]] [[WP:Reliable sources/Noticeboard/Archive 117#LuLu journals|4]] [[WP:Reliable sources/Noticeboard/Archive 138#Lulu-published sources|5]] [[WP:Reliable sources/Noticeboard/Archive 152#Books published through Lulu not being used as \"sources\" per se...|6]] [[WP:Reliable sources/Noticeboard/Archive 214#Blanket ban on all lulu.com sources?|7]] [[WP:Reliable sources/Noticeboard/Archive 250#Subgenres of the Beast|8]] [[WP:Reliable sources/Noticeboard/Archive 270#P. D. Stemp|9]]",
     "rsp_last": "2019",
@@ -3636,6 +3767,7 @@
   {
     "id": "The Mail on Sunday",
     "name": "The Mail on Sunday",
+    "shortcut": "WP:MAILONSUNDAY",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 278#Does WP:Dailymail apply to the Mail on Sunday|1]] [[WP:Reliable sources/Noticeboard/Archive 311#Clarification: Does Daily Mail RfC apply to the Mail on Sunday?|2]]",
     "rsnl": [
@@ -3664,6 +3796,7 @@
     "id": "Mashable",
     "name": "Mashable",
     "content_qualifier": "(non-sponsored content)",
+    "shortcut": "WP:MASHABLE",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 4#Techblogs|1]] [[WP:Reliable sources/Noticeboard/Archive 16#Blogs?|2]] [[WP:Reliable sources/Noticeboard/Archive 41#Mashable.com as a reference for Facebook|3]] [[WP:Reliable sources/Noticeboard/Archive 88#Blogs as sources|4]] [[WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP|5]] [[WP:Reliable sources/Noticeboard/Archive 264#Reliability of sources that put affiliate links in their reviews|6]]",
     "rsnl": [
@@ -3699,6 +3832,7 @@
   {
     "id": "The Mary Sue",
     "name": "The Mary Sue",
+    "shortcut": "WP:THEMARYSUE",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 189#The Mary Sue Disclaims Itself as an Unreliable Source|1]] [[WP:Reliable sources/Noticeboard/Archive 213#Crash Override Network|2]] [[WP:Reliable sources/Noticeboard/Archive 383#Mary Sue|3]] [[Wikipedia talk:WikiProject Video games/Sources/Archive 9#The Mary Sue|A]] [[Wikipedia talk:WikiProject Video games/Sources/Archive 11#The Mary Sue revisited|B]]",
     "rsp_last": "2022",
@@ -3709,6 +3843,7 @@
     "id": "MDPI",
     "name_qualifier": "(Multidisciplinary Digital Publishing Institute)",
     "name": "MDPI",
+    "shortcut": "WP:MDPI",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 196#MDPI journals|1]] [[WP:Reliable sources/Noticeboard/Archive 197#Vanity press or MEDRS-compliant source?|2]] [[WP:Reliable sources/Noticeboard/Archive 205#Other predatory journals|3]] [[WP:Reliable sources/Noticeboard/Archive 265#Reliability of a MDPI article|4]] [[WP:Reliable sources/Noticeboard/Archive 306#Is Religions a reliable source?|5]] [[WP:Reliable sources/Noticeboard/Archive 329#MDPI journals|6]] [[WP:Reliable sources/Noticeboard/Archive 351#MDPI/Entropy Journal?|7]]",
     "rsp_last": "2021",
@@ -3729,6 +3864,7 @@
     "id": "Media Bias/Fact Check",
     "name_qualifier": "(MBFC)",
     "name": "Media Bias/Fact Check",
+    "shortcut": "WP:MB/FC",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 248#Should we use mediabiasfactcheck.com to determine what sources are reliable?|1]] [[WP:Reliable sources/Noticeboard/Archive 253#Media Bias Fact Check|2]] [[WP:Reliable sources/Noticeboard/Archive 271#Media Bias/Fact Check at Toronto Sun|3]] [[WP:Reliable sources/Noticeboard/Archive 346#News Guard + Media Bias Fact Check Redux|4]] [[WP:Reliable sources/Noticeboard#Media Bias/Fact Check|5]]",
     "rsp_last": "2025",
@@ -3739,6 +3875,7 @@
     "id": "Media Matters for America",
     "name_qualifier": "(MMfA)",
     "name": "Media Matters for America",
+    "shortcut": "WP:MEDIAMATTERS",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -3763,6 +3900,7 @@
     "id": "Media Research Center",
     "name_qualifier": "(MRC, CNSNews.com, Cybercast News Service, MRCTV, NewsBusters)",
     "name": "Media Research Center",
+    "shortcut": "WP:MRC",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 3#What about \"Cybercast News Service\" (CNSnews)?|1]] [[WP:Reliable sources/Noticeboard/Archive 18#CNSnews.com aka cybercast|2]] [[WP:Reliable sources/Noticeboard/Archive 65#Media Research Center / Newsbusters|3]] [[WP:Reliable sources/Noticeboard/Archive 109#Can a blog on newsbusters.org be a reliable source?|4]] [[WP:Reliable sources/Noticeboard/Archive 227#Newsbusters and The Blaze at WP:BLP page Malcolm Nance ?|5]] [[WP:Reliable sources/Noticeboard/Archive 283#Newsbusters and The Washington Examiner as sources for facts in the lead of CNN|6]]",
     "rsnl": [
@@ -3792,6 +3930,7 @@
   {
     "id": "Mediaite",
     "name": "Mediaite",
+    "shortcut": "WP:MEDIAITE",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 225#Mediaite|1]] [[WP:Reliable sources/Noticeboard/Archive 239#TheBlaze show Dana etc. w rgd Dana Loesch|2]] [[WP:Reliable sources/Noticeboard/Archive 260#Consensus on Mediaite as reliable source?|3]] [[WP:Reliable sources/Noticeboard/Archive 397#The Daily Beast and Mediaite for extraordinary claim in a BLP|4]]",
     "rsp_last": "2023",
@@ -3801,6 +3940,7 @@
   {
     "id": "Medium",
     "name": "Medium (website)",
+    "shortcut": "WP:MEDIUM",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 192#Article by established journalist in Medium publication with editorial staff|1]] [[WP:Reliable sources/Noticeboard/Archive 232#Medium as a reference|2]] [[WP:Reliable sources/Noticeboard/Archive 260#Bob Pitt at Medium sourced for Jeremy Corbyn|3]] [[WP:Reliable sources/Noticeboard/Archive 336#Pauline Montagna|4]]",
     "rsnl": [
@@ -3836,6 +3976,7 @@
     "id": "Metacritic",
     "name_qualifier": "(GameRankings)",
     "name": "Metacritic",
+    "shortcut": "WP:METACRITIC",
     "status": "gr",
     "discussion": "",
     "rsp_last": "2017",
@@ -3845,6 +3986,7 @@
   {
     "id": "metal-experience",
     "name": "Metal-experience.com ",
+    "shortcut": "WP:METALEXPERIENCE",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -3872,6 +4014,7 @@
     "id": "Metro",
     "name": "Metro (British newspaper)",
     "content_qualifier": "(UK)",
+    "shortcut": "WP:METRO",
     "status": "gu",
     "discussion": "",
     "rsp_last": "2025",
@@ -3882,6 +4025,7 @@
     "id": "Metro (soap operas)",
     "name": "Metro (British newspaper)",
     "content_qualifier": "(UK) (soap operas)",
+    "shortcut": "WP:METROSOAPS",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 351#Metro soaps carve out|1]] [[WP:Reliable sources/Noticeboard/Archive 378#Metro for coverage of soap operas|2]] [[WP:Reliable sources/Noticeboard#Using the Metro as a source on soap opera articles|3]] [[WT:WikiProject Soap Operas#The use of Metro as source in articles related to soap operas|A]]",
     "rsp_last": "2025",
@@ -3892,6 +4036,7 @@
     "id": "Middle East Media Research Institute",
     "name_qualifier": "(MEMRI)",
     "name": "Middle East Media Research Institute",
+    "shortcut": "WP:MEMRI",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 8#MEMRI|1]] [[WP:Reliable sources/Noticeboard/Archive 16#MEMRI, again|2]] [[WP:Reliable sources/Noticeboard/Archive 32#Memri|3]] [[WP:Reliable sources/Noticeboard/Archive 422#Is Kyiv Post or MEMRI right?|4]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 9#MEMRI|A]]",
     "rsnl": [
@@ -3910,6 +4055,7 @@
     "id": "Middle East Monitor",
     "name_qualifier": "(MEMO)",
     "name": "Middle East Monitor",
+    "shortcut": "WP:MEMO",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 126#Middle East Monitor|1]] [[WP:Reliable sources/Noticeboard/Archive 265#Middle East Monitor|2]] [[WP:Reliable sources/Noticeboard/Archive 258#Middle East Monitor|3]] [[WP:Reliable sources/Noticeboard/Archive 343#Middle East Monitor|4]] [[WP:Reliable sources/Noticeboard/Archive 360#Middle East Monitor, Electronic Intifada, Palestine Chronicle and Twitter as sources in a BLP|5]] [[WP:Reliable sources/Noticeboard/Archive 436#Middle East Monitor|6]] [[WP:Reliable sources/Noticeboard/Archive 436#Assessment of use by others|7]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 9#Middle East Monitor|A]]",
     "rsp_last": "2024",
@@ -3919,6 +4065,7 @@
   {
     "id": "MintPress News",
     "name": "MintPress News",
+    "shortcut": "WP:MINTPRESS",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 464#MintPress News|1]]",
     "rsnl": [
@@ -3936,6 +4083,7 @@
   {
     "id": "Le Monde diplomatique",
     "name": "Le Monde diplomatique",
+    "shortcut": "WP:LEMONDEDIPLOMATIQUE",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 76#Le Monde Diplomatique|1]] [[WP:Reliable sources/Noticeboard/Archive 83#Le Monde diplomatique and \"mondediplo.com\"|2]] [[WP:Reliable sources/Noticeboard/Archive 235#Fringe newspaper's map sourced only to a literary critic used for wiki ethnographic map|3]] [[WP:Reliable sources/Noticeboard/Archive 250#Le Monde Diplomatique|4]]",
     "rsp_last": "2018",
@@ -3945,6 +4093,7 @@
   {
     "id": "Mondoweiss",
     "name": "Mondoweiss",
+    "shortcut": "WP:MONDOWEISS",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 130#Mondoweiss+Jessie Benjamin|1]] [[WP:Reliable sources/Noticeboard/Archive 192#Mondoweiss|2]] [[WP:Reliable sources/Noticeboard/Archive 204#Mondoweiss article on Noam Chomsky and criticism thereof?|3]] [[WP:Reliable sources/Noticeboard/Archive 214#Is this article acceptable for a report on an obscure Israeli village?|4]] [[WP:Reliable sources/Noticeboard/Archive 221#Mondoweiss|5]] [[WP:Reliable sources/Noticeboard/Archive 222#Jonathan Ofir as translator|6]] [[WP:Reliable sources/Noticeboard/Archive 223#Mondoweiss again|7]] [[WP:Reliable sources/Noticeboard/Archive 265#Mondoweiss again|8]]",
     "rsnl": [
@@ -3973,6 +4122,7 @@
     "id": "Mother Jones",
     "name_qualifier": "(MoJo)",
     "name": "Mother Jones (magazine)",
+    "shortcut": "WP:MOTHERJONES",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 132#%5BMother Jones and Rolling Stone articles as RS sources in a BLP for a contentious claim|1]] [[WP:Reliable sources/Noticeboard/Archive 149#Opinion column by Stephanie Mencimer in Mother Jones|2]] [[WP:Reliable sources/Noticeboard/Archive 188#Buzzfeed, Mother Jones for BLP's.|3]] [[WP:Reliable sources/Noticeboard/Archive 229#Is Mother Jones magazine a reliable source for investigative reporting?|4]] [[WP:Reliable sources/Noticeboard/Archive 274#Does this Mother Jones article accurately summarize the arguments made by the PragerU videos it cites?|5]]",
     "rsp_last": "2019",
@@ -3982,6 +4132,7 @@
   {
     "id": "MSNBC",
     "name": "MSNBC",
+    "shortcut": "WP:MSNBC",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 303#Also CNN & MSNBC|1]] [[WP:Reliable sources/Noticeboard/Archive 307#Preliminary discussions for a potential RFC on CNN and MSNBC|2]] [[WP:Reliable sources/Noticeboard/Archive 314#NBC News- 'Undecided voters' at NBC's Biden town hall were featured on MSNBC as Biden voters|3]] [[WP:Reliable sources/Noticeboard/Archive 372#MSNBC|4]]",
     "rsnl": [
@@ -4009,6 +4160,7 @@
   {
     "id": "The Nation",
     "name": "The Nation",
+    "shortcut": "WP:THENATION",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 5#The Nation|1]] [[WP:Reliable sources/Noticeboard/Archive 9#The Nation article re: Daniel Pipes|2]] [[WP:Reliable sources/Noticeboard/Archive 11#Further Discussion of the Nation|3]] [[WP:Reliable sources/Noticeboard/Archive 30#Article about William Timmons in The Nation|4]] [[WP:Reliable sources/Noticeboard/Archive 39#Is The Nation a reliable source?|5]] [[WP:Reliable sources/Noticeboard/Archive 40#The Nation|6]] [[WP:Reliable sources/Noticeboard/Archive 283#The Nation|7]] [[WP:Reliable sources/Noticeboard/Archive 305#Is The Nation reliable for claims about the Douma Chemical attack?|8]] [[WP:Reliable sources/Noticeboard/Archive 371#The nation|9]]",
     "rsp_last": "2022",
@@ -4036,6 +4188,7 @@
     "id": "National Geographic",
     "name_qualifier": "(Nat Geo)",
     "name": "National Geographic",
+    "shortcut": "WP:NATGEO",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 126#National Geographic|1]] [[WP:Reliable sources/Noticeboard/Archive 240#National Geographic website, Krampus, and Hel|2]] [[WP:Reliable sources/Noticeboard/Archive 313#National Geographic and Adam Weishaupt (the Illuminati guy)|3]] [[WP:Reliable sources/Noticeboard/Archive 408#National Geographic|4]]",
     "rsp_last": "2023",
@@ -4046,6 +4199,7 @@
     "id": "National Post",
     "name_qualifier": "(Postmedia Network)",
     "name": "National Post",
+    "shortcut": "WP:NATIONALPOST",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 16#National Post|1]] [[WP:Reliable sources/Noticeboard/Archive 23#National Post Rejected as Reliable Source|2]] [[WP:Reliable sources/Noticeboard/Archive 28#National Post blog|3]] [[WP:Reliable sources/Noticeboard/Archive 42#National Post Biography of Lawrence Solomon: SPS? or RS?|4]] [[WP:Reliable sources/Noticeboard/Archive 269#National Post: Accusations of Plagriarism made in an opinion column|5]] [[WP:Reliable sources/Noticeboard/Archive 420#National Post reprint of Foundation for Defense of Democracies paper|6]]",
     "rsnl": [
@@ -4064,6 +4218,7 @@
     "id": "National Review",
     "name_qualifier": "(NR)",
     "name": "National Review",
+    "shortcut": "WP:NATIONALREVIEW",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 60#National Review a reliable source on China? MA thesis cites primary sources--okay or not?|1]] [[WP:Reliable sources/Noticeboard/Archive 82#Ion Mihai Pacepa, National Review Online, Pave the Way Foundation|2]] [[WP:Reliable sources/Noticeboard/Archive 128#Stanley Kurtz National Review article about Obama and the New Party|3]] [[WP:Reliable sources/Noticeboard/Archive 153#National Review opinion rant|4]] [[WP:Reliable sources/Noticeboard/Archive 214#Can National Review be considered a RS in the following context re Hillary Clinton's cattle trading?|5]] [[WP:Reliable sources/Noticeboard/Archive 253#RFC: National Review|6]]",
     "rsp_last": "2018",
@@ -4074,6 +4229,7 @@
     "id": "Natural News",
     "name_qualifier": "(NewsTarget)",
     "name": "Natural News",
+    "shortcut": "WP:NATURALNEWS",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 273#Natural News|1]] [[WP:Fringe theories/Noticeboard/Archive 47#Incoming|A]] [[Talk:Natural News/Archive 1#Fake news|B]]",
     "rsp_last": "2019",
@@ -4083,6 +4239,7 @@
   {
     "id": "NBC News",
     "name": "NBC News",
+    "shortcut": "WP:NBC",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 186#Column on Donors Trust on (but not by) NBC|1]] [[WP:Reliable sources/Noticeboard/Archive 296#Is NBC a reliable sources for the Wikipedia The Epoch Times (ET) article?|2]] [[WP:Reliable sources/Noticeboard/Archive 314#NBC News- 'Undecided voters' at NBC's Biden town hall were featured on MSNBC as Biden voters|3]] [[WP:Reliable sources/Noticeboard/Archive 424#NBC News for Wąsosz pogrom|4]]",
     "rsp_last": "2024",
@@ -4092,6 +4249,7 @@
   {
     "id": "The Needle Drop",
     "name": "The Needle Drop",
+    "shortcut": "WP:FANTANO",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 228#The Needle Drop|1]] [[Wikipedia talk:WikiProject Albums/Archive 50#The Needle Drop|A]] [[Wikipedia talk:WikiProject Albums/Archive 54#Anthony Fantano responded with his take on the debate if his reviews on The Needle Drop are \"professional\" or not|B]] [[Special:PermanentLink/1250481692#The Needle Drop: news section|C]]",
     "rsnl": [
@@ -4109,6 +4267,7 @@
   {
     "id": "The New American",
     "name": "The New American",
+    "shortcut": "WP:NEWAMERICAN",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 39#The New American reliable source and is this appropriate for Immigration Equality (organization)|1]] [[WP:Reliable sources/Noticeboard/Archive 82#Use of thenewamerican.com|2]] [[WP:Reliable sources/Noticeboard/Archive 84#Disappearing page|3]] [[WP:Reliable sources/Noticeboard/Archive 134#The New American usable as a RS?|4]] [[WP:Reliable sources/Noticeboard/Archive 175#The New American (John Birch Society) as a source|5]] [[WP:Reliable sources/Noticeboard/Archive 201#Glenn Beck usable as a RS?|6]]",
     "rsp_last": "2016",
@@ -4135,6 +4294,7 @@
   {
     "id": "The New Republic",
     "name": "The New Republic",
+    "shortcut": "WP:NEWREPUBLIC",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 157#Types of abortion restrictions in the United States|1]] [[WP:Reliable sources/Noticeboard/Archive 277#The New Republic on Quillette|2]] [[WP:Reliable sources/Noticeboard/Archive 381#Is The New Republic's Soapbox section a reliable source?|3]] [[WP:Reliable sources/Noticeboard/Archive 433#A New Republic article|4]]",
     "rsnl": [
@@ -4153,6 +4313,7 @@
     "id": "New York",
     "name_qualifier": "(Vulture, The Cut, Grub Street, Daily Intelligencer)",
     "name": "New York (magazine)",
+    "shortcut": "WP:RSPVULTURE",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 63#David Lynch Foundation|1]] [[WP:Reliable sources/Noticeboard/Archive 159#Vulture.com|2]] [[WP:Reliable sources/Noticeboard/Archive 187#Unreliable Sources used in the GamerGate Article|3]] [[WP:Reliable sources/Noticeboard/Archive 216#New York Magazine/\"New Journalism\"|4]] [[WP:Reliable sources/Noticeboard/Archive 327#Are New York Magazine and Infection Control Today reliable sources for the idea that COVID-19 leaked from a Chinese lab?|5]]",
     "rsp_last": "2021",
@@ -4163,6 +4324,7 @@
     "id": "New York Daily News",
     "name_qualifier": "(Illustrated Daily News)",
     "name": "New York Daily News",
+    "shortcut": "WP:NYDN",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 127#New York Daily News – reliable source for attribution of \"Incidents of zombie-like behavior in 2012\"|1]] [[WP:Reliable sources/Noticeboard/Archive 218#New York Daily News unreliable?|2]] [[WP:Reliable sources/Noticeboard/Archive 289#NY Daily News on NYC coronavirus outbreak|3]]",
     "rsp_last": "2020",
@@ -4174,6 +4336,7 @@
     "name_qualifier": "(NY Post, New York Evening Post, Page Six)",
     "name": "New York Post",
     "content_qualifier": "(excluding entertainment)",
+    "shortcut": "WP:NYPOST",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -4193,6 +4356,7 @@
     "name_qualifier": "(NY Post, New York Evening Post, Page Six, Decider)",
     "name": "New York Post",
     "content_qualifier": "(entertainment)",
+    "shortcut": "WP:PAGESIX",
     "status": "nc",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 348#Using a Decider.com interview|1]] [[WP:Reliable sources/Noticeboard/Archive 371#Decider.com / Jimmy DiResta / Naomi Wu|2]] [[WP:Reliable sources/Noticeboard/Archive 431#Using Decider / Decider.com for interviews and reviews|3]]",
     "rsnl": [
@@ -4211,6 +4375,7 @@
     "id": "The New York Times",
     "name_qualifier": "(NYT)",
     "name": "The New York Times",
+    "shortcut": "WP:NYTIMES",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -4255,6 +4420,7 @@
   {
     "id": "News of the World",
     "name": "News of the World",
+    "shortcut": "WP:NEWSOFTHEWORLD",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 353#Removing News of the World as a deprecated source|1]]",
     "rsnl": [
@@ -4290,6 +4456,7 @@
     "id": "NewsBreak",
     "name_qualifier": "(News Break)",
     "name": "NewsBreak",
+    "shortcut": "WP:NEWSBREAK",
     "status": "d",
     "discussion": "",
     "rsnl": [
@@ -4307,6 +4474,7 @@
   {
     "id": "NewsFront",
     "name": "NewsFront (website)",
+    "shortcut": "WP:NEWSFRONT",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 281#news-front.info|1]]",
     "rsnl": [
@@ -4341,6 +4509,7 @@
   {
     "id": "Newsmax",
     "name": "Newsmax",
+    "shortcut": "WP:NEWSMAX",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 159#Newsmax|1]] [[WP:Reliable sources/Noticeboard/Archive 297#Is Newsmax reliable for the best Catholic Colleges?|2]] [[WP:Reliable sources/Noticeboard/Archive 390#Newsmax interviewee's opinions|3]]",
     "rsnl": [
@@ -4359,6 +4528,7 @@
     "id": "NewsNation",
     "name": "NewsNation",
     "content_qualifier": "(general topics)",
+    "shortcut": "WP:NEWSNATION",
     "status": "gr",
     "discussion": "",
     "rsnl": [
@@ -4377,6 +4547,7 @@
     "id": "NewsNation (UFOs, UAPs)",
     "name": "NewsNation",
     "content_qualifier": "(UFOs, UAPs)",
+    "shortcut": "WP:UFONATION",
     "status": "gu",
     "discussion": "",
     "rsnl": [
@@ -4413,6 +4584,7 @@
     "id": "Newsweek (2013–present)",
     "name": "Newsweek",
     "content_qualifier": "(2013–present)",
+    "shortcut": "WP:NEWSWEEK",
     "status": "nc",
     "discussion": "",
     "rsnl": [
@@ -4441,6 +4613,7 @@
     "id": "NGO Monitor",
     "name_qualifier": "(Non-governmental Organization Monitor)",
     "name": "NGO Monitor",
+    "shortcut": "WP:NGOMONITOR",
     "status": "gu",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 429#Is NGO Monitor a reliable (but obviously not unbiased) source regarding statements about NGOs and the BLP associated with them?|1]]",
     "rsnl": [
@@ -4459,6 +4632,7 @@
     "id": "NME",
     "name_qualifier": "(New Musical Express)",
     "name": "NME",
+    "shortcut": "WP:RSPNME",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 26#Rolling Stone, NME, Popmatters and Metal-Observer|1]] [[WP:Reliable sources/Noticeboard/Archive 318#New Musical Express / NME / www.nme.com|2]]",
     "rsp_last": "2020",
@@ -4469,6 +4643,7 @@
     "id": "NNDB",
     "name_qualifier": "(Notable Names Database)",
     "name": "NNDB",
+    "shortcut": "WP:NNDB",
     "status": "d",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 3#NNDB|1]] [[WP:Reliable sources/Noticeboard/Archive 26#NNDB|2]] [[WP:Reliable sources/Noticeboard/Archive 101#NNDB|3]] [[WP:Reliable sources/Noticeboard/Archive 155#http://www.nndb.com/|4]]",
     "rsnl": [
@@ -4487,6 +4662,7 @@
     "id": "NPR",
     "name_qualifier": "(National Public Radio)",
     "name": "NPR",
+    "shortcut": "WP:RSPNPR",
     "status": "gr",
     "discussion": "[[WP:Reliable sources/Noticeboard/Archive 139#NPR reference in War On Women|1]] [[WP:Reliable sources/Noticeboard/Archive 149#NPR religion program claim from Judy Valente about membership estimate from Christian Science church|2]] [[WP:Reliable sources/Noticeboard/Archive 292#NPR|3]] [[WP:Reliable sources/Noticeboard/Archive 322#Using an NPR report in the article Misinformation related to the COVID-19 pandemic|4]] [[WP:Reliable sources/Noticeboard/Archive 448#Is NPR a reliable source?|5]]",
     "rsp_last": "2024",

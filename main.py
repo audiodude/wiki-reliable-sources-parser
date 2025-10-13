@@ -103,8 +103,6 @@ for page_num in page_numbers:
             ).strip()
             if content_qualifier:
                 data["content_qualifier"] = content_qualifier
-
-            continue
         elif cell_index == 3:
             # store discussion as plain-text titles from wikilinks
             data["discussion"] = " ".join(
