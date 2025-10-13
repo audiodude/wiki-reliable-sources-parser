@@ -11,6 +11,7 @@ class IncompleteParseError(Exception):
 
 
 RE_ID = re.compile(r'id="([^"]+)"')
+RE_SORT_VALUE = re.compile(r'data-sort-value="([^"]+)"')
 RE_PARENTHESIZED = re.compile(r"(\([^)]+?\))")
 
 
@@ -64,6 +65,7 @@ for page_num in page_numbers:
             if not md:
                 raise IncompleteParseError(f"Could not find id in row: {item}")
             data["id"] = md.group(1)
+
             continue
 
         if item.startswith("|"):
@@ -103,6 +105,13 @@ for page_num in page_numbers:
             ).strip()
             if content_qualifier:
                 data["content_qualifier"] = content_qualifier
+
+            md = RE_SORT_VALUE.search(item)
+            if md:
+                data["sort_name"] = md.group(1)
+            else:
+                # If no explicit sort value, use the name.
+                data["sort_name"] = data["name"]
         elif cell_index == 3:
             # store discussion as plain-text titles from wikilinks
             data["discussion"] = " ".join(
