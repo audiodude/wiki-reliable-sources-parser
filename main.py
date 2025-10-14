@@ -156,6 +156,6 @@ for page_num in page_numbers:
     # Store the last source
     sources.append(data)
 
-    with open(data_dir / f"page_{page_num}.json", "w", encoding="utf-8") as f:
-        json.dump(sources, f, indent=2, ensure_ascii=False)
-    sources = []
+with open(data_dir / "sources.json", "w", encoding="utf-8") as f:
+    json.dump(sources, f, indent=2, ensure_ascii=False)
+sources = []
