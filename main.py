@@ -114,9 +114,9 @@ for page_num in page_numbers:
                 data["sort_name"] = data["name"]
         elif cell_index == 3:
             # store discussion as plain-text titles from wikilinks
-            data["discussion"] = " ".join(
-                str(l) for l in item_wikicode.filter_wikilinks()
-            )
+            data["discussion"] = [
+                str(l.title) for l in item_wikicode.filter_wikilinks()
+            ]
         elif cell_index == 5:
             # store plaintext summary (remove leading '| ' and strip wikitext)
             data["summary"] = item_wikicode.lstrip("| ").strip()

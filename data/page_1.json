@@ -5,7 +5,11 @@
     "sort_name": "112 Ukraine",
     "shortcut": "WP:112UKRAINE",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 281#news-front.info|1]] [[WP:Articles for deletion/Timeline of the war in Donbass (January–March 2016)|A]] [[Wikipedia talk:Reliable sources/Perennial sources/Archive 4#112 Ukraine|B]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 281#news-front.info",
+      "WP:Articles for deletion/Timeline of the war in Donbass (January–March 2016)",
+      "Wikipedia talk:Reliable sources/Perennial sources/Archive 4#112 Ukraine"
+    ],
     "rsnl": [
       {
         "notice_id": "281",
@@ -30,7 +34,10 @@
     "content_qualifier": "(US)",
     "sort_name": "ABC News (United States)",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 318#ABC News and FiveThirtyEight|1]] [[WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 318#ABC News and FiveThirtyEight",
+      "WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources"
+    ],
     "rsp_last": "2021",
     "summary": "There is consensus that ABC News, the news division of the [[American Broadcasting Company]], is generally reliable. It is not to be confused with [[ABC News|other publications of the same name]].<!-- Disambiguation on purpose per WP:INTDAB -->",
     "domain": "abcnews.com"
@@ -41,7 +48,7 @@
     "sort_name": "Academic repositories ",
     "shortcut": "WP:ZENODO",
     "status": "nc",
-    "discussion": "",
+    "discussion": [],
     "rsp_last": "2024",
     "summary": "General repositories like [[Academia.edu]], [[HAL Open Archives]], [[ResearchGate]], [[Semantic Scholar]], and [[Zenodo]] host academic papers, conference proceedings, book chapters, preprints, technical reports, etc. No filters exist for quality, and will host several unreviewed [[preprint]]s, [[retracted paper]]s not marked as such, unreviewed [[manuscript (publishing)|manuscripts]], and even papers from [[predatory journals]]. Determine the original source of what is being cited to establish reliability. When possible, cite the original source in preference to the repository.",
     "domain": "academia.edu"
@@ -51,7 +58,13 @@
     "name": "Acclaimed Music",
     "sort_name": "Acclaimed Music",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 21#Acclaimedmusic.net|1]] [[WP:Reliable sources/Noticeboard/Archive 50#acclaimedmusic.net|2]] [[WP:Reliable sources/Noticeboard/Archive 99#acclaimedmusic.net|3]] [[Wikipedia:Reliable sources/Noticeboard/Archive 219#Can Acclaimed Music be used to cite individual review scores?|4]] [[Wikipedia talk:WikiProject Music/Archive 41#Reliability of acclaimedmusic.net|A]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 21#Acclaimedmusic.net",
+      "WP:Reliable sources/Noticeboard/Archive 50#acclaimedmusic.net",
+      "WP:Reliable sources/Noticeboard/Archive 99#acclaimedmusic.net",
+      "Wikipedia:Reliable sources/Noticeboard/Archive 219#Can Acclaimed Music be used to cite individual review scores?",
+      "Wikipedia talk:WikiProject Music/Archive 41#Reliability of acclaimedmusic.net"
+    ],
     "rsp_last": "2022",
     "summary": "Acclaimed Music is considered unreliable as the site is a [[WP:SPS|self-published source]] with little to no editorial oversight. It often aggregates lists published by other notable publications.",
     "domain": "acclaimedmusic.net"
@@ -62,7 +75,13 @@
     "sort_name": "Ad Fontes Media",
     "shortcut": "WP:ADFONTES",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 258#media bias chart from adfontes media|1]] [[WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides|2]] [[WP:Reliable sources/Noticeboard/Archive 298#Ad Fontes Media Bias Chart|3]] [[WP:Reliable sources/Noticeboard/Archive 302#Can we call Wonkette far-left on the basis of adfontesmedia.com|4]] [[WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited|5]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 258#media bias chart from adfontes media",
+      "WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides",
+      "WP:Reliable sources/Noticeboard/Archive 298#Ad Fontes Media Bias Chart",
+      "WP:Reliable sources/Noticeboard/Archive 302#Can we call Wonkette far-left on the basis of adfontesmedia.com",
+      "WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited"
+    ],
     "rsp_last": "2021",
     "summary": "There is consensus that Ad Fontes Media and their Media Bias Chart should not be used in article space in reference to sources' political leaning or reliability. Editors consider it a [[WP:SPS|self-published source]] and have questioned its methodology.",
     "domain": "adfontesmedia.com"
@@ -73,7 +92,7 @@
     "name": "Advameg",
     "sort_name": "Advameg",
     "status": "gu",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "257",
@@ -98,7 +117,7 @@
     "sort_name": "Age, The",
     "shortcut": "WP:THEAGE",
     "status": "gr",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "352",
@@ -118,7 +137,11 @@
     "sort_name": "Agence France-Presse",
     "shortcut": "WP:RSPAFP",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 243#Can “wire” news services such AP, Reuters, or AFP ever report inaccurate, misleading, or false information|1]] [[WP:Reliable sources/Noticeboard/Archive 294#AFP|2]] [[WP:Reliable sources/Noticeboard/Archive 332#AFP as a source at Charlie Kirk|3]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 243#Can “wire” news services such AP, Reuters, or AFP ever report inaccurate, misleading, or false information",
+      "WP:Reliable sources/Noticeboard/Archive 294#AFP",
+      "WP:Reliable sources/Noticeboard/Archive 332#AFP as a source at Charlie Kirk"
+    ],
     "rsp_last": "2021",
     "summary": "Agence France-Presse is a [[news agency]]. There is consensus that Agence France-Presse is generally reliable. [[WP:SYNDICATED|Syndicated]] reports from Agence France-Presse that are published in other sources are also considered generally reliable.",
     "domain": "afp.com"
@@ -129,7 +152,13 @@
     "sort_name": "Al Arabiya",
     "shortcut": "WP:ALARABIYA",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 98#Alarabiya, reliable or not?|1]] [[WP:Reliable sources/Noticeboard/Archive 130#Al Arabiya|2]] [[WP:Reliable sources/Noticeboard/Archive 139#Al-Arabiya and the Syrian civil war|3]] [[WP:Reliable sources/Noticeboard/Archive 418#Al Arabiya|4]] [[WP:Reliable sources/Noticeboard/Archive 428#Al Arabiya|5]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 98#Alarabiya, reliable or not?",
+      "WP:Reliable sources/Noticeboard/Archive 130#Al Arabiya",
+      "WP:Reliable sources/Noticeboard/Archive 139#Al-Arabiya and the Syrian civil war",
+      "WP:Reliable sources/Noticeboard/Archive 418#Al Arabiya",
+      "WP:Reliable sources/Noticeboard/Archive 428#Al Arabiya"
+    ],
     "summary": "There is consensus that Al Arabiya is a usable source for topics unrelated to the Saudi Arabian government. As it is state-owned by Saudi government since 2018 and is published in a country with low press freedom, editors consider Al Arabiya biased and non-independent for Saudi Arabian politics, and recommend attribution and use amongst other sources to maintain NPOV for coverage in this area. Some editors consider Al Arabiya unreliable for matters related to Saudi geopolitical interests.",
     "domain": "alarabiya.net"
   },
@@ -139,7 +168,7 @@
     "sort_name": "Al Jazeera Media Network",
     "shortcut": "WP:ALJAZEERA",
     "status": "gr",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "449",
@@ -158,7 +187,7 @@
     "sort_name": "Al Mayadeen",
     "shortcut": "WP:ALMAYADEEN",
     "status": "d",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "420",
@@ -178,7 +207,9 @@
     "sort_name": "Al-Manar",
     "shortcut": "WP:ALMANAR",
     "status": "nc",
-    "discussion": "[[Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar|1]]",
+    "discussion": [
+      "Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar"
+    ],
     "rsnl": [
       {
         "notice_id": "462",
@@ -198,7 +229,10 @@
     "sort_name": "Al-Manar",
     "shortcut": "WP:ALMANARPOLITICS",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 417#Dead links to Al-Manar|1]] [[Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 417#Dead links to Al-Manar",
+      "Wikipedia:Reliable sources/Noticeboard/Archive 458#Al-Manar"
+    ],
     "rsnl": [
       {
         "notice_id": "462",
@@ -216,7 +250,12 @@
     "name": "Alexa Internet",
     "sort_name": "Alexa Internet",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 16#Alexa.com|1]] [[WP:Reliable sources/Noticeboard/Archive 63#Alexa rankings|2]] [[WP:Reliable sources/Noticeboard/Archive 102#Alexa rankings?|3]] [[WP:Village pump (proposals)/Archive 173#RfC: Alexa Rankings in Infoboxes|A]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 16#Alexa.com",
+      "WP:Reliable sources/Noticeboard/Archive 63#Alexa rankings",
+      "WP:Reliable sources/Noticeboard/Archive 102#Alexa rankings?",
+      "WP:Village pump (proposals)/Archive 173#RfC: Alexa Rankings in Infoboxes"
+    ],
     "rsnl": [
       {
         "notice_id": "374",
@@ -236,7 +275,10 @@
     "sort_name": "AllMovie",
     "shortcut": "WP:ALLMOVIE",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 442#allmovie.com now using film descriptions and actor biographies from Wikipedia|1]] [[WP:Reliable sources/Noticeboard/Archive 464#Allmovie|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 442#allmovie.com now using film descriptions and actor biographies from Wikipedia",
+      "WP:Reliable sources/Noticeboard/Archive 464#Allmovie"
+    ],
     "rsp_last": "2025",
     "summary": "AllMovie, previously owned by [[RhythmOne]], is a movie database. Since its acquisition, it has operated as a [[WP:MIRROR|mirror of Wikimedia content]]; using republished Wikimedia content is considered [[WP:CIRCULAR|circular sourcing]]. ''See also: [[#RhythmOne|RhythmOne]].''",
     "domain": "allmovie.com"
@@ -247,7 +289,14 @@
     "sort_name": "AllSides",
     "shortcut": "WP:ALLSIDES",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 235#Allsides.com|1]] [[WP:Reliable sources/Noticeboard/Archive 278#Is Allsides.com a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides|3]] [[WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited|4]] [[WP:Reliable sources/Noticeboard/Archive 366#Allsides.com|5]] [[WP:Reliable sources/Noticeboard/Archive 396#Allsides.com redux, use of Breitbart and Wikipediocracy as a source|6]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 235#Allsides.com",
+      "WP:Reliable sources/Noticeboard/Archive 278#Is Allsides.com a reliable source?",
+      "WP:Reliable sources/Noticeboard/Archive 290#Ad Fontes Media and AllSides",
+      "WP:Reliable sources/Noticeboard/Archive 350#Allsides.com media bias chart, revisited",
+      "WP:Reliable sources/Noticeboard/Archive 366#Allsides.com",
+      "WP:Reliable sources/Noticeboard/Archive 396#Allsides.com redux, use of Breitbart and Wikipediocracy as a source"
+    ],
     "rsnl": [
       {
         "notice_id": "375",
@@ -265,7 +314,13 @@
     "name": "AlterNet",
     "sort_name": "AlterNet",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 86#Alternet|1]] [[WP:Reliable sources/Noticeboard/Archive 125#AlterNet|2]] [[WP:Reliable sources/Noticeboard/Archive 147#AlterNet and Truthdig|3]] [[WP:Reliable sources/Noticeboard/Archive 251#AlterNet|4]] [[WP:Reliable sources/Noticeboard/Archive 264#Should AlterNet be deprecated?|5]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 86#Alternet",
+      "WP:Reliable sources/Noticeboard/Archive 125#AlterNet",
+      "WP:Reliable sources/Noticeboard/Archive 147#AlterNet and Truthdig",
+      "WP:Reliable sources/Noticeboard/Archive 251#AlterNet",
+      "WP:Reliable sources/Noticeboard/Archive 264#Should AlterNet be deprecated?"
+    ],
     "rsp_last": "2019",
     "summary": "There is consensus that AlterNet is generally unreliable. Editors consider AlterNet a [[WP:PARTISAN|partisan source]], and its statements should be [[WP:INTEXT|attributed]]. AlterNet's [[WP:SYNDICATED|syndicated content]] should be evaluated by the reliability of its original publisher, and the citation should preferably point to the original publisher.",
     "domain": "alternet.org"
@@ -276,7 +331,15 @@
     "sort_name": "Amazon (company)",
     "shortcut": "WP:RSPAMAZON",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 20#Citing unverifiable Amazon 'editorial reviews' as book reviews|1]] [[WP:Reliable sources/Noticeboard/Archive 21#Is Amazon.com a reliable source?|2]] [[WP:Reliable sources/Noticeboard/Archive 43#Amazon.com as an RS for unreleased material|3]] [[WP:Reliable sources/Noticeboard/Archive 56#Amazon.com for digital music release info|4]] [[WP:Reliable sources/Noticeboard/Archive 232#BuzzFeed and Amazon.com|5]] [[WP:Reliable sources/Noticeboard/Archive 286#The elephant in the room – amazon.com|6]] [[WP:Reliable sources/Noticeboard/Archive 337#Amazon as a source|7]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 20#Citing unverifiable Amazon 'editorial reviews' as book reviews",
+      "WP:Reliable sources/Noticeboard/Archive 21#Is Amazon.com a reliable source?",
+      "WP:Reliable sources/Noticeboard/Archive 43#Amazon.com as an RS for unreleased material",
+      "WP:Reliable sources/Noticeboard/Archive 56#Amazon.com for digital music release info",
+      "WP:Reliable sources/Noticeboard/Archive 232#BuzzFeed and Amazon.com",
+      "WP:Reliable sources/Noticeboard/Archive 286#The elephant in the room – amazon.com",
+      "WP:Reliable sources/Noticeboard/Archive 337#Amazon as a source"
+    ],
     "rsp_last": "2021",
     "summary": "User reviews on Amazon are anonymous, [[WP:SELFPUB|self-published]], and unverifiable, and should not be used at all. While Amazon itself is a reliable source for basic information about a work (such as release date, ISBN, etc.), it is unnecessary to cite Amazon when the work itself may serve as a source for that information. Future release dates may be unreliable.",
     "domain": "amazon.com"
@@ -288,7 +351,10 @@
     "sort_name": "American Conservative",
     "shortcut": "WP:TAC",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 273#An op-ed by Paul Gottfried about the accuracy of a PragerU video|1]] [[WP:Reliable sources/Noticeboard/Archive 409#Use of The American Conservative for opinion at A Letter to Liberals|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 273#An op-ed by Paul Gottfried about the accuracy of a PragerU video",
+      "WP:Reliable sources/Noticeboard/Archive 409#Use of The American Conservative for opinion at A Letter to Liberals"
+    ],
     "rsnl": [
       {
         "notice_id": "273",
@@ -320,7 +386,11 @@
     "sort_name": "Amnesty International",
     "shortcut": "WP:RSPAI",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 324#Amnesty|1]] [[WP:Reliable sources/Noticeboard/Archive 276#Is research by Amnesty International a valid source for Wikipedia?|2]] [[WP:Reliable sources/Noticeboard/Archive 414#War crimes|3]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 324#Amnesty",
+      "WP:Reliable sources/Noticeboard/Archive 276#Is research by Amnesty International a valid source for Wikipedia?",
+      "WP:Reliable sources/Noticeboard/Archive 414#War crimes"
+    ],
     "rsnl": [
       {
         "notice_id": "371",
@@ -341,7 +411,10 @@
     "sort_name": "Anadolu Agency",
     "shortcut": "WP:ANADOLU",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 376#Is Anadolu Agency legit source?|1]] [[WP:Reliable sources/Noticeboard/Archive 418#RfC: Anadolu Agency|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 376#Is Anadolu Agency legit source?",
+      "WP:Reliable sources/Noticeboard/Archive 418#RfC: Anadolu Agency"
+    ],
     "rsnl": [
       {
         "notice_id": "281",
@@ -362,7 +435,7 @@
     "sort_name": "Anadolu Agency",
     "shortcut": "WP:AAPOLITICS",
     "status": "gu",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "281",
@@ -381,7 +454,14 @@
     "sort_name": "Ancestry.com",
     "shortcut": "WP:ANCESTRY",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 61#Question about Ancestry.com|1]] [[WP:Reliable sources/Noticeboard/Archive 92#Ancestry.com|2]] [[WP:Reliable sources/Noticeboard/Archive 150#Ancestry.com|3]] [[WP:Reliable sources/Noticeboard/Archive 189#Ancestry.com|4]] [[WP:Reliable sources/Noticeboard/Archive 298#Royalcruft again|5]] [[WP:Reliable sources/Noticeboard/Archive 335#Ancestry.com|6]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 61#Question about Ancestry.com",
+      "WP:Reliable sources/Noticeboard/Archive 92#Ancestry.com",
+      "WP:Reliable sources/Noticeboard/Archive 150#Ancestry.com",
+      "WP:Reliable sources/Noticeboard/Archive 189#Ancestry.com",
+      "WP:Reliable sources/Noticeboard/Archive 298#Royalcruft again",
+      "WP:Reliable sources/Noticeboard/Archive 335#Ancestry.com"
+    ],
     "rsp_last": "2021",
     "summary": "Ancestry.com is a [[genealogy]] site that hosts a database of [[WP:PRIMARY|primary source]] documents including marriage and census records. Some of these sources may be usable under [[WP:PRIMARY]], but secondary sources, where available, are usually preferred; further, see [[WP:BLPPRIMARY]]. Ancestry.com also hosts [[WP:UGC|user-generated content]], which is unreliable.",
     "domain": "ancestry.com"
@@ -392,7 +472,9 @@
     "name": "ANNA News",
     "sort_name": "ANNA News",
     "status": "d",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 123#Abkhazian Network News Agency showing video interviews with Houla massacre survivors (plus Syria News)|1]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 123#Abkhazian Network News Agency showing video interviews with Houla massacre survivors (plus Syria News)"
+    ],
     "rsnl": [
       {
         "notice_id": "371",
@@ -411,7 +493,12 @@
     "name": "Answers.com",
     "sort_name": "Answers.com",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 10#Encyclopedias in Answers.com|1]] [[WP:Reliable sources/Noticeboard/Archive 22#Encyclopedia content hosted on Answers.com and Highbeam (encyclopedia.com)|2]] [[WP:Reliable sources/Noticeboard/Archive 23#This Answers.com article|3]] [[WP:Reliable sources/Noticeboard/Archive 80#Company histories on answers.com|4]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 10#Encyclopedias in Answers.com",
+      "WP:Reliable sources/Noticeboard/Archive 22#Encyclopedia content hosted on Answers.com and Highbeam (encyclopedia.com)",
+      "WP:Reliable sources/Noticeboard/Archive 23#This Answers.com article",
+      "WP:Reliable sources/Noticeboard/Archive 80#Company histories on answers.com"
+    ],
     "rsp_last": "2010",
     "summary": "Answers.com (previously known as WikiAnswers) is a [[Q&A site]] that incorporates [[WP:UGC|user-generated content]]. In the past, Answers.com republished excerpts and summaries of [[WP:TERTIARY|tertiary sources]], including [[D&B Hoovers]], [[Gale (publisher)|Gale]], and [[HighBeam Research]]. Citations of republished content on Answers.com should point to the original source, with a note that the source was accessed \"via Answers.com\". Answers.com also previously served as a [[WP:MIRROR|Wikipedia mirror]]; using republished Wikipedia content is considered [[WP:CIRCULAR|circular sourcing]].",
     "domain": "answers.com"
@@ -424,7 +511,15 @@
     "sort_name": "Anti-Defamation League",
     "shortcut": "WP:ADLHSD",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 9#Are these reliable sources and do they conflict with NPOV?|1]] [[WP:Reliable sources/Noticeboard/Archive 58#Anti-Defamation League|2]] [[WP:Reliable sources/Noticeboard/Archive 147#ADL website as source on noncontroversial facts|3]] [[WP:Reliable sources/Noticeboard/Archive 204#And the ADL|4]] [[WP:Reliable sources/Noticeboard/Archive 234#ADL is being cited as a reliable source|5]] [[WP:Reliable sources/Noticeboard/Archive 336#adl.org/blog (Anti-Defamation League Blog)|6]] [[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|7]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 9#Are these reliable sources and do they conflict with NPOV?",
+      "WP:Reliable sources/Noticeboard/Archive 58#Anti-Defamation League",
+      "WP:Reliable sources/Noticeboard/Archive 147#ADL website as source on noncontroversial facts",
+      "WP:Reliable sources/Noticeboard/Archive 204#And the ADL",
+      "WP:Reliable sources/Noticeboard/Archive 234#ADL is being cited as a reliable source",
+      "WP:Reliable sources/Noticeboard/Archive 336#adl.org/blog (Anti-Defamation League Blog)",
+      "WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?"
+    ],
     "rsnl": [
       {
         "notice_id": "302",
@@ -451,7 +546,9 @@
     "sort_name": "Anti-Defamation League",
     "shortcut": "WP:ADLAS",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|1]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?"
+    ],
     "rsnl": [
       {
         "notice_id": "302",
@@ -478,7 +575,10 @@
     "sort_name": "Anti-Defamation League",
     "shortcut": "WP:ADLIPA",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?|1]] [[Wikipedia:Reliable sources/Noticeboard/Archive 468#The Times of Israel and fake news.|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 434#Is it time to re-evaluate the ADL?",
+      "Wikipedia:Reliable sources/Noticeboard/Archive 468#The Times of Israel and fake news."
+    ],
     "rsnl": [
       {
         "notice_id": "439",
@@ -496,7 +596,12 @@
     "name": "Antiwar.com",
     "sort_name": "Antiwar.com",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 2#Antiwar.com and Globalsecurity.org|1]] [[WP:Reliable sources/Noticeboard/Archive 3#antiwar.com|2]] [[WP:Reliable sources/Noticeboard/Archive 71#The Terror Enigma: 9/11 and the Israeli Connection|3]] [[WP:Reliable sources/Noticeboard/Archive 106#antiwar.com|4]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 2#Antiwar.com and Globalsecurity.org",
+      "WP:Reliable sources/Noticeboard/Archive 3#antiwar.com",
+      "WP:Reliable sources/Noticeboard/Archive 71#The Terror Enigma: 9/11 and the Israeli Connection",
+      "WP:Reliable sources/Noticeboard/Archive 106#antiwar.com"
+    ],
     "rsp_last": "2011",
     "summary": "There is consensus that Antiwar.com is generally unreliable. Editors consider Antiwar.com to be [[WP:BIASED|biased or opinionated]].",
     "domain": "antiwar.com"
@@ -507,7 +612,9 @@
     "sort_name": "Aon (company)",
     "shortcut": "WP:RSPAON",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 375#Aon|1]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 375#Aon"
+    ],
     "rsnl": [
       {
         "notice_id": "383",
@@ -526,7 +633,9 @@
     "sort_name": "Apple Daily",
     "shortcut": "WP:APPLEDAILY",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 346#Apple Daily shutting down|1]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 346#Apple Daily shutting down"
+    ],
     "rsnl": [
       {
         "notice_id": "297",
@@ -544,7 +653,12 @@
     "name": "Arab News",
     "sort_name": "Arab News",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 5#ArabNews|1]] [[WP:Reliable sources/Noticeboard/Archive 260#World atlas + Arab news|2]] [[WP:Reliable sources/Noticeboard/Archive 305#Arab News on Iran International|3]] [[WP:Reliable sources/Noticeboard/Archive 324#Arab News reliable on the People's Mujahedin of Iran?|4]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 5#ArabNews",
+      "WP:Reliable sources/Noticeboard/Archive 260#World atlas + Arab news",
+      "WP:Reliable sources/Noticeboard/Archive 305#Arab News on Iran International",
+      "WP:Reliable sources/Noticeboard/Archive 324#Arab News reliable on the People's Mujahedin of Iran?"
+    ],
     "rsnl": [
       {
         "notice_id": "289",
@@ -563,7 +677,11 @@
     "sort_name": "",
     "shortcut": "WP:ARMYRECOGNITION",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 344#armyrecognition.com|1]] [[WP:Reliable sources/Noticeboard/Archive 349#Army Recognition|2]] [[WP:Reliable sources/Noticeboard#Request to revise Army Recognition entry – defamatory & unsourced|3]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 344#armyrecognition.com",
+      "WP:Reliable sources/Noticeboard/Archive 349#Army Recognition",
+      "WP:Reliable sources/Noticeboard#Request to revise Army Recognition entry – defamatory & unsourced"
+    ],
     "rsp_last": "2025",
     "summary": "''Army Recognition'' is a site that reproduces press release material without any original reportage. In at least one example it has copied content without attribution from other sources. Editors allege that ''Army Recognition'' operates on a pay-for-coverage basis, providing \"online marketing and advertising solutions\" for the defense industry. This model may raise questions about the impartiality and independence of its content.",
     "domain": "armyrecognition.com"
@@ -574,7 +692,11 @@
     "sort_name": "Ars Technica",
     "shortcut": "WP:ARSTECHNICA",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 2#Ars Technica news?|1]] [[WP:Reliable sources/Noticeboard/Archive 136#Ars Technica a Reliable Source?|2]] [[WP:Reliable sources/Noticeboard/Archive 371# RS for Board Games- Board Game Quest, Ars Technica, Kotaku and TechRaptor|3]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 2#Ars Technica news?",
+      "WP:Reliable sources/Noticeboard/Archive 136#Ars Technica a Reliable Source?",
+      "WP:Reliable sources/Noticeboard/Archive 371# RS for Board Games- Board Game Quest, Ars Technica, Kotaku and TechRaptor"
+    ],
     "rsp_last": "2022",
     "summary": "''Ars Technica'' is considered generally reliable for science- and technology-related articles.",
     "domain": "arstechnica.com"
@@ -586,7 +708,7 @@
     "sort_name": "Asian News International",
     "shortcut": "WP:RSPANI",
     "status": "nc",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "331",
@@ -605,7 +727,14 @@
     "sort_name": "AskMen",
     "shortcut": "WP:ASKMEN",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 25#askmen.com|1]] [[WP:Reliable sources/Noticeboard/Archive 34#Askmen.com|2]] [[WP:Reliable sources/Noticeboard/Archive 37#AskMen.com|3]] [[WP:Reliable sources/Noticeboard/Archive 51#Ask.com|4]] [[WP:Reliable sources/Noticeboard/Archive 120#Askmen.com|5]] [[WP:Reliable sources/Noticeboard/Archive 284#AskMen|6]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 25#askmen.com",
+      "WP:Reliable sources/Noticeboard/Archive 34#Askmen.com",
+      "WP:Reliable sources/Noticeboard/Archive 37#AskMen.com",
+      "WP:Reliable sources/Noticeboard/Archive 51#Ask.com",
+      "WP:Reliable sources/Noticeboard/Archive 120#Askmen.com",
+      "WP:Reliable sources/Noticeboard/Archive 284#AskMen"
+    ],
     "rsp_last": "2020",
     "summary": "There is no consensus on the reliability of AskMen. ''See also: {{pslink|IGN}}.''",
     "domain": "askmen.com"
@@ -617,7 +746,10 @@
     "sort_name": "Association of Religion Data Archives",
     "shortcut": "WP:GLOBALRELIGIOUSFUTURES",
     "status": "nc",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 239#thearda.com|1]] [[WP:Reliable sources/Noticeboard/Archive 395#Association of Religion Data Archives and World Religion Database|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 239#thearda.com",
+      "WP:Reliable sources/Noticeboard/Archive 395#Association of Religion Data Archives and World Religion Database"
+    ],
     "rsnl": [
       {
         "notice_id": "395",
@@ -637,7 +769,7 @@
     "sort_name": "Associated Press",
     "shortcut": "WP:RSPAP",
     "status": "gr",
-    "discussion": "",
+    "discussion": [],
     "rsp_last": "2024",
     "summary": "The Associated Press is a [[news agency]]. There is consensus that the Associated Press is generally reliable. [[WP:SYNDICATED|Syndicated]] reports from the Associated Press that are published in other sources are also considered generally reliable.",
     "domain": "ap.org"
@@ -649,7 +781,13 @@
     "sort_name": "Atlantic",
     "shortcut": "WP:THEATLANTIC",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 8#The Atlantic Monthly website|1]] [[WP:Reliable sources/Noticeboard/Archive 240#Is Conor Friedersdorf and the Atlantic a Reliable Source?|2]] [[WP:Reliable sources/Noticeboard/Archive 268#The Kingdom in the Closet by Nadya Labi|3]] [[WP:Reliable sources/Noticeboard/Archive 373#How should we treat the Atlantic's Ideas section? Is it news or opinion?|4]] [[WP:Reliable sources/Noticeboard/Archive 441#OpenAI \"content and product partnerships\" with Vox Media and The Atlantic|5]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 8#The Atlantic Monthly website",
+      "WP:Reliable sources/Noticeboard/Archive 240#Is Conor Friedersdorf and the Atlantic a Reliable Source?",
+      "WP:Reliable sources/Noticeboard/Archive 268#The Kingdom in the Closet by Nadya Labi",
+      "WP:Reliable sources/Noticeboard/Archive 373#How should we treat the Atlantic's Ideas section? Is it news or opinion?",
+      "WP:Reliable sources/Noticeboard/Archive 441#OpenAI \"content and product partnerships\" with Vox Media and The Atlantic"
+    ],
     "rsp_last": "2024",
     "summary": "''The Atlantic'' is considered generally reliable. Editors should beware that ''The Atlantic'' does not always clearly delineate between reporting and opinion content; opinion pieces, including all articles in the \"Ideas\" column (theatlantic.com/ideas/), are governed by [[WP:RSOPINION]].",
     "domain": "theatlantic.com"
@@ -660,7 +798,12 @@
     "sort_name": "Atlas Obscura",
     "shortcut": "WP:AOPLACES",
     "status": "gu",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura|1]] [[WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura|2]] [[WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles|3]] [[WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?|4]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura",
+      "WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura",
+      "WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles",
+      "WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?"
+    ],
     "rsp_last": "2023",
     "summary": "Atlas Obscura's \"places\" articles are user-generated and user-editable with minimal oversight, and the site's terms of use includes disclaimers about user submissions. Many of the \"places\" articles [[Wikipedia:CIRCULAR|cite Wikipedia]] as a source of their information or otherwise lack clear or reliable sourcing. These articles should generally not be referenced on Wikipedia.",
     "domain": "atlasobscura.com/places"
@@ -671,7 +814,12 @@
     "sort_name": "Atlas Obscura",
     "shortcut": "WP:AOARTICLES",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura|1]] [[WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura|2]] [[WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles|3]] [[WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?|4]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 313#Atlas Obscura",
+      "WP:Reliable sources/Noticeboard/Archive 399#Atlas Obscura",
+      "WP:Reliable sources/Noticeboard/Archive 412#Atlas Obscura's staff-written articles",
+      "WP:Reliable sources/Noticeboard/Archive 415#List Atlas Obscura in perennial sources?"
+    ],
     "rsp_last": "2023",
     "summary": "Atlas Obscura's \"articles\" articles are professionally authored with editor oversight, and generally reliable. However, other areas of the site operate as a commercial travel service vendor, and the site hosts user-generated content in its \"places\" articles (see [[WP:AOPLACES]])",
     "domain": "atlasobscura.com/articles"
@@ -682,7 +830,11 @@
     "sort_name": "Australian",
     "shortcut": "WP:THEAUSTRALIAN",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 245#The Australian newspaper|1]] [[WP:Reliable sources/Noticeboard/Archive 309#The Australian|2]] [[WP:Reliable sources/Noticeboard/Archive 442#Is The Australian reliable?|3]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 245#The Australian newspaper",
+      "WP:Reliable sources/Noticeboard/Archive 309#The Australian",
+      "WP:Reliable sources/Noticeboard/Archive 442#Is The Australian reliable?"
+    ],
     "rsp_last": "2024",
     "summary": "''The Australian'' is considered generally reliable. Some editors consider ''The Australian'' to be a partisan source. Opinion pieces are covered by [[WP:RSOPINION]] and [[WP:NEWSBLOG]]. Several editors expressed concern regarding their coverage of climate change related topics.",
     "domain": "theaustralian.com.au"
@@ -693,7 +845,7 @@
     "name": "Australian Strategic Policy Institute",
     "sort_name": "Australian Strategic Policy Institute",
     "status": "nc",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "357",
@@ -712,7 +864,13 @@
     "sort_name": "AV Club",
     "shortcut": "WP:AVCLUB",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 9#The A/V Club|1]] [[WP:Reliable sources/Noticeboard/Archive 151#The A.V. Club at Teenage Mutant Ninja Turtles (2014 film)|2]] [[WP:Reliable sources/Noticeboard/Archive 177#Westeros.org. Again|3]] [[WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI|4]] [[Wikipedia talk:WikiProject Albums/Archive 32#Review site: The A.V. Club|A]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 9#The A/V Club",
+      "WP:Reliable sources/Noticeboard/Archive 151#The A.V. Club at Teenage Mutant Ninja Turtles (2014 film)",
+      "WP:Reliable sources/Noticeboard/Archive 177#Westeros.org. Again",
+      "WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI",
+      "Wikipedia talk:WikiProject Albums/Archive 32#Review site: The A.V. Club"
+    ],
     "rsp_last": "2023",
     "summary": "''The A.V. Club'' is considered generally reliable for film, music and TV reviews. There is consensus that AI-generated articles are generally unreliable; ''The A.V. Club''{{'s}} parent company, G/O Media, began releasing such pieces in July 2023, usually under the byline \"The A.V. Club Bot\".<ref>{{cite news |last1=Sato |first1=Mia |title=G/O Media's AI 'innovation' is off to a rocky start |url=https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots |access-date=February 27, 2024 |work=[[The Verge]] |date=July 6, 2023 |language=en}}</ref>",
     "domain": "avclub.com"
@@ -724,7 +882,7 @@
     "sort_name": "AVN",
     "shortcut": "WP:AVN",
     "status": "gr",
-    "discussion": "",
+    "discussion": [],
     "rsnl": [
       {
         "notice_id": "349",
@@ -743,7 +901,10 @@
     "sort_name": "Axios (website)",
     "shortcut": "WP:AXIOS",
     "status": "gr",
-    "discussion": "[[WP:Reliable sources/Noticeboard/Archive 263#Axios (website)|1]] [[WP:Reliable sources/Noticeboard/Archive 289#Axios.com as a generally reliable source?|2]]",
+    "discussion": [
+      "WP:Reliable sources/Noticeboard/Archive 263#Axios (website)",
+      "WP:Reliable sources/Noticeboard/Archive 289#Axios.com as a generally reliable source?"
+    ],
     "rsp_last": "2020",
     "summary": "There is consensus that ''Axios'' is generally reliable. Some editors consider ''Axios'' to be a [[WP:BIASED|biased or opinionated source]]. [[WP:RSOPINION|Statements of opinion]] should be [[WP:INTEXT|attributed]] and evaluated for [[WP:DUE|due weight]].",
     "domain": "axios.com"
