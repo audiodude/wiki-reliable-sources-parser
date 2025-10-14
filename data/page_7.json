@@ -5,7 +5,9 @@
     "sort_name": "Salon.com",
     "shortcut": "WP:SALON.COM",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2023",
     "summary": "There is no consensus on the reliability of ''Salon''. Editors consider ''Salon'' [[WP:BIASED|biased or opinionated]], and its statements should be [[WP:INTEXT|attributed]].",
     "domain": "salon.com"
@@ -16,11 +18,13 @@
     "sort_name": "Science-Based Medicine",
     "shortcut": "WP:SCIENCEBASEDMEDICINE",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 141#Film review by David Gorski at ScienceBasedMedicine.org of Gabriel Cousens documentary Simply Raw",
-      "WP:Reliable sources/Noticeboard/Archive 247#sciencebasedmedicine.org",
-      "WP:Reliable sources/Noticeboard/Archive 351#Science-Based Medicine"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 141#Film review by David Gorski at ScienceBasedMedicine.org of Gabriel Cousens documentary Simply Raw",
+        "WP:Reliable sources/Noticeboard/Archive 247#sciencebasedmedicine.org",
+        "WP:Reliable sources/Noticeboard/Archive 351#Science-Based Medicine"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "256",
@@ -44,16 +48,20 @@
     "name": "ScienceBlogs",
     "sort_name": "ScienceBlogs",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 48#Guardian blog articles",
-      "WP:Reliable sources/Noticeboard/Archive 58#Scienceblogs.com/Deltoid AKA timlambert.org is not a Reliable Source",
-      "WP:Reliable sources/Noticeboard/Archive 77#Deep Sea News",
-      "WP:Reliable sources/Noticeboard/Archive 105#Journal of Cosmology",
-      "WP:Reliable sources/Noticeboard/Archive 113#Few body systems",
-      "WP:Reliable sources/Noticeboard/Archive 117#Blog posts and personal websites in the AAH article",
-      "WP:Reliable sources/Noticeboard/Archive 133#PZ Myers on Stuart Pivar's Lifecode",
-      "Talk:Energy Catalyzer/Archive 10#'ScienceBlogs' article on the E-Cat"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 48#Guardian blog articles",
+        "WP:Reliable sources/Noticeboard/Archive 58#Scienceblogs.com/Deltoid AKA timlambert.org is not a Reliable Source",
+        "WP:Reliable sources/Noticeboard/Archive 77#Deep Sea News",
+        "WP:Reliable sources/Noticeboard/Archive 105#Journal of Cosmology",
+        "WP:Reliable sources/Noticeboard/Archive 113#Few body systems",
+        "WP:Reliable sources/Noticeboard/Archive 117#Blog posts and personal websites in the AAH article",
+        "WP:Reliable sources/Noticeboard/Archive 133#PZ Myers on Stuart Pivar's Lifecode"
+      ],
+      "other": [
+        "Talk:Energy Catalyzer/Archive 10#'ScienceBlogs' article on the E-Cat"
+      ]
+    },
     "rsp_last": "2012",
     "summary": "ScienceBlogs is an invitation-only network of blogs. There is no consensus on the reliability of ScienceBlogs articles in general. Most editors consider ScienceBlogs articles written by [[WP:EXPERTSOURCE|subject-matter experts]] reliable, though articles outside the writer's relevant field are not. As a [[WP:SPS|self-published source]] it should not be used as a source of information on [[WP:BLPSPS|other living persons]]. Since it often covers [[WP:FRINGE|fringe]] material, [[WP:PARITY|parity of sources]] may be relevant.",
     "domain": "scienceblogs.com"
@@ -63,12 +71,14 @@
     "name": "ScienceDirect",
     "sort_name": "ScienceDirect",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 270#Elsevier topics: reliability of machine-generated sources",
-      "WP:Reliable sources/Noticeboard/Archive 417#Elsevier topics again",
-      "WP:Reliable sources/Noticeboard/Archive 422#Machine-generated text at ScienceDirect used as source",
-      "WP:Reliable sources/Noticeboard/Archive 432#ScienceDirect Topics (AI-generated pages)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 270#Elsevier topics: reliability of machine-generated sources",
+        "WP:Reliable sources/Noticeboard/Archive 417#Elsevier topics again",
+        "WP:Reliable sources/Noticeboard/Archive 422#Machine-generated text at ScienceDirect used as source",
+        "WP:Reliable sources/Noticeboard/Archive 432#ScienceDirect Topics (AI-generated pages)"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "[[ScienceDirect]] is an online bibliographical database run by Elsevier. In addition to academic publications, the website maintains machine-generated \"topic pages\" consisting of quotations from publications in the database. These topic pages change over time, presenting a challenge to [[WP:V|verifiability]]. Citations should be made to the actual, underlying publications quoted by the topic page.",
     "domain": "sciencedirect.com/topics/"
@@ -79,10 +89,12 @@
     "name": "Scientific American",
     "sort_name": "Scientific American",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 51#Scientific American (editorial) quote in RealClimate",
-      "WP:Reliable sources/Noticeboard/Archive 301#Scientific American"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 51#Scientific American (editorial) quote in RealClimate",
+        "WP:Reliable sources/Noticeboard/Archive 301#Scientific American"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "''Scientific American'' is considered generally reliable for [[popular science]] content. Use [[WP:MEDPOP]] to determine whether the publication's medical coverage should be used.",
     "domain": "scientificamerican.com"
@@ -93,10 +105,12 @@
     "sort_name": "SCOTUSblog",
     "shortcut": "WP:RSPSCOTUSBLOG",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 38#Tom Goldstein and SCOTUSblog as sources for Supreme Court articles",
-      "WP:Reliable sources/Noticeboard/Archive 301#Determining whether a source is SPS in deciding whether BLPSPS applies"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 38#Tom Goldstein and SCOTUSblog as sources for Supreme Court articles",
+        "WP:Reliable sources/Noticeboard/Archive 301#Determining whether a source is SPS in deciding whether BLPSPS applies"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "326",
@@ -115,11 +129,15 @@
     "sort_name": "Screen Rant",
     "shortcut": "WP:SCREEN RANT",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 266#Screen Rant",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Unclear",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 21#ScreenRant"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 266#Screen Rant"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Unclear",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 21#ScreenRant"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "328",
@@ -138,12 +156,14 @@
     "sort_name": "Scribd",
     "shortcut": "WP:SCRIBD",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 33#Is Scribd.com a Reliable Source?",
-      "WP:Reliable sources/Noticeboard/Archive 151#Court documents hosted on Scribd",
-      "WP:Reliable sources/Noticeboard/Archive 184#Scribd.com",
-      "WP:Reliable sources/Noticeboard/Archive 206#Documents uploaded to ScribD"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 33#Is Scribd.com a Reliable Source?",
+        "WP:Reliable sources/Noticeboard/Archive 151#Court documents hosted on Scribd",
+        "WP:Reliable sources/Noticeboard/Archive 184#Scribd.com",
+        "WP:Reliable sources/Noticeboard/Archive 206#Documents uploaded to ScribD"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "Scribd operates a self-publishing platform for documents and audiobooks. It is considered generally unreliable, especially for [[WP:BLPSPS|biographies of living persons]]. Anyone can upload any document they like and there is no assurance that it hasn't been manipulated. Many documents on Scribd's self-publishing platform violate copyrights, so linking to them from Wikipedia would also violate the [[WP:COPYVIOEL]] guideline and the [[WP:COPYVIO]] policy. If a particular document hosted on the platform is in itself reliable, editors are advised to cite the source without linking to the Scribd entry.",
     "domain": "scribd.com"
@@ -153,7 +173,9 @@
     "name": "Sherdog",
     "sort_name": "Sherdog",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "rfc=y",
@@ -172,11 +194,13 @@
     "sort_name": "",
     "shortcut": "WP:SIMPLEFLYING",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 423#SimpleFlying revisit",
-      "WP:Reliable sources/Noticeboard/Archive 421#SimpleFlying.com",
-      "WP:Reliable sources/Noticeboard/Archive 286#Simple Flying"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 423#SimpleFlying revisit",
+        "WP:Reliable sources/Noticeboard/Archive 421#SimpleFlying.com",
+        "WP:Reliable sources/Noticeboard/Archive 286#Simple Flying"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "rfc=y",
@@ -196,7 +220,9 @@
     "sort_name": "Sixth Tone",
     "shortcut": "WP:SIXTHTONE",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "287",
@@ -216,7 +242,9 @@
     "sort_name": "Sixth Tone",
     "shortcut": "WP:SIXTHTONEPOLITICS",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "287",
@@ -234,12 +262,14 @@
     "name": "The Skeptic's Dictionary",
     "sort_name": "Skeptic's Dictionary",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 9#The Skeptic's Dictionary",
-      "WP:Reliable sources/Noticeboard/Archive 8#Skeptic's dictionary",
-      "WP:Reliable sources/Noticeboard/Archive 14#Is skepdic.com a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 285#Skeptic's Dictionary and Skeptoid are they self-published sources?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 9#The Skeptic's Dictionary",
+        "WP:Reliable sources/Noticeboard/Archive 8#Skeptic's dictionary",
+        "WP:Reliable sources/Noticeboard/Archive 14#Is skepdic.com a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 285#Skeptic's Dictionary and Skeptoid are they self-published sources?"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "''The Skeptic's Dictionary'' is a book by [[Robert Todd Carroll]] that expanded into a website. The website is a [[WP:SPS|self-published source]] (by a subject-matter expert) and should not be used as a source of information on [[WP:BLPSPS|other living persons]]. [[WP:INTEXT|Attribution]] may be necessary. In some cases, it's preferable to read and cite the sources cited by ''The Skeptic's Dictionary''. As it often covers [[WP:FRINGE|fringe]] material, [[WP:PARITY|parity of sources]] may be relevant.",
     "domain": "skepdic.com"
@@ -249,10 +279,14 @@
     "name": "Skeptical Inquirer",
     "sort_name": "Skeptical Inquirer",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 364#Columns at Skeptical Inquirer",
-      "Wikipedia:Arbitration/Requests/Case/Skepticism and coordinated editing/Proposed decision#Skeptical Inquirer as a reliable source"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 364#Columns at Skeptical Inquirer"
+      ],
+      "other": [
+        "Wikipedia:Arbitration/Requests/Case/Skepticism and coordinated editing/Proposed decision#Skeptical Inquirer as a reliable source"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "373",
@@ -270,11 +304,13 @@
     "name": "The Skwawkbox",
     "sort_name": "Skwawkbox",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 274#Seeking acceptance of reliability of UK progressive online only news sites – The Canary, Evolve Politics and Skwawkbox",
-      "WP:Reliable sources/Noticeboard/Archive 288#Move Skwawkbox to at least 'no consensus' section",
-      "WP:Reliable sources/Noticeboard/Archive 435#Deprecate/blacklist The Skwawkbox"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 274#Seeking acceptance of reliability of UK progressive online only news sites – The Canary, Evolve Politics and Skwawkbox",
+        "WP:Reliable sources/Noticeboard/Archive 288#Move Skwawkbox to at least 'no consensus' section",
+        "WP:Reliable sources/Noticeboard/Archive 435#Deprecate/blacklist The Skwawkbox"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "''The Skwawkbox'' is considered generally unreliable because it is [[WP:SPS|self-published]]. Most editors describe ''The Skwawkbox'' as [[WP:BIASED|biased or opinionated]].",
     "domain": "skwawkbox.org"
@@ -284,9 +320,11 @@
     "name": "Sky News Australia",
     "sort_name": "Sky News Australia",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 448#Sky News Australia and the Women's boxing controversy"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 448#Sky News Australia and the Women's boxing controversy"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "384",
@@ -306,12 +344,14 @@
     "sort_name": "Sky News",
     "shortcut": "WP:SKYNEWSUK",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 205#Alleged war crimes by Russians in Syria",
-      "WP:Reliable sources/Noticeboard/Archive 334#Sky News",
-      "WP:Reliable sources/Noticeboard/Archive 390#LBC News",
-      "WP:Reliable sources/Noticeboard/Archive 458#Sky News caught manipulating footage"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 205#Alleged war crimes by Russians in Syria",
+        "WP:Reliable sources/Noticeboard/Archive 334#Sky News",
+        "WP:Reliable sources/Noticeboard/Archive 390#LBC News",
+        "WP:Reliable sources/Noticeboard/Archive 458#Sky News caught manipulating footage"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "Sky News (UK) is considered an ordinary [[WP:NEWSORG]] and is thus presumed generally reliable. Sky News UK is unaffiliated with Sky News Australia. Sky News UK has partial ownership of Sky News Arabia.",
     "domain": "news.sky.com"
@@ -322,7 +362,9 @@
     "sort_name": "Snopes",
     "shortcut": "WP:SNOPES",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2021",
     "summary": "Snopes is certified by the {{pslink|International Fact-Checking Network}}, and is considered generally reliable. [[WP:INTEXT|Attribution]] may be necessary. Since it often covers [[WP:FRINGE|fringe]] material, [[WP:PARITY|parity of sources]] may be relevant.",
     "domain": "snopes.com"
@@ -332,10 +374,12 @@
     "name": "Social Blade",
     "sort_name": "Social Blade",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 350#Reliability of Social Blade",
-      "WP:Reliable sources/Noticeboard/Archive 425#Is Social Blade a reliable source for YouTube statistics?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 350#Reliability of Social Blade",
+        "WP:Reliable sources/Noticeboard/Archive 425#Is Social Blade a reliable source for YouTube statistics?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "442",
@@ -353,11 +397,13 @@
     "name": "SourceWatch",
     "sort_name": "SourceWatch",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 60#Sourcewatch",
-      "WP:Reliable sources/Noticeboard/Archive 75#Sourcewatch",
-      "WP:Reliable sources/Noticeboard/Archive 214#Is SourceWatch a reliable source under the Exceptions section of UGC?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 60#Sourcewatch",
+        "WP:Reliable sources/Noticeboard/Archive 75#Sourcewatch",
+        "WP:Reliable sources/Noticeboard/Archive 214#Is SourceWatch a reliable source under the Exceptions section of UGC?"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "As an [[WP:UGC|open wiki]], SourceWatch is considered generally unreliable. SourceWatch is operated by the [[Center for Media and Democracy]].",
     "domain": "sourcewatch.org"
@@ -367,7 +413,9 @@
     "name": "The South African",
     "sort_name": "South African",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "453",
@@ -387,9 +435,11 @@
     "sort_name": "South China Morning Post",
     "shortcut": "WP:SCMP",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 309#South China Morning Post (and Lin Nguyen, a fabricated writer)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 309#South China Morning Post (and Lin Nguyen, a fabricated writer)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "319",
@@ -409,7 +459,9 @@
     "sort_name": "Southern Poverty Law Center",
     "shortcut": "WP:SPLC",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "481",
@@ -429,9 +481,11 @@
     "sort_name": "SouthFront",
     "shortcut": "WP:SOUTHFRONT",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 283#southfront.org"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 283#southfront.org"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "281",
@@ -450,10 +504,12 @@
     "sort_name": "Space.com",
     "shortcut": "WP:SPACE.COM",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 125#Space.com claim that Iran plans moon program",
-      "WP:Reliable sources/Noticeboard/Archive 335#RfC: Space.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 125#Space.com claim that Iran plans moon program",
+        "WP:Reliable sources/Noticeboard/Archive 335#RfC: Space.com"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "Space.com may be reliable for astronomy and spaceflight news, and has a reputation for being generally accurate. Space.com articles often have a sensational tone, which might degrade their quality, so it is necessary to check the author's qualification below the article. Care should also be taken as the site publishes a lot of syndicated material and is prone to occasional [[churnalism]].",
     "domain": "space.com"
@@ -463,10 +519,12 @@
     "name": "SparkNotes",
     "sort_name": "SparkNotes",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 227#Reliability of Cliffsnotes, Sparknotes and study guides in general",
-      "WP:Reliable sources/Noticeboard/Archive 236#Reliability of CliffsNotes and SparkNotes?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 227#Reliability of Cliffsnotes, Sparknotes and study guides in general",
+        "WP:Reliable sources/Noticeboard/Archive 236#Reliability of CliffsNotes and SparkNotes?"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "SparkNotes is a [[study guide]]. Editors consider SparkNotes usable for superficial analyses of literature, and recommend supplementing SparkNotes citations with additional sources.",
     "domain": "sparknotes.com"
@@ -477,10 +535,12 @@
     "sort_name": "Spectator",
     "shortcut": "WP:SPECTATOR",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 203#Is Alex Massie in the Spectator a reliable source for a known and unchallenged legal distinction?",
-      "WP:Reliable sources/Noticeboard/Archive 298#The Spectator"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 203#Is Alex Massie in the Spectator a reliable source for a known and unchallenged legal distinction?",
+        "WP:Reliable sources/Noticeboard/Archive 298#The Spectator"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "''The Spectator'' primarily consists of opinion pieces and these should be judged by [[WP:RSOPINION]], [[WP:RSEDITORIAL]], and [[WP:NEWSBLOG]].",
     "domain": "spectator.co.uk"
@@ -491,7 +551,9 @@
     "name": "Der Spiegel",
     "sort_name": "Spiegel",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2018",
     "summary": "There is consensus that ''Der Spiegel'' is generally reliable. Articles written by [[Claas Relotius]] are fabrications, and are thus unreliable.",
     "domain": "spiegel.de"
@@ -501,10 +563,12 @@
     "name": "Spirit of Metal",
     "sort_name": "Spirit of Metal",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 32#www.spirit-of-metal.com",
-      "WP:Reliable sources/Noticeboard/Archive 66#Amazon & spirit of metal"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 32#www.spirit-of-metal.com",
+        "WP:Reliable sources/Noticeboard/Archive 66#Amazon & spirit of metal"
+      ]
+    },
     "rsp_last": "2010",
     "summary": "Spirit of Metal is considered a [[WP:SELFPUBLISHED|self-published source]] and generally unreliable.",
     "domain": "spirit-of-metal.com"
@@ -515,12 +579,14 @@
     "content_qualifier": "(pre-June 2019)",
     "sort_name": "Sports Illustrated",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 421#Sports Illustrated",
-      "WP:Reliable sources/Noticeboard/Archive 422#RfC: Sports Illustrated",
-      "WP:Reliable sources/Noticeboard/Archive 425#Sports Illustrated...",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 471#Sports Illustrated"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 421#Sports Illustrated",
+        "WP:Reliable sources/Noticeboard/Archive 422#RfC: Sports Illustrated",
+        "WP:Reliable sources/Noticeboard/Archive 425#Sports Illustrated...",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 471#Sports Illustrated"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is a general consensus that work by ''Sports Illustrated'' pre-acquisition by [[Maven Networks]] in June 2019 is considered generally reliable for sports-related news.",
     "domain": "si.com"
@@ -532,12 +598,14 @@
     "sort_name": "Sports Illustrated",
     "shortcut": "WP:RSPSI",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 421#Sports Illustrated",
-      "WP:Reliable sources/Noticeboard/Archive 422#RfC: Sports Illustrated",
-      "WP:Reliable sources/Noticeboard/Archive 425#Sports Illustrated...",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 471#Sports Illustrated"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 421#Sports Illustrated",
+        "WP:Reliable sources/Noticeboard/Archive 422#RfC: Sports Illustrated",
+        "WP:Reliable sources/Noticeboard/Archive 425#Sports Illustrated...",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 471#Sports Illustrated"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is a general consensus that at least some articles by ''Sports Illustrated'' post-acquisition by [[Maven Networks]] in June 2019 are considered unreliable. Following the purchase, Maven employed independent contractors for low pay and no benefits to write for the magazine, leading to a gradual decline in quality. This culminated in November 2023 when it was revealed that artificial intelligence (AI) had been used to write product review articles with little to no human oversight. While some veteran writers recognized as subject matter experts remain reliable on a case-by-case basis, editors should exercise caution to ensure that articles were not produced by AI or uncredited authors bylined as \"SI Staff\".",
     "domain": "si.com"
@@ -548,12 +616,14 @@
     "sort_name": "Sportskeeda",
     "shortcut": "WP:SPORTSKEEDA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 306#Sportskeeda",
-      "WP:Reliable sources/Noticeboard/Archive 343#Sportskeeda generally unreliable?",
-      "WP:Reliable sources/Noticeboard/Archive 352#Addition of Sportskeeda to Video Game sources",
-      "WP:Reliable sources/Noticeboard/Archive 417#Sportskeeda"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 306#Sportskeeda",
+        "WP:Reliable sources/Noticeboard/Archive 343#Sportskeeda generally unreliable?",
+        "WP:Reliable sources/Noticeboard/Archive 352#Addition of Sportskeeda to Video Game sources",
+        "WP:Reliable sources/Noticeboard/Archive 417#Sportskeeda"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Sportskeeda is considered generally unreliable due to a consensus that there is little or no editorial oversight over the website's content, which is largely user-written.",
     "domain": "sportskeeda.com"
@@ -564,13 +634,15 @@
     "sort_name": "Sputnik (news agency)",
     "shortcut": "WP:SPUTNIK",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 205#Sputnik News",
-      "WP:Reliable sources/Noticeboard/Archive 212#Source being used in the S-400 article",
-      "WP:Reliable sources/Noticeboard/Archive 246#Sputnik (news agency)",
-      "WP:Reliable sources/Noticeboard/Archive 337#Sputnik-Abkhazia",
-      "WP:Reliable sources/Noticeboard/Archive 367#Sputnik, kind of"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 205#Sputnik News",
+        "WP:Reliable sources/Noticeboard/Archive 212#Source being used in the S-400 article",
+        "WP:Reliable sources/Noticeboard/Archive 246#Sputnik (news agency)",
+        "WP:Reliable sources/Noticeboard/Archive 337#Sputnik-Abkhazia",
+        "WP:Reliable sources/Noticeboard/Archive 367#Sputnik, kind of"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "296",
@@ -589,12 +661,16 @@
     "name": "Stack Exchange",
     "sort_name": "Stack Exchange",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 168#Stack Overflow a reliable source for an algorithm?",
-      "WP:Reliable sources/Noticeboard/Archive 228#Can the Stack Exchange Network be considered reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 402#Is Stack Exchange a reliable source",
-      "Talk:Leap year/Archive 3#RfC: use \"peer-reviewed\" in connection with stackoverflow.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 168#Stack Overflow a reliable source for an algorithm?",
+        "WP:Reliable sources/Noticeboard/Archive 228#Can the Stack Exchange Network be considered reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 402#Is Stack Exchange a reliable source"
+      ],
+      "other": [
+        "Talk:Leap year/Archive 3#RfC: use \"peer-reviewed\" in connection with stackoverflow.com"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Stack Exchange is a network of [[Q&A site]]s, including [[Stack Overflow]], [[MathOverflow]], and [[Ask Ubuntu]]. As an Internet forum, it is a [[WP:SPS|self-published source]] that incorporates [[WP:UGC|user-generated content]], and is considered generally unreliable.",
     "domain": "stackexchange.com"
@@ -604,11 +680,13 @@
     "name": "StarsUnfolded",
     "sort_name": "StarsUnfolded",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 214#starsunfolded.com",
-      "WP:Reliable sources/Noticeboard/Archive 256#Starsunfolded.com",
-      "WP:Reliable sources/Noticeboard/Archive 303#Recommend deprecating starsunfolded.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 214#starsunfolded.com",
+        "WP:Reliable sources/Noticeboard/Archive 256#Starsunfolded.com",
+        "WP:Reliable sources/Noticeboard/Archive 303#Recommend deprecating starsunfolded.com"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that StarsUnfolded is unreliable as it is a [[WP:SPS|self-published source]].",
     "domain": "starsunfolded.com"
@@ -619,13 +697,15 @@
     "sort_name": "Statista",
     "shortcut": "WP:STATISTA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 269#Statista",
-      "WP:Reliable sources/Noticeboard/Archive 311#Statista.com",
-      "WP:Reliable sources/Noticeboard/Archive 366#Statista",
-      "WP:Reliable sources/Noticeboard/Archive 388#Statista",
-      "WP:Reliable sources/Noticeboard/Archive 403#Statista - April 2023"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 269#Statista",
+        "WP:Reliable sources/Noticeboard/Archive 311#Statista.com",
+        "WP:Reliable sources/Noticeboard/Archive 366#Statista",
+        "WP:Reliable sources/Noticeboard/Archive 388#Statista",
+        "WP:Reliable sources/Noticeboard/Archive 403#Statista - April 2023"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Statista aggregates statistical information from a number of sources, many of which are reliable. It is not the source of the statistics it displays, so should not be cited directly. It may be useful as a research tool to find sources of statistical information.",
     "domain": "statista.com"
@@ -636,9 +716,11 @@
     "sort_name": "Straits Times, The",
     "shortcut": "WP:STRAITSTIMES",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 486#Reliability of The Straits Times must be rediscussed"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 486#Reliability of The Straits Times must be rediscussed"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "350",
@@ -659,7 +741,9 @@
     "sort_name": "Sun",
     "shortcut": "WP:THESUN",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "254",
@@ -684,11 +768,13 @@
     "sort_name": "Swarajya (magazine)",
     "shortcut": "WP:SWARAJYA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 278#I searched for Swarajya magzine in archives or its reliability but cannot find either.",
-      "WP:Reliable sources/Noticeboard/Archive 288#OpIndia and Swarajya",
-      "WP:Reliable sources/Noticeboard/Archive 347#Laundering Swarajya and citing opinion articles"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 278#I searched for Swarajya magzine in archives or its reliability but cannot find either.",
+        "WP:Reliable sources/Noticeboard/Archive 288#OpIndia and Swarajya",
+        "WP:Reliable sources/Noticeboard/Archive 347#Laundering Swarajya and citing opinion articles"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "Due to persistent abuse, ''Swarajya'' is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. ''Swarajya'' is considered generally unreliable due to its poor reputation for fact-checking and accuracy. In the [[WP:Reliable sources/Noticeboard/Archive 288#OpIndia and Swarajya|2020 discussion]], most editors expressed support for [[WP:DEPREC|deprecating]] ''Swarajya''. Editors consider the publication [[WP:BIASED|biased or opinionated]]. ''Swarajya'' was formerly the parent publication of {{pslink|OpIndia}}, and frequently republishes content from OpIndia under the \"Swarajya Staff\" [[byline]]. ''See also: {{pslink|OpIndia}}.''",
     "domain": "swarajyamag.com"
@@ -698,9 +784,11 @@
     "name": "The Sydney Morning Herald",
     "sort_name": "Sydney Morning Herald, The",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 377#Sydney Morning Herald and outing"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 377#Sydney Morning Herald and outing"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "352",
@@ -719,9 +807,11 @@
     "name": "Taki's Magazine",
     "sort_name": "Taki's Magazine",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 112#Taki's Magazine used as a source at James Kirchick"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 112#Taki's Magazine used as a source at James Kirchick"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "273",
@@ -740,13 +830,15 @@
     "sort_name": "Tasnim News Agency",
     "shortcut": "WP:TASNIMNEWSAGENCY",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 234#Tasnim",
-      "WP:Reliable sources/Noticeboard/Archive 264#Tasnimnews ?",
-      "WP:Reliable sources/Noticeboard/Archive 399#Iranian government and IRGC-linked sources",
-      "WP:Reliable sources/Noticeboard/Archive 419#Tasnim News Agency for specific use case",
-      "WP:Reliable sources/Noticeboard/Archive 431#Tasnim News Agency - revisiting its reliability"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 234#Tasnim",
+        "WP:Reliable sources/Noticeboard/Archive 264#Tasnimnews ?",
+        "WP:Reliable sources/Noticeboard/Archive 399#Iranian government and IRGC-linked sources",
+        "WP:Reliable sources/Noticeboard/Archive 419#Tasnim News Agency for specific use case",
+        "WP:Reliable sources/Noticeboard/Archive 431#Tasnim News Agency - revisiting its reliability"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "431",
@@ -766,10 +858,12 @@
     "sort_name": "TASS",
     "shortcut": "WP:TASS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 370#Use of TASS for Ukranian refugee figures",
-      "WP:Reliable sources/Noticeboard/Archive 377#TASS, Interfax (russian version) and RIA Novosti's reliability on the 2022 Russian invasion of Ukraine (especially on alleged attacks in Russia)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 370#Use of TASS for Ukranian refugee figures",
+        "WP:Reliable sources/Noticeboard/Archive 377#TASS, Interfax (russian version) and RIA Novosti's reliability on the 2022 Russian invasion of Ukraine (especially on alleged attacks in Russia)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "260",
@@ -794,13 +888,15 @@
     "sort_name": "TechCrunch",
     "shortcut": "WP:TECHCRUNCH",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 110#TechCrunch and Engadget",
-      "WP:Reliable sources/Noticeboard/Archive 87#techcrunch.com",
-      "WP:Reliable sources/Noticeboard/Archive 221#Are news articles written by TechCrunch staff considered RS?",
-      "WP:Reliable sources/Noticeboard/Archive 246#Is TechCrunch a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 486#TechCrunch, VentureBeat, and Business Insider"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 110#TechCrunch and Engadget",
+        "WP:Reliable sources/Noticeboard/Archive 87#techcrunch.com",
+        "WP:Reliable sources/Noticeboard/Archive 221#Are news articles written by TechCrunch staff considered RS?",
+        "WP:Reliable sources/Noticeboard/Archive 246#Is TechCrunch a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 486#TechCrunch, VentureBeat, and Business Insider"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "Careful consideration should be given to whether a piece is written by staff or as a part of their blog, as well as whether the piece/writer may have a conflict of interest, and to what extent they rely on public relations material from their subject for their writing. TechCrunch may be useful for satisfying [[WP:V|verifiability]], though their articles often have too little independent analysis to satisfy [[WP:CORPDEPTH]].",
     "domain": "techcrunch.com"
@@ -811,10 +907,12 @@
     "sort_name": "TED (conference)",
     "shortcut": "WP:RSPTED",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 207#Is this TED talk a reliable source for cost of Space Shuttle?",
-      "WP:Reliable sources/Noticeboard/Archive 436#TED Talks (from ted.com or youtube)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 207#Is this TED talk a reliable source for cost of Space Shuttle?",
+        "WP:Reliable sources/Noticeboard/Archive 436#TED Talks (from ted.com or youtube)"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "TED content (from [[TED (conference)#TED.com|ted.com]] or youtube.com) may be valid [[WP:RS|RS]], assuming the speaker is considered reliable and an expert on what they are talking about. Content about the speaker themselves should abide by [[WP:ABOUTSELF|ABOUTSELF]] and [[WP:WEIGHT|WEIGHT]]. TedX content has no quality standard or editorial oversight.",
     "domain": "ted.com"
@@ -825,10 +923,12 @@
     "sort_name": "Telesur",
     "shortcut": "WP:TELESUR",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 46#TeleSUR",
-      "WP:Reliable sources/Noticeboard/Archive 211#TeleSur English"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 46#TeleSUR",
+        "WP:Reliable sources/Noticeboard/Archive 211#TeleSur English"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "262",
@@ -846,10 +946,12 @@
     "name": "ThinkProgress",
     "sort_name": "ThinkProgress",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 78#Thinkprogress.org",
-      "WP:Reliable sources/Noticeboard/Archive 153#thinkprogress.org as a generally accepted WP:RS"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 78#Thinkprogress.org",
+        "WP:Reliable sources/Noticeboard/Archive 153#thinkprogress.org as a generally accepted WP:RS"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "153",
@@ -868,14 +970,18 @@
     "sort_name": "Time (magazine)",
     "shortcut": "WP:RSPTIME",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 8#Christopher Hitchens, \"Time\" magazine and \"Washington Post\" as RS",
-      "WP:Reliable sources/Noticeboard/Archive 103#TIME Techland",
-      "WP:Reliable sources/Noticeboard/Archive 109#TIME magazine",
-      "WP:Reliable sources/Noticeboard/Archive 120#Unresolved situation: Is Time Magazine a RS? Is IMDB a RS?",
-      "WP:Reliable sources/Noticeboard/Archive 266#Karol Markowicz writing for TIME",
-      "Wikipedia talk:Reliable sources/Perennial sources/Archive 9#Why is Time Magazine green?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 8#Christopher Hitchens, \"Time\" magazine and \"Washington Post\" as RS",
+        "WP:Reliable sources/Noticeboard/Archive 103#TIME Techland",
+        "WP:Reliable sources/Noticeboard/Archive 109#TIME magazine",
+        "WP:Reliable sources/Noticeboard/Archive 120#Unresolved situation: Is Time Magazine a RS? Is IMDB a RS?",
+        "WP:Reliable sources/Noticeboard/Archive 266#Karol Markowicz writing for TIME"
+      ],
+      "other": [
+        "Wikipedia talk:Reliable sources/Perennial sources/Archive 9#Why is Time Magazine green?"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that ''Time'' is generally reliable. ''Time''<nowiki />'s [[WP:NEWSBLOG|magazine blogs]], including Techland, should be handled with the appropriate policy. Refer to [[WP:NEWSORG]] for guidance on [[op-ed]]s, which should only be used with [[WP:INTEXT|attribution]].",
     "domain": "time.com"
@@ -887,7 +993,9 @@
     "sort_name": "Times",
     "shortcut": "WP:THETIMES",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "392",
@@ -907,13 +1015,15 @@
     "sort_name": "Times of Israel",
     "shortcut": "WP:TIMESOFISRAEL",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 192#Times of Israel",
-      "WP:Reliable sources/Noticeboard/Archive 442#Stop using The Times of Israel as a source for Israel-Palestine conflict news.",
-      "WP:Reliable sources/Noticeboard/Archive 457#What does everyone think about the Times of Israel?",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 461#Times of Israel blogs",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 468#The Times of Israel and fake news."
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 192#Times of Israel",
+        "WP:Reliable sources/Noticeboard/Archive 442#Stop using The Times of Israel as a source for Israel-Palestine conflict news.",
+        "WP:Reliable sources/Noticeboard/Archive 457#What does everyone think about the Times of Israel?",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 461#Times of Israel blogs",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 468#The Times of Israel and fake news."
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "461",
@@ -934,13 +1044,15 @@
     "sort_name": "Times of India",
     "shortcut": "WP:TIMESOFINDIA",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 320#The Times of India",
-      "WP:Reliable sources/Noticeboard/Archive 342#Valid Sources?",
-      "WP:Reliable sources/Noticeboard/Archive 353#Circular references from The Times of India",
-      "WP:Reliable sources/Noticeboard/Archive 364#Times of India is not that pro-government as mentioned ?",
-      "WP:Reliable sources/Noticeboard/Archive 442#Times of India running AI-generated articles?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 320#The Times of India",
+        "WP:Reliable sources/Noticeboard/Archive 342#Valid Sources?",
+        "WP:Reliable sources/Noticeboard/Archive 353#Circular references from The Times of India",
+        "WP:Reliable sources/Noticeboard/Archive 364#Times of India is not that pro-government as mentioned ?",
+        "WP:Reliable sources/Noticeboard/Archive 442#Times of India running AI-generated articles?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "287",
@@ -965,7 +1077,9 @@
     "sort_name": "TMZ",
     "shortcut": "WP:TMZ",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2022",
     "summary": "There is no consensus on the reliability of TMZ. Although TMZ is cited by reliable sources, most editors consider TMZ a low-quality source and prefer more reliable sources when available. Because TMZ frequently publishes articles based on rumor and speculation without named sources, it is recommended to explicitly [[WP:INTEXT|attribute]] statements to TMZ if used. When TMZ is the only source for a piece of information, consider also whether the information constitutes [[WP:DUE|due or undue weight]], especially when the subject is a [[WP:BLP|living person]].",
     "domain": "tmz.com"
@@ -976,16 +1090,18 @@
     "name": "TorrentFreak",
     "sort_name": "TorrentFreak",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 28#Using a blog to reference information on illegal online activity?",
-      "WP:Reliable sources/Noticeboard/Archive 34#Reliability check on TorrentFreak",
-      "WP:Reliable sources/Noticeboard/Archive 63#TorrentFreak",
-      "WP:Reliable sources/Noticeboard/Archive 118#Sources at Web Sheriff",
-      "WP:Reliable sources/Noticeboard/Archive 120#TorrentFreak",
-      "WP:Reliable sources/Noticeboard/Archive 197#TorrentFreak, again",
-      "WP:Reliable sources/Noticeboard/Archive 204#Popcorn Time",
-      "WP:Reliable sources/Noticeboard/Archive 268#TorrentFreak for Web Sheriff"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 28#Using a blog to reference information on illegal online activity?",
+        "WP:Reliable sources/Noticeboard/Archive 34#Reliability check on TorrentFreak",
+        "WP:Reliable sources/Noticeboard/Archive 63#TorrentFreak",
+        "WP:Reliable sources/Noticeboard/Archive 118#Sources at Web Sheriff",
+        "WP:Reliable sources/Noticeboard/Archive 120#TorrentFreak",
+        "WP:Reliable sources/Noticeboard/Archive 197#TorrentFreak, again",
+        "WP:Reliable sources/Noticeboard/Archive 204#Popcorn Time",
+        "WP:Reliable sources/Noticeboard/Archive 268#TorrentFreak for Web Sheriff"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Most editors consider TorrentFreak generally reliable on topics involving file sharing. Editors note references to the website in mainstream media. The source may or may not be reliable for other topics.",
     "domain": "torrentfreak.com"
@@ -996,10 +1112,14 @@
     "content_qualifier": "(UK)",
     "sort_name": "Town and Village Guide (UK)",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 457#Town & Village Guide (UK)",
-      "Wikipedia talk:WikiProject UK geography/Archive 43#Unreliable source? \"Town and Village Guide\""
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 457#Town & Village Guide (UK)"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject UK geography/Archive 43#Unreliable source? \"Town and Village Guide\""
+      ]
+    },
     "rsp_last": "2024",
     "summary": "As of 2024, there is consensus that Town and Village Guide is a directory service scraping Google Maps and is probably AI-generated. It lacks information as to its publisher, fact checking, and editorial board, making it a [[WP:SPS|self-published source]].",
     "domain": "townandvillageguide.com"
@@ -1009,11 +1129,13 @@
     "name": "Townhall",
     "sort_name": "Townhall",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 23#http://townhall.com/",
-      "WP:Reliable sources/Noticeboard/Archive 69#Is Townhall.com a reliable source for proving opposing opinions?",
-      "WP:Reliable sources/Noticeboard/Archive 248#Why Townhall is not a RS"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 23#http://townhall.com/",
+        "WP:Reliable sources/Noticeboard/Archive 69#Is Townhall.com a reliable source for proving opposing opinions?",
+        "WP:Reliable sources/Noticeboard/Archive 248#Why Townhall is not a RS"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "As of 2010, a few editors commented that opinion pieces in Townhall are reliable as a source for the opinion of the author of the individual piece, although they may not be reliable for [[WP:INTEXT|unattributed]] statements of fact, and context will dictate whether the opinion of the author as such, meets the standard of [[WP:DUEWEIGHT]].",
     "domain": "townhall.com"
@@ -1025,9 +1147,11 @@
     "sort_name": "TRT World",
     "shortcut": "WP:TRT",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 394#TRT for post Paris shooting events"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 394#TRT for post Paris shooting events"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "267",
@@ -1047,11 +1171,13 @@
     "sort_name": "Truth About Guns",
     "shortcut": "WP:TTAG",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 259#thetruthaboutguns.com",
-      "WP:Reliable sources/Noticeboard/Archive 270#thetruthaboutguns.com",
-      "WP:Reliable sources/Noticeboard/Archive 272#thetruthaboutguns.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 259#thetruthaboutguns.com",
+        "WP:Reliable sources/Noticeboard/Archive 270#thetruthaboutguns.com",
+        "WP:Reliable sources/Noticeboard/Archive 272#thetruthaboutguns.com"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "The Truth About Guns is a [[WP:BLOGS|group blog]]. There is consensus that TTAG does not have a strong reputation for fact-checking and accuracy. TTAG has promoted [[conspiracy theories]], and does not clearly label its [[WP:SPONSORED|sponsored content]]. Editors agree that TTAG is [[WP:BIASED|biased or opinionated]]. Opinions in TTAG are likely to constitute [[WP:UNDUE|undue weight]].",
     "domain": "thetruthaboutguns.com"
@@ -1061,14 +1187,16 @@
     "name": "TV.com",
     "sort_name": "TV.com",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 34#TV.com",
-      "WP:Reliable sources/Noticeboard/Archive 42#Channel 4 TV edit",
-      "WP:Reliable sources/Noticeboard/Archive 50#TV.com and IMDB",
-      "WP:Reliable sources/Noticeboard/Archive 57#Is TV.com a reliable source or wikipedia mirror?",
-      "WP:Reliable sources/Noticeboard/Archive 131#TV.com",
-      "WP:Reliable sources/Noticeboard/Archive 313#TV.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 34#TV.com",
+        "WP:Reliable sources/Noticeboard/Archive 42#Channel 4 TV edit",
+        "WP:Reliable sources/Noticeboard/Archive 50#TV.com and IMDB",
+        "WP:Reliable sources/Noticeboard/Archive 57#Is TV.com a reliable source or wikipedia mirror?",
+        "WP:Reliable sources/Noticeboard/Archive 131#TV.com",
+        "WP:Reliable sources/Noticeboard/Archive 313#TV.com"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "TV.com was largely [[WP:USERGENERATED|user-generated]] and generally unreliable. Some editors believe material published by its own staff may be cited. TV.com shut down in July 2021; website content is no longer accessible unless archived.",
     "domain": "TV.com"
@@ -1078,13 +1206,15 @@
     "name": "TV Guide",
     "sort_name": "TV Guide",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 88#TV Guide.com",
-      "WP:Reliable sources/Noticeboard/Archive 120#TV Guide",
-      "WP:Reliable sources/Noticeboard/Archive 335#Are Astrodatabank, TV Guide, Ranker.com, Google Arts & Culture reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 380#TV Guide for a birth date",
-      "WP:Reliable sources/Noticeboard/Archive 426#TV Guide re: Film, Actors, Directors, Bios., etc."
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 88#TV Guide.com",
+        "WP:Reliable sources/Noticeboard/Archive 120#TV Guide",
+        "WP:Reliable sources/Noticeboard/Archive 335#Are Astrodatabank, TV Guide, Ranker.com, Google Arts & Culture reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 380#TV Guide for a birth date",
+        "WP:Reliable sources/Noticeboard/Archive 426#TV Guide re: Film, Actors, Directors, Bios., etc."
+      ]
+    },
     "rsp_last": "2024",
     "summary": "''TV Guide'' is considered generally reliable for television-related topics. Some editors consider ''TV Guide'' a [[WP:PRIMARY|primary source]] for air dates.",
     "domain": "tvguide.com"
@@ -1095,12 +1225,16 @@
     "sort_name": "TV Tropes",
     "shortcut": "WP:RSPTVTROPES",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 80#tvtropes.org",
-      "WP:Reliable sources/Noticeboard/Archive 211#TVTropes",
-      "WP:Reliable sources/Noticeboard/Archive 419#Valley View Center",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 16#I would like to know your opinion on these sites."
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 80#tvtropes.org",
+        "WP:Reliable sources/Noticeboard/Archive 211#TVTropes",
+        "WP:Reliable sources/Noticeboard/Archive 419#Valley View Center"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 16#I would like to know your opinion on these sites."
+      ]
+    },
     "rsp_last": "2023",
     "summary": "TV Tropes is considered generally unreliable because it is an [[WP:UGC|open wiki]], which is a type of [[WP:SPS|self-published source]].",
     "domain": "tvtropes.org"
@@ -1112,7 +1246,9 @@
     "sort_name": "Twitter",
     "shortcut": "WP:RSPX",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2025",
     "summary": "Twitter (rebranded to X since July 2023) is a social network. As a [[WP:SPS|self-published source]], it is considered generally unreliable and should be avoided unless the author is a [[WP:EXPERTSOURCE|subject-matter expert]] or the tweet is used for an [[WP:ABOUTSELF|uncontroversial self-description]]. In most cases, Twitter accounts should only be cited if the user's identity is confirmed in some way. Tweets that are not covered by reliable sources are likely to constitute [[WP:UNDUE|undue weight]]. Twitter should never be used for [[WP:THIRDPARTY|third-party claims]] claims related to [[WP:BLPSPS|living persons]].",
     "domain": "x.com"

@@ -6,7 +6,9 @@
     "sort_name": "",
     "shortcut": "WP:EADAILY",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "404",
@@ -25,12 +27,14 @@
     "sort_name": "Economist",
     "shortcut": "WP:THEECONOMIST",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 91#The Economist and Hindus victims in Gujarat and Kashmir, India",
-      "WP:Reliable sources/Noticeboard/Archive 109#Economist blogs and New York Times opinion pieces",
-      "WP:Reliable sources/Noticeboard/Archive 190#Economist versus letter to local paper",
-      "WP:Reliable sources/Noticeboard/Archive 450#The Economist, as an acceptable resource."
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 91#The Economist and Hindus victims in Gujarat and Kashmir, India",
+        "WP:Reliable sources/Noticeboard/Archive 109#Economist blogs and New York Times opinion pieces",
+        "WP:Reliable sources/Noticeboard/Archive 190#Economist versus letter to local paper",
+        "WP:Reliable sources/Noticeboard/Archive 450#The Economist, as an acceptable resource."
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "393",
@@ -50,16 +54,18 @@
     "sort_name": "Electronic Intifada",
     "shortcut": "WP:ELECTRONICINTIFADA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 20#The Electronic Intifada",
-      "WP:Reliable sources/Noticeboard/Archive 37#Electronic Intifada",
-      "WP:Reliable sources/Noticeboard/Archive 51#Palestine Telegraph; Adallah's Newsletter, Electronic Intifada, Journal of Refugee Studies, Dissident Voice, and Islam Online",
-      "WP:Reliable sources/Noticeboard/Archive 136#Electronic Intifada",
-      "WP:Reliable sources/Noticeboard/Archive 140#Electronic Intifada and allegations of Mossad relationship",
-      "WP:Reliable sources/Noticeboard/Archive 156#Is electronic intifada a a reliable source regarding issues related to Arab–Israeli conflict, Zionism, Holocaust Anti-Semitism and relationship between Arab world and Nazi Germany",
-      "WP:Reliable sources/Noticeboard/Archive 172#Electronic Intifada",
-      "WP:Reliable sources/Noticeboard/Archive 250#Electronic Intifada (Again)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 20#The Electronic Intifada",
+        "WP:Reliable sources/Noticeboard/Archive 37#Electronic Intifada",
+        "WP:Reliable sources/Noticeboard/Archive 51#Palestine Telegraph; Adallah's Newsletter, Electronic Intifada, Journal of Refugee Studies, Dissident Voice, and Islam Online",
+        "WP:Reliable sources/Noticeboard/Archive 136#Electronic Intifada",
+        "WP:Reliable sources/Noticeboard/Archive 140#Electronic Intifada and allegations of Mossad relationship",
+        "WP:Reliable sources/Noticeboard/Archive 156#Is electronic intifada a a reliable source regarding issues related to Arab–Israeli conflict, Zionism, Holocaust Anti-Semitism and relationship between Arab world and Nazi Germany",
+        "WP:Reliable sources/Noticeboard/Archive 172#Electronic Intifada",
+        "WP:Reliable sources/Noticeboard/Archive 250#Electronic Intifada (Again)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "429",
@@ -77,11 +83,13 @@
     "name": "Encyclopedia.com",
     "sort_name": "Encyclopedia.com",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable_sources/Noticeboard/Archive_22#Encyclopedia_content_hosted_on_Answers.com_and_Highbeam_(encyclopedia.com)",
-      "WP:Reliable_sources/Noticeboard/Archive_279#Encyclopedia.com",
-      "WP:Reliable_sources/Noticeboard/Archive_210#Encyclopedia.com,_reliable_or_not?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable_sources/Noticeboard/Archive_22#Encyclopedia_content_hosted_on_Answers.com_and_Highbeam_(encyclopedia.com)",
+        "WP:Reliable_sources/Noticeboard/Archive_279#Encyclopedia.com",
+        "WP:Reliable_sources/Noticeboard/Archive_210#Encyclopedia.com,_reliable_or_not?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "490",
@@ -101,7 +109,9 @@
     "sort_name": "Encyclopædia Britannica",
     "shortcut": "WP:BRITANNICA",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2022",
     "summary": "There is no consensus regarding the reliability of the ''Encyclopædia Britannica'' (including its online edition, [[Encyclopædia Britannica Online|''Encyclopædia Britannica'' Online]]). Its editorial process includes fact checking and publishing corrections. ''Encyclopædia Britannica'' is a [[WP:TERTIARY|tertiary source]]. Some online entries are written by subject matter experts, while others are written by freelancers or editors, and entries should be evaluated on an individual basis. Editors prefer reliable [[WP:SECONDARY|secondary sources]] over the ''Encyclopædia Britannica'' when available. From 2009 to 2010, the ''Encyclopædia Britannica'' Online accepted a small number of content submissions from the general public. Although these submissions undergo the encyclopedia's editorial process, some editors believe that content from non-staff contributors is less reliable than the encyclopedia's staff-authored content. Content authorship is disclosed in the article history.",
     "domain": "britannica.com"
@@ -111,13 +121,15 @@
     "name": "Encyclopædia Iranica",
     "sort_name": "Encyclopædia Iranica",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 57#Encyclopedia Iranica",
-      "WP:Reliable sources/Noticeboard/Archive 79#Encyclopaedia Iranica",
-      "WP:Reliable sources/Noticeboard/Archive 305#Encyclopædia Iranica",
-      "WP:Reliable sources/Noticeboard/Archive 326#Encyclopædia Iranica",
-      "WP:Reliable sources/Noticeboard/Archive 368#Encyclopaedia Iranica RS?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 57#Encyclopedia Iranica",
+        "WP:Reliable sources/Noticeboard/Archive 79#Encyclopaedia Iranica",
+        "WP:Reliable sources/Noticeboard/Archive 305#Encyclopædia Iranica",
+        "WP:Reliable sources/Noticeboard/Archive 326#Encyclopædia Iranica",
+        "WP:Reliable sources/Noticeboard/Archive 368#Encyclopaedia Iranica RS?"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "The ''Encyclopædia Iranica'' is considered generally reliable for Iran-related topics.",
     "domain": "iranicaonline.org"
@@ -129,12 +141,16 @@
     "sort_name": "Encyclopaedia Metallum",
     "shortcut": "WP:METALLUM",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 32#www.spirit-of-metal.com",
-      "WP:Reliable sources/Noticeboard/Archive 207#www.metal-archives.com",
-      "Talk:Encyclopaedia Metallum#Source",
-      "Wikipedia talk:WikiProject Albums/Archive 52#Genres and User-Contributed Sources"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 32#www.spirit-of-metal.com",
+        "WP:Reliable sources/Noticeboard/Archive 207#www.metal-archives.com"
+      ],
+      "other": [
+        "Talk:Encyclopaedia Metallum#Source",
+        "Wikipedia talk:WikiProject Albums/Archive 52#Genres and User-Contributed Sources"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "470",
@@ -152,7 +168,9 @@
     "name": "Encyclopedia Astronautica",
     "sort_name": "Encyclopedia Astronautica",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "419",
@@ -170,10 +188,14 @@
     "name": "Engadget",
     "sort_name": "Engadget",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 110#TechCrunch and Engadget",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Engadget"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 110#TechCrunch and Engadget"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Engadget"
+      ]
+    },
     "rsp_last": "2012",
     "summary": "Engadget is considered generally reliable for technology-related articles. Its statements should be [[WP:INTEXT|attributed]].",
     "domain": "engadget.com"
@@ -184,12 +206,16 @@
     "name": "Entertainment Weekly",
     "sort_name": "Entertainment Weekly",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 66#Allmovie",
-      "WP:Reliable sources/Noticeboard/Archive 170#Celebrity sources and distinguishing tabloid (newspaper format) from tabloid journalism",
-      "WP:Reliable sources/Noticeboard/Archive 246#Entertainment Weekly and David Duke",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Entertainment Weekly"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 66#Allmovie",
+        "WP:Reliable sources/Noticeboard/Archive 170#Celebrity sources and distinguishing tabloid (newspaper format) from tabloid journalism",
+        "WP:Reliable sources/Noticeboard/Archive 246#Entertainment Weekly and David Duke"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Entertainment Weekly"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "''Entertainment Weekly'' is considered generally reliable for entertainment-related articles. There is no consensus on whether it is reliable for other topics.",
     "domain": "ew.com"
@@ -200,9 +226,11 @@
     "name": "Entrepreneur (magazine)",
     "sort_name": "Entrepreneur (magazine)",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 343#No Consensus on Platforms - Need Assistance"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 343#No Consensus on Platforms - Need Assistance"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "314",
@@ -222,16 +250,18 @@
     "sort_name": "Epoch Times",
     "shortcut": "WP:EPOCHTIMES",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 15#The Epoch Times",
-      "WP:Reliable sources/Noticeboard/Archive 19#Is \"The Epoch Times\" a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 34#The Epoch Times",
-      "WP:Reliable sources/Noticeboard/Archive 191#Epoch Times for story on Monsanto lawsuit",
-      "WP:Reliable sources/Noticeboard/Archive 251#The Epoch Times for anything related to political controversies involving Falun Gong",
-      "WP:Reliable sources/Noticeboard/Archive 294#Should we be using this Falun Gong media outfit as a source for BLPs, politics, China, etc?",
-      "WP:Reliable sources/Noticeboard/Archive 295#Expert interview in Epoch Times spinoff channel",
-      "WP:Reliable sources/Noticeboard/Archive 376#Are NTD and vision times legit source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 15#The Epoch Times",
+        "WP:Reliable sources/Noticeboard/Archive 19#Is \"The Epoch Times\" a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 34#The Epoch Times",
+        "WP:Reliable sources/Noticeboard/Archive 191#Epoch Times for story on Monsanto lawsuit",
+        "WP:Reliable sources/Noticeboard/Archive 251#The Epoch Times for anything related to political controversies involving Falun Gong",
+        "WP:Reliable sources/Noticeboard/Archive 294#Should we be using this Falun Gong media outfit as a source for BLPs, politics, China, etc?",
+        "WP:Reliable sources/Noticeboard/Archive 295#Expert interview in Epoch Times spinoff channel",
+        "WP:Reliable sources/Noticeboard/Archive 376#Are NTD and vision times legit source?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "279",
@@ -249,7 +279,9 @@
     "name": "Ethnicity of Celebs",
     "sort_name": "Ethnicity of Celebs",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that Ethnicity of Celebs (ethnicelebs.com) is generally unreliable as [[WP:UGC|user-generated content]] with no claim of accuracy or fact-checking.",
     "domain": "ethnicelebs.com"
@@ -260,11 +292,13 @@
     "sort_name": "EurAsian Times",
     "shortcut": "WP:EURASIANTIMES",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 389#EurAsian Times",
-      "WP:Reliable sources/Noticeboard/Archive 399#The Eurasian Times",
-      "WP:Reliable sources/Noticeboard/Archive 458#Eurasian Times"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 389#EurAsian Times",
+        "WP:Reliable sources/Noticeboard/Archive 399#The Eurasian Times",
+        "WP:Reliable sources/Noticeboard/Archive 458#Eurasian Times"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "''The EurAsian Times'' is an Indo-Canadian news portal, considered to be generally unreliable for a lack of fact-checking and accuracy, usually containing churnalism or otherwise sensationalist and extraordinary claims.",
     "domain": "eurasiantimes.com"
@@ -275,12 +309,16 @@
     "name": "Eurogamer",
     "sort_name": "Eurogamer",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 103#Reliability of Eurogamer in a specific case",
-      "WP:Reliable sources/Noticeboard/Archive 403#eurogamer.net - potential_issues",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 4#Disagreement about reliability of Eurogamer articles for OnLive article",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 8#USGamer.net"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 103#Reliability of Eurogamer in a specific case",
+        "WP:Reliable sources/Noticeboard/Archive 403#eurogamer.net - potential_issues"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 4#Disagreement about reliability of Eurogamer articles for OnLive article",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 8#USGamer.net"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is a consensus that ''Eurogamer'' is generally reliable for topics on video games.",
     "domain": "eurogamer.net"
@@ -292,7 +330,9 @@
     "sort_name": "Euro-Mediterranean Human Rights Monitor",
     "shortcut": "WP:EMHRM",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "483",
@@ -317,14 +357,16 @@
     "sort_name": "Evening Standard",
     "shortcut": "WP:STANDARDUK",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 26#The Sun/Matt Smith",
-      "WP:Reliable sources/Noticeboard/Archive 85#Unite Against Fascism and The Times et al",
-      "WP:Reliable sources/Noticeboard/Archive 102#The London Evening Standard",
-      "WP:Reliable sources/Noticeboard/Archive 105#The Daily Mail?",
-      "WP:Reliable sources/Noticeboard/Archive 242#Should The Evening Standard be considered an unreliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 254#Discussion (The Sun)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 26#The Sun/Matt Smith",
+        "WP:Reliable sources/Noticeboard/Archive 85#Unite Against Fascism and The Times et al",
+        "WP:Reliable sources/Noticeboard/Archive 102#The London Evening Standard",
+        "WP:Reliable sources/Noticeboard/Archive 105#The Daily Mail?",
+        "WP:Reliable sources/Noticeboard/Archive 242#Should The Evening Standard be considered an unreliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 254#Discussion (The Sun)"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is no consensus on the reliability of the ''Evening Standard''. Despite being a free newspaper, it is generally considered more reliable than most British tabloids and [[middle-market newspaper]]s.",
     "domain": "standard.co.uk"
@@ -335,15 +377,17 @@
     "sort_name": "Examiner.com",
     "shortcut": "WP:EXAMINER.COM",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 35#{{urlencode:examiner.com {{=}} paid blogging, no editorial oversight|WIKI}}",
-      "WP:Reliable sources/Noticeboard/Archive 38#Request to reopen discussion on examiner.com",
-      "WP:Reliable sources/Noticeboard/Archive 39#Examiner.com",
-      "WP:Reliable sources/Noticeboard/Archive 47#Examiner.com",
-      "WP:Reliable sources/Noticeboard/Archive 100#Examiner.com and essay contests as sources on subject for which ample scholarly literature exists",
-      "WP:Reliable sources/Noticeboard/Archive 139#Examiner.com",
-      "WP:Reliable sources/Noticeboard/Archive 164#Why is Examiner.com blacklisted?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 35#{{urlencode:examiner.com {{=}} paid blogging, no editorial oversight|WIKI}}",
+        "WP:Reliable sources/Noticeboard/Archive 38#Request to reopen discussion on examiner.com",
+        "WP:Reliable sources/Noticeboard/Archive 39#Examiner.com",
+        "WP:Reliable sources/Noticeboard/Archive 47#Examiner.com",
+        "WP:Reliable sources/Noticeboard/Archive 100#Examiner.com and essay contests as sources on subject for which ample scholarly literature exists",
+        "WP:Reliable sources/Noticeboard/Archive 139#Examiner.com",
+        "WP:Reliable sources/Noticeboard/Archive 164#Why is Examiner.com blacklisted?"
+      ]
+    },
     "rsp_last": "2014",
     "summary": "Due to persistent abuse, Examiner.com is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. Examiner.com is considered a [[WP:SPS|self-published source]], as it has minimal editorial oversight. Most editors believe the site has a poor reputation for accuracy and fact-checking. Prior to 2004, the examiner.com domain was used by ''[[The San Francisco Examiner]]'', which has moved to a different domain. Examiner.com was shut down in 2016; website content is no longer accessible unless archived.",
     "domain": "examiner.com"
@@ -355,7 +399,9 @@
     "sort_name": "Facebook",
     "shortcut": "WP:RSPFACEBOOK",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "299",
@@ -374,13 +420,15 @@
     "name": "Fairness & Accuracy in Reporting",
     "sort_name": "Fairness & Accuracy in Reporting",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 16#FAIR.org",
-      "WP:Reliable sources/Noticeboard/Archive 64#FAIR (again); article that has already led to one defamation lawsuit being used as a reference",
-      "WP:Reliable sources/Noticeboard/Archive 64#FAIR; RS for contentious BLP edits and statements of fact?",
-      "WP:Reliable sources/Noticeboard/Archive 112#FAIR.org",
-      "WP:Reliable sources/Noticeboard/Archive 169#Fairness and Accuracy in Reporting (FAIR)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 16#FAIR.org",
+        "WP:Reliable sources/Noticeboard/Archive 64#FAIR (again); article that has already led to one defamation lawsuit being used as a reference",
+        "WP:Reliable sources/Noticeboard/Archive 64#FAIR; RS for contentious BLP edits and statements of fact?",
+        "WP:Reliable sources/Noticeboard/Archive 112#FAIR.org",
+        "WP:Reliable sources/Noticeboard/Archive 169#Fairness and Accuracy in Reporting (FAIR)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "59",
@@ -399,14 +447,16 @@
     "sort_name": "FamilySearch",
     "shortcut": "WP:FAMILYSEARCH",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 115#familysearch.org",
-      "WP:Reliable sources/Noticeboard/Archive 193#need to prove familysearch.org can be used as a source for birth records on Wikipedia",
-      "WP:Reliable sources/Noticeboard/Archive 207#Census documents from FamilySearch",
-      "WP:Reliable sources/Noticeboard/Archive 225#FamilySearch",
-      "WP:Reliable sources/Noticeboard/Archive 229#prabook/geni.com/Familysearch",
-      "WP:Reliable sources/Noticeboard/Archive 250#FamilySearch and LDS historical figures"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 115#familysearch.org",
+        "WP:Reliable sources/Noticeboard/Archive 193#need to prove familysearch.org can be used as a source for birth records on Wikipedia",
+        "WP:Reliable sources/Noticeboard/Archive 207#Census documents from FamilySearch",
+        "WP:Reliable sources/Noticeboard/Archive 225#FamilySearch",
+        "WP:Reliable sources/Noticeboard/Archive 229#prabook/geni.com/Familysearch",
+        "WP:Reliable sources/Noticeboard/Archive 250#FamilySearch and LDS historical figures"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "FamilySearch operates a [[genealogy]] site that incorporates a large amount of [[WP:UGC|user-generated content]]. Editors see no evidence that FamilySearch performs fact-checking, and believe that the site has a questionable reputation for accuracy. FamilySearch also hosts [[WP:PRIMARY|primary source]] documents, such as birth certificates, which may be usable in limited situations, as well as a large collection of digitized books, which should be evaluated on their own for reliability. When using primary source documents from FamilySearch, follow [[WP:BLPPRIMARY]] and avoid interpreting them with [[WP:OR|original research]].",
     "domain": "familysearch.org"
@@ -417,13 +467,15 @@
     "sort_name": "Famous Birthdays",
     "shortcut": "WP:FAMOUS BIRTHDAYS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 153#Is famousbirthdays.com a reliable source for personal information",
-      "WP:Reliable sources/Noticeboard/Archive 178#Famous Birthdays for birth info in a BLP",
-      "WP:Reliable sources/Noticeboard/Archive 224#Why famousbirthdays.com is a reliable source for birth dates",
-      "WP:Reliable sources/Noticeboard/Archive 249#famousbirthdays.com",
-      "WP:Reliable sources/Noticeboard/Archive 266#famousbirthdays.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 153#Is famousbirthdays.com a reliable source for personal information",
+        "WP:Reliable sources/Noticeboard/Archive 178#Famous Birthdays for birth info in a BLP",
+        "WP:Reliable sources/Noticeboard/Archive 224#Why famousbirthdays.com is a reliable source for birth dates",
+        "WP:Reliable sources/Noticeboard/Archive 249#famousbirthdays.com",
+        "WP:Reliable sources/Noticeboard/Archive 266#famousbirthdays.com"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Due to persistent abuse, Famous Birthdays is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. There is consensus that Famous Birthdays is generally unreliable. Famous Birthdays does not provide sources for its content, claim to have an editorial team, or claim to perform fact-checking. Do not use this site for information regarding [[WP:BLP|living persons]].",
     "domain": "famousbirthdays.com"
@@ -435,16 +487,20 @@
     "sort_name": "Fandom (website)",
     "shortcut": "WP:RSPWIKIA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 75#Using Wikia.com",
-      "WP:Reliable sources/Noticeboard/Archive 128#Marvel Comics Database wikia reliability and use as a reference",
-      "WP:Reliable sources/Noticeboard/Archive 186#Fan-made wikia site – RS?",
-      "WP:Reliable sources/Noticeboard/Archive 207#Tractors Wikia as a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 212#Content Usage from WIKIA to Wikipedia",
-      "WP:Reliable sources/Noticeboard/Archive 283#fandom.com",
-      "WP:Reliable sources/Noticeboard/Archive 379#Reliability of FANDOM News Stories",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 2#Everything2.com, Wikia, Wikipedia"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 75#Using Wikia.com",
+        "WP:Reliable sources/Noticeboard/Archive 128#Marvel Comics Database wikia reliability and use as a reference",
+        "WP:Reliable sources/Noticeboard/Archive 186#Fan-made wikia site – RS?",
+        "WP:Reliable sources/Noticeboard/Archive 207#Tractors Wikia as a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 212#Content Usage from WIKIA to Wikipedia",
+        "WP:Reliable sources/Noticeboard/Archive 283#fandom.com",
+        "WP:Reliable sources/Noticeboard/Archive 379#Reliability of FANDOM News Stories"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 2#Everything2.com, Wikia, Wikipedia"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Fandom (formerly Wikia and Wikicities) wikis are considered generally unreliable because [[WP:UGC|open wiki]]s are [[WP:SPS|self-published sources]]. Although citing Wikia as a source is against policy, copying Fandom content into Wikipedia is permissible if it is published under a compatible license (some wikis may use licenses like CC BY-NC and CC BY-NC-ND, which are incompatible). Use the {{tl|Fandom content}} template to provide the necessary attribution in these cases, and ensure the article meets Wikipedia's [[WP:PG|policies and guidelines]] after copying.",
     "domain": "fandom.com"
@@ -454,10 +510,14 @@
     "name": "",
     "sort_name": "",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 464#Far Out Magazine",
-      "Wikipedia talk:WikiProject Albums/Archive 76#Source: Far Out"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 464#Far Out Magazine"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Albums/Archive 76#Source: Far Out"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "''Far Out'' is considered generally unreliable as a [[churnalism]] outlet that appears to engage in [[WP:CIRCULAR|circular sourcing]].",
     "domain": "faroutmagazine.co.uk"
@@ -468,11 +528,13 @@
     "sort_name": "Federalist",
     "shortcut": "WP:THEFEDERALIST",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 274#The Federalist (website)",
-      "WP:Reliable sources/Noticeboard/Archive 177#(thefederalist.com) Source directly targets Wikipedia editing. Special Conflict of Interest concerns for this source?",
-      "WP:Reliable sources/Noticeboard/Archive 448#The Federalist"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 274#The Federalist (website)",
+        "WP:Reliable sources/Noticeboard/Archive 177#(thefederalist.com) Source directly targets Wikipedia editing. Special Conflict of Interest concerns for this source?",
+        "WP:Reliable sources/Noticeboard/Archive 448#The Federalist"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "336",
@@ -490,12 +552,16 @@
     "name": "FilmAffinity",
     "sort_name": "FilmAffinity",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 229#Film Affinity",
-      "Wikipedia talk:WikiProject Film/Archive 65#FilmAffinity",
-      "Wikipedia talk:WikiProject Film/Resources#Filmaffinity",
-      "Wikipedia talk:WikiProject Film/Archive 67#FilmAffinity revisited"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 229#Film Affinity"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Film/Archive 65#FilmAffinity",
+        "Wikipedia talk:WikiProject Film/Resources#Filmaffinity",
+        "Wikipedia talk:WikiProject Film/Archive 67#FilmAffinity revisited"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "FilmAffinity is considered generally unreliable, as the site mostly consists of [[WP:UGC|user-generated content]]. Unlike [[IMDb]], it is advised that editors avoid the use of FilmAffinity as an external link.",
     "domain": "filmaffinity.com"
@@ -507,14 +573,16 @@
     "sort_name": "Financial Times",
     "shortcut": "WP:FINANCIALTIMES",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 29#Sakhalin-II",
-      "WP:Reliable sources/Noticeboard/Archive 45#Mahmoud Ahmadinejad and the Daily Telegraph",
-      "WP:Reliable sources/Noticeboard/Archive 67#G. Edward Griffin's \"The Creature from Jekyll Island\" book",
-      "WP:Reliable sources/Noticeboard/Archive 74#Central bank",
-      "WP:Reliable sources/Noticeboard/Archive 94#Carola Hoyos / Financial Times on history of slavery",
-      "WP:Reliable sources/Noticeboard/Archive 249#Using the term \"chess prodigy\""
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 29#Sakhalin-II",
+        "WP:Reliable sources/Noticeboard/Archive 45#Mahmoud Ahmadinejad and the Daily Telegraph",
+        "WP:Reliable sources/Noticeboard/Archive 67#G. Edward Griffin's \"The Creature from Jekyll Island\" book",
+        "WP:Reliable sources/Noticeboard/Archive 74#Central bank",
+        "WP:Reliable sources/Noticeboard/Archive 94#Carola Hoyos / Financial Times on history of slavery",
+        "WP:Reliable sources/Noticeboard/Archive 249#Using the term \"chess prodigy\""
+      ]
+    },
     "rsp_last": "2018",
     "summary": "The ''Financial Times'' is considered generally reliable.",
     "domain": "ft.com"
@@ -525,14 +593,16 @@
     "sort_name": "Find a Grave",
     "shortcut": "WP:RSPFINDAGRAVE",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 93#Find a Grave as a reliable source or reference",
-      "WP:Reliable sources/Noticeboard/Archive 117#B./d. dates refrncd to prim. source of grave stone pic hosted @ FindAGrave.com",
-      "WP:Reliable sources/Noticeboard/Archive 149#findagrave.com redux",
-      "WP:Reliable sources/Noticeboard/Archive 214#Findagrave redux",
-      "WP:Reliable sources/Noticeboard/Archive 314#Find a Grave as a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 326#Find A Grave"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 93#Find a Grave as a reliable source or reference",
+        "WP:Reliable sources/Noticeboard/Archive 117#B./d. dates refrncd to prim. source of grave stone pic hosted @ FindAGrave.com",
+        "WP:Reliable sources/Noticeboard/Archive 149#findagrave.com redux",
+        "WP:Reliable sources/Noticeboard/Archive 214#Findagrave redux",
+        "WP:Reliable sources/Noticeboard/Archive 314#Find a Grave as a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 326#Find A Grave"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "The content on Find a Grave is [[WP:UGC|user-generated]],<ref>{{cite web|url=https://www.findagrave.com/contribute|title=Contribute – Find A Grave|website=www.findagrave.com|access-date=July 30, 2018|archive-url=https://web.archive.org/web/20180731175920/https://www.findagrave.com/contribute|archive-date=July 31, 2018|url-status=live|df=mdy-all}}</ref> and is therefore considered generally unreliable. Links to Find a Grave [[WP:FINDAGRAVE-EL|may sometimes be included]] in the [[WP:EL|external links section]] of articles, when the site offers valuable additional content, such as images not permitted for use on Wikipedia. Take care that the Find a Grave page does not itself contain prohibited content, such as [[WP:COPYVIO|copyright violations]].",
     "domain": "findagrave.com"
@@ -543,13 +613,15 @@
     "sort_name": "Findmypast",
     "shortcut": "WP:RSPFINDMYPAST",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 84#Personal data on findmypast.co.uk",
-      "WP:Reliable sources/Noticeboard/Archive 114#Findmypast.co.uk",
-      "WP:Reliable sources/Noticeboard/Archive 169#UK births database search.findmypast.co.uk",
-      "WP:Reliable sources/Noticeboard/Archive 191#Findmypast.com",
-      "WP:Reliable sources/Noticeboard/Archive 256#genealogy site – FindMyPast"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 84#Personal data on findmypast.co.uk",
+        "WP:Reliable sources/Noticeboard/Archive 114#Findmypast.co.uk",
+        "WP:Reliable sources/Noticeboard/Archive 169#UK births database search.findmypast.co.uk",
+        "WP:Reliable sources/Noticeboard/Archive 191#Findmypast.com",
+        "WP:Reliable sources/Noticeboard/Archive 256#genealogy site – FindMyPast"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Findmypast is a [[genealogy]] site that hosts transcribed [[WP:PRIMARY|primary source]] documents, which is covered under [[WP:BLPPRIMARY]]. The site's [[Birth certificate|birth]] and [[death certificate]] records include the event's date of registration, not the date of the event itself. Editors caution against interpreting the documents with [[WP:OR|original research]] and note that the transcription process may introduce errors. Findmypast also hosts [[WP:UGC|user-generated]] family trees, which are unreliable. [[WP:TWL|The Wikipedia Library]] previously [[WP:FindMyPast|offered access]] to Findmypast.",
     "domain": "findmypast.co.uk"
@@ -561,13 +633,17 @@
     "sort_name": "Flags of the World (website)",
     "shortcut": "WP:FOTW",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 4#Flags of the World",
-      "WP:Reliable sources/Noticeboard/Archive 87#Flags of the World",
-      "WP:Reliable sources/Noticeboard/Archive 154#\"Flags of the World\"",
-      "WP:Reliable sources/Noticeboard/Archive 162#Possibly WP:SPS sources used on Coat of arms of the London Borough of Haringey",
-      "Talk:Flag of Tibet#Massive changes by Quigley"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 4#Flags of the World",
+        "WP:Reliable sources/Noticeboard/Archive 87#Flags of the World",
+        "WP:Reliable sources/Noticeboard/Archive 154#\"Flags of the World\"",
+        "WP:Reliable sources/Noticeboard/Archive 162#Possibly WP:SPS sources used on Coat of arms of the London Borough of Haringey"
+      ],
+      "other": [
+        "Talk:Flag of Tibet#Massive changes by Quigley"
+      ]
+    },
     "rsp_last": "2013",
     "summary": "Flags of the World has been written off as an unreliable source in general. Although some of its pages might refer to reliable sources, it is self-published content without editorial oversight, and the hosts \"disclaim any responsibility about the veracity and accuracy of the contents of the website.\"",
     "domain": "fotw.info"
@@ -578,11 +654,13 @@
     "sort_name": "Flickr",
     "shortcut": "WP:RSPFLICKR",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 95#Is Flickr a reliable source as to photo contents",
-      "WP:Reliable sources/Noticeboard/Archive 149#flickr and \"travel-around-japan.com\" as reliable sources",
-      "WP:Reliable sources/Noticeboard/Archive 322#Flickr as a reliable source"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 95#Is Flickr a reliable source as to photo contents",
+        "WP:Reliable sources/Noticeboard/Archive 149#flickr and \"travel-around-japan.com\" as reliable sources",
+        "WP:Reliable sources/Noticeboard/Archive 322#Flickr as a reliable source"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Most photos on Flickr are anonymous, [[WP:SPS|self-published]], and unverifiable, and should not be used at all for verifying information in articles (although properly-licensed photos from Flickr ''can'' be used to ''illustrate'' articles). Content uploaded from a verified official account, such as that of a news organization, may be treated as originating from the uploader and therefore inheriting their level of reliability. Note that one ''cannot'' make interpretations from Flickr photos, even from verified sources, because that is [[WP:OR|original research]].",
     "domain": "flickr.com"
@@ -593,7 +671,9 @@
     "sort_name": "Forbes",
     "shortcut": "WP:FORBES",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "''Forbes'' and Forbes.com include articles written by their staff, which are written with editorial oversight, and are generally reliable. ''Forbes'' also publishes various \"top\" lists which can be referenced in articles. Per below, this excludes articles written by {{pslink|Forbes.com contributors}} (or \"Senior Contributors\") and ''{{pslink|Forbes Advisor}}''.",
     "domain": "forbes.com"
@@ -604,7 +684,9 @@
     "sort_name": "Forbes.com",
     "shortcut": "WP:FORBESCON",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2025",
     "summary": "Most content on Forbes.com is written by [[Contributor model|contributors]] or \"Senior Contributors\" with minimal editorial oversight, and is generally unreliable. Editors show consensus for treating Forbes.com contributor articles as [[WP:SPS|self-published sources]], unless the article was written by a [[WP:EXPERTSOURCE|subject-matter expert]]. Forbes.com contributor articles should never be used for [[WP:THIRDPARTY|third-party claims]] about [[WP:BLPSPS|living persons]]. Forbes Councils, being pay-to-publish and similarly lacking oversight, also fall into this category. Articles that have also been published in the print edition of ''[[Forbes]]'' are excluded, and are considered [[WP:GREL|generally reliable]]. Check the [[byline]] to determine whether an article is written by a \"[[#Forbes|Forbes Staff]]\" member, \"Contributor\", \"Senior Contributor\", or \"Subscriber\". In addition, check underneath the byline to see whether it was published in a print issue of ''Forbes''. Previously, Forbes.com contributor articles could have been identified by their [[URL]] beginning in \"forbes.com/sites\"; the URL no longer distinguishes them, as ''Forbes'' staff articles have also been moved under \"/sites\". ''See also: {{pslink|Forbes}}.''",
     "domain": "forbes.com"
@@ -615,7 +697,9 @@
     "sort_name": "Forbes Advisor ",
     "shortcut": "WP:FORBESADVISOR",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "",
@@ -635,7 +719,9 @@
     "sort_name": "Fox News",
     "shortcut": "WP:FOXNEWS",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "73",
@@ -667,7 +753,9 @@
     "sort_name": "Fox News",
     "shortcut": "WP:FOXNEWSSCIENCE",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "73",
@@ -705,17 +793,19 @@
     "sort_name": "Fox News",
     "shortcut": "WP:FOXNEWSTALKSHOWS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 226#The status of Fox News",
-      "WP:Reliable sources/Noticeboard/Archive 237#Is Fox News a WP:RS",
-      "WP:Reliable sources/Noticeboard/Archive 257#Fox News",
-      "WP:Reliable sources/Noticeboard/Archive 261#Fox News redux",
-      "WP:Reliable sources/Noticeboard/Archive 264#Fox News - sources for future discussion",
-      "WP:Reliable sources/Noticeboard/Archive 276#Litmus test for source reliability in the AmPol2 area",
-      "WP:Reliable sources/Noticeboard/Archive 278#Suggestion: comparing Fox News real-time coverage of the impeachment inquiry with other outlets'",
-      "WP:Reliable sources/Noticeboard/Archive 289#Fox News and COVID-19",
-      "WP:Reliable sources/Noticeboard/Archive 449#Why does Fox News talk shows have it's own section in the list?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 226#The status of Fox News",
+        "WP:Reliable sources/Noticeboard/Archive 237#Is Fox News a WP:RS",
+        "WP:Reliable sources/Noticeboard/Archive 257#Fox News",
+        "WP:Reliable sources/Noticeboard/Archive 261#Fox News redux",
+        "WP:Reliable sources/Noticeboard/Archive 264#Fox News - sources for future discussion",
+        "WP:Reliable sources/Noticeboard/Archive 276#Litmus test for source reliability in the AmPol2 area",
+        "WP:Reliable sources/Noticeboard/Archive 278#Suggestion: comparing Fox News real-time coverage of the impeachment inquiry with other outlets'",
+        "WP:Reliable sources/Noticeboard/Archive 289#Fox News and COVID-19",
+        "WP:Reliable sources/Noticeboard/Archive 449#Why does Fox News talk shows have it's own section in the list?"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "Fox News talk shows, including ''[[Hannity]]'', ''[[Tucker Carlson Tonight]]'', ''[[The Ingraham Angle]]'', and ''[[Fox & Friends]]'', should not be used for statements of fact but can sometimes be used for [[WP:INTEXT|attributed]] [[WP:RSOPINION|opinions]]. ''See also: [[#Fox News|Fox News (news excluding politics and science)]], {{pslink|Fox News (politics and science)}}.''",
     "domain": "foxnews.com"
@@ -726,11 +816,13 @@
     "name": "The Free Press (Bari Weiss media)",
     "sort_name": "Free Press",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 397#The Free Press",
-      "WP:Reliable sources/Noticeboard/Archive 425#The Free Press and Amin Husain",
-      "WP:Reliable sources/Noticeboard/Archive 433#Is this article about a Communist millionaire from The Free Press reliable?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 397#The Free Press",
+        "WP:Reliable sources/Noticeboard/Archive 425#The Free Press and Amin Husain",
+        "WP:Reliable sources/Noticeboard/Archive 433#Is this article about a Communist millionaire from The Free Press reliable?"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "''The Free Press'' is a media company founded by [[Bari Weiss]] as a counter-[[mainstream media]] publication. It has some [[WP:USEBYOTHERS|use by others]]. Some editors consider it a [[WP:SPS|self-published source]] with [[WP:BIASED|biased]] reporting.",
     "domain": "thefp.com"
@@ -742,17 +834,19 @@
     "sort_name": "FrontPage Magazine",
     "shortcut": "WP:FPM",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 3#Is FrontPageMag.com a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 3#FrontPage Magazine (again)",
-      "WP:Reliable sources/Noticeboard/Archive 4#FrontPage Magazine and WorldNetDaily",
-      "WP:Reliable sources/Noticeboard/Archive 14#RE:FPM",
-      "WP:Reliable sources/Noticeboard/Archive 15#David Horowitz Freedom Center",
-      "WP:Reliable sources/Noticeboard/Archive 138#Are Frontpage Magazine and Steven Plaut reliable sources on Bolshevik?",
-      "WP:Reliable sources/Noticeboard/Archive 226#FrontPage Magazine",
-      "WP:Reliable sources/Noticeboard/Archive 291#FrontPage Magazine",
-      "WP:Reliable sources/Noticeboard/Archive 387#Front Page"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 3#Is FrontPageMag.com a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 3#FrontPage Magazine (again)",
+        "WP:Reliable sources/Noticeboard/Archive 4#FrontPage Magazine and WorldNetDaily",
+        "WP:Reliable sources/Noticeboard/Archive 14#RE:FPM",
+        "WP:Reliable sources/Noticeboard/Archive 15#David Horowitz Freedom Center",
+        "WP:Reliable sources/Noticeboard/Archive 138#Are Frontpage Magazine and Steven Plaut reliable sources on Bolshevik?",
+        "WP:Reliable sources/Noticeboard/Archive 226#FrontPage Magazine",
+        "WP:Reliable sources/Noticeboard/Archive 291#FrontPage Magazine",
+        "WP:Reliable sources/Noticeboard/Archive 387#Front Page"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "301",
@@ -772,11 +866,15 @@
     "sort_name": "Game Developer (website)",
     "shortcut": "WP:GAMASUTRA",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 83#gamasutra.com",
-      "WP:Reliable sources/Noticeboard/Archive 301#gamasutra.com",
-      "Wikipedia talk:WikiProject Video games/Archive 67#Are these credible secondary sources"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 83#gamasutra.com",
+        "WP:Reliable sources/Noticeboard/Archive 301#gamasutra.com"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Archive 67#Are these credible secondary sources"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "''Game Developer'' is considered generally reliable for subjects related to video games.",
     "domain": "gamedeveloper.com"
@@ -787,14 +885,18 @@
     "sort_name": "Game Informer",
     "shortcut": "WP:GAMEINFORMER",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 32#Youtube",
-      "WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Screwattack again",
-      "Wikipedia talk:WikiProject Video games/Archive 79#VG reviews publications",
-      "Wikipedia talk:WikiProject Video games/Archive 86#Videogame Magazines Should Not Automatically Be Regarded as a Reliable Source",
-      "Wikipedia talk:WikiProject Video games/Archive 38#VGChartz re-visited"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 32#Youtube",
+        "WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Screwattack again",
+        "Wikipedia talk:WikiProject Video games/Archive 79#VG reviews publications",
+        "Wikipedia talk:WikiProject Video games/Archive 86#Videogame Magazines Should Not Automatically Be Regarded as a Reliable Source",
+        "Wikipedia talk:WikiProject Video games/Archive 38#VGChartz re-visited"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "''Game Informer'' is considered generally reliable for video games. Originally shut down by [[GameStop]] in August 2024 with website content no longer accessible unless archived, [[Neill Blomkamp]]'s company [[Gunzilla Games]] purchased the brand and site, which went back up in March 2025, with all staff returning from time at closing, and an aim for the publication to retain total editorial independence.",
     "domain": "gameinformer.com"
@@ -805,7 +907,9 @@
     "sort_name": "GameSpot",
     "shortcut": "WP:GAMESPOT",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "''GameSpot'' is considered generally reliable for topics on video games. The site's forum content qualifies as [[WP:UGC|user-generated content]] and thus generally unreliable. Some editors have expressed concerns that release date information may not be reliable due to the site sharing a database with [[GameFAQs]]. Some older articles released in the 1990s may have incorrect publication dates.",
     "domain": "gamespot.com"
@@ -816,9 +920,11 @@
     "name": "The Gateway Pundit",
     "sort_name": "Gateway Pundit",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 256#Among low-quality sources, the most popular websites are right-wing sources"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 256#Among low-quality sources, the most popular websites are right-wing sources"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "278",
@@ -837,15 +943,17 @@
     "sort_name": "Gawker",
     "shortcut": "WP:GAWKER",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 16#Huffington Post, Gawker and About.com",
-      "WP:Reliable sources/Noticeboard/Archive 37#Gawker.com",
-      "WP:Reliable sources/Noticeboard/Archive 77#Is Gawker a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 152#Is Gawker a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 180#Media as RS for their own controversies (GamerGate)",
-      "WP:Reliable sources/Noticeboard/Archive 220#Impact assessment ?",
-      "WP:Reliable sources/Noticeboard/Archive 221#Can we have clearer guidance on what sort of sourcing from the Mail is and isn't OK?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 16#Huffington Post, Gawker and About.com",
+        "WP:Reliable sources/Noticeboard/Archive 37#Gawker.com",
+        "WP:Reliable sources/Noticeboard/Archive 77#Is Gawker a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 152#Is Gawker a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 180#Media as RS for their own controversies (GamerGate)",
+        "WP:Reliable sources/Noticeboard/Archive 220#Impact assessment ?",
+        "WP:Reliable sources/Noticeboard/Archive 221#Can we have clearer guidance on what sort of sourcing from the Mail is and isn't OK?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "262",
@@ -863,10 +971,12 @@
     "name": "Gazeta Wyborcza",
     "sort_name": "Gazeta Wyborcza",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 329#Gazeta Wyborcza and OKO.press",
-      "WP:Reliable sources/Noticeboard/Archive 355#RfC: Polish sources"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 329#Gazeta Wyborcza and OKO.press",
+        "WP:Reliable sources/Noticeboard/Archive 355#RfC: Polish sources"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "There is consensus that ''Gazeta Wyborcza'' is generally reliable. Some editors express concern about its sensationalist tendency in recent years.",
     "domain": "wyborcza.pl"
@@ -877,14 +987,18 @@
     "sort_name": "GB News",
     "shortcut": "WP:GBNEWS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 345#Should GB News be \"depreciated\"?",
-      "WP:Reliable sources/Noticeboard/Archive 382#Reliability of GB News as a source for citations",
-      "WP:Reliable sources/Noticeboard/Archive 449#GB News",
-      "WP:Reliable sources/Noticeboard/Archive 465#GBNews can be reliable for group based child sex exploitation",
-      "Wikipedia talk:Reliable sources/Perennial sources/Archive 8#Add GB News?",
-      "Wikipedia talk:Reliable sources/Perennial sources/Archive 10#GB News inclusion"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 345#Should GB News be \"depreciated\"?",
+        "WP:Reliable sources/Noticeboard/Archive 382#Reliability of GB News as a source for citations",
+        "WP:Reliable sources/Noticeboard/Archive 449#GB News",
+        "WP:Reliable sources/Noticeboard/Archive 465#GBNews can be reliable for group based child sex exploitation"
+      ],
+      "other": [
+        "Wikipedia talk:Reliable sources/Perennial sources/Archive 8#Add GB News?",
+        "Wikipedia talk:Reliable sources/Perennial sources/Archive 10#GB News inclusion"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that GB News is generally unreliable.",
     "domain": "gbnews.uk"
@@ -894,9 +1008,12 @@
     "name": "Genealogy.eu",
     "sort_name": "Genealogy.eu",
     "status": "d",
-    "discussion": [
-      "Wikipedia talk:WikiProject Royalty and Nobility#genealogy.eu"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Wikipedia talk:WikiProject Royalty and Nobility#genealogy.eu"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "465",
@@ -915,13 +1032,15 @@
     "sort_name": "Geni.com",
     "shortcut": "WP:GENI",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 106#Geni.com? Reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 126#Geni.com for Brian Haberlin birth info",
-      "WP:Reliable sources/Noticeboard/Archive 229#prabook/geni.com/Familysearch",
-      "WP:Reliable sources/Noticeboard/Archive 251#Geni.com",
-      "WP:Reliable sources/Noticeboard/Archive 268#Geni.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 106#Geni.com? Reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 126#Geni.com for Brian Haberlin birth info",
+        "WP:Reliable sources/Noticeboard/Archive 229#prabook/geni.com/Familysearch",
+        "WP:Reliable sources/Noticeboard/Archive 251#Geni.com",
+        "WP:Reliable sources/Noticeboard/Archive 268#Geni.com"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "465",
@@ -941,10 +1060,12 @@
     "sort_name": "Genius (website)",
     "shortcut": "WP:GENIUS",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 206#Genius as a source?",
-      "WP:Reliable sources/Noticeboard/Archive 258#Genius.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 206#Genius as a source?",
+        "WP:Reliable sources/Noticeboard/Archive 258#Genius.com"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Song lyrics, annotations and descriptions on Genius are mostly [[WP:UGC|user-generated content]] and are thus generally unreliable. There is no consensus on the reliability of articles, interviews and videos produced by Genius. Verified commentary from musicians falls under [[WP:BLPSELFPUB]], and usage of such commentary should conform to that policy.",
     "domain": "genius.com"
@@ -956,9 +1077,11 @@
     "content_qualifier": "(names and locations)",
     "sort_name": "Geographic Names Information System",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 368#GNIS not as appropriate for locations as one might think"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 368#GNIS not as appropriate for locations as one might think"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "357",
@@ -978,7 +1101,9 @@
     "content_qualifier": "(feature classes)",
     "sort_name": "Geographic Names Information System",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "357",
@@ -998,7 +1123,9 @@
     "content_qualifier": "(names and locations)",
     "sort_name": "GEOnet Names Server",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "362",
@@ -1018,7 +1145,9 @@
     "content_qualifier": "(feature classes)",
     "sort_name": "GEOnet Names Server",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "362",
@@ -1037,12 +1166,14 @@
     "sort_name": "Gizmodo",
     "shortcut": "WP:GIZMODO",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 221#paleofuture.gizmodo.com in Napoleon Hill",
-      "WP:Reliable sources/Noticeboard/Archive 270#Is Gizmodo considered a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources",
-      "WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 221#paleofuture.gizmodo.com in Napoleon Hill",
+        "WP:Reliable sources/Noticeboard/Archive 270#Is Gizmodo considered a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 346#Some reliable sources",
+        "WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is consensus that ''Gizmodo'' is generally reliable for technology, popular culture, and entertainment. There is no consensus on whether it is generally reliable for controversial statements. There is consensus that AI-generated articles are generally ''un''reliable; ''Gizmodo''{{'s}} parent company, G/O Media, began releasing such pieces in July 2023, usually under the byline \"Gizmodo Bot\".<ref>{{cite news |last1=Davis |first1=Wes |title=Gizmodo's staff isn't happy about G/O Media's AI-generated content |url=https://www.theverge.com/2023/7/8/23788162/gizmodo-g-o-media-ai-generated-articles-star-wars |access-date=February 27, 2024 |work=[[The Verge]] |date=July 8, 2023|language=en}}</ref>",
     "domain": "gizmodo.com"
@@ -1053,10 +1184,12 @@
     "sort_name": "GLAAD",
     "shortcut": "WP:GLAAD",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 429#Are any of these sources reliable for covering LGBT representation on Nickelodeon?",
-      "WP:Reliable sources/Noticeboard/Archive 457#GLAAD_&_anti-LGBT_groups"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 429#Are any of these sources reliable for covering LGBT representation on Nickelodeon?",
+        "WP:Reliable sources/Noticeboard/Archive 457#GLAAD_&_anti-LGBT_groups"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "GLAAD is generally considered reliable for their area of expertise on LGBTQ topics. Some editors consider GLAAD [[WP:BIASED|biased or opinionated]], so its uses should be [[WP:INTEXT|attributed]].",
     "domain": "glaad.org"
@@ -1068,13 +1201,15 @@
     "sort_name": "Global Times",
     "shortcut": "WP:GLOBALTIMES",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 149#Global times as in Kennedy tragedies",
-      "WP:Reliable sources/Noticeboard/Archive 165#PRC's Global Times",
-      "WP:Reliable sources/Noticeboard/Archive 271#Chinese news sources",
-      "WP:Reliable sources/Noticeboard/Archive 294#Global Times",
-      "WP:Reliable sources/Noticeboard/Archive 348#Global Times article can't be used even if it's critical of Chinese govt?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 149#Global times as in Kennedy tragedies",
+        "WP:Reliable sources/Noticeboard/Archive 165#PRC's Global Times",
+        "WP:Reliable sources/Noticeboard/Archive 271#Chinese news sources",
+        "WP:Reliable sources/Noticeboard/Archive 294#Global Times",
+        "WP:Reliable sources/Noticeboard/Archive 348#Global Times article can't be used even if it's critical of Chinese govt?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "311",
@@ -1093,7 +1228,9 @@
     "sort_name": "GlobalSecurity.org",
     "shortcut": "WP:GLOBALSECURITY",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "388",
@@ -1111,7 +1248,9 @@
     "name": "The Globe and Mail",
     "sort_name": "Globe and Mail",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "340",
@@ -1131,7 +1270,9 @@
     "sort_name": "GoFundMe",
     "shortcut": "WP:GOFUNDME",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "301",
@@ -1150,10 +1291,12 @@
     "sort_name": "Goodreads",
     "shortcut": "WP:GOODREADS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 204#Goodreads",
-      "WP:Reliable sources/Noticeboard/Archive 249#goodreads.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 204#Goodreads",
+        "WP:Reliable sources/Noticeboard/Archive 249#goodreads.com"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "Goodreads is a [[social cataloging]] site comprising [[WP:UGC|user-generated content]]. As a [[WP:SPS|self-published source]], Goodreads is considered generally unreliable.",
     "domain": "goodreads.com"
@@ -1165,15 +1308,17 @@
     "sort_name": "Google Maps",
     "shortcut": "WP:GOOGLEMAPS",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 30#Google Maps for calculating distances in an article",
-      "WP:Reliable sources/Noticeboard/Archive 88#Using Google Maps to determine where a property line is",
-      "WP:Reliable sources/Noticeboard/Archive 97#Google maps?",
-      "WP:Reliable sources/Noticeboard/Archive 149#Google street view",
-      "WP:Reliable sources/Noticeboard/Archive 221#Is Google Maps a reliable source for boundaries of a neighborhood?",
-      "WP:Reliable sources/Noticeboard/Archive 318#Google Maps",
-      "WP:Reliable sources/Noticeboard/Archive 388#Google Maps"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 30#Google Maps for calculating distances in an article",
+        "WP:Reliable sources/Noticeboard/Archive 88#Using Google Maps to determine where a property line is",
+        "WP:Reliable sources/Noticeboard/Archive 97#Google maps?",
+        "WP:Reliable sources/Noticeboard/Archive 149#Google street view",
+        "WP:Reliable sources/Noticeboard/Archive 221#Is Google Maps a reliable source for boundaries of a neighborhood?",
+        "WP:Reliable sources/Noticeboard/Archive 318#Google Maps",
+        "WP:Reliable sources/Noticeboard/Archive 388#Google Maps"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "Google Maps and Google Street View may be useful for some purposes, including finding and verifying geographic coordinates and other basic information like street names. However, especially for objects like boundaries (of neighborhoods, allotments, etc.), where other reliable sources are available they should be preferred over Google Maps and Google Street View. It can also be difficult or impossible to determine the veracity of past citations, since Google Maps data is not publicly archived, and may be removed or replaced as soon as it is not current. Inferring information solely from Street View pictures may be considered [[WP:No original research|original research]]. Note that due to [[restrictions on geographic data in China]], [[OpenStreetMap]] coordinates for places in [[mainland China]] are almost always much more accurate than Google's – despite OpenStreetMap being user-generated – due to the severe distortion introduced by most commercial map providers. (References, in any case, are usually not required for geographic coordinates.)",
     "domain": "maps.google.com"
@@ -1185,10 +1330,12 @@
     "sort_name": "GQ",
     "shortcut": "WP:RSPGQ",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 218#GQ Magazine",
-      "WP:Reliable sources/Noticeboard/Archive 271#GQ"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 218#GQ Magazine",
+        "WP:Reliable sources/Noticeboard/Archive 271#GQ"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is consensus that GQ is generally reliable. It is noted by editors for having quality editorial oversight for non-contentious topics.",
     "domain": "gq.com"
@@ -1199,9 +1346,11 @@
     "sort_name": "Grayzone",
     "shortcut": "WP:GRAYZONE",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 272#On the reliability of The Grayzone"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 272#On the reliability of The Grayzone"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "287",
@@ -1220,9 +1369,11 @@
     "sort_name": "Greco-Roman world",
     "shortcut": "WP:GRECOROMAN",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 479#Classical sources (Herodotus, Plutarch etc)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 479#Classical sources (Herodotus, Plutarch etc)"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "[[Greco-Roman world|Greco-Roman]] literary sources, such as the writings of [[Aristotle]], [[Cicero]], [[Herodotus]], [[Livy]], and [[Plutarch]], must be used in accordance with [[WP:PRIMARY]]: editors may not analyze or [[WP:SYNTH|synthesize]] material found in them. Editors must take care not to present the claims of such sources uncritically. Statements made by such sources should be [[WP:INTEXT|clearly attributed]] to them, rather than presented as objective fact. An entire article, or large parts thereof, may not be based only on such sources. The weight given to one of these sources should be roughly [[WP:PROPORTION|proportional]] to its treatment in modern, published [[WP:SCHOLARSHIP|scholarship]] on the same subject, and this scholarship should be cited when possible. In some instances, old or public domain editions and translations of these sources will not reflect current scholarly readings or views."
   },
@@ -1231,10 +1382,14 @@
     "name": "The Green Papers",
     "sort_name": "Green Papers",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 206#The Green Papers",
-      "Talk:2020 Iowa Democratic caucuses/Archive 1#Poll: Should The Green Papers estimates for pledged delegates be used in place of those from major sources like the New York Times?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 206#The Green Papers"
+      ],
+      "other": [
+        "Talk:2020 Iowa Democratic caucuses/Archive 1#Poll: Should The Green Papers estimates for pledged delegates be used in place of those from major sources like the New York Times?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "290",
@@ -1254,7 +1409,9 @@
     "sort_name": "Guardian",
     "shortcut": "WP:THEGUARDIAN",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that ''The Guardian'' is generally reliable. ''The Guardian''{{'}}s op-eds should be handled with [[WP:RSOPINION]]. Some editors believe ''The Guardian'' is [[WP:BIASED|biased or opinionated]] for politics. ''See also: {{pslink|The Guardian blogs}}.''",
     "domain": "theguardian.com"
@@ -1265,7 +1422,9 @@
     "sort_name": "Guardian blogs",
     "shortcut": "WP:GUARDIANBLOG",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2020",
     "summary": "Most editors say that ''The Guardian'' blogs should be treated as [[WP:NEWSBLOG|newspaper blogs]] or [[WP:RSOPINION|opinion pieces]] due to reduced editorial oversight. Check the bottom of the article for a \"blogposts\" tag to determine whether the page is a blog post or a [[#The Guardian|non-blog article]]. ''See also: {{pslink|The Guardian}}.''",
     "domain": "theguardian.com"
@@ -1275,12 +1434,14 @@
     "name": "Guido Fawkes (website)",
     "sort_name": "Guido Fawkes (website)",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 55#Guido Fawkes",
-      "WP:Reliable sources/Noticeboard/Archive 78#Matthew Offord",
-      "WP:Reliable sources/Noticeboard/Archive 270#Order-order.com on a BLP (Laura Smith)",
-      "WP:Reliable sources/Noticeboard/Archive 288#Guido Fawkes"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 55#Guido Fawkes",
+        "WP:Reliable sources/Noticeboard/Archive 78#Matthew Offord",
+        "WP:Reliable sources/Noticeboard/Archive 270#Order-order.com on a BLP (Laura Smith)",
+        "WP:Reliable sources/Noticeboard/Archive 288#Guido Fawkes"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "The Guido Fawkes website (order-order.com) is considered generally unreliable because it is a [[WP:SPS|self-published]] blog. It may be used for uncontroversial descriptions of itself and its own content according to [[WP:ABOUTSELF]], but not for claims related to [[WP:BLPSPS|living persons]].",
     "domain": "order-order.com"
@@ -1292,13 +1453,15 @@
     "sort_name": "Guinness World Records",
     "shortcut": "WP:GWR",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 120#Reliability of Guinness World Records",
-      "WP:Reliable sources/Noticeboard/Archive 129#Guinness Book of Records",
-      "WP:Reliable sources/Noticeboard/Archive 171#Guinness World Records website a valid reference?",
-      "WP:Reliable sources/Noticeboard/Archive 204#Is being awarded the Guinness World Record a significant award?",
-      "WP:Reliable sources/Noticeboard/Archive 305#Guinness World Records"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 120#Reliability of Guinness World Records",
+        "WP:Reliable sources/Noticeboard/Archive 129#Guinness Book of Records",
+        "WP:Reliable sources/Noticeboard/Archive 171#Guinness World Records website a valid reference?",
+        "WP:Reliable sources/Noticeboard/Archive 204#Is being awarded the Guinness World Record a significant award?",
+        "WP:Reliable sources/Noticeboard/Archive 305#Guinness World Records"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that world records verified by ''Guinness World Records'' should not be used to establish notability. Editors have expressed concern that post-2008 records include paid coverage.",
     "domain": "guinnessworldrecords.com"

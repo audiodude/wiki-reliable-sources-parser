@@ -97,7 +97,7 @@ for page_num in page_numbers:
                 if text:
                     data["name"] = text[0].split("| ")[1]
             else:
-                # store a plain-text name (strip wikitext)
+                # Store a plain-text name (strip wikitext).
                 data["name"] = links[0].title.strip_code().strip()
             # A qualifier, like "FooSite (movie reviews)".
             content_qualifier = " ".join(
@@ -113,12 +113,22 @@ for page_num in page_numbers:
                 # If no explicit sort value, use the name.
                 data["sort_name"] = data["name"]
         elif cell_index == 3:
-            # store discussion as plain-text titles from wikilinks
-            data["discussion"] = [
-                str(l.title) for l in item_wikicode.filter_wikilinks()
+            # Store discussion as plain-text titles from wikilinks.
+            rsn = [
+                str(l.title)
+                for l in item_wikicode.filter_wikilinks()
+                if l.text.isdigit()
             ]
+            other = [
+                str(l.title)
+                for l in item_wikicode.filter_wikilinks()
+                if not l.text.isdigit()
+            ]
+            data["discussion"] = {"rsn": rsn}
+            if other:
+                data["discussion"]["other"] = other
         elif cell_index == 5:
-            # store plaintext summary (remove leading '| ' and strip wikitext)
+            # Store plaintext summary (remove leading '| ' and strip wikitext).
             data["summary"] = item_wikicode.lstrip("| ").strip()
             in_summary = True
 

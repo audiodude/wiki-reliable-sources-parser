@@ -6,7 +6,9 @@
     "sort_name": "Haaretz",
     "shortcut": "WP:HAARETZ",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2021",
     "summary": "''Haaretz'' is considered generally reliable. Some editors believe that ''Haaretz'' reports with a political slant, particularly with respect to the [[Arab–Israeli conflict]], which makes it [[WP:BIASED|biased or opinionated]]. The publication's opinion pieces should be handled with [[WP:RSOPINION|the appropriate guideline]].",
     "domain": "haaretz.com"
@@ -18,12 +20,14 @@
     "sort_name": "Hansard",
     "shortcut": "WP:HANSARD",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 63#Hansard: a reliable source? A primary source?",
-      "WP:Reliable sources/Noticeboard/Archive 70#Use of Hansard",
-      "WP:Reliable sources/Noticeboard/Archive 135#Is Hansard the UK parliaments minutes a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 265#House of Lords member statement about MEK targets (People's Mujahedin of Iran)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 63#Hansard: a reliable source? A primary source?",
+        "WP:Reliable sources/Noticeboard/Archive 70#Use of Hansard",
+        "WP:Reliable sources/Noticeboard/Archive 135#Is Hansard the UK parliaments minutes a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 265#House of Lords member statement about MEK targets (People's Mujahedin of Iran)"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "As a transcript of parliament proceedings in the United Kingdom, ''Hansard'' is a [[WP:PRIMARY|primary source]] and its statements should be [[WP:INTEXT|attributed]] to whoever made them. ''Hansard'' is considered generally reliable for the British parliamentary proceedings and British government statements. It is not considered reliable as a [[WP:SECONDARY|secondary source]] as it merely contains the personal opinions of whoever is speaking in Parliament that day, and is subject to [[Parliamentary privilege]]. ''Hansard'' is not a word-for-word transcript and may omit repetitions and redundancies.",
     "domain": "parliament.uk"
@@ -33,14 +37,18 @@
     "name": "Hardcore Gaming 101",
     "sort_name": "Hardcore Gaming 101",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 91#hardcoregaming101.net",
-      "WP:Reliable sources/Noticeboard/Archive 246#HG101 possibly \"laundering\" unsourced Japanese Wikipedia info?",
-      "WT:WikiProject Video games/Archive 65#Hardcore Gaming 101",
-      "WT:WikiProject Video games/Sources/Archive 6#Refinement to Hardcore Gaming 101",
-      "WT:WikiProject Video games/Archive 122#Hardcore Gaming 101",
-      "WT:WikiProject Video games/Sources/Archive 16#Hardcore Gaming 101"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 91#hardcoregaming101.net",
+        "WP:Reliable sources/Noticeboard/Archive 246#HG101 possibly \"laundering\" unsourced Japanese Wikipedia info?"
+      ],
+      "other": [
+        "WT:WikiProject Video games/Archive 65#Hardcore Gaming 101",
+        "WT:WikiProject Video games/Sources/Archive 6#Refinement to Hardcore Gaming 101",
+        "WT:WikiProject Video games/Archive 122#Hardcore Gaming 101",
+        "WT:WikiProject Video games/Sources/Archive 16#Hardcore Gaming 101"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is a rough consensus that ''Hardcore Gaming 101'' is generally reliable for topics on video games, especially articles written by Kurt Kalata or John Szczepaniak. Exercise caution when citing articles written by any other author, especially in older publications.",
     "domain": "hardcoregaming101.net"
@@ -51,10 +59,12 @@
     "sort_name": "Healthline",
     "shortcut": "WP:HEALTHLINE",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 366#Nutritional information (Healthline/USDA)",
-      "WP:Reliable sources/Noticeboard/Archive 407#Healthline"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 366#Nutritional information (Healthline/USDA)",
+        "WP:Reliable sources/Noticeboard/Archive 407#Healthline"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "409",
@@ -72,10 +82,12 @@
     "name": "Heat Street",
     "sort_name": "Heat Street",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 213#Is Heatstreet a reliable source for attributed opinion?",
-      "WP:Reliable sources/Noticeboard/Archive 228#Heat Street"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 213#Is Heatstreet a reliable source for attributed opinion?",
+        "WP:Reliable sources/Noticeboard/Archive 228#Heat Street"
+      ]
+    },
     "rsp_last": "2017",
     "summary": "Although ''Heat Street'' was owned by [[Dow Jones & Company]], a usually reputable publisher, many editors note that ''Heat Street'' does not clearly differentiate between its news articles and opinion. There is consensus that ''Heat Street'' is a [[WP:PARTISAN|partisan source]]. Some editors consider ''Heat Street''{{'}}s [[WP:RSOPINION|opinion pieces]] and news articles written by its staff to be usable with attribution, though [[WP:DUE|due weight]] must be considered because ''Heat Street'' covers many political topics not as talked about in higher-profile sources.",
     "domain": "heatst.com"
@@ -86,11 +98,13 @@
     "sort_name": "Heavy.com",
     "shortcut": "WP:HEAVY.COM",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 226#Murder of Seth Rich article and source Heavy.com",
-      "WP:Reliable sources/Noticeboard/Archive 263#Heavy.com used as source for birthdate at Katie Bouman",
-      "WP:Reliable sources/Noticeboard/Archive 364#Heavy.com quoting IMDB"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 226#Murder of Seth Rich article and source Heavy.com",
+        "WP:Reliable sources/Noticeboard/Archive 263#Heavy.com used as source for birthdate at Katie Bouman",
+        "WP:Reliable sources/Noticeboard/Archive 364#Heavy.com quoting IMDB"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "There is consensus that Heavy.com should not be relied upon for any serious or contentious statements, including dates of birth. When Heavy.com cites another source for their own article, it is preferable to read and cite the original source instead.",
     "domain": "heavy.com"
@@ -102,12 +116,14 @@
     "sort_name": "Heritage Foundation",
     "shortcut": "WP:HERITAGEFOUNDATION",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 209#Use of US conservative The Daily Signal on Russia-related articles.",
-      "WP:Reliable sources/Noticeboard/Archive 334#Is the Daily Signal + congressional record RS for a congressional statement?",
-      "WP:Reliable sources/Noticeboard/Archive 421#The Daily Signal",
-      "WP:Reliable sources/Noticeboard/Archive 463#Heritage Foundation planning to dox Wikipedia editors"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 209#Use of US conservative The Daily Signal on Russia-related articles.",
+        "WP:Reliable sources/Noticeboard/Archive 334#Is the Daily Signal + congressional record RS for a congressional statement?",
+        "WP:Reliable sources/Noticeboard/Archive 421#The Daily Signal",
+        "WP:Reliable sources/Noticeboard/Archive 463#Heritage Foundation planning to dox Wikipedia editors"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "The Heritage Foundation is an American conservative think tank; editors have found that it promotes disinformation. Heritage and its then-publication [[The Daily Signal]] were found generally unreliable due to the presumption of unreliability for [[think tank]]s and reporting such as [[climate change denial]]; the 2025 RfC deprecated Heritage. However, The Daily Signal was spun off from the Heritage Foundation in June 2024, and the 2025 RfC close did not address its reliability or functional independence.",
     "domain": "heritage.org"
@@ -118,7 +134,9 @@
     "sort_name": "Hill",
     "shortcut": "WP:THEHILL",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2019",
     "summary": "''The Hill'' is considered generally reliable for American politics. The publication's [[WP:RSOPINION|opinion pieces]] should be handled with the appropriate guideline. The publication's [[WP:CONTRIBUTOR|contributor]] pieces, labeled in their [[byline]]s, receive minimal editorial oversight and should be treated as equivalent to [[WP:SPS|self-published sources]].",
     "domain": "thehill.com"
@@ -129,12 +147,14 @@
     "sort_name": "Hindu",
     "shortcut": "WP:THEHINDU",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 67#The Hindu",
-      "WP:Reliable sources/Noticeboard/Archive 284#The Hindu mirroring misinformation from WP",
-      "WP:Reliable sources/Noticeboard/Archive 305#The Hindu",
-      "WP:Reliable sources/Noticeboard/Archive 389#The Hindu"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 67#The Hindu",
+        "WP:Reliable sources/Noticeboard/Archive 284#The Hindu mirroring misinformation from WP",
+        "WP:Reliable sources/Noticeboard/Archive 305#The Hindu",
+        "WP:Reliable sources/Noticeboard/Archive 389#The Hindu"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "There is consensus that ''The Hindu'' is generally reliable and should be treated as a [[newspaper of record]]. The publication's [[WP:RSOPINION|opinion pieces]] should be handled with the appropriate guideline.",
     "domain": "thehindu.com"
@@ -145,7 +165,9 @@
     "sort_name": "HispanTV",
     "shortcut": "WP:HISPANTV",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "265",
@@ -165,11 +187,13 @@
     "sort_name": "History Channel",
     "shortcut": "WP:RSPHISTORY",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 26#Is a Discovery or History Channel documentary considered a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 294#Is History.com (formerly History Channel) generally reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 330#Reliability of History (channel) pre-2010"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 26#Is a Discovery or History Channel documentary considered a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 294#Is History.com (formerly History Channel) generally reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 330#Reliability of History (channel) pre-2010"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "Most editors consider [[History (American TV network)|The History Channel]] generally unreliable due to its poor reputation for accuracy and its tendency to broadcast programs that promote [[conspiracy theories]].",
     "domain": "history.com"
@@ -181,13 +205,15 @@
     "sort_name": "Hollywood Reporter",
     "shortcut": "WP:THR",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 20#Are Variety and The Hollywood Reporter reliable sources for film reviews?",
-      "WP:Reliable sources/Noticeboard/Archive 135#Hollywood Reporter",
-      "WP:Reliable sources/Noticeboard/Archive 148#Box Office Mojo and Boxoffice.com",
-      "WP:Reliable sources/Noticeboard/Archive 182#Hollywood Reporter & Pumped Up Kicks",
-      "WP:Reliable sources/Noticeboard/Archive 250#The Biggest Loser (U.S. TV series)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 20#Are Variety and The Hollywood Reporter reliable sources for film reviews?",
+        "WP:Reliable sources/Noticeboard/Archive 135#Hollywood Reporter",
+        "WP:Reliable sources/Noticeboard/Archive 148#Box Office Mojo and Boxoffice.com",
+        "WP:Reliable sources/Noticeboard/Archive 182#Hollywood Reporter & Pumped Up Kicks",
+        "WP:Reliable sources/Noticeboard/Archive 250#The Biggest Loser (U.S. TV series)"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is consensus that ''The Hollywood Reporter'' is generally reliable for entertainment-related topics, including its articles and reviews on film, TV and music, as well as its box office figures.",
     "domain": "hollywoodreporter.com"
@@ -198,13 +224,15 @@
     "name": "Hope not Hate",
     "sort_name": "Hope not Hate",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 47#Searchlight Magazine",
-      "WP:Reliable sources/Noticeboard/Archive 89#Searchlight",
-      "WP:Reliable sources/Noticeboard/Archive 105#Searchlight Magazine",
-      "WP:Reliable sources/Noticeboard/Archive 154#Hope not hate as source.",
-      "WP:Reliable sources/Noticeboard/Archive 263#Hope Not Hate as a WP:SPS"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 47#Searchlight Magazine",
+        "WP:Reliable sources/Noticeboard/Archive 89#Searchlight",
+        "WP:Reliable sources/Noticeboard/Archive 105#Searchlight Magazine",
+        "WP:Reliable sources/Noticeboard/Archive 154#Hope not hate as source.",
+        "WP:Reliable sources/Noticeboard/Archive 263#Hope Not Hate as a WP:SPS"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "247",
@@ -225,7 +253,9 @@
     "sort_name": "HuffPost",
     "shortcut": "WP:HUFFPOST",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "313",
@@ -246,7 +276,9 @@
     "sort_name": "HuffPost",
     "shortcut": "WP:HUFFPOLITICS",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "313",
@@ -266,7 +298,9 @@
     "sort_name": "HuffPost",
     "shortcut": "WP:HUFFPOCON",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "313",
@@ -284,11 +318,13 @@
     "name": "Human Events",
     "sort_name": "Human Events",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 80#Humanevents.com",
-      "WP:Reliable sources/Noticeboard/Archive 140#humanevents.com reference in War on Women",
-      "WP:Reliable sources/Noticeboard/Archive 266#Human Events"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 80#Humanevents.com",
+        "WP:Reliable sources/Noticeboard/Archive 140#humanevents.com reference in War on Women",
+        "WP:Reliable sources/Noticeboard/Archive 266#Human Events"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Editors consider ''Human Events'' [[WP:BIASED|biased or opinionated]], and its statements should be [[WP:INTEXT|attributed]]. In May 2019, a former editor-in-chief of ''{{pslink|Breitbart News}}'' became the editor-in-chief of ''Human Events''; articles published after the leadership change are considered generally unreliable. There is no consensus on the reliability of ''Human Events''{{'}}s older content. ''See also: {{pslink|The Post Millennial}}.''",
     "domain": "humanevents.com"
@@ -298,10 +334,12 @@
     "name": "Idolator (website)",
     "sort_name": "Idolator (website)",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 166#Idolator",
-      "WP:Reliable sources/Noticeboard/Archive 170#Idolator"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 166#Idolator",
+        "WP:Reliable sources/Noticeboard/Archive 170#Idolator"
+      ]
+    },
     "rsp_last": "2014",
     "summary": "There is consensus that Idolator is generally reliable for popular music. Consider whether content from this publication constitutes [[WP:DUE|due weight]] before citing it in an article.",
     "domain": "idolator.com"
@@ -313,7 +351,9 @@
     "sort_name": "IGN",
     "shortcut": "WP:IGN",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2017",
     "summary": "There is consensus that ''IGN'' is generally reliable for entertainment and popular culture, as well as for film and video game reviews given that attribution is provided. Consider whether the information from this source constitutes [[WP:DUE|due weight]] before citing it in an article. In addition, articles written by N-Sider are generally unreliable as this particular group of journalists have been found to fabricate articles and pass off speculation as fact. The site's blogs should be handled with [[WP:RSBLOG]]. ''See also: {{pslink|AskMen}}.''",
     "domain": "ign.com"
@@ -325,7 +365,9 @@
     "sort_name": "IMDb",
     "shortcut": "WP:IMDB",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "267",
@@ -344,11 +386,13 @@
     "sort_name": "iNaturalist",
     "shortcut": "WP:INATURALIST",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 364#is iNaturalist a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 387#INaturalist photos",
-      "WP:Reliable sources/Noticeboard/Archive_430#Inaturalist.org"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 364#is iNaturalist a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 387#INaturalist photos",
+        "WP:Reliable sources/Noticeboard/Archive_430#Inaturalist.org"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "476",
@@ -367,9 +411,11 @@
     "sort_name": "Independent",
     "shortcut": "WP:INDYUK",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 435#Is this comment in the independent considered reliable for the biography of a non-living person?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 435#Is this comment in the independent considered reliable for the biography of a non-living person?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "345",
@@ -389,11 +435,13 @@
     "sort_name": "Independent Journal Review",
     "shortcut": "WP:IJR",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 221#IJR.com / \"Independent Journal Review\"",
-      "WP:Reliable sources/Noticeboard/Archive 242#Independent Journal Review",
-      "WP:Reliable sources/Noticeboard/Archive 253#Independent Journal Review"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 221#IJR.com / \"Independent Journal Review\"",
+        "WP:Reliable sources/Noticeboard/Archive 242#Independent Journal Review",
+        "WP:Reliable sources/Noticeboard/Archive 253#Independent Journal Review"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is no consensus on the reliability of the ''Independent Journal Review''. Posts from \"community\" members are considered [[WP:SPS|self-published sources]]. The site's \"news\" section consists mostly of [[WP:SYNDICATED|syndicated stories]] from {{pslink|Reuters}}, and citations of these stories should preferably point to Reuters.",
     "domain": "ijr.com"
@@ -405,10 +453,12 @@
     "sort_name": "Independent Media Center",
     "shortcut": "WP:INDYMEDIA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 275#Indymedia",
-      "WP:Reliable sources/Noticeboard/Archive 316#Indymedia"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 275#Indymedia",
+        "WP:Reliable sources/Noticeboard/Archive 316#Indymedia"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "The [[Independent Media Center]] is an [[open publishing]] network. Editors express low confidence in Indymedia's reputation for fact-checking, and consider Indymedia a [[WP:SPS|self-published source]].",
     "domain": "indymedia.org"
@@ -419,7 +469,9 @@
     "sort_name": "Indian Express",
     "shortcut": "WP:INDIANEXP",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "293",
@@ -437,10 +489,14 @@
     "name": "Indiegogo",
     "sort_name": "Indiegogo",
     "status": "gu",
-    "discussion": [
-      "File:X-circle.svg",
-      "MediaWiki talk:Spam-blacklist/archives/October 2020#Crowdfunders"
-    ],
+    "discussion": {
+      "rsn": [
+        "MediaWiki talk:Spam-blacklist/archives/October 2020#Crowdfunders"
+      ],
+      "other": [
+        "File:X-circle.svg"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "301",
@@ -460,10 +516,12 @@
     "sort_name": "Infowars",
     "shortcut": "WP:INFOWARS",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 106#Alex Jones' Infowars.com",
-      "WP:Reliable sources/Noticeboard/Archive 458#Infowars"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 106#Alex Jones' Infowars.com",
+        "WP:Reliable sources/Noticeboard/Archive 458#Infowars"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "247",
@@ -481,11 +539,13 @@
     "name": "Inquisitr",
     "sort_name": "Inquisitr",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 223#The Inquisitr",
-      "WP:Reliable sources/Noticeboard/Archive 240#Inquisitr",
-      "WP:Reliable sources/Noticeboard/Archive 324#Inquisitr revisited"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 223#The Inquisitr",
+        "WP:Reliable sources/Noticeboard/Archive 240#Inquisitr",
+        "WP:Reliable sources/Noticeboard/Archive 324#Inquisitr revisited"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "Inquisitr is a [[news aggregator]], although it does publish some original reporting. There is consensus that Inquisitr is a generally unreliable source. Editors note that where Inquisitr has aggregated news from other sources, it is better to cite the original sources of information.",
     "domain": "inquisitr.com"
@@ -498,7 +558,9 @@
     "sort_name": "Business Insider",
     "shortcut": "WP:BUSINESSINSIDER",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "324",
@@ -524,7 +586,9 @@
     "sort_name": "Insider (news website)",
     "shortcut": "WP:BICULTURE",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "349",
@@ -550,16 +614,18 @@
     "sort_name": "Instagram",
     "shortcut": "WP:RSPINSTAGRAM",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 167#Instagram or Facebook for date of birth",
-      "WP:Reliable sources/Noticeboard/Archive 210#Can the artist's Instagram be used as a source?",
-      "WP:Reliable sources/Noticeboard/Archive 223#Is a BLP's own Instagram a RS??",
-      "WP:Reliable sources/Noticeboard/Archive 256#Facebook, Twitter, Instagram, Blogger and Tumblr, etc.",
-      "WP:Reliable sources/Noticeboard/Archive 337#MySpace, Instagram, etc.",
-      "WP:Reliable sources/Noticeboard/Archive 382#Specific case of using Instagram, with limited reason to suspect falsified information",
-      "WP:Reliable sources/Noticeboard/Archive 407#RfC: Instagram",
-      "WP:Reliable sources/Noticeboard/Archive 417#Can Instagram be used as a WP:ABOUTSELF if it is the person’s Instagram account?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 167#Instagram or Facebook for date of birth",
+        "WP:Reliable sources/Noticeboard/Archive 210#Can the artist's Instagram be used as a source?",
+        "WP:Reliable sources/Noticeboard/Archive 223#Is a BLP's own Instagram a RS??",
+        "WP:Reliable sources/Noticeboard/Archive 256#Facebook, Twitter, Instagram, Blogger and Tumblr, etc.",
+        "WP:Reliable sources/Noticeboard/Archive 337#MySpace, Instagram, etc.",
+        "WP:Reliable sources/Noticeboard/Archive 382#Specific case of using Instagram, with limited reason to suspect falsified information",
+        "WP:Reliable sources/Noticeboard/Archive 407#RfC: Instagram",
+        "WP:Reliable sources/Noticeboard/Archive 417#Can Instagram be used as a WP:ABOUTSELF if it is the person’s Instagram account?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "409",
@@ -578,10 +644,12 @@
     "name": "Inter Press Service",
     "sort_name": "Inter Press Service",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 48#(IPS) Inter Press Service – a reliable news organization?",
-      "WP:Reliable sources/Noticeboard/Archive 87#Inter Press Service--Reliable Source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 48#(IPS) Inter Press Service – a reliable news organization?",
+        "WP:Reliable sources/Noticeboard/Archive 87#Inter Press Service--Reliable Source?"
+      ]
+    },
     "rsp_last": "2011",
     "summary": "The Inter Press Service is a [[news agency]]. There is consensus that the Inter Press Service is generally reliable for news.",
     "domain": "ipsnews.net"
@@ -591,12 +659,14 @@
     "name": "The Intercept",
     "sort_name": "Intercept",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 218#The Intercept as a source",
-      "WP:Reliable sources/Noticeboard/Archive 272#The Intercept",
-      "WP:Reliable sources/Noticeboard/Archive 302#The Intercept and politics",
-      "WP:Reliable sources/Noticeboard/Archive 315#The Intercept (non-staff articles)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 218#The Intercept as a source",
+        "WP:Reliable sources/Noticeboard/Archive 272#The Intercept",
+        "WP:Reliable sources/Noticeboard/Archive 302#The Intercept and politics",
+        "WP:Reliable sources/Noticeboard/Archive 315#The Intercept (non-staff articles)"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that ''The Intercept'' is generally reliable for news. Almost all editors consider ''The Intercept'' a [[WP:BIASED|biased source]], so uses may need to be [[WP:INTEXT|attributed]]. For science, editors prefer [[Scholarly peer review|peer-reviewed journals]] over news sources like ''The Intercept''.",
     "domain": "theintercept.com"
@@ -608,15 +678,17 @@
     "sort_name": "International Business Times",
     "shortcut": "WP:IBTIMES",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 83#Times and IBTimes RS?",
-      "WP:Reliable sources/Noticeboard/Archive 104#International Business Times",
-      "WP:Reliable sources/Noticeboard/Archive 195#Slate, WGN, International Business Times",
-      "WP:Reliable sources/Noticeboard/Archive 218#International Business Times as a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 222#International Business Times",
-      "WP:Reliable sources/Noticeboard/Archive 262#International Business Times",
-      "WP:Reliable sources/Noticeboard/Archive 262#Use of blogs for sourcing height in BLPs"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 83#Times and IBTimes RS?",
+        "WP:Reliable sources/Noticeboard/Archive 104#International Business Times",
+        "WP:Reliable sources/Noticeboard/Archive 195#Slate, WGN, International Business Times",
+        "WP:Reliable sources/Noticeboard/Archive 218#International Business Times as a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 222#International Business Times",
+        "WP:Reliable sources/Noticeboard/Archive 262#International Business Times",
+        "WP:Reliable sources/Noticeboard/Archive 262#Use of blogs for sourcing height in BLPs"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is consensus that the ''International Business Times'' is generally unreliable. Editors note that the publication's editorial practices have been criticized by other reliable sources, and point to the inconsistent quality of the site's articles. The site's [[WP:SYNDICATED|syndicated content]], which may not be clearly marked, should be evaluated by the reliability of its original publisher.",
     "domain": "ibtimes.com"
@@ -628,7 +700,9 @@
     "sort_name": "International Fact-Checking Network",
     "shortcut": "WP:IFCN",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "291",
@@ -647,13 +721,15 @@
     "sort_name": "Investopedia",
     "shortcut": "WP:INVESTOPEDIA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 100#Investopedia",
-      "WP:Reliable sources/Noticeboard/Archive 205#Investopedia",
-      "WP:Reliable sources/Noticeboard/Archive 238#Investopedia?",
-      "WP:Reliable sources/Noticeboard/Archive 330#Investopedia",
-      "WP:Reliable sources/Noticeboard/Archive 399#Investopedia, 5"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 100#Investopedia",
+        "WP:Reliable sources/Noticeboard/Archive 205#Investopedia",
+        "WP:Reliable sources/Noticeboard/Archive 238#Investopedia?",
+        "WP:Reliable sources/Noticeboard/Archive 330#Investopedia",
+        "WP:Reliable sources/Noticeboard/Archive 399#Investopedia, 5"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Investopedia is a [[WP:TERTIARY|tertiary source]] on finances, owned by {{pslink|Dotdash}}. A number of users have reported inaccurate and low-quality content on this website. It is advised not to use Investopedia, and to cite other, higher quality sources instead.",
     "domain": "investopedia.com"
@@ -663,10 +739,12 @@
     "name": "IslamQA.info",
     "sort_name": "IslamQA.info",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 283#IslamQA",
-      "WP:Reliable sources/Noticeboard/Archive 368#Is IslamQA.info a reliable source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 283#IslamQA",
+        "WP:Reliable sources/Noticeboard/Archive 368#Is IslamQA.info a reliable source?"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "IslamQA.info is a Q&A site on Salafism founded and supervised by [[Muhammad Al-Munajjid|Muhammad Saalih al-Munajjid]]. There is no consensus on whether it could be used for the Salaf Movement, with more reliable secondary sources recommended and in-text attribution if utilised. It is considered generally unreliable for broader Islam-related topics due to it representing a minor viewpoint. Some editors also consider the website a self-published source due to the lack of editorial control.",
     "domain": "islamqa.info"
@@ -677,13 +755,15 @@
     "sort_name": "Jacobin (magazine)",
     "shortcut": "WP:JACOBIN",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 297#Questions about the addition of the Praise & Criticism section to Jacobin (magazine)",
-      "WP:Reliable sources/Noticeboard/Archive 302#Jacobin",
-      "WP:Reliable sources/Noticeboard/Archive 324#Jacobin",
-      "WP:Reliable sources/Noticeboard/Archive 384#Jacobin, RfC closing review",
-      "WP:Reliable sources/Noticeboard/Archive 465#Jacobin"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 297#Questions about the addition of the Praise & Criticism section to Jacobin (magazine)",
+        "WP:Reliable sources/Noticeboard/Archive 302#Jacobin",
+        "WP:Reliable sources/Noticeboard/Archive 324#Jacobin",
+        "WP:Reliable sources/Noticeboard/Archive 384#Jacobin, RfC closing review",
+        "WP:Reliable sources/Noticeboard/Archive 465#Jacobin"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "351",
@@ -709,10 +789,12 @@
     "sort_name": "JAMA",
     "shortcut": "WP:JAMA",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 13#Is the American Medical Association a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 244#RfC: JAMA opinion piece at Trump-related article"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 13#Is the American Medical Association a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 244#RfC: JAMA opinion piece at Trump-related article"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "''JAMA'' is a [[peer-reviewed]] [[medical journal]] published by the [[American Medical Association]]. It is considered generally reliable. Opinion pieces from ''JAMA'', including articles from The Jama Forum, are subject to [[WP:RSOPINION]] and might not qualify under [[WP:MEDRS]].",
     "domain": "jamanetwork.com"
@@ -724,13 +806,17 @@
     "sort_name": "Jeff Sneider",
     "shortcut": "WP:THEINSNEIDER",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 463#Jeff Sneider / The_InSneider",
-      "Talk:Marvel Cinematic Universe: Phase Five/Archive 1#Harrison Ford as Thunderbolt Ross",
-      "Talk:Marvel Cinematic Universe: Phase Six/Archive 1#TheInSneider",
-      "Talk:Star Wars: The Acolyte#About InSneider viability as EXPERTSPS",
-      "Talk:Spider-Man: Brand New Day#Discussion regarding usage of Jeff Sneider's reporting"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 463#Jeff Sneider / The_InSneider"
+      ],
+      "other": [
+        "Talk:Marvel Cinematic Universe: Phase Five/Archive 1#Harrison Ford as Thunderbolt Ross",
+        "Talk:Marvel Cinematic Universe: Phase Six/Archive 1#TheInSneider",
+        "Talk:Star Wars: The Acolyte#About InSneider viability as EXPERTSPS",
+        "Talk:Spider-Man: Brand New Day#Discussion regarding usage of Jeff Sneider's reporting"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "Jeff Sneider is an American entertainment journalist with tenure at trades ''[[Variety (magazine)|Variety]]'' and ''[[TheWrap]]''. Currently reporting as a [[self-published source]] through the newsletter ''[[The InSneider]]'' and via ''The Hot Mic'' podcast,{{efn|Regarding ''The Hot Mic'' podcast, reporting by Sneider's co-host John Rocha is not considered reliable, not fulfilling any reliability criteria. ''See [[WP:MCURS]]'' }} consensus has determined he is generally reliable in the field, fulfilling the criteria of [[WP:EXPERTSPS|subject-matter expert]]. When using Sneider's self-published reports as a source, they must be accompanied with [[WP:INTEXT|intext attribution]], especially concerning reporting on casting of productions, respecting [[WP:BLP]], and where additional considerations may apply on a case-by-case basis. ''See also: [[WP:MCURS]]''.",
     "domain": "theinsneider.com"
@@ -741,9 +827,11 @@
     "sort_name": "Jerusalem Post",
     "shortcut": "WP:JERUSALEMPOST",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive_389#Jerusalem_Post_unreliable_for_archaeology?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive_389#Jerusalem_Post_unreliable_for_archaeology?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "459",
@@ -763,14 +851,16 @@
     "sort_name": "Jewish Chronicle",
     "shortcut": "WP:RSPJC",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 60#The Jewish Chronicle",
-      "WP:Reliable sources/Noticeboard/Archive 98#The Jewish Chronicle -- not reliable for Jewish topics?",
-      "WP:Reliable sources/Noticeboard/Archive 361#Jewish Chronicle",
-      "WP:Reliable sources/Noticeboard/Archive 438#Jewish Chronicle",
-      "WP:Reliable sources/Noticeboard/Archive 452#The Jewish Chronicle",
-      "WP:Reliable sources/Noticeboard/Archive 456#Overall rating (legend/option) for Jewish Chronicle"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 60#The Jewish Chronicle",
+        "WP:Reliable sources/Noticeboard/Archive 98#The Jewish Chronicle -- not reliable for Jewish topics?",
+        "WP:Reliable sources/Noticeboard/Archive 361#Jewish Chronicle",
+        "WP:Reliable sources/Noticeboard/Archive 438#Jewish Chronicle",
+        "WP:Reliable sources/Noticeboard/Archive 452#The Jewish Chronicle",
+        "WP:Reliable sources/Noticeboard/Archive 456#Overall rating (legend/option) for Jewish Chronicle"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "337",
@@ -796,15 +886,19 @@
     "sort_name": "Jewish Virtual Library",
     "shortcut": "WP:RSPJVL",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 24#Jewish Virtual Library",
-      "WP:Reliable sources/Noticeboard/Archive 59#http://www.jewishvirtuallibrary.org/",
-      "WP:Reliable sources/Noticeboard/Archive 73#Jewish Virtual Library",
-      "WP:Reliable sources/Noticeboard/Archive 82#Jewish Virtual Library",
-      "WP:Reliable sources/Noticeboard/Archive 182#Jewish Virtual Library",
-      "WP:Reliable sources/Noticeboard/Archive 348#Jewish Virtual Library",
-      "Talk:Jewish Virtual Library#Reliable source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 24#Jewish Virtual Library",
+        "WP:Reliable sources/Noticeboard/Archive 59#http://www.jewishvirtuallibrary.org/",
+        "WP:Reliable sources/Noticeboard/Archive 73#Jewish Virtual Library",
+        "WP:Reliable sources/Noticeboard/Archive 82#Jewish Virtual Library",
+        "WP:Reliable sources/Noticeboard/Archive 182#Jewish Virtual Library",
+        "WP:Reliable sources/Noticeboard/Archive 348#Jewish Virtual Library"
+      ],
+      "other": [
+        "Talk:Jewish Virtual Library#Reliable source?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "295",
@@ -823,12 +917,14 @@
     "sort_name": "Jezebel (website)",
     "shortcut": "WP:JEZEBEL",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 149#FetLife",
-      "WP:Reliable sources/Noticeboard/Archive 209#Is Jezebel.com (online news magazine) an RS?",
-      "WP:Reliable sources/Noticeboard/Archive 401#Do the actions of a Jezebel writer reflect on the source?",
-      "WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 149#FetLife",
+        "WP:Reliable sources/Noticeboard/Archive 209#Is Jezebel.com (online news magazine) an RS?",
+        "WP:Reliable sources/Noticeboard/Archive 401#Do the actions of a Jezebel writer reflect on the source?",
+        "WP:Reliable sources/Noticeboard/Archive 409#G/O Media to start using AI"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is no consensus on the reliability of ''Jezebel''. Most editors believe that ''Jezebel'' is [[WP:BIASED|biased or opinionated]], and that its claims should be [[WP:INTEXT|attributed]]. ''Jezebel'' should generally not be used for contentious claims, especially ones about [[WP:BLP|living persons]]. The website shut down in November 2023 but was relaunched in December 2023.",
     "domain": "jezebel.com"
@@ -839,11 +935,13 @@
     "sort_name": "Jihad Watch",
     "shortcut": "WP:JIHADWATCH",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 228#Jihad Watch",
-      "WP:Reliable sources/Noticeboard/Archive 277#Jihad Watch, the Middle East Forum and \"Global muslim brotherhood daily watch\" in articles about Islam",
-      "WP:Reliable sources/Noticeboard/Archive 293#Jihad Watch"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 228#Jihad Watch",
+        "WP:Reliable sources/Noticeboard/Archive 277#Jihad Watch, the Middle East Forum and \"Global muslim brotherhood daily watch\" in articles about Islam",
+        "WP:Reliable sources/Noticeboard/Archive 293#Jihad Watch"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "325",
@@ -863,7 +961,9 @@
     "sort_name": "Joshua Project",
     "shortcut": "WP:JOSHUAPROJECT",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "361",
@@ -881,10 +981,12 @@
     "name": "Journal of Scientific Exploration",
     "sort_name": "Journal of Scientific Exploration",
     "status": "d",
-    "discussion": [
-      "WP:Reliable_sources/Noticeboard/Archive_32#Journal_of_Scientific_Exploration",
-      "WP:Reliable_sources/Noticeboard/Archive_178#Journal_of_Scientific_Exploration_and_Committee_for_Skeptical_Inquiry"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable_sources/Noticeboard/Archive_32#Journal_of_Scientific_Exploration",
+        "WP:Reliable_sources/Noticeboard/Archive_178#Journal_of_Scientific_Exploration_and_Committee_for_Skeptical_Inquiry"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "490",
@@ -902,14 +1004,16 @@
     "name": "JRank",
     "sort_name": "JRank",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 35#encyclopedia.jrank.org and \"contributed articles\"",
-      "WP:Reliable sources/Noticeboard/Archive 201#http://thedevilanddanvojir.blogspot.ca/2009_07_02_archive.html et al",
-      "WP:Reliable sources/Noticeboard/Archive 214#http://encyclopedia.jrank.org/",
-      "WP:Reliable sources/Noticeboard/Archive 263#https://biography.jrank.org",
-      "WP:Reliable sources/Noticeboard/Archive 368#Jrank.org",
-      "WP:Reliable sources/Noticeboard/Archive 380#Should Jrank.org be deprecated?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 35#encyclopedia.jrank.org and \"contributed articles\"",
+        "WP:Reliable sources/Noticeboard/Archive 201#http://thedevilanddanvojir.blogspot.ca/2009_07_02_archive.html et al",
+        "WP:Reliable sources/Noticeboard/Archive 214#http://encyclopedia.jrank.org/",
+        "WP:Reliable sources/Noticeboard/Archive 263#https://biography.jrank.org",
+        "WP:Reliable sources/Noticeboard/Archive 368#Jrank.org",
+        "WP:Reliable sources/Noticeboard/Archive 380#Should Jrank.org be deprecated?"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "JRank is considered a search engine or content farm, and is thus considered generally unreliable. Numerous concerns have been raised about copyright violations.",
     "domain": "jrank.org"
@@ -920,9 +1024,12 @@
     "sort_name": "Kickstarter",
     "shortcut": "WP:KICKSTARTER",
     "status": "gu",
-    "discussion": [
-      "Talk:Kickstarter/Archive 1#Kickstarter as the primary source in this article"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Talk:Kickstarter/Archive 1#Kickstarter as the primary source in this article"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "301",
@@ -941,14 +1048,16 @@
     "sort_name": "Kirkus Reviews",
     "shortcut": "WP:KIRKUS",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 180#Kirkus Reviews",
-      "WP:Reliable sources/Noticeboard/Archive 190#Kirkus Reviews",
-      "WP:Reliable sources/Noticeboard/Archive 330#Kirkus Indie",
-      "WP:Reliable sources/Noticeboard/Archive 356#Kirkus Reviews, again",
-      "WP:Reliable sources/Noticeboard/Archive 402#Kirkus reviews",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 425#Kirkus and Publisher's Weekly"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 180#Kirkus Reviews",
+        "WP:Reliable sources/Noticeboard/Archive 190#Kirkus Reviews",
+        "WP:Reliable sources/Noticeboard/Archive 330#Kirkus Indie",
+        "WP:Reliable sources/Noticeboard/Archive 356#Kirkus Reviews, again",
+        "WP:Reliable sources/Noticeboard/Archive 402#Kirkus reviews",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 425#Kirkus and Publisher's Weekly"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "Most content by Kirkus Reviews is considered to be generally reliable. Kirkus Indie is a pay-for-review program for independent authors: its content is considered to be questionable and to not count towards notability, in part because the author can choose whether or not the review is published. Whether or not a review is a \"Kirkus Indie\" can be determined by the presence of a \"Review Program: KIRKUS INDIE\" tag at the end of the article.",
     "domain": "kirkusreviews.com"
@@ -960,14 +1069,16 @@
     "sort_name": "Know Your Meme",
     "shortcut": "WP:KYM",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 61#Is Know Your Meme a reliable source on viral videos?",
-      "WP:Reliable sources/Noticeboard/Archive 97#Know your Meme",
-      "WP:Reliable sources/Noticeboard/Archive 158#Know your Meme",
-      "WP:Reliable sources/Noticeboard/Archive 293#Citing individual Youtube reviews and Know Your Meme",
-      "WP:Reliable sources/Noticeboard/Archive 388#Know Your Meme interviews",
-      "WP:Reliable sources/Noticeboard/Archive 390#Know Your Meme"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 61#Is Know Your Meme a reliable source on viral videos?",
+        "WP:Reliable sources/Noticeboard/Archive 97#Know your Meme",
+        "WP:Reliable sources/Noticeboard/Archive 158#Know your Meme",
+        "WP:Reliable sources/Noticeboard/Archive 293#Citing individual Youtube reviews and Know Your Meme",
+        "WP:Reliable sources/Noticeboard/Archive 388#Know Your Meme interviews",
+        "WP:Reliable sources/Noticeboard/Archive 390#Know Your Meme"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "''Know Your Meme'' entries, including \"confirmed\" entries, are [[WP:UGC|user-generated]] and generally unreliable. There is no consensus on the reliability of their video series.",
     "domain": "knowyourmeme.com"
@@ -977,11 +1088,13 @@
     "name": "Kommersant",
     "sort_name": "Kommersant",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 108#Alex Jones, Mathaba, Pravda, and PressTV",
-      "WP:Reliable sources/Noticeboard/Archive 158#Religious demographic data in Russia",
-      "WP:Reliable sources/Noticeboard/Archive 298#Rbc.ru and rbc.ua"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 108#Alex Jones, Mathaba, Pravda, and PressTV",
+        "WP:Reliable sources/Noticeboard/Archive 158#Religious demographic data in Russia",
+        "WP:Reliable sources/Noticeboard/Archive 298#Rbc.ru and rbc.ua"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "335",
@@ -1000,15 +1113,19 @@
     "content_qualifier": "(pre-2023)",
     "sort_name": "Kotaku",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 19#Kotaku",
-      "WP:Reliable sources/Noticeboard/Archive 70#Video Game Reporting",
-      "WP:Reliable sources/Noticeboard/Archive 390#Kotaku",
-      "WT:WikiProject Video games/Sources/Archive 4#Promoting Kotaku",
-      "WT:WikiProject Video games/Sources/Archive 7#Sourcing the games, official sources, and Kotaku",
-      "WT:WikiProject Video games/Sources/Archive 16#www.kotaku.com.au",
-      "WT:WikiProject Video games/Sources/Archive 26#Revisiting Kotaku"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 19#Kotaku",
+        "WP:Reliable sources/Noticeboard/Archive 70#Video Game Reporting",
+        "WP:Reliable sources/Noticeboard/Archive 390#Kotaku"
+      ],
+      "other": [
+        "WT:WikiProject Video games/Sources/Archive 4#Promoting Kotaku",
+        "WT:WikiProject Video games/Sources/Archive 7#Sourcing the games, official sources, and Kotaku",
+        "WT:WikiProject Video games/Sources/Archive 16#www.kotaku.com.au",
+        "WT:WikiProject Video games/Sources/Archive 26#Revisiting Kotaku"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "There is no clear consensus on the reliability of ''Kotaku'' prior to 2023 with regards to topics on video games. Editors seem to agree that the site's editorial standards strengthened slightly in 2010, but then deteriorated in the years leading up to 2023. The site's blog posts should be handled with [[WP:RSOPINION]]. ''See also: {{pslink|Kotaku (2023–present)}}.''",
     "domain": "kotaku.com"
@@ -1020,10 +1137,13 @@
     "sort_name": "Kotaku",
     "shortcut": "WP:KOTAKU",
     "status": "gu",
-    "discussion": [
-      "WT:WikiProject Video games/Sources/Archive 30#AI writing - Kotaku and others",
-      "WT:WikiProject Video games/Sources/Archive 30#AI articles allegedly on Kotaku"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "WT:WikiProject Video games/Sources/Archive 30#AI writing - Kotaku and others",
+        "WT:WikiProject Video games/Sources/Archive 30#AI articles allegedly on Kotaku"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "''Kotaku'' articles written from 2023 onwards are generally unreliable as the site has used [[content farm]]s and [[AI]]-generated content in a non-transparent manner. ''See also: {{pslink|Kotaku (pre-2023)}}.''",
     "domain": "kotaku.com"
@@ -1034,10 +1154,12 @@
     "sort_name": "LADbible",
     "shortcut": "WP:LADBIBLE",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 297#LADbible and Joe.ie",
-      "WP:Reliable sources/Noticeboard/Archive 474#LADbible"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 297#LADbible and Joe.ie",
+        "WP:Reliable sources/Noticeboard/Archive 474#LADbible"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "Along with sister sites ''GAMINGbible'', ''SPORTbible'', ''Tyla'', and ''UNILAD'',  ''LADbible'' publishes news, entertainment, and celebrity interviews. The site is considered to be generally unreliable and of poor quality, posting repackaged [[clickbait]] content with unclear editorial oversight and little fact-checking.",
     "domain": "Ladbible.com"
@@ -1047,11 +1169,13 @@
     "name": "Land Transport Guru",
     "sort_name": "Land Transport Guru",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 368#SGTrains and Land Transport Guru",
-      "WP:Reliable sources/Noticeboard/Archive 414#Land Transport Guru and SGTrains",
-      "WP:Reliable sources/Noticeboard/Archive 422#Land Transport Guru"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 368#SGTrains and Land Transport Guru",
+        "WP:Reliable sources/Noticeboard/Archive 414#Land Transport Guru and SGTrains",
+        "WP:Reliable sources/Noticeboard/Archive 422#Land Transport Guru"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "Due to it being a self-published source, Land Transport Guru is considered generally unreliable.",
     "domain": "landtransportguru.net"
@@ -1062,9 +1186,11 @@
     "sort_name": "Last.fm",
     "shortcut": "WP:LASTFM",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 57#Last.fm"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 57#Last.fm"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "259",
@@ -1084,10 +1210,12 @@
     "sort_name": "Lenta.ru",
     "shortcut": "WP:LENTA.RU",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 281#news-front.info",
-      "WP:Reliable sources/Noticeboard/Archive 286#lenta.ru"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 281#news-front.info",
+        "WP:Reliable sources/Noticeboard/Archive 286#lenta.ru"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "281",
@@ -1107,14 +1235,16 @@
     "sort_name": "LifeSiteNews",
     "shortcut": "WP:LIFESITENEWS",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 64#lifesitenews.com",
-      "WP:Reliable sources/Noticeboard/Archive 210#Lifesitenews",
-      "WP:Reliable sources/Noticeboard/Archive 248#Carlo Maria Viganò",
-      "WP:Reliable sources/Noticeboard/Archive 277#Life Site News (again)- or rather Crux News",
-      "WP:Reliable sources/Noticeboard/Archive 277#LifeSiteNews",
-      "WP:Reliable sources/Noticeboard/Archive 316#Rebel News"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 64#lifesitenews.com",
+        "WP:Reliable sources/Noticeboard/Archive 210#Lifesitenews",
+        "WP:Reliable sources/Noticeboard/Archive 248#Carlo Maria Viganò",
+        "WP:Reliable sources/Noticeboard/Archive 277#Life Site News (again)- or rather Crux News",
+        "WP:Reliable sources/Noticeboard/Archive 277#LifeSiteNews",
+        "WP:Reliable sources/Noticeboard/Archive 316#Rebel News"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "268",
@@ -1134,7 +1264,9 @@
     "sort_name": "LinkedIn",
     "shortcut": "WP:RSPLINKEDIN",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2023",
     "summary": "LinkedIn is a social network. As a [[WP:SPS|self-published source]], it is considered generally unreliable and should be avoided unless the post is used for an [[WP:ABOUTSELF|uncontroversial self-description]]. Articles on [[LinkedIn Pulse]] written by LinkedIn users are also self-published. LinkedIn accounts should only be cited if they are [[Account verification|verified accounts]] or if the user's identity is confirmed in some way. Posts that are not covered by reliable sources are likely to constitute [[WP:UNDUE|undue weight]]. LinkedIn should never be used for [[WP:THIRDPARTY|third-party claims]] related to [[WP:BLPSPS|living persons]].",
     "domain": "linkedin.com"
@@ -1145,9 +1277,11 @@
     "sort_name": "LionhearTV ",
     "shortcut": "WP:LIONHEARTV",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 452#LionhearTV"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 452#LionhearTV"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "468",
@@ -1165,12 +1299,14 @@
     "name": "LiveJournal",
     "sort_name": "LiveJournal",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 4#LiveJournal",
-      "WP:Reliable sources/Noticeboard/Archive 9#Livejournal",
-      "WP:Reliable sources/Noticeboard/Archive 117#Does this blog qualify for an expert exception?",
-      "WP:Reliable sources/Noticeboard/Archive 286#bmpd.livejournal.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 4#LiveJournal",
+        "WP:Reliable sources/Noticeboard/Archive 9#Livejournal",
+        "WP:Reliable sources/Noticeboard/Archive 117#Does this blog qualify for an expert exception?",
+        "WP:Reliable sources/Noticeboard/Archive 286#bmpd.livejournal.com"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "LiveJournal is a [[blog]] hosting service. As a [[WP:SPS|self-published source]], it is considered generally unreliable. LiveJournal can be used for [[WP:ABOUTSELF|uncontroversial self-descriptions]] and content from [[WP:EXPERTSOURCE|subject-matter experts]], but not as a [[WP:SECONDARY|secondary source]] for [[WP:BLPSPS|living persons]].",
     "domain": "livejournal.com"
@@ -1180,12 +1316,14 @@
     "name": "LiveLeak",
     "sort_name": "LiveLeak",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 175#Is liveleak a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 272#Holy shitballs",
-      "WP:Reliable sources/Noticeboard/Archive 278#Liveleak",
-      "WP:Reliable sources/Noticeboard/Archive 283#LiveLeak"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 175#Is liveleak a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 272#Holy shitballs",
+        "WP:Reliable sources/Noticeboard/Archive 278#Liveleak",
+        "WP:Reliable sources/Noticeboard/Archive 283#LiveLeak"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Due to persistent abuse, LiveLeak is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[WT:WHITELIST|whitelisted]] before they can be used. LiveLeak was an [[online video platform]] that hosted [[WP:UGC|user-generated content]]. Many of the videos on LiveLeak are [[WP:CV|copyright violations]], and should not be linked to per [[WP:COPYLINK]]. The use of LiveLeak as a [[WP:PRIMARY|primary source]] is questionable in most cases, as the provenance of most of the videos is unclear. LiveLeak shut down in May 2021; website content is no longer accessible unless archived.<ref>{{Cite web|url=https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix|title=LiveLeak, the internet's font of gore and violence, has shut down|first=James|last=Vincent|website=The Verge|date=May 7, 2021|access-date=May 15, 2021|archive-url=https://web.archive.org/web/20210515070233/https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix|archive-date=May 15, 2021|url-status=live}}</ref>",
     "domain": "liveleak.com"
@@ -1197,9 +1335,11 @@
     "sort_name": "Los Angeles Times",
     "shortcut": "WP:LATIMES",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 399#LA Times in Chloe Cole article in regards to the Kaiser lawsuit"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 399#LA Times in Chloe Cole article in regards to the Kaiser lawsuit"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Most editors consider the ''Los Angeles Times'' generally reliable. Refer to [[WP:NEWSBLOG]] for the newspaper's blog.",
     "domain": "latimes.com"
@@ -1211,17 +1351,19 @@
     "sort_name": "Lulu.com",
     "shortcut": "WP:LULU",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 24#Lulu.com published books",
-      "WP:Reliable sources/Noticeboard/Archive 51#Book published by Lulu.com",
-      "WP:Reliable sources/Noticeboard/Archive 80#Lulu.com and Academic Associations",
-      "WP:Reliable sources/Noticeboard/Archive 117#LuLu journals",
-      "WP:Reliable sources/Noticeboard/Archive 138#Lulu-published sources",
-      "WP:Reliable sources/Noticeboard/Archive 152#Books published through Lulu not being used as \"sources\" per se...",
-      "WP:Reliable sources/Noticeboard/Archive 214#Blanket ban on all lulu.com sources?",
-      "WP:Reliable sources/Noticeboard/Archive 250#Subgenres of the Beast",
-      "WP:Reliable sources/Noticeboard/Archive 270#P. D. Stemp"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 24#Lulu.com published books",
+        "WP:Reliable sources/Noticeboard/Archive 51#Book published by Lulu.com",
+        "WP:Reliable sources/Noticeboard/Archive 80#Lulu.com and Academic Associations",
+        "WP:Reliable sources/Noticeboard/Archive 117#LuLu journals",
+        "WP:Reliable sources/Noticeboard/Archive 138#Lulu-published sources",
+        "WP:Reliable sources/Noticeboard/Archive 152#Books published through Lulu not being used as \"sources\" per se...",
+        "WP:Reliable sources/Noticeboard/Archive 214#Blanket ban on all lulu.com sources?",
+        "WP:Reliable sources/Noticeboard/Archive 250#Subgenres of the Beast",
+        "WP:Reliable sources/Noticeboard/Archive 270#P. D. Stemp"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Due to persistent abuse, Lulu.com is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[WT:WHITELIST|whitelisted]] before they can be used. Lulu.com is a [[print-on-demand]] publisher, which is a type of [[WP:SPS|self-published source]]. Books published through Lulu.com can be used if they are written by a [[WP:EXPERTSOURCE|subject-matter expert]]. Occasionally, a reputable publisher uses Lulu.com as a [[Printer (publishing)|printer]]; in this case, cite the original publisher instead of Lulu.com.",
     "domain": "lulu.com"
@@ -1232,11 +1374,13 @@
     "name": "LWN.net",
     "sort_name": "LWN.net",
     "status": "gr",
-    "discussion": [
-      "Wikipedia:Reliable sources/Noticeboard/Archive 77#RCU page reliably sourced?",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 260#LWN.net for Draft:NumWorks",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 407#LWN.net"
-    ],
+    "discussion": {
+      "rsn": [
+        "Wikipedia:Reliable sources/Noticeboard/Archive 77#RCU page reliably sourced?",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 260#LWN.net for Draft:NumWorks",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 407#LWN.net"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Journalistic articles written for LWN.net are generally considered reliable as a source of information on [[free and open source software]] and issues of interest to that community of users and developers. However, the website also hosts archives of some mailing lists for free software, which is [[WP:UGC|user-generated content]] and a [[WP:PRIMARY|primary source]].",
     "domain": "lwn.net"

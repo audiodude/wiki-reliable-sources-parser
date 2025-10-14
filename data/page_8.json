@@ -5,10 +5,12 @@
     "sort_name": "Unz Review",
     "shortcut": "WP:UNZ",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 349#The Unz Review",
-      "WP:Reliable sources/Noticeboard/Archive 435#break (Syndication in Unz Review)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 349#The Unz Review",
+        "WP:Reliable sources/Noticeboard/Archive 435#break (Syndication in Unz Review)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "356",
@@ -27,11 +29,13 @@
     "sort_name": "Urban Dictionary",
     "shortcut": "WP:URBANDICTIONARY",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 24#Urban Dictionary",
-      "WP:Reliable sources/Noticeboard/Archive 37#Urban Dictionary is/is not a Reliable Source.",
-      "WP:Reliable sources/Noticeboard/Archive 293#Urban Dictionary"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 24#Urban Dictionary",
+        "WP:Reliable sources/Noticeboard/Archive 37#Urban Dictionary is/is not a Reliable Source.",
+        "WP:Reliable sources/Noticeboard/Archive 293#Urban Dictionary"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Urban Dictionary is considered generally unreliable, because it consists solely of [[WP:UGC|user-generated content]].",
     "domain": "urbandictionary.com"
@@ -41,11 +45,13 @@
     "name": "U.S. News & World Report",
     "sort_name": "U.S. News & World Report",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 45#Using US News and World Report as an academic authority.",
-      "WP:Reliable sources/Noticeboard/Archive 120#U.S. News and World Report as source for criticism",
-      "WP:Reliable sources/Noticeboard/Archive 298#U.S. News"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 45#Using US News and World Report as an academic authority.",
+        "WP:Reliable sources/Noticeboard/Archive 120#U.S. News and World Report as source for criticism",
+        "WP:Reliable sources/Noticeboard/Archive 298#U.S. News"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that ''U.S. News & World Report'' is generally reliable.",
     "domain": "usnews.com"
@@ -56,13 +62,15 @@
     "sort_name": "Us Weekly",
     "shortcut": "WP:USWEEKLY",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 10#accesshollywood – Reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 112#US Weekly and People magazine",
-      "WP:Reliable sources/Noticeboard/Archive 168#US Weekly",
-      "WP:Reliable sources/Noticeboard/Archive 170#Celebrity sources and distinguishing tabloid (newspaper format) from tabloid journalism",
-      "WP:Reliable sources/Noticeboard/Archive 238#Absence of evidence as evidence of absence"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 10#accesshollywood – Reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 112#US Weekly and People magazine",
+        "WP:Reliable sources/Noticeboard/Archive 168#US Weekly",
+        "WP:Reliable sources/Noticeboard/Archive 170#Celebrity sources and distinguishing tabloid (newspaper format) from tabloid journalism",
+        "WP:Reliable sources/Noticeboard/Archive 238#Absence of evidence as evidence of absence"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is no consensus on the reliability of ''Us Weekly''. It is often considered less reliable than ''{{pslink|People}}'' magazine. ''See also: {{pslink|People}}''",
     "domain": "usmagazine.com"
@@ -73,10 +81,13 @@
     "sort_name": "USA Today",
     "shortcut": "WP:USATODAY",
     "status": "gr",
-    "discussion": [
-      "Talk:USA Today/Archive 1#Is USA Today centrist?",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 5#USA Today"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Talk:USA Today/Archive 1#Is USA Today centrist?",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 5#USA Today"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that staff-written articles on ''USA Today'' are generally reliable. Editors note the publication's robust editorial process and its [[centrism|centrist]] alignment. Some content is written by [[contributor model|contributors]] with minimal editorial oversight, and is generally unreliable.",
     "domain": "usatoday.com"
@@ -87,12 +98,14 @@
     "sort_name": "Vanity Fair (magazine)",
     "shortcut": "WP:VANITYFAIR",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 18#Using a partially disputed Vanity Fair article as a source?",
-      "WP:Reliable sources/Noticeboard/Archive 262#Use of blogs for sourcing height in BLPs",
-      "WP:Reliable sources/Noticeboard/Archive 319#Vanity Fair partisanship",
-      "WP:Reliable sources/Noticeboard/Archive 348#MEDRS required for amount of grant money received?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 18#Using a partially disputed Vanity Fair article as a source?",
+        "WP:Reliable sources/Noticeboard/Archive 262#Use of blogs for sourcing height in BLPs",
+        "WP:Reliable sources/Noticeboard/Archive 319#Vanity Fair partisanship",
+        "WP:Reliable sources/Noticeboard/Archive 348#MEDRS required for amount of grant money received?"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "''Vanity Fair'' is considered generally reliable, including for [[popular culture]] topics. Some editors say it is [[WP:BIASED|biased or opinionated]].",
     "domain": "vanityfair.com"
@@ -103,13 +116,15 @@
     "sort_name": "Variety (magazine)",
     "shortcut": "WP:VARIETY",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 2#Variety on Dragon Ball Z",
-      "WP:Reliable sources/Noticeboard/Archive 20#Are Variety and The Hollywood Reporter reliable sources for film reviews?",
-      "WP:Reliable sources/Noticeboard/Archive 29#Tucker Max and questions about 2 sources",
-      "WP:Reliable sources/Noticeboard/Archive 160#imdb as a source for credits",
-      "WP:Reliable sources/Noticeboard/Archive 207#Forbes article by credible contributor"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 2#Variety on Dragon Ball Z",
+        "WP:Reliable sources/Noticeboard/Archive 20#Are Variety and The Hollywood Reporter reliable sources for film reviews?",
+        "WP:Reliable sources/Noticeboard/Archive 29#Tucker Max and questions about 2 sources",
+        "WP:Reliable sources/Noticeboard/Archive 160#imdb as a source for credits",
+        "WP:Reliable sources/Noticeboard/Archive 207#Forbes article by credible contributor"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "As an entertainment trade magazine, ''Variety'' is considered a reliable source in its field.",
     "domain": "variety.com"
@@ -119,9 +134,11 @@
     "name": "VDARE",
     "sort_name": "VDARE",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 271#VDARE"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 271#VDARE"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "254",
@@ -140,10 +157,13 @@
     "sort_name": "Venezuelanalysis",
     "shortcut": "WP:VENEZUELANALYSIS",
     "status": "gu",
-    "discussion": [
-      "Talk:Hugo Chávez/Archive 19#Sources",
-      "Talk:Hugo Chávez/Archive 29#Venezuelanalysis.com not WP:RS"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Talk:Hugo Chávez/Archive 19#Sources",
+        "Talk:Hugo Chávez/Archive 29#Venezuelanalysis.com not WP:RS"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "262",
@@ -168,12 +188,16 @@
     "sort_name": "VentureBeat",
     "shortcut": "WP:VENTUREBEAT",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 105#VentureBeat",
-      "WP:Reliable sources/Noticeboard/Archive 482#Reevaluating VentureBeat: Churnalism, notability and AI use",
-      "WP:Reliable sources/Noticeboard/Archive 486#TechCrunch, VentureBeat, and Business Insider",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 12#Venturebeat/Gamesbeat"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 105#VentureBeat",
+        "WP:Reliable sources/Noticeboard/Archive 482#Reevaluating VentureBeat: Churnalism, notability and AI use",
+        "WP:Reliable sources/Noticeboard/Archive 486#TechCrunch, VentureBeat, and Business Insider"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 12#Venturebeat/Gamesbeat"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is no consensus on the reliability of VentureBeat. Some editors expressed concern over the site's publication of [[churnalism]] and AI-generated articles, and argued against using the site to establish [[WP:N|notability]]. WikiProject Video games has [[WP:VG/S#General gaming|classified VentureBeat]] as generally reliable for its coverage of video games.",
     "domain": "venturebeat.com"
@@ -184,11 +208,13 @@
     "sort_name": "Verge",
     "shortcut": "WP:THEVERGE",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 259#Should The Verge be considered unreliable for topics involving computer hardware?",
-      "WP:Reliable sources/Noticeboard/Archive 356#RfC: Is The Verge a reliable source when it comes to social issues?",
-      "WP:Reliable sources/Noticeboard/Archive 426#The Verge"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 259#Should The Verge be considered unreliable for topics involving computer hardware?",
+        "WP:Reliable sources/Noticeboard/Archive 356#RfC: Is The Verge a reliable source when it comes to social issues?",
+        "WP:Reliable sources/Noticeboard/Archive 426#The Verge"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "247",
@@ -206,10 +232,12 @@
     "name": "Veterans Today",
     "sort_name": "Veterans Today",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 139#Press TV and Veterans Today RS for their contibutors",
-      "WP:Reliable sources/Noticeboard/Archive 182#Veterans Today"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 139#Press TV and Veterans Today RS for their contibutors",
+        "WP:Reliable sources/Noticeboard/Archive 182#Veterans Today"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "281",
@@ -227,7 +255,9 @@
     "name": "VGChartz",
     "sort_name": "VGChartz",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "277",
@@ -247,7 +277,9 @@
     "sort_name": "Vice Media",
     "shortcut": "WP:VICE",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "There is no consensus on the reliability of [[Vice Media]] publications.",
     "domain": "vice.com"
@@ -258,10 +290,12 @@
     "name": "Victims of Communism Memorial Foundation",
     "sort_name": "Victims of Communism Memorial Foundation",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 329#Victims of Communism Memorial Foundation",
-      "WP:Reliable sources/Noticeboard/Archive 362#victimsofcommunism.org"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 329#Victims of Communism Memorial Foundation",
+        "WP:Reliable sources/Noticeboard/Archive 362#victimsofcommunism.org"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "The Victims of Communism Memorial Foundation is an American [[anti-communist]] think tank and [[WP:SPS|blog]], considered to be an unreliable source due to misinformation and a generally poor reputation for fact checking and accuracy.",
     "domain": "victimsofcommunism.org"
@@ -271,17 +305,19 @@
     "name": "The Village Voice",
     "sort_name": "Village Voice",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable_sources/Noticeboard/Archive_43#Village_Voice_Editorial_\"Swift_Boat_Swill\"",
-      "WP:Reliable_sources/Noticeboard/Archive_50#Self-described_guide_to_\"alternative_opinion\"",
-      "WP:Reliable_sources/Noticeboard/Archive_53#Is_village_voice_a_reliable_source",
-      "WP:Reliable_sources/Noticeboard/Archive_159#\"Consortium%20News\"%20at%20October%20Surprise%20conspiracy%20theory",
-      "WP:Reliable_sources/Noticeboard/Archive_193#American%20Mercury%20et%20al",
-      "WP:Reliable_sources/Noticeboard/Archive_186#Is%20The%20Bay%20Magazine%20usable?",
-      "WP:Reliable_sources/Noticeboard/Archive_222#All%20newspapers%20that%20publish%20in%20tabloid%20format%20are%20not%20reliable%20sources?",
-      "WP:Reliable_sources/Noticeboard/Archive_349#Boston_Phoenix",
-      "WP:Reliable_sources/Noticeboard/Archive_432#NYC%20Local%20Journalism,%20the%20Israeli%20Press%20&%20coverage%20of%20pro-Palestine%20Protesting"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable_sources/Noticeboard/Archive_43#Village_Voice_Editorial_\"Swift_Boat_Swill\"",
+        "WP:Reliable_sources/Noticeboard/Archive_50#Self-described_guide_to_\"alternative_opinion\"",
+        "WP:Reliable_sources/Noticeboard/Archive_53#Is_village_voice_a_reliable_source",
+        "WP:Reliable_sources/Noticeboard/Archive_159#\"Consortium%20News\"%20at%20October%20Surprise%20conspiracy%20theory",
+        "WP:Reliable_sources/Noticeboard/Archive_193#American%20Mercury%20et%20al",
+        "WP:Reliable_sources/Noticeboard/Archive_186#Is%20The%20Bay%20Magazine%20usable?",
+        "WP:Reliable_sources/Noticeboard/Archive_222#All%20newspapers%20that%20publish%20in%20tabloid%20format%20are%20not%20reliable%20sources?",
+        "WP:Reliable_sources/Noticeboard/Archive_349#Boston_Phoenix",
+        "WP:Reliable_sources/Noticeboard/Archive_432#NYC%20Local%20Journalism,%20the%20Israeli%20Press%20&%20coverage%20of%20pro-Palestine%20Protesting"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is consensus among editors that ''The Village Voice'' is generally reliable. It is an [[alternative newspaper|alternative]] [[newsweekly]] that has received multiple [[Pulitzer Prizes]].",
     "domain": "villagevoice.com"
@@ -292,12 +328,14 @@
     "sort_name": "Vogue (magazine)",
     "shortcut": "WP:VOGUE",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 30#Problematic source on Hak Ja Han",
-      "WP:Reliable sources/Noticeboard/Archive 81#Sources with Quotes",
-      "WP:Reliable sources/Noticeboard/Archive 83#Quote in News Article as a Source",
-      "WP:Reliable sources/Noticeboard/Archive 237#It's time to talk about biography.com generally"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 30#Problematic source on Hak Ja Han",
+        "WP:Reliable sources/Noticeboard/Archive 81#Sources with Quotes",
+        "WP:Reliable sources/Noticeboard/Archive 83#Quote in News Article as a Source",
+        "WP:Reliable sources/Noticeboard/Archive 237#It's time to talk about biography.com generally"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "''Vogue'' is considered generally reliable. Potentially contentious statements made by ''Vogue'' interview subjects can be [[WP:INTEXT|attributed]] to the individual.",
     "domain": "vogue.com"
@@ -309,9 +347,11 @@
     "sort_name": "Voice of America",
     "shortcut": "WP:RSPVOA",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 437#Reopening the status of VOA as a perennial source"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 437#Reopening the status of VOA as a perennial source"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "353",
@@ -329,7 +369,9 @@
     "name": "Voltaire Network",
     "sort_name": "Voltaire Network",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "297",
@@ -349,15 +391,17 @@
     "sort_name": "Vox (website)",
     "shortcut": "WP:RSPVOX",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 170#is quoting someone's calculations based on four year old outdated information allowed?",
-      "WP:Reliable sources/Noticeboard/Archive 181#Huffington Post and Vox and WP:BLP",
-      "WP:Reliable sources/Noticeboard/Archive 219#Vox.com and Huffington Post at Smith & Wesson M&P15",
-      "WP:Reliable sources/Noticeboard/Archive 285#Vox article containing a factually wrong claim is used in an article",
-      "WP:Reliable sources/Noticeboard/Archive 362#Vox revisited",
-      "WP:Reliable sources/Noticeboard/Archive 388#Vox",
-      "WP:Reliable sources/Noticeboard/Archive 441#OpenAI \"content and product partnerships\" with Vox Media and The Atlantic"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 170#is quoting someone's calculations based on four year old outdated information allowed?",
+        "WP:Reliable sources/Noticeboard/Archive 181#Huffington Post and Vox and WP:BLP",
+        "WP:Reliable sources/Noticeboard/Archive 219#Vox.com and Huffington Post at Smith & Wesson M&P15",
+        "WP:Reliable sources/Noticeboard/Archive 285#Vox article containing a factually wrong claim is used in an article",
+        "WP:Reliable sources/Noticeboard/Archive 362#Vox revisited",
+        "WP:Reliable sources/Noticeboard/Archive 388#Vox",
+        "WP:Reliable sources/Noticeboard/Archive 441#OpenAI \"content and product partnerships\" with Vox Media and The Atlantic"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "''Vox'' is considered generally reliable. Some editors say that ''Vox'' is a [[WP:PARTISAN|partisan source]] in the field of politics. ''See also: {{pslink|Polygon (pre-2025)}}, {{pslink|The Verge}}, {{pslink|New York}} ''",
     "domain": "vox.com"
@@ -369,15 +413,17 @@
     "sort_name": "Wall Street Journal",
     "shortcut": "WP:WSJ",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 48#Alleged Wall Street Journal Publication",
-      "WP:Reliable sources/Noticeboard/Archive 80#Washington Wire by WSJ?",
-      "WP:Reliable sources/Noticeboard/Archive 96#Wall Street Journal is usually bogus",
-      "WP:Reliable sources/Noticeboard/Archive 180#Wall Street Journal \"Saturday Essay\"",
-      "WP:Reliable sources/Noticeboard/Archive 273#Dubious report by the Wall Street Journal",
-      "WP:Reliable sources/Noticeboard/Archive 407#Wall Street Journal opinions",
-      "WP:Reliable sources/Noticeboard/Archive 448#WSJ says it can't prove claims that 10% of UNWRA staff had ties to militant groups"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 48#Alleged Wall Street Journal Publication",
+        "WP:Reliable sources/Noticeboard/Archive 80#Washington Wire by WSJ?",
+        "WP:Reliable sources/Noticeboard/Archive 96#Wall Street Journal is usually bogus",
+        "WP:Reliable sources/Noticeboard/Archive 180#Wall Street Journal \"Saturday Essay\"",
+        "WP:Reliable sources/Noticeboard/Archive 273#Dubious report by the Wall Street Journal",
+        "WP:Reliable sources/Noticeboard/Archive 407#Wall Street Journal opinions",
+        "WP:Reliable sources/Noticeboard/Archive 448#WSJ says it can't prove claims that 10% of UNWRA staff had ties to militant groups"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "Most editors consider ''The Wall Street Journal'' generally reliable for news. Use [[WP:NEWSBLOG]] to evaluate the newspaper's blogs, including Washington Wire. Use [[WP:RSOPINION]] for opinion pieces.",
     "domain": "wsj.com"
@@ -388,16 +434,18 @@
     "sort_name": "Washington Examiner",
     "shortcut": "WP:WASHINGTONEXAMINER",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 213#Reliability of the Washington Examiner",
-      "WP:Reliable sources/Noticeboard/Archive 218#Washington Examiner",
-      "WP:Reliable sources/Noticeboard/Archive 229#Erick Erickson and The Washington Examiner",
-      "WP:Reliable sources/Noticeboard/Archive 192#Washington Examiner op-eds",
-      "WP:Reliable sources/Noticeboard/Archive 253#Washington Examiner",
-      "WP:Reliable sources/Noticeboard/Archive 271#Sources at Media bias in the United States for claims of censorship of conservative content",
-      "WP:Reliable sources/Noticeboard/Archive 283#Newsbusters and The Washington Examiner as sources for facts in the lead of CNN",
-      "WP:Reliable sources/Noticeboard/Archive 285#Washington Examiner on John McAfee"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 213#Reliability of the Washington Examiner",
+        "WP:Reliable sources/Noticeboard/Archive 218#Washington Examiner",
+        "WP:Reliable sources/Noticeboard/Archive 229#Erick Erickson and The Washington Examiner",
+        "WP:Reliable sources/Noticeboard/Archive 192#Washington Examiner op-eds",
+        "WP:Reliable sources/Noticeboard/Archive 253#Washington Examiner",
+        "WP:Reliable sources/Noticeboard/Archive 271#Sources at Media bias in the United States for claims of censorship of conservative content",
+        "WP:Reliable sources/Noticeboard/Archive 283#Newsbusters and The Washington Examiner as sources for facts in the lead of CNN",
+        "WP:Reliable sources/Noticeboard/Archive 285#Washington Examiner on John McAfee"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is no consensus on the reliability of the ''Washington Examiner'', but there is consensus that it should not be used to substantiate [[WP:EXCEPTIONAL|exceptional claims]]. Almost all editors consider the ''Washington Examiner'' a [[WP:PARTISAN|partisan source]] and believe that statements from this publication should be [[WP:INTEXT|attributed]]. The ''Washington Examiner'' publishes [[WP:RSOPINION|opinion columns]], which should be handled by following the appropriate guideline.",
     "domain": "washingtonexaminer.com"
@@ -408,10 +456,12 @@
     "content_qualifier": "(2012–2018)",
     "sort_name": "Washington Free Beacon 2012-2018",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 227#Washington Free Beacon",
-      "WP:Reliable sources/Noticeboard/Archive 291#Using The Washington Free Beacon in politically related BLPs - is it an RS?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 227#Washington Free Beacon",
+        "WP:Reliable sources/Noticeboard/Archive 291#Using The Washington Free Beacon in politically related BLPs - is it an RS?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "478",
@@ -431,10 +481,12 @@
     "sort_name": "Washington Free Beacon 2019-present",
     "shortcut": "WP:FREEBEACON",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 227#Washington Free Beacon",
-      "WP:Reliable sources/Noticeboard/Archive 291#Using The Washington Free Beacon in politically related BLPs - is it an RS?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 227#Washington Free Beacon",
+        "WP:Reliable sources/Noticeboard/Archive 291#Using The Washington Free Beacon in politically related BLPs - is it an RS?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "478",
@@ -454,7 +506,9 @@
     "sort_name": "Washington Post",
     "shortcut": "WP:WAPO",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "Most editors consider ''The Washington Post'' generally reliable. Some editors note that [[WP:NEWSBLOG]] should be used to evaluate blog posts on ''The Washington Post''<nowiki />'s website.",
     "domain": "washingtonpost.com"
@@ -465,13 +519,15 @@
     "sort_name": "Washington Times",
     "shortcut": "WP:WASHINGTONTIMES",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 232#Washington Times",
-      "WP:Reliable sources/Noticeboard/Archive 209#Is the Washington Times an acceptable source for statements of fact related to student protesters/black lives matter/Milo Yiannopoulos?",
-      "WP:Reliable sources/Noticeboard/Archive 261#The Washington Times",
-      "WP:Reliable sources/Noticeboard/Archive 285#The Washington Times",
-      "WP:Reliable sources/Noticeboard/Archive 316#Rebel News"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 232#Washington Times",
+        "WP:Reliable sources/Noticeboard/Archive 209#Is the Washington Times an acceptable source for statements of fact related to student protesters/black lives matter/Milo Yiannopoulos?",
+        "WP:Reliable sources/Noticeboard/Archive 261#The Washington Times",
+        "WP:Reliable sources/Noticeboard/Archive 285#The Washington Times",
+        "WP:Reliable sources/Noticeboard/Archive 316#Rebel News"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "328",
@@ -490,11 +546,14 @@
     "sort_name": "WatchMojo",
     "shortcut": "WP:WATCHMOJO",
     "status": "gu",
-    "discussion": [
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 16#I would like to know your opinion on these sites.",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 17#WatchMojo.com",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Unreliable"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 16#I would like to know your opinion on these sites.",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 17#WatchMojo.com",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Unreliable"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "WatchMojo is a site that publishes Internet videos consisting of ranking [[listicle]]s. The site is considered generally unreliable due to poor fact checking and editorial oversight, and for failing to disclose its methodology.",
     "domain": "watchmojo.com"
@@ -504,10 +563,12 @@
     "name": "Weather2Travel.com",
     "sort_name": "Weather2Travel.com",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 123#Weather2travel.com",
-      "WP:Reliable sources/Noticeboard/Archive 131#weather2travel"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 123#Weather2travel.com",
+        "WP:Reliable sources/Noticeboard/Archive 131#weather2travel"
+      ]
+    },
     "rsp_last": "2012",
     "summary": "Weather2Travel is a website operated by UK-based Global Support Limited. It expressly disclaims all content as indicative only and unfit to be relied upon. Some editors expressed concerns it may have a conflict of interest by way of some commercial ties.",
     "domain": "weather2travel.com"
@@ -517,11 +578,13 @@
     "name": "The Weekly Standard",
     "sort_name": "Weekly Standard",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 54#Is Weekly Standard a Reliable Source for Facts in a BLP?",
-      "WP:Reliable sources/Noticeboard/Archive 149#Is the Weekly Standard a Reliable Source?",
-      "WP:Reliable sources/Noticeboard/Archive 178#Weekly Standard redux"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 54#Is Weekly Standard a Reliable Source for Facts in a BLP?",
+        "WP:Reliable sources/Noticeboard/Archive 149#Is the Weekly Standard a Reliable Source?",
+        "WP:Reliable sources/Noticeboard/Archive 178#Weekly Standard redux"
+      ]
+    },
     "rsp_last": "2014",
     "summary": "''The Weekly Standard'' was considered generally reliable, but much of their published content was [[WP:RSOPINION|opinion]] and should be [[WP:INTEXT|attributed]] as such. Most editors say this magazine was a [[WP:PARTISAN|partisan source]]. ''The Weekly Standard'' shut down in 2018; website content is no longer available unless archived.",
     "domain": "weeklystandard.com"
@@ -533,9 +596,11 @@
     "sort_name": "Western Journal",
     "shortcut": "WP:WESTERNJOURNAL",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 271#Western Journal"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 271#Western Journal"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "275",
@@ -554,11 +619,13 @@
     "sort_name": "",
     "shortcut": "WP:WEGOTTHISCOVERED",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 281#Omigosh, are Cheatsheet.com and WeGotThisCovered.com reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 290#WeGotThisCovered.com is unreliable",
-      "WP:Reliable sources/Noticeboard/Archive 376#WeGotThisCovered.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 281#Omigosh, are Cheatsheet.com and WeGotThisCovered.com reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 290#WeGotThisCovered.com is unreliable",
+        "WP:Reliable sources/Noticeboard/Archive 376#WeGotThisCovered.com"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "''We Got This Covered'' is generally unreliable due to its lack of editorial oversight, publication of unsubstantiated or false rumors, speculation claimed as fact, and accepting contributions from non-staff contributors.",
     "domain": "wegotthiscovered.com"
@@ -569,9 +636,11 @@
     "sort_name": "Wen Wei Po",
     "shortcut": "WP:WENWEIPO",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 94#Wen Wei Po"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 94#Wen Wei Po"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "306",
@@ -590,11 +659,13 @@
     "sort_name": "WhatCulture",
     "shortcut": "WP:WHATCULTURE",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 171#WhatCulture",
-      "WP:Reliable sources/Noticeboard/Archive 296#WhatCulture",
-      "WP:Reliable sources/Noticeboard/Archive 421#WhatCulture"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 171#WhatCulture",
+        "WP:Reliable sources/Noticeboard/Archive 296#WhatCulture",
+        "WP:Reliable sources/Noticeboard/Archive 421#WhatCulture"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "WhatCulture is considered generally unreliable. Contributors \"do not need to have any relevant experience or hold any particular qualifications\" and editors note a poor record of fact checking. [[WP:WikiProject Professional wrestling/Sources#Unreliable sources|It is listed as an unreliable source by WikiProject Professional wrestling]] and [[WP:WikiProject Video games/Sources#Unreliable sources|WikiProject Video games]].",
     "domain": "whatculture.com"
@@ -605,12 +676,14 @@
     "content_qualifier": "(UK)",
     "sort_name": "Who's Who (UK)",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 53#Is Who's Who a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 89#Who's Who U.K.",
-      "WP:Reliable sources/Noticeboard/Archive 257#Who's Who and UK politicians",
-      "WP:Reliable sources/Noticeboard/Archive 417#Who's Who in Australia - Reliable, please?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 53#Is Who's Who a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 89#Who's Who U.K.",
+        "WP:Reliable sources/Noticeboard/Archive 257#Who's Who and UK politicians",
+        "WP:Reliable sources/Noticeboard/Archive 417#Who's Who in Australia - Reliable, please?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "368",
@@ -629,10 +702,12 @@
     "sort_name": "WhoSampled",
     "shortcut": "WP:WHOSAMPLED",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 120#whosampled.com",
-      "WP:Reliable sources/Noticeboard/Archive 206#WhoSampled"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 120#whosampled.com",
+        "WP:Reliable sources/Noticeboard/Archive 206#WhoSampled"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "WhoSampled is almost entirely composed of [[WP:UGC|user-generated content]], and is a [[WP:SPS|self-published source]].",
     "domain": "whosampled.com"
@@ -643,11 +718,13 @@
     "sort_name": "Wikidata",
     "shortcut": "WP:RSPWD",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 187#Is Wikidata a 'reliable source' ?",
-      "WP:Reliable sources/Noticeboard/Archive 242#WikiData source",
-      "WP:Reliable sources/Noticeboard/Archive 424#Wikimedia Foundation projects"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 187#Is Wikidata a 'reliable source' ?",
+        "WP:Reliable sources/Noticeboard/Archive 242#WikiData source",
+        "WP:Reliable sources/Noticeboard/Archive 424#Wikimedia Foundation projects"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "Wikidata is largely user-generated, and articles should not directly cite Wikidata as a source (just as it would be inappropriate to cite other Wikipedias' articles as sources). ''See also: {{pslink|Wikidata transcluded statements}}.''",
     "domain": "wikidata.org"
@@ -658,10 +735,12 @@
     "sort_name": "Wikidata",
     "shortcut": "WP:RSPWDTRANS",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 187#Is Wikidata a 'reliable source' ?",
-      "WP:Reliable sources/Noticeboard/Archive 242#WikiData source"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 187#Is Wikidata a 'reliable source' ?",
+        "WP:Reliable sources/Noticeboard/Archive 242#WikiData source"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "Uniquely among WMF sites, Wikidata's statements can be directly transcluded into articles; this is usually done to provide external links or infobox data. For example, more than two million external links from Wikidata are shown through the {{tl|Authority control}} template. There has been controversy over the use of Wikidata in the English Wikipedia due to its infancy, its vandalism issues and its sourcing. While there is no consensus on whether information from Wikidata should be used at all, there is general agreement that any Wikidata statements transcluded need to be just as – or more – reliable compared to Wikipedia content. As such, [[Module:WikidataIB]] and some related modules and templates filter unsourced Wikidata statements by default; however, other modules and templates, such as [[Module:Wikidata]], do not. ''See also: {{pslink|Wikidata}} (direct citations).''"
   },
@@ -671,7 +750,9 @@
     "sort_name": "WikiLeaks",
     "shortcut": "WP:RSPWIKILEAKS",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "348",
@@ -690,17 +771,19 @@
     "sort_name": "Wikinews",
     "shortcut": "WP:RSPWIKINEWS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 3#Wikinews",
-      "WP:Reliable sources/Noticeboard/Archive 4#Wikinews redux",
-      "WP:Reliable sources/Noticeboard/Archive 5#Wikinews: Please post definite answer",
-      "WP:Reliable sources/Noticeboard/Archive 20#Wikinews being used as a source for UFO sightings",
-      "WP:Reliable sources/Noticeboard/Archive 27#Wikinews",
-      "WP:Reliable sources/Noticeboard/Archive 40#Wikinews as a reference",
-      "WP:Reliable sources/Noticeboard/Archive 125#Wikinews",
-      "WP:Reliable sources/Noticeboard/Archive 126#Wikinews is reliable.",
-      "WP:Reliable sources/Noticeboard/Archive 424#Wikimedia Foundation projects"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 3#Wikinews",
+        "WP:Reliable sources/Noticeboard/Archive 4#Wikinews redux",
+        "WP:Reliable sources/Noticeboard/Archive 5#Wikinews: Please post definite answer",
+        "WP:Reliable sources/Noticeboard/Archive 20#Wikinews being used as a source for UFO sightings",
+        "WP:Reliable sources/Noticeboard/Archive 27#Wikinews",
+        "WP:Reliable sources/Noticeboard/Archive 40#Wikinews as a reference",
+        "WP:Reliable sources/Noticeboard/Archive 125#Wikinews",
+        "WP:Reliable sources/Noticeboard/Archive 126#Wikinews is reliable.",
+        "WP:Reliable sources/Noticeboard/Archive 424#Wikimedia Foundation projects"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "Most editors believe that Wikinews articles do not meet Wikipedia's [[WP:V|verifiability standards]]. As Wikinews does not enforce a strong editorial policy, many editors consider the site equivalent to a [[WP:SPS|self-published source]], which is generally unreliable.",
     "domain": "wikinews.org"
@@ -712,7 +795,9 @@
     "sort_name": "Wikipedia",
     "shortcut": "WP:RSPWP",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "[[WP:WINARS|Wikipedia itself is not a reliable source]] because [[WP:UGC|open wiki]]s are [[WP:SPS|self-published sources]]. This includes articles, non-article pages, ''[[The Signpost]]'', non-English Wikipedias, [[WP:Books|Wikipedia Books]], and [[WP:MIRROR|Wikipedia mirrors]]; see [[WP:CIRCULAR]] for guidance.<ref>{{cite web|url=http://www.independent.co.uk/news/long_reads/wikipedia-explained-what-is-it-trustworthy-how-work-wikimedia-2030-a8213446.html|title=Can we trust Wikipedia? 1.4 billion people can't be wrong|date=February 19, 2018|website=The Independent|accessdate=February 22, 2019|archive-url=https://web.archive.org/web/20190211185638/https://www.independent.co.uk/news/long_reads/wikipedia-explained-what-is-it-trustworthy-how-work-wikimedia-2030-a8213446.html|archive-date=February 11, 2019|url-status=live|df=mdy-all}}</ref> Occasionally, inexperienced editors may unintentionally cite the Wikipedia article about a publication instead of the publication itself; in these cases, fix the citation instead of removing it. Although citing Wikipedia as a source is against policy, content can be copied between articles with proper attribution; see [[WP:COPYWITHIN]] for instructions.",
     "domain": "wikipedia.org"
@@ -723,13 +808,15 @@
     "content_qualifier": "(India)",
     "sort_name": "Wire, The",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 289#Is LiveWire a reliable source for Pinjra Tod?",
-      "WP:Reliable sources/Noticeboard/Archive 367#The Wire (India) relaible source",
-      "WP:Reliable sources/Noticeboard/Archive 389#The Wire (India)",
-      "WP:Reliable sources/Noticeboard/Archive 390#New fake story by The Wire",
-      "WP:Reliable sources/Noticeboard/Archive 402#The Wire (Indian Publication) and Meta Controversy"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 289#Is LiveWire a reliable source for Pinjra Tod?",
+        "WP:Reliable sources/Noticeboard/Archive 367#The Wire (India) relaible source",
+        "WP:Reliable sources/Noticeboard/Archive 389#The Wire (India)",
+        "WP:Reliable sources/Noticeboard/Archive 390#New fake story by The Wire",
+        "WP:Reliable sources/Noticeboard/Archive 402#The Wire (Indian Publication) and Meta Controversy"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "402",
@@ -748,9 +835,12 @@
     "name": "Wired (magazine)",
     "sort_name": "Wired (magazine)",
     "status": "gr",
-    "discussion": [
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 4#Wired"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 4#Wired"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "''Wired'' magazine is considered generally reliable for science and technology.",
     "domain": "wired.com"
@@ -761,7 +851,9 @@
     "sort_name": "WordPress.com",
     "shortcut": "WP:RSPWORDPRESS",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2023",
     "summary": "WordPress.com is a [[WP:BLOGS|blog]] hosting service that runs on the [[WordPress]] software. As a [[WP:SPS|self-published source]], it is considered generally unreliable and should be avoided unless the author is a [[WP:EXPERTSOURCE|subject-matter expert]] or the blog is used for [[WP:ABOUTSELF|uncontroversial self-descriptions]]. WordPress.com should never be used for claims related to [[WP:BLPSPS|living persons]]; this includes interviews, as even those cannot be authenticated.",
     "domain": "wordpress.com"
@@ -773,10 +865,12 @@
     "sort_name": "World Christian Encyclopedia",
     "shortcut": "WP:WRD",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 395#Association of Religion Data Archives and World Religion Database",
-      "WP:Reliable sources/Noticeboard/Archive 428#World Christian Encyclopedia and World Religion Database/World Christian Database"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 395#Association of Religion Data Archives and World Religion Database",
+        "WP:Reliable sources/Noticeboard/Archive 428#World Christian Encyclopedia and World Religion Database/World Christian Database"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "395",
@@ -802,7 +896,9 @@
     "sort_name": "WorldNetDaily",
     "shortcut": "WP:WND",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "253",
@@ -821,11 +917,13 @@
     "name": "Worldometer",
     "sort_name": "Worldometer",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 287#https://www.worldometers.info/coronavirus/#countries",
-      "WP:Reliable sources/Noticeboard/Archive 288#worldometers.info coronavirus statistics",
-      "WP:Reliable sources/Noticeboard/Archive 299#Worldometers.info"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 287#https://www.worldometers.info/coronavirus/#countries",
+        "WP:Reliable sources/Noticeboard/Archive 288#worldometers.info coronavirus statistics",
+        "WP:Reliable sources/Noticeboard/Archive 299#Worldometers.info"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Worldometer is a [[WP:SPS|self-published source]] and editors have questioned its accuracy and methodology. It is [[Template:Current COVID-19 Project Consensus|disallowed]] by [[WP:COVID-19|WikiProject COVID-19]] as a source for statistics on the [[COVID-19 pandemic]] and is considered generally unreliable for other topics.",
     "domain": "worldometers.info"
@@ -837,7 +935,9 @@
     "sort_name": "World Socialist Web Site",
     "shortcut": "WP:WSWS",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "The World Socialist Web Site is the online news and information publication of the [[International Committee of the Fourth International]], a [[Trotskyist]] political organisation. Most editors consider it to be reliable for the [[WP:INTEXT|attributed]] [[WP:RSOPINION|opinions]] of its authors. There is no consensus on whether it is reliable for factual reporting. If used, it must be evaluated for [[WP:UNDUE|due weight]] as it is an [[WP:BIASED|opinionated source]]. Some editors suggest that it may be more reliable for news related to labor issues.",
     "domain": "wsws.org"
@@ -848,10 +948,12 @@
     "sort_name": "TheWrap",
     "shortcut": "WP:THEWRAP",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 149#The Wrap (thewrap.com)",
-      "WP:Reliable sources/Noticeboard/Archive 222#TheWrap"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 149#The Wrap (thewrap.com)",
+        "WP:Reliable sources/Noticeboard/Archive 222#TheWrap"
+      ]
+    },
     "rsp_last": "2017",
     "summary": "As an industry trade publication, there is consensus that ''TheWrap'' is a good source for entertainment news and media analysis. There is no consensus regarding the reliability of ''TheWrap''<nowiki />'s articles on other topics.",
     "domain": "thewrap.com"
@@ -861,7 +963,9 @@
     "name": "XBIZ",
     "sort_name": "XBIZ",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "349",
@@ -881,11 +985,13 @@
     "sort_name": "Xinhua News Agency",
     "shortcut": "WP:XINHUA",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 38#Is Xinhua News reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 288#Xinhua News Agency",
-      "WP:Reliable sources/Noticeboard/Archive 341#Xinhua"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 38#Is Xinhua News reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 288#Xinhua News Agency",
+        "WP:Reliable sources/Noticeboard/Archive 341#Xinhua"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "312",
@@ -904,7 +1010,9 @@
     "sort_name": "Yahoo! News",
     "shortcut": "WP:YAHOONEWS",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "''Yahoo! News'' runs both original reporting and syndicated feeds of other sources. Editors have treated the original reporting as an ordinary [[WP:NEWSORG]], and thus presumed generally reliable. Take care with syndicated content, which varies from highly reliable sources to very unreliable sources. Syndicated content should be evaluated as you would evaluate the original source. Syndicated content will have the original source's name and/or logo at the top.",
     "domain": "news.yahoo.com"
@@ -915,7 +1023,9 @@
     "sort_name": "YouTube",
     "shortcut": "WP:RSPYT",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "Most videos on YouTube are anonymous, [[WP:SPS|self-published]], and unverifiable, and should not be used as a reference. Content uploaded from a verified official account, such as that of a news organization, may be treated as originating from the uploader and therefore inheriting their level of reliability. However, many YouTube videos from unofficial accounts are copyright violations and should not be linked from Wikipedia, according to [[WP:COPYLINK]]. See also [[WP:YOUTUBE]] and [[WP:VIDEOLINK]]. For illustrative, non-referential use, see [[c:Commons:YouTube files]] and [[Wikipedia:Image use policy]].",
     "domain": "youtube.com"
@@ -926,16 +1036,18 @@
     "content_qualifier": "(pre-October 2020)",
     "sort_name": "ZDNET",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 40#Download pages as source for notability?",
-      "WP:Reliable sources/Noticeboard/Archive 55#Reliability of Virgin Media",
-      "WP:Reliable sources/Noticeboard/Archive 109#Daily Caller as source of opinion refuting a technical white paper + secondary sources",
-      "WP:Reliable sources/Noticeboard/Archive 158#http://desktoplinuxreviews.com and http://www.omgubuntu.co.uk",
-      "WP:Reliable sources/Noticeboard/Archive 181#Reliable sources for identifying malware",
-      "WP:Reliable sources/Noticeboard/Archive 197#TorrentFreak, again",
-      "WP:Reliable sources/Noticeboard/Archive 239#Tweet as an RS",
-      "WP:Reliable sources/Noticeboard/Archive 424#Something strange is going on with ZDNet"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 40#Download pages as source for notability?",
+        "WP:Reliable sources/Noticeboard/Archive 55#Reliability of Virgin Media",
+        "WP:Reliable sources/Noticeboard/Archive 109#Daily Caller as source of opinion refuting a technical white paper + secondary sources",
+        "WP:Reliable sources/Noticeboard/Archive 158#http://desktoplinuxreviews.com and http://www.omgubuntu.co.uk",
+        "WP:Reliable sources/Noticeboard/Archive 181#Reliable sources for identifying malware",
+        "WP:Reliable sources/Noticeboard/Archive 197#TorrentFreak, again",
+        "WP:Reliable sources/Noticeboard/Archive 239#Tweet as an RS",
+        "WP:Reliable sources/Noticeboard/Archive 424#Something strange is going on with ZDNet"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "430",
@@ -954,11 +1066,13 @@
     "content_qualifier": "(October 2020–present)",
     "sort_name": "ZDNET",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 401#Is ZDNet still reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 424#Something strange is going on with ZDNet",
-      "WP:Reliable sources/Noticeboard/Archive 453#CNET and ZDNET are now under Ziff Davis ownership. Should they get a new chance or continue be considered too unreliable?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 401#Is ZDNet still reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 424#Something strange is going on with ZDNet",
+        "WP:Reliable sources/Noticeboard/Archive 453#CNET and ZDNET are now under Ziff Davis ownership. Should they get a new chance or continue be considered too unreliable?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "430",
@@ -978,11 +1092,13 @@
     "sort_name": "Zero Hedge",
     "shortcut": "WP:ZEROHEDGE",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 199#ZeroHedge Blog post by \"Tyler Durden\"",
-      "WP:Reliable sources/Noticeboard/Archive 238#Zero Hedge",
-      "WP:Reliable sources/Noticeboard/Archive 259#rate \"Zero Hedge\""
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 199#ZeroHedge Blog post by \"Tyler Durden\"",
+        "WP:Reliable sources/Noticeboard/Archive 238#Zero Hedge",
+        "WP:Reliable sources/Noticeboard/Archive 259#rate \"Zero Hedge\""
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "302",
@@ -1000,10 +1116,12 @@
     "name": "ZoomInfo",
     "sort_name": "ZoomInfo",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 198#Linkedin / Zoolink",
-      "WP:Reliable sources/Noticeboard/Archive 283#zoominfo"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 198#Linkedin / Zoolink",
+        "WP:Reliable sources/Noticeboard/Archive 283#zoominfo"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Due to persistent abuse, ZoomInfo is currently on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used.",
     "domain": "zoominfo.com"

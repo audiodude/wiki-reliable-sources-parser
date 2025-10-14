@@ -5,13 +5,15 @@
     "name": "Baidu Baike",
     "sort_name": "Baidu Baike",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 17#b.baidu.com",
-      "WP:Reliable sources/Noticeboard/Archive 60#Baidu Baike",
-      "WP:Reliable sources/Noticeboard/Archive 249#Baidu Baike – Used extensively as a reference here, it's a Chinese language anonymous wiki",
-      "WP:Reliable sources/Noticeboard/Archive 251#Possible bot removal and blacklisting of Baidu",
-      "Wikipedia:Reliable_sources/Noticeboard#Can_we_remove_baidu_baike_archive_URLs_from_the_edit_filter?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 17#b.baidu.com",
+        "WP:Reliable sources/Noticeboard/Archive 60#Baidu Baike",
+        "WP:Reliable sources/Noticeboard/Archive 249#Baidu Baike – Used extensively as a reference here, it's a Chinese language anonymous wiki",
+        "WP:Reliable sources/Noticeboard/Archive 251#Possible bot removal and blacklisting of Baidu",
+        "Wikipedia:Reliable_sources/Noticeboard#Can_we_remove_baidu_baike_archive_URLs_from_the_edit_filter?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "305",
@@ -29,11 +31,13 @@
     "name": "Ballotpedia",
     "sort_name": "Ballotpedia",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 165#Ballotpedia",
-      "WP:Reliable sources/Noticeboard/Archive 209#ballotpedia.org on Lane Powell",
-      "WP:Reliable sources/Noticeboard/Archive 211#Ballotpedia"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 165#Ballotpedia",
+        "WP:Reliable sources/Noticeboard/Archive 209#ballotpedia.org on Lane Powell",
+        "WP:Reliable sources/Noticeboard/Archive 211#Ballotpedia"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "There is no consensus on the reliability of Ballotpedia. The site has an editorial team and accepts error corrections, but some editors do not express strong confidence in the site's editorial process. Discussions indicate that Ballotpedia used to be an [[WP:UGC|open wiki]], but stopped accepting [[WP:UGC|user-generated content]] at some point. Currently, the site claims: \"Ballotpedia's articles are 100 percent written by our professional staff of more than 50 writers and researchers.\"<ref>{{cite web|accessdate=October 23, 2018|title=Ballotpedia: About|url=https://ballotpedia.org/Ballotpedia:About|website=Ballotpedia|archive-url=https://web.archive.org/web/20181107064314/https://ballotpedia.org/Ballotpedia:About|archive-date=November 7, 2018|url-status=live|df=mdy-all}}</ref>",
     "domain": "ballotpedia.org"
@@ -44,7 +48,9 @@
     "name": "BBC",
     "sort_name": "BBC",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "BBC is a British [[Public broadcasting|publicly funded broadcaster]]. It is considered generally reliable. This includes [[BBC News]], BBC documentaries, and the BBC History site (on [[BBC Online]]). However, this excludes BBC projects that incorporate [[WP:UGC|user-generated content]] (such as [[h2g2]] and the [[BBC Domesday Project]]) and BBC publications with reduced editorial oversight (such as ''[[Collective (BBC)|Collective]]''). [[WP:RSOPINION|Statements of opinion]] should conform to the corresponding guideline.",
     "domain": "bbc.co.uk"
@@ -55,7 +61,9 @@
     "name": ":WP:RSPBTVA",
     "sort_name": ":WP:RSPBTVA",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "370",
@@ -73,14 +81,16 @@
     "name": "Bellingcat",
     "sort_name": "Bellingcat",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 184#\"Bellingcat\"",
-      "WP:Reliable sources/Noticeboard/Archive 193#Bellingcat",
-      "WP:Reliable sources/Noticeboard/Archive 271#Bellingcat used for this",
-      "WP:Reliable sources/Noticeboard/Archive 275#Bellingcat",
-      "WP:Reliable sources/Noticeboard/Archive 330#Bellingcat",
-      "WP:Reliable sources/Noticeboard/Archive 338#Is this Bellingcat article reliable for this specific BLP claim?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 184#\"Bellingcat\"",
+        "WP:Reliable sources/Noticeboard/Archive 193#Bellingcat",
+        "WP:Reliable sources/Noticeboard/Archive 271#Bellingcat used for this",
+        "WP:Reliable sources/Noticeboard/Archive 275#Bellingcat",
+        "WP:Reliable sources/Noticeboard/Archive 330#Bellingcat",
+        "WP:Reliable sources/Noticeboard/Archive 338#Is this Bellingcat article reliable for this specific BLP claim?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "274",
@@ -98,7 +108,9 @@
     "name": ":WP:BENZINGA",
     "sort_name": ":WP:BENZINGA",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "473",
@@ -128,7 +140,9 @@
     "name": "Best Gore",
     "sort_name": "Best Gore",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "337",
@@ -146,11 +160,13 @@
     "name": "Bild",
     "sort_name": "Bild",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 25#Bild",
-      "WP:Reliable sources/Noticeboard/Archive 166#Bild",
-      "WP:Reliable sources/Noticeboard/Archive 304#Bild"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 25#Bild",
+        "WP:Reliable sources/Noticeboard/Archive 166#Bild",
+        "WP:Reliable sources/Noticeboard/Archive 304#Bild"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "465",
@@ -169,11 +185,13 @@
     "name": "Blaze Media",
     "sort_name": "Blaze Media",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 174#Is The Blaze a WP:RS for America (2014 film)",
-      "WP:Reliable sources/Noticeboard/Archive 227#Newsbusters and The Blaze at WP:BLP page Malcolm Nance ?",
-      "WP:Reliable sources/Noticeboard/Archive 239#TheBlaze show Dana etc. w rgd Dana Loesch"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 174#Is The Blaze a WP:RS for America (2014 film)",
+        "WP:Reliable sources/Noticeboard/Archive 227#Newsbusters and The Blaze at WP:BLP page Malcolm Nance ?",
+        "WP:Reliable sources/Noticeboard/Archive 239#TheBlaze show Dana etc. w rgd Dana Loesch"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "Blaze Media (including TheBlaze) is considered generally unreliable for facts. In some cases, it may be usable for [[WP:INTEXT|attributed]] opinions. In 2018, TheBlaze merged with [[Conservative Review]] (CRTV) to form Blaze Media.<ref>{{cite web|accessdate=December 23, 2018|title=TheBlaze and CRTV Merge to Create Conservative Media Powerhouse (Exclusive)|url=https://www.hollywoodreporter.com/news/glenn-beck-mark-levin-create-conservative-media-powerhouse-1165665|website=The Hollywood Reporter|first=Paul|last=Bond|date=December 2, 2018|archive-url=https://web.archive.org/web/20181218035832/https://www.hollywoodreporter.com/news/glenn-beck-mark-levin-create-conservative-media-powerhouse-1165665|archive-date=December 18, 2018|url-status=live|df=mdy-all}}</ref>",
     "domain": "theblaze.com"
@@ -184,7 +202,9 @@
     "name": "Blogger (service)",
     "sort_name": "Blogger (service)",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2020",
     "summary": "Blogger is a [[WP:BLOGS|blog]] hosting service that owns the blogspot.com domain. As a [[WP:SPS|self-published source]], it is considered generally unreliable and should be avoided unless the author is a [[WP:EXPERTSOURCE|subject-matter expert]] or the blog is used for [[WP:ABOUTSELF|uncontroversial self-descriptions]]. Blogger blogs published by a media organization should be evaluated by the reliability of the organization. Newspaper blogs hosted using Blogger should be handled with [[WP:NEWSBLOG]]. Blogger should never be used for third-party claims related to [[WP:BLPSPS|living persons]]; this includes interviews, as even those cannot be authenticated.",
     "domain": "blogspot.com"
@@ -195,12 +215,14 @@
     "name": "Bloomberg L.P.",
     "sort_name": "Bloomberg L.P.",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 151#Bloomberg on Microsoft",
-      "WP:Reliable sources/Noticeboard/Archive 226#On Bloomberg",
-      "WP:Reliable sources/Noticeboard/Archive 270#Bloomberg",
-      "WP:Reliable sources/Noticeboard/Archive 281#Bloomberg News / Decision not to investigate Michael Bloomberg"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 151#Bloomberg on Microsoft",
+        "WP:Reliable sources/Noticeboard/Archive 226#On Bloomberg",
+        "WP:Reliable sources/Noticeboard/Archive 270#Bloomberg",
+        "WP:Reliable sources/Noticeboard/Archive 281#Bloomberg News / Decision not to investigate Michael Bloomberg"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Bloomberg publications, including [[Bloomberg News]] and ''[[Bloomberg Businessweek]]'', are considered generally reliable for news and business topics. ''See also: {{pslink|Bloomberg profiles}}.''",
     "domain": "bloomberg.com"
@@ -210,10 +232,12 @@
     "name": "Bloomberg L.P.",
     "sort_name": "Bloomberg L.P.",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 226#On Bloomberg",
-      "WP:Reliable sources/Noticeboard/Archive 237#User submitted Executive Profiles on Bloomberg.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 226#On Bloomberg",
+        "WP:Reliable sources/Noticeboard/Archive 237#User submitted Executive Profiles on Bloomberg.com"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "Bloomberg company and executive profiles are generally considered to be based on company press releases and should only be used as a source for uncontroversial information. There is consensus that these profiles should not be used to establish [[WP:N|notability]]. Some editors consider these profiles to be akin to [[WP:SPS|self-published sources]]. ''See also: {{pslink|Bloomberg}}.''",
     "domain": "bloomberg.com"
@@ -223,9 +247,12 @@
     "name": "Boing Boing",
     "sort_name": "Boing Boing",
     "status": "nc",
-    "discussion": [
-      "Talk:My Little Pony: Friendship Is Magic/Archive 3#Reversion of Mythpage88 edits"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Talk:My Little Pony: Friendship Is Magic/Archive 3#Reversion of Mythpage88 edits"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is no consensus on the reliability of ''Boing Boing''. Although ''Boing Boing'' is a [[WP:BLOGS|group blog]], some of its articles are written by [[WP:EXPERTSOURCE|subject-matter experts]] such as [[Cory Doctorow]], who is considered generally reliable for [[copyright law]].",
     "domain": "boingboing.net"
@@ -235,7 +262,9 @@
     "name": "Breitbart News",
     "sort_name": "Breitbart News",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "248",
@@ -253,12 +282,14 @@
     "name": "BroadwayWorld",
     "sort_name": "BroadwayWorld",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 203#BroadwayWorld.com?",
-      "WP:Reliable sources/Noticeboard/Archive 364#List of under-discussed websites: do they fit RS standards?",
-      "WP:Reliable sources/Noticeboard/Archive 394#Broadway World",
-      "WP:Reliable sources/Noticeboard/Archive 398#Concern regarding Broadway World"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 203#BroadwayWorld.com?",
+        "WP:Reliable sources/Noticeboard/Archive 364#List of under-discussed websites: do they fit RS standards?",
+        "WP:Reliable sources/Noticeboard/Archive 394#Broadway World",
+        "WP:Reliable sources/Noticeboard/Archive 398#Concern regarding Broadway World"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "''BroadwayWorld'' is considered generally unreliable, as it contains many articles that reproduce press releases, disguising this as authentic journalism. As the site has limited editorial oversight, and the true author of the content of press releases is obscured, this website should generally not be used for facts about [[WP:BLP|living persons]].",
     "domain": "broadwayworld.com"
@@ -268,9 +299,11 @@
     "name": "Burke's Peerage",
     "sort_name": "Burke's Peerage",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 114#thepeerage.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 114#thepeerage.com"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "297",
@@ -288,7 +321,9 @@
     "name": "Bustle (magazine)",
     "sort_name": "Bustle (magazine)",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "262",
@@ -306,17 +341,19 @@
     "name": "BuzzFeed",
     "sort_name": "BuzzFeed",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 93#BuzzFeed",
-      "WP:Reliable sources/Noticeboard/Archive 179#BuzzFeed",
-      "WP:Reliable sources/Noticeboard/Archive 188#Buzzfeed, Mother Jones for BLP's.",
-      "WP:Reliable sources/Noticeboard/Archive 189#May Buzzfeed sometimes be an RS? (Article about Chris Epps)",
-      "WP:Reliable sources/Noticeboard/Archive 213#Buzzfeed",
-      "WP:Reliable sources/Noticeboard/Archive 231#Beware BuzzFeed articles for at least a day after publication",
-      "WP:Reliable sources/Noticeboard/Archive 232#BuzzFeed and Amazon.com",
-      "WP:Reliable sources/Noticeboard/Archive 245#BuzzFeed (yes, I know – again)",
-      "WP:Reliable sources/Noticeboard/Archive 419#Additional content from BuzzFeed appearing on BuzzFeed News"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 93#BuzzFeed",
+        "WP:Reliable sources/Noticeboard/Archive 179#BuzzFeed",
+        "WP:Reliable sources/Noticeboard/Archive 188#Buzzfeed, Mother Jones for BLP's.",
+        "WP:Reliable sources/Noticeboard/Archive 189#May Buzzfeed sometimes be an RS? (Article about Chris Epps)",
+        "WP:Reliable sources/Noticeboard/Archive 213#Buzzfeed",
+        "WP:Reliable sources/Noticeboard/Archive 231#Beware BuzzFeed articles for at least a day after publication",
+        "WP:Reliable sources/Noticeboard/Archive 232#BuzzFeed and Amazon.com",
+        "WP:Reliable sources/Noticeboard/Archive 245#BuzzFeed (yes, I know – again)",
+        "WP:Reliable sources/Noticeboard/Archive 419#Additional content from BuzzFeed appearing on BuzzFeed News"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Editors find the quality of BuzzFeed articles to be highly inconsistent. Respondents to a 2014 survey from the {{pslink|Pew Research Center}} on news sources in America ranked BuzzFeed at the bottom of the list.<ref>{{cite news|accessdate=October 23, 2018|title=Media Sources: Distinct Favorites Emerge on the Left and Right|url=http://www.journalism.org/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/|website=Pew Research Center|date=October 21, 2014|first1=Amy|last1=Mitchell|first2=Jeffrey|last2=Gottfried|first3=Jocelyn|last3=Kiley|first4=Katerina Eva|last4=Matsa|archive-url=https://web.archive.org/web/20181020233211/http://www.journalism.org/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/|archive-date=October 20, 2018|url-status=live|df=mdy-all}}</ref> BuzzFeed may use [[A/B testing]] for new articles, which may cause article content to change.<ref>{{cite news|accessdate=October 23, 2018|title=BuzzFeed's strategy for getting content to do well on all platforms? Adaptation and a lot of A/B testing|url=http://www.niemanlab.org/2017/09/buzzfeeds-strategy-for-getting-content-to-do-well-on-all-platforms-adaptation-and-a-lot-of-ab-testing/|newspaper=Nieman Lab|date=September 15, 2017|first=Shan|last=Wang|archive-url=https://web.archive.org/web/20181121160312/http://www.niemanlab.org/2017/09/buzzfeeds-strategy-for-getting-content-to-do-well-on-all-platforms-adaptation-and-a-lot-of-ab-testing/|archive-date=November 21, 2018|url-status=live|df=mdy-all}}</ref> BuzzFeed operated a separate news division, ''BuzzFeed News'', which had higher editorial standards and was hosted on a different website. ''See also: {{pslink|BuzzFeed News}}.''",
     "domain": "buzzfeed.com"
@@ -326,7 +363,9 @@
     "name": "BuzzFeed News",
     "sort_name": "BuzzFeed News",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2023",
     "summary": "There is consensus that ''BuzzFeed News'' is generally reliable. ''BuzzFeed News'' operated separately from {{pslink|BuzzFeed}}, and most news content originally hosted on BuzzFeed was moved to the ''BuzzFeed News'' website in 2018.<ref>{{cite news|accessdate=October 23, 2018|title=The investigations and reporting of BuzzFeed News – *not* BuzzFeed – are now at their own BuzzFeedNews.com|url=http://www.niemanlab.org/2018/07/the-investigations-and-reporting-of-buzzfeed-news-not-buzzfeed-are-now-at-their-own-buzzfeednews-com/|newspaper=Nieman Lab|first=Shan|last=Wang|date=July 18, 2018|archive-url=https://web.archive.org/web/20181130182934/http://www.niemanlab.org/2018/07/the-investigations-and-reporting-of-buzzfeed-news-not-buzzfeed-are-now-at-their-own-buzzfeednews-com/|archive-date=November 30, 2018|url-status=live|df=mdy-all}}</ref> In light of the staff layoffs at BuzzFeed in January 2019, some editors recommend exercising more caution for ''BuzzFeed News'' articles published after this date. The site's opinion pieces should be handled with [[WP:RSOPINION]]. ''BuzzFeed News'' shut down in May 2023, and its archives remain accessible.<ref>{{cite news |last1=Waclawiak |first1=Karolina |title=A Final Editor's Note |url=https://www.buzzfeednews.com/article/karolinawaclawiak/a-final-editors-note |access-date=21 June 2023 |work=BuzzFeed News |date=5 May 2023 |language=en}}</ref> ''See also: {{pslink|BuzzFeed}}.''",
     "domain": "buzzfeednews.com"
@@ -336,7 +375,9 @@
     "name": "California Globe",
     "sort_name": "California Globe",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "336",
@@ -354,12 +395,14 @@
     "name": "The Canary (website)",
     "sort_name": "Canary",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 245#Is the Canary a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 274#Seeking acceptance of reliability of UK progressive online only news sites – The Canary, Evolve Politics and Skwawkbox",
-      "WP:Reliable sources/Noticeboard/Archive 292#The Canary",
-      "WP:Reliable sources/Noticeboard/Archive 321#The Canary"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 245#Is the Canary a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 274#Seeking acceptance of reliability of UK progressive online only news sites – The Canary, Evolve Politics and Skwawkbox",
+        "WP:Reliable sources/Noticeboard/Archive 292#The Canary",
+        "WP:Reliable sources/Noticeboard/Archive 321#The Canary"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "335",
@@ -377,11 +420,13 @@
     "name": "Catholic-Hierarchy.org",
     "sort_name": "Catholic-Hierarchy.org",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 203#catholic-hierarchy.org",
-      "WP:Reliable sources/Noticeboard/Archive 301#Catholic-Hierarchy.org",
-      "WP:Reliable sources/Noticeboard#Catholic-Hierarchy.org"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 203#catholic-hierarchy.org",
+        "WP:Reliable sources/Noticeboard/Archive 301#Catholic-Hierarchy.org",
+        "WP:Reliable sources/Noticeboard#Catholic-Hierarchy.org"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is consensus that ''Catholic-Hierarchy.org'' is generally unreliable. While there is some limited [[WP:USEBYOTHERS|USEBYOTHERS]], the author is not a [[subject-matter expert]] in the field of the [[hierarchy of the Catholic Church]]. ''Catholic-Hierarchy.org'' is also a [[WP:SPS|self-published source]] and should never be used for third-party [[WP:BLP|claims about living persons]].",
     "domain": "catholic-hierarchy.org"
@@ -391,10 +436,12 @@
     "name": "Cato Institute",
     "sort_name": "Cato Institute",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 76#Cato publications on Rand's centrality to Libertarianism",
-      "WP:Reliable sources/Noticeboard/Archive 197#Cato Institute as a reliable source for BLPs"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 76#Cato publications on Rand's centrality to Libertarianism",
+        "WP:Reliable sources/Noticeboard/Archive 197#Cato Institute as a reliable source for BLPs"
+      ]
+    },
     "rsp_last": "2015",
     "summary": "The Cato Institute is considered generally reliable for its opinion. Some editors consider the Cato Institute an authoritative source on [[libertarianism in the United States]]. There is no consensus on whether it is generally reliable on other topics. Most editors consider the Cato Institute [[WP:BIASED|biased or opinionated]], so its uses should be [[WP:INTEXT|attributed]].",
     "domain": "cato.org"
@@ -405,15 +452,17 @@
     "name": "CBS News",
     "sort_name": "CBS News",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 73#Request for Comment on Fox News Channel",
-      "WP:Reliable sources/Noticeboard/Archive 153#thinkprogress.org as a generally accepted WP:RS",
-      "WP:Reliable sources/Noticeboard/Archive 162#Is a citation to a web based news account article that has not been maintained still considered a \"reliable source\"?",
-      "WP:Reliable sources/Noticeboard/Archive 212#Priceonomics.com, CNN, and selfie-related death.",
-      "WP:Reliable sources/Noticeboard/Archive 220#Daily Mail RfC",
-      "WP:Reliable sources/Noticeboard/Archive 261#E! Online for I Admit (R. Kelly song)",
-      "WP:Reliable sources/Noticeboard/Archive 403#Any reason CBS News is not listed in the RS/P?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 73#Request for Comment on Fox News Channel",
+        "WP:Reliable sources/Noticeboard/Archive 153#thinkprogress.org as a generally accepted WP:RS",
+        "WP:Reliable sources/Noticeboard/Archive 162#Is a citation to a web based news account article that has not been maintained still considered a \"reliable source\"?",
+        "WP:Reliable sources/Noticeboard/Archive 212#Priceonomics.com, CNN, and selfie-related death.",
+        "WP:Reliable sources/Noticeboard/Archive 220#Daily Mail RfC",
+        "WP:Reliable sources/Noticeboard/Archive 261#E! Online for I Admit (R. Kelly song)",
+        "WP:Reliable sources/Noticeboard/Archive 403#Any reason CBS News is not listed in the RS/P?"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "CBS News is the news division of [[CBS]]. It is considered generally reliable. Some editors note, however, that its television content may include superficial coverage, which might not qualify under [[WP:MEDRS]].",
     "domain": "cbsnews.com"
@@ -424,17 +473,19 @@
     "name": "CelebrityNetWorth",
     "sort_name": "CelebrityNetWorth",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 90#Celebrity Networth",
-      "WP:Reliable sources/Noticeboard/Archive 113#celebritynetworth.com",
-      "WP:Reliable sources/Noticeboard/Archive 162#CelebrityNetWorth.com and TheRichest.org/TheRichest.com",
-      "WP:Reliable sources/Noticeboard/Archive 167#Celebrity Net Worth",
-      "WP:Reliable sources/Noticeboard/Archive 167#Celebritynetworth.com take 5",
-      "WP:Reliable sources/Noticeboard/Archive 183#Musa I of Mali richest man to have lived",
-      "WP:Reliable sources/Noticeboard/Archive 188#Reliable source for net worth",
-      "WP:Reliable sources/Noticeboard/Archive 207#CelebrityNetWorth (copied from talk page, outside opinions desired)",
-      "WP:Reliable sources/Noticeboard/Archive 249#celebritynetworth.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 90#Celebrity Networth",
+        "WP:Reliable sources/Noticeboard/Archive 113#celebritynetworth.com",
+        "WP:Reliable sources/Noticeboard/Archive 162#CelebrityNetWorth.com and TheRichest.org/TheRichest.com",
+        "WP:Reliable sources/Noticeboard/Archive 167#Celebrity Net Worth",
+        "WP:Reliable sources/Noticeboard/Archive 167#Celebritynetworth.com take 5",
+        "WP:Reliable sources/Noticeboard/Archive 183#Musa I of Mali richest man to have lived",
+        "WP:Reliable sources/Noticeboard/Archive 188#Reliable source for net worth",
+        "WP:Reliable sources/Noticeboard/Archive 207#CelebrityNetWorth (copied from talk page, outside opinions desired)",
+        "WP:Reliable sources/Noticeboard/Archive 249#celebritynetworth.com"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is consensus that CelebrityNetWorth is generally unreliable. CelebrityNetWorth does not disclose its methodology, and its accuracy has been criticized by ''{{pslink|The New York Times}}''.<ref>{{cite news|accessdate=September 29, 2018|title=The Big Secret of Celebrity Wealth (Is That No One Knows Anything)|url=https://www.nytimes.com/2018/09/19/style/richest-celebrities-in-hollywood.html|last=Harris|first=Malcolm|date=September 19, 2018|newspaper=The New York Times|archive-url=https://web.archive.org/web/20180927081208/https://www.nytimes.com/2018/09/19/style/richest-celebrities-in-hollywood.html|archive-date=September 27, 2018|url-status=live|url-access=limited|df=mdy-all}}</ref>",
     "domain": "celebritynetworth.com"
@@ -445,7 +496,9 @@
     "name": "Center for Economic and Policy Research",
     "sort_name": "Center for Economic and Policy Research",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "283",
@@ -464,15 +517,17 @@
     "name": "Centre for Research on Globalisation",
     "sort_name": "Centre for Research on Globalisation",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 1#globalresearch.ca",
-      "WP:Reliable sources/Noticeboard/Archive 155#globalresearch.ca",
-      "WP:Reliable sources/Noticeboard/Archive 203#milon.walla.co.il",
-      "WP:Reliable sources/Noticeboard/Archive 212#http://www.globalresearch.ca/",
-      "WP:Reliable sources/Noticeboard/Archive 227#Globalresearch.ca",
-      "WP:Reliable sources/Noticeboard/Archive 265#globalresearch.ca",
-      "WP:Reliable sources/Noticeboard/Archive 272#globalresearch.ca"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 1#globalresearch.ca",
+        "WP:Reliable sources/Noticeboard/Archive 155#globalresearch.ca",
+        "WP:Reliable sources/Noticeboard/Archive 203#milon.walla.co.il",
+        "WP:Reliable sources/Noticeboard/Archive 212#http://www.globalresearch.ca/",
+        "WP:Reliable sources/Noticeboard/Archive 227#Globalresearch.ca",
+        "WP:Reliable sources/Noticeboard/Archive 265#globalresearch.ca",
+        "WP:Reliable sources/Noticeboard/Archive 272#globalresearch.ca"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Due to persistent abuse, Global Research is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. The Centre for Research on Globalisation is the organization that operates the Global Research website (globalresearch.ca, not to be confused with {{pslink|GlobalSecurity.org}}). The CRG is considered generally unreliable due to its propagation of [[conspiracy theories]] and lack of editorial oversight. It is [[WP:BIASED|biased or opinionated]], and its content is likely to constitute [[WP:UNDUE|undue weight]]. As it often covers [[WP:FRINGE|fringe]] material, [[WP:PARITY|parity of sources]] should be considered.",
     "domain": "globalresearch.ca"
@@ -483,12 +538,14 @@
     "name": "CESNUR",
     "sort_name": "CESNUR",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 24#CESNUR / Its proponents",
-      "WP:Reliable sources/Noticeboard/Archive 278#CESNUR as a source for articles on New religious movements",
-      "WP:Reliable sources/Noticeboard/Archive 278#Massimo Introvigne and CESNUR",
-      "WP:Reliable sources/Noticeboard/Archive 278#CESNUR as a source for articles on New religious movements"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 24#CESNUR / Its proponents",
+        "WP:Reliable sources/Noticeboard/Archive 278#CESNUR as a source for articles on New religious movements",
+        "WP:Reliable sources/Noticeboard/Archive 278#Massimo Introvigne and CESNUR",
+        "WP:Reliable sources/Noticeboard/Archive 278#CESNUR as a source for articles on New religious movements"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "378",
@@ -506,10 +563,12 @@
     "name": "Change.org",
     "sort_name": "Change.org",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 208#change.org",
-      "WP:Reliable sources/Noticeboard/Archive 340#change.org ?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 208#change.org",
+        "WP:Reliable sources/Noticeboard/Archive 340#change.org ?"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "Change.org is a website specializing in the creation of online [[petition]]s. As a primary source, it is advised that editors avoid Change.org as a source for certain online petitions, especially if more reliable secondary sources are available. Due to concerns over petition [[canvassing]], Change.org is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be whitelisted before they can be used.",
     "domain": "change.org"
@@ -519,10 +578,12 @@
     "name": "Check Your Fact",
     "sort_name": "Check Your Fact",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 451#checkyourfact.com being tagged as deprecated (unreliable) source",
-      "WP:Reliable sources/Noticeboard/Archive 461#Check Your Fact"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 451#checkyourfact.com being tagged as deprecated (unreliable) source",
+        "WP:Reliable sources/Noticeboard/Archive 461#Check Your Fact"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "461",
@@ -540,9 +601,11 @@
     "name": "China Daily",
     "sort_name": "China Daily",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 305#China Daily"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 305#China Daily"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "332",
@@ -561,16 +624,18 @@
     "name": "China Global Television Network",
     "sort_name": "China Global Television Network",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 293#CGTN (China Global Television Network)",
-      "WP:Reliable sources/Noticeboard/Archive 311#\"CGTN\" and \"CGTN America\", both Chinese media outlets",
-      "WP:Reliable sources/Noticeboard/Archive 317#Mass removal of content on China-related articles",
-      "WP:Reliable sources/Noticeboard/Archive 322#CGTN as a medium of English translations of Xinhua",
-      "WP:Reliable sources/Noticeboard/Archive 325#Inline citation for deprecated CCTV",
-      "WP:Reliable sources/Noticeboard/Archive 335#CGTN and potentially fake French journalist",
-      "WP:Reliable sources/Noticeboard/Archive 468#Possible uses of deprecated sources (in some contexts): Baidu Baike and China Central Television (CCTV)",
-      "WP:Reliable sources/Noticeboard/Archive 487#CCTV and CRI english for Angus Tung"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 293#CGTN (China Global Television Network)",
+        "WP:Reliable sources/Noticeboard/Archive 311#\"CGTN\" and \"CGTN America\", both Chinese media outlets",
+        "WP:Reliable sources/Noticeboard/Archive 317#Mass removal of content on China-related articles",
+        "WP:Reliable sources/Noticeboard/Archive 322#CGTN as a medium of English translations of Xinhua",
+        "WP:Reliable sources/Noticeboard/Archive 325#Inline citation for deprecated CCTV",
+        "WP:Reliable sources/Noticeboard/Archive 335#CGTN and potentially fake French journalist",
+        "WP:Reliable sources/Noticeboard/Archive 468#Possible uses of deprecated sources (in some contexts): Baidu Baike and China Central Television (CCTV)",
+        "WP:Reliable sources/Noticeboard/Archive 487#CCTV and CRI english for Angus Tung"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "312",
@@ -589,13 +654,15 @@
     "name": "Christian Broadcasting Network",
     "sort_name": "Christian Broadcasting Network",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 88#Christian Broadcasting Network - CBN News - www.cbn.com",
-      "WP:Reliable sources/Noticeboard/Archive 95#Christian Broadcasting Network as source on Omar al-Ghoul",
-      "WP:Reliable sources/Noticeboard/Archive 118#Christian Broadcasting Network and Talk:Krista Branch",
-      "WP:Reliable sources/Noticeboard/Archive 343#CBN - Christian Broadcasting Network",
-      "WP:Reliable sources/Noticeboard/Archive 471#Christian Broadcasting Network"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 88#Christian Broadcasting Network - CBN News - www.cbn.com",
+        "WP:Reliable sources/Noticeboard/Archive 95#Christian Broadcasting Network as source on Omar al-Ghoul",
+        "WP:Reliable sources/Noticeboard/Archive 118#Christian Broadcasting Network and Talk:Krista Branch",
+        "WP:Reliable sources/Noticeboard/Archive 343#CBN - Christian Broadcasting Network",
+        "WP:Reliable sources/Noticeboard/Archive 471#Christian Broadcasting Network"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is no consensus on the reliability of The Christian Broadcasting Network. It is a [[WP:PARTISAN|partisan source]], and caution is particularly advised with any contentious topics. It may be more reliable on the subject of Christian music and films.",
     "domain": "cbn.com"
@@ -606,7 +673,9 @@
     "name": "The Christian Science Monitor",
     "sort_name": "Christian Science Monitor",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2016",
     "summary": "''The Christian Science Monitor'' is considered generally reliable for news.",
     "domain": "csmonitor.com"
@@ -616,12 +685,14 @@
     "name": "Climate Feedback",
     "sort_name": "Climate Feedback",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 250#Are we allowed to cite climate scientists?",
-      "WP:Reliable sources/Noticeboard/Archive 252#Climatefeedback.org (a climate science fact-checking website)",
-      "WP:Reliable sources/Noticeboard/Archive 274#Factcheck from climatefeedback.org as a source at Guus Berkhout",
-      "WP:Reliable sources/Noticeboard/Archive 284#Climate Feedback and similar blog sources being treated differently?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 250#Are we allowed to cite climate scientists?",
+        "WP:Reliable sources/Noticeboard/Archive 252#Climatefeedback.org (a climate science fact-checking website)",
+        "WP:Reliable sources/Noticeboard/Archive 274#Factcheck from climatefeedback.org as a source at Guus Berkhout",
+        "WP:Reliable sources/Noticeboard/Archive 284#Climate Feedback and similar blog sources being treated differently?"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Climate Feedback is a [[fact-checking]] website that is considered generally reliable for topics related to [[climate change]]. It discloses its methodologies, is certified by the {{pslink|International Fact-Checking Network}}, and has been endorsed by other reliable sources. Most editors do not consider Climate Feedback a [[WP:SPS|self-published source]] due to its high reviewer requirements.",
     "domain": "climatefeedback.org"
@@ -632,7 +703,9 @@
     "name": "CNA (TV network)",
     "sort_name": "CNA (TV network)",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "489",
@@ -651,25 +724,27 @@
     "content_qualifier": "(pre-October 2020)",
     "sort_name": "CNET",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 4#GameSpot and CNET",
-      "WP:Reliable sources/Noticeboard/Archive 24#Media Awareness Network",
-      "WP:Reliable sources/Noticeboard/Archive 30#AV-comparatives",
-      "WP:Reliable sources/Noticeboard/Archive 40#Download pages as source for notability?",
-      "WP:Reliable sources/Noticeboard/Archive 52#Sources for information on the theft",
-      "WP:Reliable sources/Noticeboard/Archive 63#TorrentFreak",
-      "WP:Reliable sources/Noticeboard/Archive 66#Rumor sites such as MacRumors and AppleInsider",
-      "WP:Reliable sources/Noticeboard/Archive 71#Bose References",
-      "WP:Reliable sources/Noticeboard/Archive 75#National Names Database",
-      "WP:Reliable sources/Noticeboard/Archive 101#CNET",
-      "WP:Reliable sources/Noticeboard/Archive 120#TorrentFreak",
-      "WP:Reliable sources/Noticeboard/Archive 134#The Pirate Bay is said in wiki-voice that it is an commercial website",
-      "WP:Reliable sources/Noticeboard/Archive 162#Can videos be RS in a BLP?",
-      "WP:Reliable sources/Noticeboard/Archive 165#Sources at Nokia Lumia 1520",
-      "WP:Reliable sources/Noticeboard/Archive 180#\"Editor Reviews\" and affiliate marketing (on CNET)",
-      "WP:Reliable sources/Noticeboard/Archive 197#TorrentFreak, again",
-      "WP:Reliable sources/Noticeboard/Archive 398#Beware: CNet running AI-generated articles, byline \"CNet Money\""
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 4#GameSpot and CNET",
+        "WP:Reliable sources/Noticeboard/Archive 24#Media Awareness Network",
+        "WP:Reliable sources/Noticeboard/Archive 30#AV-comparatives",
+        "WP:Reliable sources/Noticeboard/Archive 40#Download pages as source for notability?",
+        "WP:Reliable sources/Noticeboard/Archive 52#Sources for information on the theft",
+        "WP:Reliable sources/Noticeboard/Archive 63#TorrentFreak",
+        "WP:Reliable sources/Noticeboard/Archive 66#Rumor sites such as MacRumors and AppleInsider",
+        "WP:Reliable sources/Noticeboard/Archive 71#Bose References",
+        "WP:Reliable sources/Noticeboard/Archive 75#National Names Database",
+        "WP:Reliable sources/Noticeboard/Archive 101#CNET",
+        "WP:Reliable sources/Noticeboard/Archive 120#TorrentFreak",
+        "WP:Reliable sources/Noticeboard/Archive 134#The Pirate Bay is said in wiki-voice that it is an commercial website",
+        "WP:Reliable sources/Noticeboard/Archive 162#Can videos be RS in a BLP?",
+        "WP:Reliable sources/Noticeboard/Archive 165#Sources at Nokia Lumia 1520",
+        "WP:Reliable sources/Noticeboard/Archive 180#\"Editor Reviews\" and affiliate marketing (on CNET)",
+        "WP:Reliable sources/Noticeboard/Archive 197#TorrentFreak, again",
+        "WP:Reliable sources/Noticeboard/Archive 398#Beware: CNet running AI-generated articles, byline \"CNet Money\""
+      ]
+    },
     "rsp_last": "2023",
     "summary": "''CNET'' is considered generally reliable for its technology-related articles prior to its acquisition by [[Red Ventures]] in October 2020. In 2023, Red Ventures began deleting thousands of old CNET articles; website content may no longer be available unless archived.<ref>{{Cite news |last=Sato |first=Mia |date=2023-08-09 |title=CNET is deleting old articles to try to improve its Google Search ranking |url=https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo |access-date=2023-08-10 |website=The Verge |language=en-US}}</ref>",
     "domain": "cnet.com"
@@ -680,12 +755,14 @@
     "content_qualifier": "(October 2020–October 2022)",
     "sort_name": "CNET",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 375#Time to revisit CNET",
-      "WP:Reliable sources/Noticeboard/Archive 398#Beware: CNet running AI-generated articles, byline \"CNet Money\"",
-      "WP:Reliable sources/Noticeboard/Archive 430#RfC: Red Ventures",
-      "WP:Reliable sources/Noticeboard/Archive 471#Videos by CNET"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 375#Time to revisit CNET",
+        "WP:Reliable sources/Noticeboard/Archive 398#Beware: CNet running AI-generated articles, byline \"CNet Money\"",
+        "WP:Reliable sources/Noticeboard/Archive 430#RfC: Red Ventures",
+        "WP:Reliable sources/Noticeboard/Archive 471#Videos by CNET"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "''CNET'' was acquired by digital marketing company [[Red Ventures]] in October 2020, leading to a deterioration in editorial standards. Staff writers were pressured by company executives to publish content more favorably to advertisers in order to benefit Red Ventures' business dealings; this included both news stories and reviews.",
     "domain": "cnet.com"
@@ -696,11 +773,13 @@
     "content_qualifier": "(November 2022–present)",
     "sort_name": "CNET",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 398#Beware: CNet running AI-generated articles, byline \"CNet Money\"",
-      "WP:Reliable sources/Noticeboard/Archive 453#CNET and ZDNET are now under Ziff Davis ownership. Should they get a new chance or continue be considered too unreliable?",
-      "WP:Reliable sources/Noticeboard/Archive 485#CNET’s Reliability Status Should Be Reconsidered Ten Months After Ownership Change"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 398#Beware: CNet running AI-generated articles, byline \"CNet Money\"",
+        "WP:Reliable sources/Noticeboard/Archive 453#CNET and ZDNET are now under Ziff Davis ownership. Should they get a new chance or continue be considered too unreliable?",
+        "WP:Reliable sources/Noticeboard/Archive 485#CNET’s Reliability Status Should Be Reconsidered Ten Months After Ownership Change"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "430",
@@ -725,7 +804,9 @@
     "name": "CNN",
     "sort_name": "CNN",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "274",
@@ -750,7 +831,9 @@
     "name": "Coda Media",
     "sort_name": "Coda Media",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "337",
@@ -768,12 +851,14 @@
     "name": "CoinDesk",
     "sort_name": "CoinDesk",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 190#CoinDesk",
-      "WP:Reliable sources/Noticeboard/Archive 212#CoinDesk and CoinTelegraph on the article Ethereum",
-      "WP:Reliable sources/Noticeboard/Archive 236#CoinDesk",
-      "WP:Reliable sources/Noticeboard/Archive 395#Time to reconsider CoinDesk"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 190#CoinDesk",
+        "WP:Reliable sources/Noticeboard/Archive 212#CoinDesk and CoinTelegraph on the article Ethereum",
+        "WP:Reliable sources/Noticeboard/Archive 236#CoinDesk",
+        "WP:Reliable sources/Noticeboard/Archive 395#Time to reconsider CoinDesk"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "251",
@@ -798,11 +883,13 @@
     "name": "Common Sense Media",
     "sort_name": "Common Sense Media",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 152#Common Sense Media",
-      "WP:Reliable sources/Noticeboard/Archive 271#Common Sense Media",
-      "WP:Reliable sources/Noticeboard/Archive 294#Common Sense Media"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 152#Common Sense Media",
+        "WP:Reliable sources/Noticeboard/Archive 271#Common Sense Media",
+        "WP:Reliable sources/Noticeboard/Archive 294#Common Sense Media"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that Common Sense Media is generally reliable for entertainment reviews. As an advocacy organization, Common Sense Media is [[WP:BIASED|biased or opinionated]], and its statements should generally be [[WP:INTEXT|attributed]].",
     "domain": "commonsensemedia.org"
@@ -812,13 +899,15 @@
     "name": "Consortiumnews",
     "sort_name": "Consortiumnews",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 159#\"Consortium News\" at October Surprise conspiracy theory",
-      "WP:Reliable sources/Noticeboard/Archive 156#Robert Parry",
-      "WP:Reliable sources/Noticeboard/Archive 174#Robert Parry again",
-      "WP:Reliable sources/Noticeboard/Archive 217#Is consortiumnews.com a reliable source at article 2016 United States election interference by Russia ?",
-      "WP:Reliable sources/Noticeboard/Archive 272#Are meforum.org , consortiumnews.com, and theguardian.com/commentisfree RSs?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 159#\"Consortium News\" at October Surprise conspiracy theory",
+        "WP:Reliable sources/Noticeboard/Archive 156#Robert Parry",
+        "WP:Reliable sources/Noticeboard/Archive 174#Robert Parry again",
+        "WP:Reliable sources/Noticeboard/Archive 217#Is consortiumnews.com a reliable source at article 2016 United States election interference by Russia ?",
+        "WP:Reliable sources/Noticeboard/Archive 272#Are meforum.org , consortiumnews.com, and theguardian.com/commentisfree RSs?"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is consensus that ''Consortium News'' is generally unreliable. Certain articles (particularly those by [[Robert Parry (journalist)|Robert Parry]]) may be considered [[WP:SPS|self-published]], as it is unclear if any independent editorial review occurred. The outlet is known to lean towards uncritically repeating claims that are [[WP:FRINGE|fringe]], demonstrably false, or have been described by mainstream outlets as \"conspiracy theories.\"",
     "domain": "consortiumnews.com"
@@ -828,11 +917,13 @@
     "name": "The Conversation (website)",
     "sort_name": "Conversation",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 99#The Conversation (website)",
-      "WP:Reliable sources/Noticeboard/Archive 169#The Conversation",
-      "WP:Reliable sources/Noticeboard/Archive 275#theconversation.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 99#The Conversation (website)",
+        "WP:Reliable sources/Noticeboard/Archive 169#The Conversation",
+        "WP:Reliable sources/Noticeboard/Archive 275#theconversation.com"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "''The Conversation'' publishes articles from academics who are [[subject-matter experts]]. It is generally reliable for subjects in the authors' [[areas of expertise]]. Opinions published in ''The Conversation'' should be handled with [[WP:RSOPINION]].",
     "domain": "theconversation.com"
@@ -842,7 +933,9 @@
     "name": "Correo del Orinoco (2009)",
     "sort_name": "Correo del Orinoco (2009)",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "420",
@@ -860,13 +953,15 @@
     "name": "Cosmopolitan (magazine)",
     "sort_name": "Cosmopolitan (magazine)",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 3#IMDb Publicity",
-      "WP:Reliable sources/Noticeboard/Archive 109#Tell me if I'm in the right place",
-      "WP:Reliable sources/Noticeboard/Archive 225#Usage of \"serious\" articles from Buzzfeed, Teen Vogue, and Cosmopolitan",
-      "WP:Reliable sources/Noticeboard/Archive 249#Threesome",
-      "WP:Reliable sources/Noticeboard/Archive 256#Is Cosmopolitan a reliable source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 3#IMDb Publicity",
+        "WP:Reliable sources/Noticeboard/Archive 109#Tell me if I'm in the right place",
+        "WP:Reliable sources/Noticeboard/Archive 225#Usage of \"serious\" articles from Buzzfeed, Teen Vogue, and Cosmopolitan",
+        "WP:Reliable sources/Noticeboard/Archive 249#Threesome",
+        "WP:Reliable sources/Noticeboard/Archive 256#Is Cosmopolitan a reliable source?"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is no consensus on the reliability of ''Cosmopolitan''. It is generally regarded as a situational source, which means context is important. The treatment of ''Cosmopolitan'' as a source should be decided on a case-by-case basis, depending on the article and the information to be verified.",
     "domain": "cosmopolitan.com"
@@ -876,7 +971,9 @@
     "name": "CounterPunch",
     "sort_name": "CounterPunch",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "355",
@@ -900,13 +997,15 @@
     "name": "Cracked.com",
     "sort_name": "Cracked.com",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 36#Cracked.com",
-      "WP:Reliable sources/Noticeboard/Archive 95#Cracked.com Children's toys/characters and profane reviews",
-      "WP:Reliable sources/Noticeboard/Archive 147#Cracked.com",
-      "WP:Reliable sources/Noticeboard/Archive 195#Cracked",
-      "WP:Reliable sources/Noticeboard/Archive 196#Cracked.com on Fifty Shades of Grey"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 36#Cracked.com",
+        "WP:Reliable sources/Noticeboard/Archive 95#Cracked.com Children's toys/characters and profane reviews",
+        "WP:Reliable sources/Noticeboard/Archive 147#Cracked.com",
+        "WP:Reliable sources/Noticeboard/Archive 195#Cracked",
+        "WP:Reliable sources/Noticeboard/Archive 196#Cracked.com on Fifty Shades of Grey"
+      ]
+    },
     "rsp_last": "2015",
     "summary": "Cracked.com is a humor website. There is consensus that Cracked.com is generally unreliable. When Cracked.com cites another source for an article, it is preferable for editors to read and cite that source instead.",
     "domain": "cracked.com"
@@ -916,9 +1015,11 @@
     "name": ":WP:THECRADLE",
     "sort_name": "Cradle",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 422#The Cradle"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 422#The Cradle"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "424",
@@ -936,10 +1037,12 @@
     "name": "Crunchbase",
     "sort_name": "Crunchbase",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 218#Crunchbase",
-      "WP:Reliable sources/Noticeboard/Archive 252#Is Crunchbase a reliable source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 218#Crunchbase",
+        "WP:Reliable sources/Noticeboard/Archive 252#Is Crunchbase a reliable source?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "261",
@@ -957,14 +1060,16 @@
     "name": "The Daily Beast",
     "sort_name": "Daily Beast",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 39#The Daily Beast as a source",
-      "WP:Reliable sources/Noticeboard/Archive 242#The Daily Beast as a source for a denial",
-      "WP:Reliable sources/Noticeboard/Archive 281#Is The Daily Beast a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 285#The daily beast",
-      "WP:Reliable sources/Noticeboard/Archive 331#Daily Beast Tabloid Reporting",
-      "WP:Reliable sources/Noticeboard/Archive 397#The Daily Beast and Mediaite for extraordinary claim in a BLP"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 39#The Daily Beast as a source",
+        "WP:Reliable sources/Noticeboard/Archive 242#The Daily Beast as a source for a denial",
+        "WP:Reliable sources/Noticeboard/Archive 281#Is The Daily Beast a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 285#The daily beast",
+        "WP:Reliable sources/Noticeboard/Archive 331#Daily Beast Tabloid Reporting",
+        "WP:Reliable sources/Noticeboard/Archive 397#The Daily Beast and Mediaite for extraordinary claim in a BLP"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is no consensus on the reliability of ''The Daily Beast''. Most editors consider ''The Daily Beast'' a [[WP:BIASED|biased or opinionated source]]. Some editors advise particular caution when using this source for controversial statements of fact related to [[WP:BLP|living persons]].",
     "domain": "thedailybeast.com"
@@ -974,16 +1079,18 @@
     "name": "The Daily Caller",
     "sort_name": "Daily Caller",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 71#The Daily Caller",
-      "WP:Reliable sources/Noticeboard/Archive 145#The Daily Caller is not a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 109#Daily Caller as source of opinion refuting a technical white paper + secondary sources",
-      "WP:Reliable sources/Noticeboard/Archive 149#The Daily Caller as a source",
-      "WP:Reliable sources/Noticeboard/Archive 158#Timmerman of Daily Caller: \"sources with access to intelligence reports had told him that intelligence reports from French and Jordanian military intelligence show...\"",
-      "WP:Reliable sources/Noticeboard/Archive 242#The Hill, Fox News, and Daily Caller reliable sources?",
-      "WP:Reliable sources/Noticeboard/Archive 278#Correct action when someone persistently adds back a deprecated source?",
-      "WP:Reliable sources/Noticeboard/Archive 280#Interviews & opinion pieces (The Daily Caller)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 71#The Daily Caller",
+        "WP:Reliable sources/Noticeboard/Archive 145#The Daily Caller is not a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 109#Daily Caller as source of opinion refuting a technical white paper + secondary sources",
+        "WP:Reliable sources/Noticeboard/Archive 149#The Daily Caller as a source",
+        "WP:Reliable sources/Noticeboard/Archive 158#Timmerman of Daily Caller: \"sources with access to intelligence reports had told him that intelligence reports from French and Jordanian military intelligence show...\"",
+        "WP:Reliable sources/Noticeboard/Archive 242#The Hill, Fox News, and Daily Caller reliable sources?",
+        "WP:Reliable sources/Noticeboard/Archive 278#Correct action when someone persistently adds back a deprecated source?",
+        "WP:Reliable sources/Noticeboard/Archive 280#Interviews & opinion pieces (The Daily Caller)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "258",
@@ -1001,7 +1108,9 @@
     "name": "The Daily Dot",
     "sort_name": "Daily Dot",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "390",
@@ -1019,14 +1128,16 @@
     "name": "Daily Express",
     "sort_name": "Daily Express",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 239#If we're going to declare the Daily Mail an unreliable source (and I think we should) we should do the same to the Daily Express",
-      "WP:Reliable sources/Noticeboard/Archive 224#Daily Express RfC",
-      "WP:Reliable sources/Noticeboard/Archive 236#Reliability of Daily Express, Brexit Central and BuzzFeed",
-      "WP:Reliable sources/Noticeboard/Archive 281#Bad source to show reporting in bad sources?",
-      "WP:Reliable sources/Noticeboard/Archive 289#Daily Express and Daily Mirror",
-      "WP:Reliable sources/Noticeboard/Archive 299#Daily Express 2000-2017 (Desmond era)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 239#If we're going to declare the Daily Mail an unreliable source (and I think we should) we should do the same to the Daily Express",
+        "WP:Reliable sources/Noticeboard/Archive 224#Daily Express RfC",
+        "WP:Reliable sources/Noticeboard/Archive 236#Reliability of Daily Express, Brexit Central and BuzzFeed",
+        "WP:Reliable sources/Noticeboard/Archive 281#Bad source to show reporting in bad sources?",
+        "WP:Reliable sources/Noticeboard/Archive 289#Daily Express and Daily Mirror",
+        "WP:Reliable sources/Noticeboard/Archive 299#Daily Express 2000-2017 (Desmond era)"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "The ''Daily Express'' is a [[Tabloid journalism|tabloid]] with a number of similarities to the ''{{pslink|Daily Mail}}''. It is considered generally unreliable.",
     "domain": "express.co.uk"
@@ -1036,11 +1147,13 @@
     "name": "Daily Kos",
     "sort_name": "Daily Kos",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 182#Breitbart again",
-      "WP:Reliable sources/Noticeboard/Archive 185#Daily Kos Elections",
-      "WP:Reliable sources/Noticeboard/Archive 232#Daily Kos"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 182#Breitbart again",
+        "WP:Reliable sources/Noticeboard/Archive 185#Daily Kos Elections",
+        "WP:Reliable sources/Noticeboard/Archive 232#Daily Kos"
+      ]
+    },
     "rsp_last": "2017",
     "summary": "There is consensus that Daily Kos should generally be avoided as a source, especially for controversial political topics where better sources are available. As an [[Internet activism|activism blog]] that publishes [[WP:UGC|user-generated content]] with a [[progressivism|progressive]] [[WP:BIASED|point of view]], many editors consider Daily Kos to inappropriately blur news reporting and opinion.",
     "domain": "dailykos.com"
@@ -1051,7 +1164,9 @@
     "name": "Daily Mail",
     "sort_name": "Daily Mail",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "220",
@@ -1082,13 +1197,15 @@
     "name": "Daily Mirror",
     "sort_name": "Daily Mirror",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 19#Daily Mirror",
-      "WP:Reliable sources/Noticeboard/Archive 160#Huffington Post/Daily Mirror",
-      "WP:Reliable sources/Noticeboard/Archive 248#The Daily Mirror",
-      "WP:Reliable sources/Noticeboard/Archive 289#Daily Express and Daily Mirror",
-      "WP:Reliable sources/Noticeboard/Archive 296#Daily Mirror"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 19#Daily Mirror",
+        "WP:Reliable sources/Noticeboard/Archive 160#Huffington Post/Daily Mirror",
+        "WP:Reliable sources/Noticeboard/Archive 248#The Daily Mirror",
+        "WP:Reliable sources/Noticeboard/Archive 289#Daily Express and Daily Mirror",
+        "WP:Reliable sources/Noticeboard/Archive 296#Daily Mirror"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "The ''Daily Mirror'', also known just as the ''Mirror'', is a [[tabloid newspaper]] that publishes [[tabloid journalism]]. There is no consensus on whether its reliability is comparable to that of British tabloids such as the ''{{pslink|Daily Mail}}'' and ''{{pslink|The Sun}}''.",
     "domain": "mirror.co.uk"
@@ -1098,7 +1215,9 @@
     "name": "Daily NK",
     "sort_name": "Daily NK",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "368",
@@ -1116,7 +1235,9 @@
     "name": "Daily Sabah",
     "sort_name": "Daily Sabah",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "321",
@@ -1135,12 +1256,14 @@
     "content_qualifier": "(UK)",
     "sort_name": "Daily Star (United Kingdom)",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 37#reliable sources for music sales and chart positions",
-      "WP:Reliable sources/Noticeboard/Archive 90#Daily Star",
-      "WP:Reliable sources/Noticeboard/Archive 210#Daily Mail",
-      "WP:Reliable sources/Noticeboard/Archive 251#Daily Star (United Kingdom)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 37#reliable sources for music sales and chart positions",
+        "WP:Reliable sources/Noticeboard/Archive 90#Daily Star",
+        "WP:Reliable sources/Noticeboard/Archive 210#Daily Mail",
+        "WP:Reliable sources/Noticeboard/Archive 251#Daily Star (United Kingdom)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "311",
@@ -1160,7 +1283,9 @@
     "content_qualifier": "(UK) (excluding transgender topics)",
     "sort_name": "Daily Telegraph",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "392",
@@ -1180,9 +1305,11 @@
     "content_qualifier": "(UK) (transgender topics)",
     "sort_name": "Daily Telegraph",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 441#The Telegraph and trans issues"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 441#The Telegraph and trans issues"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "444",
@@ -1200,12 +1327,14 @@
     "name": "The Daily Wire",
     "sort_name": "Daily Wire",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 241#The Daily Wire",
-      "WP:Reliable sources/Noticeboard/Archive 279#The Daily Wire",
-      "WP:Reliable sources/Noticeboard/Archive 285#The Daily Wire",
-      "Wikipedia talk:Reliable sources/Perennial sources/Archive 6#Upgrading The Daily Wire's rating to No Consensus WP:MREL"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 241#The Daily Wire",
+        "WP:Reliable sources/Noticeboard/Archive 279#The Daily Wire",
+        "WP:Reliable sources/Noticeboard/Archive 285#The Daily Wire",
+        "Wikipedia talk:Reliable sources/Perennial sources/Archive 6#Upgrading The Daily Wire's rating to No Consensus WP:MREL"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "358",
@@ -1223,14 +1352,16 @@
     "name": "Deadline Hollywood",
     "sort_name": "Deadline Hollywood",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 17#AccessDeadline Hollywood",
-      "WP:Reliable sources/Noticeboard/Archive 102#Desperate Housewives",
-      "WP:Reliable sources/Noticeboard/Archive 108#TV Line",
-      "WP:Reliable sources/Noticeboard/Archive 171#NikkiFinke.com",
-      "WP:Reliable sources/Noticeboard/Archive 179#Deadline.com",
-      "WP:Reliable sources/Noticeboard/Archive 253#deadline.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 17#AccessDeadline Hollywood",
+        "WP:Reliable sources/Noticeboard/Archive 102#Desperate Housewives",
+        "WP:Reliable sources/Noticeboard/Archive 108#TV Line",
+        "WP:Reliable sources/Noticeboard/Archive 171#NikkiFinke.com",
+        "WP:Reliable sources/Noticeboard/Archive 179#Deadline.com",
+        "WP:Reliable sources/Noticeboard/Archive 253#deadline.com"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "''Deadline Hollywood'' is considered generally reliable for entertainment-related articles.",
     "domain": "deadline.com"
@@ -1240,9 +1371,11 @@
     "name": ":WP:THEDEBRIEF",
     "sort_name": "Debrief",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 425#Thedebrief.org"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 425#Thedebrief.org"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "483",
@@ -1260,9 +1393,11 @@
     "name": "Debrett's",
     "sort_name": "Debrett's",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 60#\"Debrett's People of Today\""
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 60#\"Debrett's People of Today\""
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "297",
@@ -1280,13 +1415,15 @@
     "name": "Democracy Now!",
     "sort_name": "Democracy Now!",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 40#Democracy Now!",
-      "WP:Reliable sources/Noticeboard/Archive 71#Democracy Now source article \"Cheering Movers and Art Student Spies\"",
-      "WP:Reliable sources/Noticeboard/Archive 84#Democracy Now! and CounterPunch",
-      "WP:Reliable sources/Noticeboard/Archive 96#Democracy Now",
-      "WP:Reliable sources/Noticeboard/Archive 144#Democracy Now! in general"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 40#Democracy Now!",
+        "WP:Reliable sources/Noticeboard/Archive 71#Democracy Now source article \"Cheering Movers and Art Student Spies\"",
+        "WP:Reliable sources/Noticeboard/Archive 84#Democracy Now! and CounterPunch",
+        "WP:Reliable sources/Noticeboard/Archive 96#Democracy Now",
+        "WP:Reliable sources/Noticeboard/Archive 144#Democracy Now! in general"
+      ]
+    },
     "rsp_last": "2013",
     "summary": "There is no consensus on the reliability of ''Democracy Now!''. Most editors consider ''Democracy Now!'' a [[WP:PARTISAN|partisan source]] whose statements should be [[WP:INTEXT|attributed]]. [[WP:SYNDICATED|Syndicated content]] published by ''Democracy Now!'' should be evaluated by the reliability of its original publisher.",
     "domain": "democracynow.org"
@@ -1296,13 +1433,17 @@
     "name": "Den of Geek",
     "sort_name": "Den of Geek",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 32#Den of Geek",
-      "WP:Reliable sources/Noticeboard/Archive 123#Den of Geek television reviews",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 14#Den of Geek",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Den of Geek",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 23#Den of Geek"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 32#Den of Geek",
+        "WP:Reliable sources/Noticeboard/Archive 123#Den of Geek television reviews"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 14#Den of Geek",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Den of Geek",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 23#Den of Geek"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is a rough consensus that ''Den of Geek'' is generally reliable for entertainment-related topics.",
     "domain": "denofgeek.com"
@@ -1312,12 +1453,14 @@
     "name": "Deseret News",
     "sort_name": "Deseret News",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 122#Deseret News",
-      "WP:Reliable sources/Noticeboard/Archive 210#Deseret News",
-      "WP:Reliable sources/Noticeboard/Archive 212#Deseret News as a source for LDS-related subjects",
-      "WP:Reliable sources/Noticeboard/Archive 387#Is Deseret News independent of the LDS Church?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 122#Deseret News",
+        "WP:Reliable sources/Noticeboard/Archive 210#Deseret News",
+        "WP:Reliable sources/Noticeboard/Archive 212#Deseret News as a source for LDS-related subjects",
+        "WP:Reliable sources/Noticeboard/Archive 387#Is Deseret News independent of the LDS Church?"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "The ''Deseret News'' is considered generally reliable for local news. It is owned by a subsidiary of [[The Church of Jesus Christ of Latter-day Saints]], and there is no consensus on whether the ''Deseret News'' is [[WP:IS|independent]] of the [[The Church of Jesus Christ of Latter-day Saints|LDS Church]]. The publication's statements on topics regarding the LDS Church should be [[WP:INTEXT|attributed]]. The ''Deseret News'' includes a [[Supplement (publishing)|supplement]], the ''[[Church News]]'', which is considered a [[WP:PRIMARY|primary source]] as an official publication of the LDS Church.",
     "domain": "deseretnews.com"
@@ -1327,13 +1470,16 @@
     "name": "Destructoid",
     "sort_name": "Destructoid",
     "status": "nc",
-    "discussion": [
-      "Wikipedia talk:WikiProject Video games/Archive 36#Destructoid",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 2#Destructoid.com",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 6#Destructoid editorial review process?",
-      "Wikipedia talk:WikiProject Video games/Archive 116#Situational Sources",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Destructoid staff/community post separation"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Archive 36#Destructoid",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 2#Destructoid.com",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 6#Destructoid editorial review process?",
+        "Wikipedia talk:WikiProject Video games/Archive 116#Situational Sources",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 17#Destructoid staff/community post separation"
+      ]
+    },
     "rsp_last": "2017",
     "summary": "There is a consensus that ''Destructoid'' is marginally reliable for topics on video games. As a site featuring articles written mainly by freelance journalists, consider whether the author is trusted before using ''Destructoid'' as a source in articles. ''Destructoid'' may still be used for video game reviews given that attribution is provided.",
     "domain": "destructoid.com"
@@ -1344,11 +1490,13 @@
     "name": "Deutsche Welle",
     "sort_name": "Deutsche Welle",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 345#Deutsche Welle alternative language quality.",
-      "WP:Reliable sources/Noticeboard/Archive 371#Deutsche Welle",
-      "WP:Reliable sources/Noticeboard/Archive 374#Police in Belarus as an authority on Ukrainian military"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 345#Deutsche Welle alternative language quality.",
+        "WP:Reliable sources/Noticeboard/Archive 371#Deutsche Welle",
+        "WP:Reliable sources/Noticeboard/Archive 374#Police in Belarus as an authority on Ukrainian military"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "Deutsche Welle is a German [[State media|state-owned]] [[international broadcaster]]. It is considered generally reliable. Some editors consider that the quality of DW depends on the language edition.",
     "domain": "dw.com/en"
@@ -1358,9 +1506,12 @@
     "name": "DeviantArt",
     "sort_name": "DeviantArt",
     "status": "gu",
-    "discussion": [
-      "Talk:My Little Pony: Friendship Is Magic/Archive 3#Reversion of Mythpage88 edits"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "Talk:My Little Pony: Friendship Is Magic/Archive 3#Reversion of Mythpage88 edits"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "DeviantArt is considered a [[WP:SPS|self-published source]], where registered users can upload content such as art, videos and text. It is generally agreed that DeviantArt should not be used for factual claims and should only be used as a source if already cited by a [[WP:RS|reliable source]]. DeviantArt may also be cited in specific cases where the content is from an individual relevant to the article, subject to [[WP: CONSENSUS|consensus]].",
     "domain": "deviantart.com"
@@ -1370,10 +1521,12 @@
     "name": "Dexerto",
     "sort_name": "Dexerto",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 262#Dexerto",
-      "WP:Reliable sources/Noticeboard/Archive 352#Dexerto"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 262#Dexerto",
+        "WP:Reliable sources/Noticeboard/Archive 352#Dexerto"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "266",
@@ -1397,14 +1550,18 @@
     "name": "Digital Spy",
     "sort_name": "Digital Spy",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 34#are music reviews from digital spy reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 47#digitalspy.co.uk",
-      "WP:Reliable sources/Noticeboard/Archive 57#Digital Spy",
-      "WP:Reliable sources/Noticeboard/Archive 62#Digital spy",
-      "WP:Reliable sources/Noticeboard/Archive 96#Daily Mail, Digital Spy, Daily Express, and reliability for Doctor Who",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Digital Spy"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 34#are music reviews from digital spy reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 47#digitalspy.co.uk",
+        "WP:Reliable sources/Noticeboard/Archive 57#Digital Spy",
+        "WP:Reliable sources/Noticeboard/Archive 62#Digital spy",
+        "WP:Reliable sources/Noticeboard/Archive 96#Daily Mail, Digital Spy, Daily Express, and reliability for Doctor Who"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 5#Digital Spy"
+      ]
+    },
     "rsp_last": "2012",
     "summary": "There is consensus that Digital Spy is generally reliable for entertainment and popular culture. Consider whether the information from this source constitutes [[WP:DUE|due or undue weight]].",
     "domain": "digitalspy.co.uk"
@@ -1414,10 +1571,14 @@
     "name": "Digital Trends",
     "sort_name": "Digital Trends",
     "status": "gr",
-    "discussion": [
-      "Special:GoToComment/c-2001:1C06:19CA:D600:2BD8:5934:EB69:C9-20230912091200-Digital Trends",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 21#Digital Trends"
-    ],
+    "discussion": {
+      "rsn": [
+        "Special:GoToComment/c-2001:1C06:19CA:D600:2BD8:5934:EB69:C9-20230912091200-Digital Trends"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 21#Digital Trends"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is consensus that Digital Trends is generally reliable due to its editorial standards and reputation. This does not apply to sponsored content, which is marked with fine print below the headline image's caption. Some editors expressed concern over the site's connection to [[Valnet]], which runs several content farms.",
     "domain": "digitaltrends.com"
@@ -1427,10 +1588,12 @@
     "name": "The Diplomat (magazine)",
     "sort_name": "Diplomat",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 193#The Diplomat",
-      "WP:Reliable sources/Noticeboard/Archive 298#thediplomat.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 193#The Diplomat",
+        "WP:Reliable sources/Noticeboard/Archive 298#thediplomat.com"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that ''The Diplomat'' is generally reliable. Opinion pieces should be evaluated by [[WP:RSOPINION]] and [[WP:NEWSBLOG]]. Some editors have expressed concern on their reliability for North Korea-related topics.",
     "domain": "thediplomat.com"
@@ -1440,15 +1603,17 @@
     "name": "Discogs",
     "sort_name": "Discogs",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 48#Discogs",
-      "WP:Reliable sources/Noticeboard/Archive 171#www.discogs.com",
-      "WP:Reliable sources/Noticeboard/Archive 201#Discogs",
-      "WP:Reliable sources/Noticeboard/Archive 247#Discogs",
-      "WP:Reliable sources/Noticeboard/Archive 271#Musician Discographies from Allmusic and/or Discogs",
-      "WP:Reliable sources/Noticeboard/Archive 361#Discogs -- material backed by photos (typically discographies, track listings, and some credits)",
-      "WP:Reliable sources/Noticeboard/Archive 458#Deprecation of Discogs"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 48#Discogs",
+        "WP:Reliable sources/Noticeboard/Archive 171#www.discogs.com",
+        "WP:Reliable sources/Noticeboard/Archive 201#Discogs",
+        "WP:Reliable sources/Noticeboard/Archive 247#Discogs",
+        "WP:Reliable sources/Noticeboard/Archive 271#Musician Discographies from Allmusic and/or Discogs",
+        "WP:Reliable sources/Noticeboard/Archive 361#Discogs -- material backed by photos (typically discographies, track listings, and some credits)",
+        "WP:Reliable sources/Noticeboard/Archive 458#Deprecation of Discogs"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "259",
@@ -1472,11 +1637,13 @@
     "name": "Distractify",
     "sort_name": "Distractify",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 315#Distractify.com",
-      "WP:Reliable sources/Noticeboard/Archive 335#Distractify",
-      "WP:Reliable sources/Noticeboard/Archive 416#Distractify"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 315#Distractify.com",
+        "WP:Reliable sources/Noticeboard/Archive 335#Distractify",
+        "WP:Reliable sources/Noticeboard/Archive 416#Distractify"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is consensus that ''Distractify'' is generally unreliable. Editors believe ''Distractify'' runs run-of-the-mill gossip that is unclearly either [[WP:UGC|user-generated]] or written by staff members. Editors should especially refrain from using it in [[WP:BLP|BLP]]s.",
     "domain": "distractify.com"
@@ -1486,7 +1653,9 @@
     "name": "The Dorchester Review",
     "sort_name": "Dorchester Review",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "446",
@@ -1505,7 +1674,9 @@
     "name": "Dotdash Meredith",
     "sort_name": "Dotdash Meredith",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2020",
     "summary": "Dotdash Meredith (formerly known as About.com) operates a network of websites. Editors find the quality of articles published by About.com to be inconsistent. Some editors recommend treating About.com articles as [[WP:SPS|self-published sources]], and only using articles published by established experts. About.com also previously served as a [[WP:MIRROR|Wikipedia mirror]]; using republished Wikipedia content is considered [[WP:CIRCULAR|circular sourcing]]. In 2017, the About.com website became defunct and some of its content was moved to Dotdash Meredith's current website brands.<ref>{{cite news|first1=Emily|last1=Dreyfuss|accessdate=December 29, 2018|title=RIP About.com|url=https://www.wired.com/2017/05/rip-com-look-tumultuous-life-web-legend/|newspaper=Wired|date=May 3, 2017|archive-url=https://web.archive.org/web/20180825163605/https://www.wired.com/2017/05/rip-com-look-tumultuous-life-web-legend/|archive-date=August 25, 2018|url-status=live|url-access=limited|df=mdy-all}}</ref><ref>{{cite web|first1=Mike|last1=Shields|accessdate=December 29, 2018|title=About.com had become a web relic, so its owner blew it up – and now it's enjoying a surge in revenue|url=https://www.businessinsider.com/aboutcom-had-become-a-relic-of-the-web-so-its-owner-blew-it-up-now-its-enjoying-a-surge-in-revenue-2017-12|website=Business Insider|date=December 18, 2017|archive-url=https://web.archive.org/web/20180625171227/http://www.businessinsider.com/aboutcom-had-become-a-relic-of-the-web-so-its-owner-blew-it-up-now-its-enjoying-a-surge-in-revenue-2017-12|archive-date=June 25, 2018|url-status=live|df=mdy-all}}</ref> Due to persistent abuse, verywellfamily.com, verywellhealth.com, and verywellmind.com are on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. ''See also: {{pslink|Investopedia}}.''",
     "domain": "about.com"

@@ -6,7 +6,9 @@
     "sort_name": "Occupy Democrats",
     "shortcut": "WP:OCCUPYDEMOCRATS",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "249",
@@ -26,9 +28,11 @@
     "sort_name": "Radio y Televisión Martí",
     "shortcut": "WP:MARTI",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 431#U.S. Agency for Global Media (USAGM)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 431#U.S. Agency for Global Media (USAGM)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "432",
@@ -53,10 +57,12 @@
     "sort_name": "OKO.press",
     "shortcut": "WP:OKO",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 328#Glaukopis journal",
-      "WP:Reliable sources/Noticeboard/Archive 329#Gazeta Wyborcza and OKO.press"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 328#Glaukopis journal",
+        "WP:Reliable sources/Noticeboard/Archive 329#Gazeta Wyborcza and OKO.press"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "355",
@@ -82,9 +88,11 @@
     "sort_name": "One America News Network",
     "shortcut": "WP:OANN",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 241#One America News Network"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 241#One America News Network"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "281",
@@ -102,11 +110,13 @@
     "name": "The Onion",
     "sort_name": "Onion",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 221#The Onion",
-      "WP:Reliable sources/Noticeboard/Archive 260#Can we talk about The Onion?",
-      "WP:Reliable sources/Noticeboard/Archive 458#Infowars"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 221#The Onion",
+        "WP:Reliable sources/Noticeboard/Archive 260#Can we talk about The Onion?",
+        "WP:Reliable sources/Noticeboard/Archive 458#Infowars"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "''The Onion'' is a [[List of satirical news websites|satirical news website]], and should not be used as a source for facts.",
     "domain": "theonion.com"
@@ -117,10 +127,12 @@
     "sort_name": "OpIndia",
     "shortcut": "WP:OPINDIA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 248#Scroll, OpIndia, The Wire, The Quint, The Print, DailyO, postcardnews, rightlog etc.",
-      "WP:Reliable sources/Noticeboard/Archive 288#OpIndia and Swarajya"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 248#Scroll, OpIndia, The Wire, The Quint, The Print, DailyO, postcardnews, rightlog etc.",
+        "WP:Reliable sources/Noticeboard/Archive 288#OpIndia and Swarajya"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Due to persistent abuse, OpIndia is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[WT:WHITELIST|whitelisted]] before they can be used. OpIndia is considered generally unreliable due to its poor reputation for fact-checking and accuracy. OpIndia was rejected by the {{pslink|International Fact-Checking Network}} when it applied for accreditation in 2019. In the [[WP:Reliable sources/Noticeboard/Archive 288#OpIndia and Swarajya|2020 discussion]], most editors expressed support for [[WP:DEPREC|deprecating]] OpIndia. Editors consider the site [[WP:BIASED|biased or opinionated]]. OpIndia has directly attacked and [[Doxing|doxed]] Wikipedia editors who edit India-related articles. Posting or linking to another editor's personal information is prohibited under the [[WP:OUTING|outing policy]], unless the editor is voluntarily disclosing the information on Wikipedia. Editors who are subject to legal risks due to their activity on Wikipedia may [[:m:Legal/Legal Policies#Defense of Contributors|request assistance from the Wikimedia Foundation]], although support is not guaranteed. ''See also: {{pslink|Swarajya}}.''",
     "domain": "opindia.com"
@@ -130,7 +142,9 @@
     "name": "Our Campaigns",
     "sort_name": "Our Campaigns",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "335",
@@ -148,7 +162,9 @@
     "name": "PanAm Post",
     "sort_name": "PanAm Post",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "296",
@@ -173,11 +189,13 @@
     "sort_name": "Patheos",
     "shortcut": "WP:PATHEOS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 167#Patheos blogs",
-      "WP:Reliable sources/Noticeboard/Archive 182#Patheos.com",
-      "WP:Reliable sources/Noticeboard/Archive 185#Patheos"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 167#Patheos blogs",
+        "WP:Reliable sources/Noticeboard/Archive 182#Patheos.com",
+        "WP:Reliable sources/Noticeboard/Archive 185#Patheos"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "365",
@@ -195,9 +213,11 @@
     "name": "La Patilla",
     "sort_name": "Patilla",
     "status": "nc",
-    "discussion": [
-      "Talk:La Patilla#RfC: Reliability of La Patilla"
-    ],
+    "discussion": {
+      "rsn": [
+        "Talk:La Patilla#RfC: Reliability of La Patilla"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "415",
@@ -217,13 +237,15 @@
     "sort_name": "PBS",
     "shortcut": "WP:RSPPBS",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 101#Emme (model)",
-      "WP:Reliable sources/Noticeboard/Archive 135#Judaism: The oldest monotheistic religion",
-      "WP:Reliable sources/Noticeboard/Archive 150#Center for Investigative Reporting",
-      "WP:Reliable sources/Noticeboard/Archive 153#thinkprogress.org as a generally accepted WP:RS",
-      "WP:Reliable sources/Noticeboard/Archive 206#Pbs.org"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 101#Emme (model)",
+        "WP:Reliable sources/Noticeboard/Archive 135#Judaism: The oldest monotheistic religion",
+        "WP:Reliable sources/Noticeboard/Archive 150#Center for Investigative Reporting",
+        "WP:Reliable sources/Noticeboard/Archive 153#thinkprogress.org as a generally accepted WP:RS",
+        "WP:Reliable sources/Noticeboard/Archive 206#Pbs.org"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "The [[PBS|Public Broadcasting Service]] is an American public broadcaster. It is considered generally reliable by editors.",
     "domain": "pbs.org"
@@ -234,7 +256,9 @@
     "content_qualifier": "(self-published)",
     "sort_name": "Peerage",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "295",
@@ -258,12 +282,14 @@
     "sort_name": "People (magazine)",
     "shortcut": "WP:PEOPLEMAG",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 170#Celebrity sources and distinguishing tabloid (newspaper format) from tabloid journalism",
-      "WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP",
-      "WP:Reliable sources/Noticeboard/Archive 361#Demote People magazine",
-      "WP:Reliable sources/Noticeboard/Archive 387#People Magazine reliability?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 170#Celebrity sources and distinguishing tabloid (newspaper format) from tabloid journalism",
+        "WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP",
+        "WP:Reliable sources/Noticeboard/Archive 361#Demote People magazine",
+        "WP:Reliable sources/Noticeboard/Archive 387#People Magazine reliability?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "157",
@@ -281,7 +307,9 @@
     "name": "People Make Games",
     "sort_name": "People Make Games",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "399",
@@ -298,10 +326,12 @@
     "name": "Pew Research Center",
     "sort_name": "Pew Research Center",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 78#UNHCR and PEW Research Center",
-      "WP:Reliable sources/Noticeboard/Archive 123#Pew Research Center"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 78#UNHCR and PEW Research Center",
+        "WP:Reliable sources/Noticeboard/Archive 123#Pew Research Center"
+      ]
+    },
     "rsp_last": "2012",
     "summary": "There is consensus that the [[Pew Research Center]] is generally reliable.",
     "domain": "pewresearch.org"
@@ -311,9 +341,11 @@
     "name": "An Phoblacht",
     "sort_name": "Phoblacht",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 199#An Poblacht as reliable source??"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 199#An Poblacht as reliable source??"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "299",
@@ -332,16 +364,20 @@
     "sort_name": "Pinkvilla",
     "shortcut": "WP:PINKVILLA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 355#Pinkvilla, Meaww & Bollywood Life",
-      "Wikipedia:Reliable sources/Noticeboard/Archive 418#Reliablity of Pinkvilla",
-      "WP:Reliable sources/Noticeboard/Archive 463#Pinkvilla",
-      "WP:Reliable sources/Noticeboard/Archive 466#pinkvilla.com - reliability disclaimers on pages",
-      "WP:Reliable sources/Noticeboard/Archive 477#Pinkvilla copied data from Cinetrak",
-      "WP:Reliable sources/Noticeboard/Archive 479#Pinkvilla",
-      "WP:Reliable sources/Noticeboard/Archive 483#Pinkvilla",
-      "Wikipedia talk:WikiProject Film/Indian cinema task force/Archive 8#Pinkvilla is unreliable for box office figures"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 355#Pinkvilla, Meaww & Bollywood Life",
+        "Wikipedia:Reliable sources/Noticeboard/Archive 418#Reliablity of Pinkvilla",
+        "WP:Reliable sources/Noticeboard/Archive 463#Pinkvilla",
+        "WP:Reliable sources/Noticeboard/Archive 466#pinkvilla.com - reliability disclaimers on pages",
+        "WP:Reliable sources/Noticeboard/Archive 477#Pinkvilla copied data from Cinetrak",
+        "WP:Reliable sources/Noticeboard/Archive 479#Pinkvilla",
+        "WP:Reliable sources/Noticeboard/Archive 483#Pinkvilla"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Film/Indian cinema task force/Archive 8#Pinkvilla is unreliable for box office figures"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "484",
@@ -360,7 +396,9 @@
     "sort_name": "PinkNews",
     "shortcut": "WP:PINKNEWS",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "305",
@@ -379,13 +417,17 @@
     "sort_name": "Planespotters.net ",
     "shortcut": "WP:PLANESPOTTERS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 399#Planespotters.net",
-      "WP:Reliable sources/Noticeboard/Archive 408#Airline fleets- Planespotters.net",
-      "Talk:Air Transat#Fleet size",
-      "WT:WikiProject Aviation/Archive 17#Planespotters as reliable source",
-      "WT:WikiProject Aviation/Archive 23#Planespotters.com again"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 399#Planespotters.net",
+        "WP:Reliable sources/Noticeboard/Archive 408#Airline fleets- Planespotters.net"
+      ],
+      "other": [
+        "Talk:Air Transat#Fleet size",
+        "WT:WikiProject Aviation/Archive 17#Planespotters as reliable source",
+        "WT:WikiProject Aviation/Archive 23#Planespotters.com again"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Although Planespotters.net has been widely used for aviation articles, there is consensus that it is generally unreliable. The website's content is mostly self-published or user-generated, unverified, with many instances of inaccurate reporting.",
     "domain": "planespotters.net"
@@ -395,16 +437,18 @@
     "name": "Playboy",
     "sort_name": "Playboy",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 22#Marjoe Gortner in Oui",
-      "WP:Reliable sources/Noticeboard/Archive 24#Hustler magazine a reliable source for World Affairs?",
-      "WP:Reliable sources/Noticeboard/Archive 42#Adult industry",
-      "WP:Reliable sources/Noticeboard/Archive 74#Hustler magazine as a source",
-      "WP:Reliable sources/Noticeboard/Archive 104#Xrentdvd",
-      "WP:Reliable sources/Noticeboard/Archive 120#Askmen.com",
-      "WP:Reliable sources/Noticeboard/Archive 123#Wim Dankbaar – Is this a notability issue or is this a reliable source issue?",
-      "WP:Reliable sources/Noticeboard/Archive 184#wekinglypigs.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 22#Marjoe Gortner in Oui",
+        "WP:Reliable sources/Noticeboard/Archive 24#Hustler magazine a reliable source for World Affairs?",
+        "WP:Reliable sources/Noticeboard/Archive 42#Adult industry",
+        "WP:Reliable sources/Noticeboard/Archive 74#Hustler magazine as a source",
+        "WP:Reliable sources/Noticeboard/Archive 104#Xrentdvd",
+        "WP:Reliable sources/Noticeboard/Archive 120#Askmen.com",
+        "WP:Reliable sources/Noticeboard/Archive 123#Wim Dankbaar – Is this a notability issue or is this a reliable source issue?",
+        "WP:Reliable sources/Noticeboard/Archive 184#wekinglypigs.com"
+      ]
+    },
     "rsp_last": "2015",
     "summary": "There is consensus that ''Playboy'' is generally reliable. Editors note the publication's reputation for high-quality interviews and fact-checking.",
     "domain": "playboy.com"
@@ -416,11 +460,14 @@
     "content_qualifier": "(news and reviews)",
     "sort_name": "Points Guy news",
     "status": "nc",
-    "discussion": [
-      "MediaWiki talk:Spam-blacklist/archives/May 2019#thepointsguy.com",
-      "MediaWiki talk:Spam-whitelist/Archives/2019/03#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)",
-      "MediaWiki talk:Spam-whitelist/Archives/2019/04#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "MediaWiki talk:Spam-blacklist/archives/May 2019#thepointsguy.com",
+        "MediaWiki talk:Spam-whitelist/Archives/2019/03#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)",
+        "MediaWiki talk:Spam-whitelist/Archives/2019/04#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "263",
@@ -440,11 +487,14 @@
     "content_qualifier": "(sponsored content)",
     "sort_name": "Points Guy sponsored",
     "status": "gu",
-    "discussion": [
-      "MediaWiki talk:Spam-blacklist/archives/May 2019#thepointsguy.com",
-      "MediaWiki talk:Spam-whitelist/Archives/2019/03#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)",
-      "MediaWiki talk:Spam-whitelist/Archives/2019/04#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)"
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "MediaWiki talk:Spam-blacklist/archives/May 2019#thepointsguy.com",
+        "MediaWiki talk:Spam-whitelist/Archives/2019/03#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)",
+        "MediaWiki talk:Spam-whitelist/Archives/2019/04#\"News\" and \"Reviews\" sections of The Points Guy (thepointsguy.com/news, thepointsguy.com/reviews)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "263",
@@ -463,15 +513,17 @@
     "sort_name": "Politico",
     "shortcut": "WP:POLITICO",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 11#Politico.com",
-      "WP:Reliable sources/Noticeboard/Archive 19#DataTreasury",
-      "WP:Reliable sources/Noticeboard/Archive 50#Politico; Also for Book reviews: New Engish Review and Pajamas Media",
-      "WP:Reliable sources/Noticeboard/Archive 65#self-published?",
-      "WP:Reliable sources/Noticeboard/Archive 232#Is an SPLC report a reliable source for List of Confederate monuments and memorials?",
-      "WP:Reliable sources/Noticeboard/Archive 241#Statements of Fact Based on One Report from One Media Outlet, Sourced to Anonymous Sources",
-      "WP:Reliable sources/Noticeboard/Archive 458#Politico status update"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 11#Politico.com",
+        "WP:Reliable sources/Noticeboard/Archive 19#DataTreasury",
+        "WP:Reliable sources/Noticeboard/Archive 50#Politico; Also for Book reviews: New Engish Review and Pajamas Media",
+        "WP:Reliable sources/Noticeboard/Archive 65#self-published?",
+        "WP:Reliable sources/Noticeboard/Archive 232#Is an SPLC report a reliable source for List of Confederate monuments and memorials?",
+        "WP:Reliable sources/Noticeboard/Archive 241#Statements of Fact Based on One Report from One Media Outlet, Sourced to Anonymous Sources",
+        "WP:Reliable sources/Noticeboard/Archive 458#Politico status update"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "363",
@@ -490,7 +542,9 @@
     "name": "PolitiFact",
     "sort_name": "PolitiFact",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "215",
@@ -515,14 +569,18 @@
     "content_qualifier": "(pre-May 2025)",
     "sort_name": "Polygon (website)",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 218#Tweet as a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 302#Is video game website polygon.com a RS for information on allegations of sexual misconduct against BLPs?",
-      "WT:WikiProject Video games/Sources/Archive 6#Polygon",
-      "WT:WikiProject Video games/Sources/Archive 7#Additions to VGReviews",
-      "WT:WikiProject Video games/Sources/Archive 9#Legends of Localization, Polygon",
-      "WT:WikiProject Video games/Sources/Archive 10#Polygon"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 218#Tweet as a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 302#Is video game website polygon.com a RS for information on allegations of sexual misconduct against BLPs?"
+      ],
+      "other": [
+        "WT:WikiProject Video games/Sources/Archive 6#Polygon",
+        "WT:WikiProject Video games/Sources/Archive 7#Additions to VGReviews",
+        "WT:WikiProject Video games/Sources/Archive 9#Legends of Localization, Polygon",
+        "WT:WikiProject Video games/Sources/Archive 10#Polygon"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "''Polygon'' is considered generally reliable for video games and pop culture related topics during its ownership by [[Vox Media]]. ''See also: {{pslink|The Verge}}, {{pslink|Vox}}, {{pslink|New York}}''",
     "domain": "polygon.com"
@@ -534,10 +592,13 @@
     "sort_name": "Polygon (website)",
     "shortcut": "WP:POLYGON",
     "status": "m",
-    "discussion": [
-      "WT:WikiProject Video games/Sources#Polygon sold to Valnet, hit with major layoffs",
-      "WT:WikiProject Video games#Polygon sold to Valnet, most staff laid off."
-    ],
+    "discussion": {
+      "rsn": [],
+      "other": [
+        "WT:WikiProject Video games/Sources#Polygon sold to Valnet, hit with major layoffs",
+        "WT:WikiProject Video games#Polygon sold to Valnet, most staff laid off."
+      ]
+    },
     "rsp_last": "2025",
     "summary": "In May 2025, Vox Media sold ''Polygon'' to Valnet, which promptly laid off most staff; as of May 2025, this event's long-term impact on reliability is unknown. Editors have expressed concern over the site's ownership by Valnet, which runs several content farms. Articles should be evaluated on a case-by-case basis until the status of editorial deterioration is confirmed. ''See also: [[WP:VALNET]]''",
     "domain": "polygon.com"
@@ -550,9 +611,11 @@
     "sort_name": "Popular Mechanics",
     "shortcut": "WP:POPMECH",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 323#Popular Mechanics for UFO claims"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 323#Popular Mechanics for UFO claims"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "",
@@ -571,10 +634,12 @@
     "sort_name": "Post Millennial",
     "shortcut": "WP:POSTMIL",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 296#The Post Millennial for article Supervised injection site",
-      "WP:Reliable sources/Noticeboard/Archive 320#The Post Millennial, again"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 296#The Post Millennial for article Supervised injection site",
+        "WP:Reliable sources/Noticeboard/Archive 320#The Post Millennial, again"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "308",
@@ -593,13 +658,15 @@
     "sort_name": "PR Newswire",
     "shortcut": "WP:PRNEWSWIRE",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 56#PR newswire and Ajax world magazine",
-      "WP:Reliable sources/Noticeboard/Archive 88#PR Newswire",
-      "WP:Reliable sources/Noticeboard/Archive 149#is PRweb/PR NewsWire OK for use as citation?",
-      "WP:Reliable sources/Noticeboard/Archive 214#Online Business News Sources which use PR:Newswire – WP:PROMOTION concerns",
-      "WP:Reliable sources/Noticeboard/Archive 260#PR Newswire and SYZYGY for Millennials WP article"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 56#PR newswire and Ajax world magazine",
+        "WP:Reliable sources/Noticeboard/Archive 88#PR Newswire",
+        "WP:Reliable sources/Noticeboard/Archive 149#is PRweb/PR NewsWire OK for use as citation?",
+        "WP:Reliable sources/Noticeboard/Archive 214#Online Business News Sources which use PR:Newswire – WP:PROMOTION concerns",
+        "WP:Reliable sources/Noticeboard/Archive 260#PR Newswire and SYZYGY for Millennials WP article"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is consensus that PR Newswire is generally unreliable, as press releases published on the site are not subject to editorial oversight. Some articles may be used for uncontroversial claims [[WP:ABOUTSELF|about the article's author]].",
     "domain": "prnewswire.com"
@@ -610,7 +677,9 @@
     "sort_name": "Preprint",
     "shortcut": "WP:MEDRXIV",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "365",
@@ -629,15 +698,17 @@
     "sort_name": "Press TV",
     "shortcut": "WP:PRESSTV",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 42#Press TV",
-      "WP:Reliable sources/Noticeboard/Archive 108#Alex Jones, Mathaba, Pravda, and PressTV",
-      "WP:Reliable sources/Noticeboard/Archive 139#Press TV and Veterans Today RS for their contibutors",
-      "WP:Reliable sources/Noticeboard/Archive 175#Using Press TV for reporting Hamas claims",
-      "WP:Reliable sources/Noticeboard/Archive 190#Press TV",
-      "WP:Reliable sources/Noticeboard/Archive 259#PressTV",
-      "WP:Reliable sources/Noticeboard/Archive 346#Press TV's website"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 42#Press TV",
+        "WP:Reliable sources/Noticeboard/Archive 108#Alex Jones, Mathaba, Pravda, and PressTV",
+        "WP:Reliable sources/Noticeboard/Archive 139#Press TV and Veterans Today RS for their contibutors",
+        "WP:Reliable sources/Noticeboard/Archive 175#Using Press TV for reporting Hamas claims",
+        "WP:Reliable sources/Noticeboard/Archive 190#Press TV",
+        "WP:Reliable sources/Noticeboard/Archive 259#PressTV",
+        "WP:Reliable sources/Noticeboard/Archive 346#Press TV's website"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "346",
@@ -661,7 +732,9 @@
     "name": "Pride.com",
     "sort_name": "Pride.com",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "299",
@@ -681,14 +754,18 @@
     "sort_name": "Project Veritas",
     "shortcut": "WP:VERITAS",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 271#Sources at Media bias in the United States for claims of censorship of conservative content",
-      "WP:Reliable sources/Noticeboard/Archive 274#RfC: \"CNN\" (October)",
-      "WP:Reliable sources/Noticeboard/Archive 322#RfC: CNN",
-      "Wikipedia:Biographies of living_persons/Noticeboard/Archive128#James O'Keefe",
-      "Wikipedia:Biographies of living_persons/Noticeboard/Archive131#James O'Keefe",
-      "Wikipedia:Biographies of living_persons/Noticeboard/Archive140#James O'Keefe"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 271#Sources at Media bias in the United States for claims of censorship of conservative content",
+        "WP:Reliable sources/Noticeboard/Archive 274#RfC: \"CNN\" (October)",
+        "WP:Reliable sources/Noticeboard/Archive 322#RfC: CNN"
+      ],
+      "other": [
+        "Wikipedia:Biographies of living_persons/Noticeboard/Archive128#James O'Keefe",
+        "Wikipedia:Biographies of living_persons/Noticeboard/Archive131#James O'Keefe",
+        "Wikipedia:Biographies of living_persons/Noticeboard/Archive140#James O'Keefe"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "410",
@@ -707,9 +784,11 @@
     "sort_name": "ProPublica",
     "shortcut": "WP:PROPUBLICA",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 213#News organizations using a third-party fact checking service"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 213#News organizations using a third-party fact checking service"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "279",
@@ -727,7 +806,9 @@
     "name": "Quackwatch",
     "sort_name": "Quackwatch",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "282",
@@ -745,7 +826,9 @@
     "name": "Quadrant (magazine)",
     "sort_name": "Quadrant (magazine)",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "269",
@@ -764,12 +847,14 @@
     "sort_name": "Quillette",
     "shortcut": "WP:QUILLETTE",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 240#Is Quillette and Spencer Case a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 249#\"Greviance Studies\" scandal – use of peer-reviewed journals as RS",
-      "WP:Reliable sources/Noticeboard/Archive 271#Quillette",
-      "WP:Reliable sources/Noticeboard/Archive 353#Expert opinion on Quilette"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 240#Is Quillette and Spencer Case a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 249#\"Greviance Studies\" scandal – use of peer-reviewed journals as RS",
+        "WP:Reliable sources/Noticeboard/Archive 271#Quillette",
+        "WP:Reliable sources/Noticeboard/Archive 353#Expert opinion on Quilette"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "314",
@@ -788,12 +873,14 @@
     "sort_name": "Quora",
     "shortcut": "WP:QUORA",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 229#Quora.com",
-      "WP:Reliable sources/Noticeboard/Archive 247#Is this an RS?",
-      "WP:Reliable sources/Noticeboard/Archive 267#A wake-up call",
-      "WP:Reliable sources/Noticeboard/Archive 269#Question about Quora"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 229#Quora.com",
+        "WP:Reliable sources/Noticeboard/Archive 247#Is this an RS?",
+        "WP:Reliable sources/Noticeboard/Archive 267#A wake-up call",
+        "WP:Reliable sources/Noticeboard/Archive 269#Question about Quora"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Quora is a [[Q&A site]]. As an Internet forum, it is a [[WP:SPS|self-published source]] that incorporates [[WP:UGC|user-generated content]], and is considered generally unreliable. Posts from [[verified account]]s on Quora can be used as [[WP:PRIMARY|primary sources]] for [[WP:ABOUTSELF|statements about themselves]]. Posts from verified accounts of established experts may also be used to substantiate statements in their field of expertise, in accordance with the [[WP:SPS|policy on self-published sources]].",
     "domain": "quora.com"
@@ -805,12 +892,14 @@
     "sort_name": "Radio Free Asia",
     "shortcut": "WP:RADIOFREEASIA",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 313#Views on International Campaign for Tibet, UNESCO, Tibet Post International/The Tibet Post, Tibet Watch, Unrepresented Nations and Peoples Organization, Free Tibet, Radio Free Asia",
-      "WP:Reliable sources/Noticeboard/Archive 329#Reliability of Radio Free Asia",
-      "WP:Reliable sources/Noticeboard/Archive 341#Xinhua",
-      "WP:Reliable sources/Noticeboard/Archive 391#Radio Free Asia"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 313#Views on International Campaign for Tibet, UNESCO, Tibet Post International/The Tibet Post, Tibet Watch, Unrepresented Nations and Peoples Organization, Free Tibet, Radio Free Asia",
+        "WP:Reliable sources/Noticeboard/Archive 329#Reliability of Radio Free Asia",
+        "WP:Reliable sources/Noticeboard/Archive 341#Xinhua",
+        "WP:Reliable sources/Noticeboard/Archive 391#Radio Free Asia"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "333",
@@ -830,14 +919,16 @@
     "sort_name": "Radio Free Europe/Radio Liberty",
     "shortcut": "WP:RADIOLIBERTY",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 20#Using the Radio Free Europe web site as a RS for someone's expertise",
-      "WP:Reliable sources/Noticeboard/Archive 281#Radio Free Europe",
-      "WP:Reliable sources/Noticeboard/Archive 290#Stop the Church",
-      "WP:Reliable sources/Noticeboard/Archive 352#Radio Free Europe/Radio Liberty (RFE/RL) as a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 381#RadioFreeEurope/RFL",
-      "WP:Reliable sources/Noticeboard/Archive 431#U.S. Agency for Global Media (USAGM)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 20#Using the Radio Free Europe web site as a RS for someone's expertise",
+        "WP:Reliable sources/Noticeboard/Archive 281#Radio Free Europe",
+        "WP:Reliable sources/Noticeboard/Archive 290#Stop the Church",
+        "WP:Reliable sources/Noticeboard/Archive 352#Radio Free Europe/Radio Liberty (RFE/RL) as a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 381#RadioFreeEurope/RFL",
+        "WP:Reliable sources/Noticeboard/Archive 431#U.S. Agency for Global Media (USAGM)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "444",
@@ -868,11 +959,13 @@
     "sort_name": "Rappler",
     "shortcut": "WP:RAPPLER",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 185#Rappler",
-      "WP:Reliable sources/Noticeboard/Archive 215#Rappler.com?",
-      "WP:Reliable sources/Noticeboard/Archive 236#Rappler"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 185#Rappler",
+        "WP:Reliable sources/Noticeboard/Archive 215#Rappler.com?",
+        "WP:Reliable sources/Noticeboard/Archive 236#Rappler"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is consensus that staff content by Rappler is generally reliable. The IMHO section consists of opinions by readers, and not by paid staff. The defunct x.rappler.com section functioned as a self-published blogging service, and is therefore considered generally unreliable.",
     "domain": "rappler.com"
@@ -884,11 +977,15 @@
     "sort_name": "Rate Your Music",
     "shortcut": "WP:RYM",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 212#rateyourmusic.com",
-      "WP:Reliable sources/Noticeboard/Archive 372#Rate Your Music",
-      "WT:WikiProject Albums/Archive 33#Rate Your Music"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 212#rateyourmusic.com",
+        "WP:Reliable sources/Noticeboard/Archive 372#Rate Your Music"
+      ],
+      "other": [
+        "WT:WikiProject Albums/Archive 33#Rate Your Music"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "259",
@@ -907,13 +1004,15 @@
     "sort_name": "Raw Story",
     "shortcut": "WP:RAWSTORY",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 12#Raw Story",
-      "WP:Reliable sources/Noticeboard/Archive 17#Raw Story",
-      "WP:Reliable sources/Noticeboard/Archive 112#The Raw Story",
-      "WP:Reliable sources/Noticeboard/Archive 202#Raw Story",
-      "WP:Reliable sources/Noticeboard/Archive 226#Raw story a RS for details on this obscure death?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 12#Raw Story",
+        "WP:Reliable sources/Noticeboard/Archive 17#Raw Story",
+        "WP:Reliable sources/Noticeboard/Archive 112#The Raw Story",
+        "WP:Reliable sources/Noticeboard/Archive 202#Raw Story",
+        "WP:Reliable sources/Noticeboard/Archive 226#Raw story a RS for details on this obscure death?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "324",
@@ -933,9 +1032,11 @@
     "sort_name": "RealClearPolitics",
     "shortcut": "WP:REALCLEARPOLITICS",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 278#RealClear media"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 278#RealClear media"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "336",
@@ -954,11 +1055,13 @@
     "sort_name": "Reason (magazine)",
     "shortcut": "WP:REASONNEWS",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 200#Reason Magazine at David Lisak",
-      "WP:Reliable sources/Noticeboard/Archive 291#Reason Magazine and reason.com",
-      "WP:Reliable sources/Noticeboard/Archive 352#Reason.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 200#Reason Magazine at David Lisak",
+        "WP:Reliable sources/Noticeboard/Archive 291#Reason Magazine and reason.com",
+        "WP:Reliable sources/Noticeboard/Archive 352#Reason.com"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "There is consensus that ''Reason'' is generally reliable for news and facts. Editors consider ''Reason'' to be a [[WP:BIASED|biased or opinionated source]] that primarily publishes commentary, analysis, and opinion articles. [[WP:RSOPINION|Statements of opinion]] should be [[WP:INTEXT|attributed]] and evaluated for [[WP:DUE|due weight]].",
     "domain": "reason.com"
@@ -969,9 +1072,11 @@
     "sort_name": "Red Ventures",
     "shortcut": "WP:REDVENTURES",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 424#Something strange is going on with ZDNet"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 424#Something strange is going on with ZDNet"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "430",
@@ -989,14 +1094,16 @@
     "sort_name": "Reddit",
     "shortcut": "WP:RSPREDDIT",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 156#Reddit (IAmA)",
-      "WP:Reliable sources/Noticeboard/Archive 159#Reddit",
-      "WP:Reliable sources/Noticeboard/Archive 189#Would an answer in a Reddit AMA be admissible as a reliable primary source?",
-      "WP:Reliable sources/Noticeboard/Archive 241#Can reddit comments from article subjects be cited as reliable self-published sources?",
-      "WP:Reliable sources/Noticeboard/Archive 285#Reddit as a source",
-      "WP:Reliable sources/Noticeboard/Archive 401#Reliability of Reddit comments published by immediate family member of a deceased individual (Technoblade)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 156#Reddit (IAmA)",
+        "WP:Reliable sources/Noticeboard/Archive 159#Reddit",
+        "WP:Reliable sources/Noticeboard/Archive 189#Would an answer in a Reddit AMA be admissible as a reliable primary source?",
+        "WP:Reliable sources/Noticeboard/Archive 241#Can reddit comments from article subjects be cited as reliable self-published sources?",
+        "WP:Reliable sources/Noticeboard/Archive 285#Reddit as a source",
+        "WP:Reliable sources/Noticeboard/Archive 401#Reliability of Reddit comments published by immediate family member of a deceased individual (Technoblade)"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "Reddit is a [[social news]] and discussion website. Reddit contains mostly [[WP:UGC|user-generated content]], and is considered both [[WP:SPS|self-published]] and generally unreliable. Interview responses written by [[Account verification|verified]] interviewees on the [[r/IAmA]] subreddit are [[WP:PRIMARY|primary sources]], and editors disagree on their reliability. The policy on the use of [[WP:REDDIT|sources about themselves]] applies.",
     "domain": "reddit.com"
@@ -1006,10 +1113,12 @@
     "name": "RedState",
     "sort_name": "RedState",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 259#RedState",
-      "WP:Reliable sources/Noticeboard/Archive 313#RedState"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 259#RedState",
+        "WP:Reliable sources/Noticeboard/Archive 313#RedState"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that RedState should not be used as a source of facts. Opinion pieces from RedState are likely to be undue.",
     "domain": "redstate.com"
@@ -1020,14 +1129,18 @@
     "name": "The Register",
     "sort_name": "Register",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 4#The Register",
-      "WP:Reliable sources/Noticeboard/Archive 79#The Register article on physicist's resignation from the American Physical Society",
-      "WP:Reliable sources/Noticeboard/Archive 102#The Register at Santorum (neologism)",
-      "WP:Reliable sources/Noticeboard/Archive 194#The Register as a reliable source for quotations",
-      "WP:Reliable sources/Noticeboard/Archive 229#The Register",
-      "WP:Biographies of living persons/Noticeboard/Archive58#Do The Register and The London Telegraph (among others) meet WP:RS for quoting an individual?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 4#The Register",
+        "WP:Reliable sources/Noticeboard/Archive 79#The Register article on physicist's resignation from the American Physical Society",
+        "WP:Reliable sources/Noticeboard/Archive 102#The Register at Santorum (neologism)",
+        "WP:Reliable sources/Noticeboard/Archive 194#The Register as a reliable source for quotations",
+        "WP:Reliable sources/Noticeboard/Archive 229#The Register"
+      ],
+      "other": [
+        "WP:Biographies of living persons/Noticeboard/Archive58#Do The Register and The London Telegraph (among others) meet WP:RS for quoting an individual?"
+      ]
+    },
     "rsp_last": "2017",
     "summary": "''The Register'' is considered generally reliable for technology-related articles. Some editors say that ''The Register'' is [[WP:BIASED|biased or opinionated]] on topics involving [[Wikipedia]].",
     "domain": "theregister.co.uk"
@@ -1039,12 +1152,14 @@
     "sort_name": "scriptural texts",
     "shortcut": "WP:RSPSCRIPTURE",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 25#Bible as a reliable source",
-      "WP:Reliable sources/Noticeboard/Archive 35#Is The Bible (or other religious scripture) a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 244#Gospel of John",
-      "WP:Reliable sources/Noticeboard/Archive 209#Quotes from primary sources?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 25#Bible as a reliable source",
+        "WP:Reliable sources/Noticeboard/Archive 35#Is The Bible (or other religious scripture) a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 244#Gospel of John",
+        "WP:Reliable sources/Noticeboard/Archive 209#Quotes from primary sources?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "327",
@@ -1063,10 +1178,12 @@
     "sort_name": "Republic TV",
     "shortcut": "WP:REPUBLICTV",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 248#Republic TV and Times Now",
-      "WP:Reliable sources/Noticeboard/Archive 321#Republic TV"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 248#Republic TV and Times Now",
+        "WP:Reliable sources/Noticeboard/Archive 321#Republic TV"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "357",
@@ -1085,11 +1202,13 @@
     "sort_name": "Reuters",
     "shortcut": "WP:REUTERS",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 107#Can this review from reuters be used?",
-      "WP:Reliable sources/Noticeboard/Archive 130#Thomson Reuters",
-      "WP:Reliable sources/Noticeboard/Archive 243#Can “wire” news services such AP, Reuters, or AFP ever report inaccurate, misleading, or false information"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 107#Can this review from reuters be used?",
+        "WP:Reliable sources/Noticeboard/Archive 130#Thomson Reuters",
+        "WP:Reliable sources/Noticeboard/Archive 243#Can “wire” news services such AP, Reuters, or AFP ever report inaccurate, misleading, or false information"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "Reuters is a [[news agency]]. There is consensus that Reuters is generally reliable. [[WP:SYNDICATED|Syndicated]] reports from Reuters that are published in other sources are also considered generally reliable. [[Press release]]s published by Reuters are not automatically reliable.",
     "domain": "reuters.com"
@@ -1101,7 +1220,9 @@
     "sort_name": "RhythmOne",
     "shortcut": "WP:ALLMUSIC",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "RhythmOne (which acquired All Media Guide, formerly AllRovi) has operated the websites [[AllMusic]], [[AllMovie]] (until 2024), and AllGame (defunct). There is consensus that RhythmOne websites are usable for entertainment reviews with [[WP:INTEXT|in-text attribution]]. Some editors question the accuracy of these websites for [[WP:BLP|biographical details]] and recommend more reliable sources when available. Editors also advise against using AllMusic's [[Music genre|genre]] classifications from the website's summaries at the top of a page. Listings without accompanying prose do not count toward [[WP:N|notability]]. ''See also: [[#AllMovie|AllMovie]], following its acquisition from RhythmOne.''",
     "domain": "allmusic.com"
@@ -1112,7 +1233,9 @@
     "sort_name": "RIA Novosti",
     "shortcut": "WP:RIANOVOSTI",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2024",
     "summary": "RIA Novosti was an official news agency of the Russian government. There is a broad consensus that it is a [[WP:BIASED|biased and opinionated]] source. It is generally considered usable for official government statements and positions. There is no consensus on whether it is reliable for other topics, though opinions generally lean towards unreliability. ''See also: {{pslink|Sputnik}}, which replaced the international edition of RIA Novosti.''",
     "domain": "rian.ru"
@@ -1124,13 +1247,17 @@
     "sort_name": "Rolling Stone",
     "shortcut": "WP:ROLLINGSTONECULTURE",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 17#Rolling Stone",
-      "WP:Reliable sources/Noticeboard/Archive 26#Rolling Stone, NME, Popmatters and Metal-Observer",
-      "WP:Reliable sources/Noticeboard/Archive 39#Rolling Stone review",
-      "WP:Reliable sources/Noticeboard/Archive 82#Twitter, Rolling Stone magazine and The Guardian",
-      "WT:WikiProject Video games/Sources/Archive 16#Glixel"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 17#Rolling Stone",
+        "WP:Reliable sources/Noticeboard/Archive 26#Rolling Stone, NME, Popmatters and Metal-Observer",
+        "WP:Reliable sources/Noticeboard/Archive 39#Rolling Stone review",
+        "WP:Reliable sources/Noticeboard/Archive 82#Twitter, Rolling Stone magazine and The Guardian"
+      ],
+      "other": [
+        "WT:WikiProject Video games/Sources/Archive 16#Glixel"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "353",
@@ -1150,16 +1277,20 @@
     "sort_name": "Rolling Stone",
     "shortcut": "WP:ROLLINGSTONEPOLITICS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 41#Is opinion piece in Rolling Stone a reliable source on Goldman Sachs?",
-      "WP:Reliable sources/Noticeboard/Archive 106#Is this piece from the Rolling Stone Culture Section a RS?",
-      "WP:Reliable sources/Noticeboard/Archive 132#Mother Jones and Rolling Stone articles as RS sources in a BLP for a contentious claim",
-      "WP:Reliable sources/Noticeboard/Archive 197#Gun show loophole (Rolling Stone & Washington Post)",
-      "WP:Reliable sources/Noticeboard/Archive 274#Is Rolling Stone's 'Useful Idiots' podcast a RS?",
-      "WP:Reliable sources/Noticeboard/Archive 366#Rolling Stone scoop on involvement in Jan. 6",
-      "WP:Reliable sources/Noticeboard/Archive 410#Rolling Stone as a source for politics",
-      "WT:Reliable sources/Perennial sources/Archive 8#Rolling Stone as a source for politics"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 41#Is opinion piece in Rolling Stone a reliable source on Goldman Sachs?",
+        "WP:Reliable sources/Noticeboard/Archive 106#Is this piece from the Rolling Stone Culture Section a RS?",
+        "WP:Reliable sources/Noticeboard/Archive 132#Mother Jones and Rolling Stone articles as RS sources in a BLP for a contentious claim",
+        "WP:Reliable sources/Noticeboard/Archive 197#Gun show loophole (Rolling Stone & Washington Post)",
+        "WP:Reliable sources/Noticeboard/Archive 274#Is Rolling Stone's 'Useful Idiots' podcast a RS?",
+        "WP:Reliable sources/Noticeboard/Archive 366#Rolling Stone scoop on involvement in Jan. 6",
+        "WP:Reliable sources/Noticeboard/Archive 410#Rolling Stone as a source for politics"
+      ],
+      "other": [
+        "WT:Reliable sources/Perennial sources/Archive 8#Rolling Stone as a source for politics"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "353",
@@ -1179,9 +1310,11 @@
     "sort_name": "Rolling Stone",
     "shortcut": "WP:ROLLINGSTONECON",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 326#Caution: Rolling Stone goes pay-for-play"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 326#Caution: Rolling Stone goes pay-for-play"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "353",
@@ -1200,7 +1333,9 @@
     "sort_name": "Rotten Tomatoes",
     "shortcut": "WP:ROTTENTOMATOES",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "411",
@@ -1218,10 +1353,12 @@
     "name": "",
     "sort_name": "",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 379#Royal Central, deprecate?",
-      "WP:Reliable sources/Noticeboard/Archive 380#Royal Central (cont.)"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 379#Royal Central, deprecate?",
+        "WP:Reliable sources/Noticeboard/Archive 380#Royal Central (cont.)"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "383",

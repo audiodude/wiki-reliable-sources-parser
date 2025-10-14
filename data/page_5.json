@@ -4,7 +4,9 @@
     "name": "Mail & Guardian",
     "sort_name": "Mail & Guardian",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "352",
@@ -23,10 +25,12 @@
     "sort_name": "Mail on Sunday",
     "shortcut": "WP:MAILONSUNDAY",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 278#Does WP:Dailymail apply to the Mail on Sunday",
-      "WP:Reliable sources/Noticeboard/Archive 311#Clarification: Does Daily Mail RfC apply to the Mail on Sunday?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 278#Does WP:Dailymail apply to the Mail on Sunday",
+        "WP:Reliable sources/Noticeboard/Archive 311#Clarification: Does Daily Mail RfC apply to the Mail on Sunday?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "318",
@@ -45,15 +49,17 @@
     "name": "Marquis Who's Who",
     "sort_name": "Marquis Who's Who",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 9#Marquis' \"Who's Who\" as RS?",
-      "WP:Reliable sources/Noticeboard/Archive 24#Who's Who in America",
-      "WP:Reliable sources/Noticeboard/Archive 53#Is Who's Who a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 56#Who's Who not RS?",
-      "WP:Reliable sources/Noticeboard/Archive 229#Use of Who's Who for list of awards.",
-      "WP:Reliable sources/Noticeboard/Archive 380#Marquis Who's Who",
-      "WP:Reliable sources/Noticeboard/Archive 417#Who's Who in Australia - Reliable, please?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 9#Marquis' \"Who's Who\" as RS?",
+        "WP:Reliable sources/Noticeboard/Archive 24#Who's Who in America",
+        "WP:Reliable sources/Noticeboard/Archive 53#Is Who's Who a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 56#Who's Who not RS?",
+        "WP:Reliable sources/Noticeboard/Archive 229#Use of Who's Who for list of awards.",
+        "WP:Reliable sources/Noticeboard/Archive 380#Marquis Who's Who",
+        "WP:Reliable sources/Noticeboard/Archive 417#Who's Who in Australia - Reliable, please?"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "''Marquis Who's Who'', including its publication ''Who's Who in America'', is considered generally unreliable. As most of its content is provided by the person concerned, editors generally consider ''Marquis Who's Who'' comparable to a [[WP:SPS|self-published source]]. There is a broad consensus that ''Marquis Who's Who'' should not be used to establish [[WP:N|notability]] for article topics. ''See also: {{pslink|Who's Who (UK)}}.''",
     "domain": "marquiswhoswho.com"
@@ -65,14 +71,16 @@
     "sort_name": "Mashable",
     "shortcut": "WP:MASHABLE",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 4#Techblogs",
-      "WP:Reliable sources/Noticeboard/Archive 16#Blogs?",
-      "WP:Reliable sources/Noticeboard/Archive 41#Mashable.com as a reference for Facebook",
-      "WP:Reliable sources/Noticeboard/Archive 88#Blogs as sources",
-      "WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP",
-      "WP:Reliable sources/Noticeboard/Archive 264#Reliability of sources that put affiliate links in their reviews"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 4#Techblogs",
+        "WP:Reliable sources/Noticeboard/Archive 16#Blogs?",
+        "WP:Reliable sources/Noticeboard/Archive 41#Mashable.com as a reference for Facebook",
+        "WP:Reliable sources/Noticeboard/Archive 88#Blogs as sources",
+        "WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP",
+        "WP:Reliable sources/Noticeboard/Archive 264#Reliability of sources that put affiliate links in their reviews"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "334",
@@ -91,14 +99,16 @@
     "content_qualifier": "(sponsored content)",
     "sort_name": "Mashable",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 4#Techblogs",
-      "WP:Reliable sources/Noticeboard/Archive 16#Blogs?",
-      "WP:Reliable sources/Noticeboard/Archive 41#Mashable.com as a reference for Facebook",
-      "WP:Reliable sources/Noticeboard/Archive 88#Blogs as sources",
-      "WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP",
-      "WP:Reliable sources/Noticeboard/Archive 264#Reliability of sources that put affiliate links in their reviews"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 4#Techblogs",
+        "WP:Reliable sources/Noticeboard/Archive 16#Blogs?",
+        "WP:Reliable sources/Noticeboard/Archive 41#Mashable.com as a reference for Facebook",
+        "WP:Reliable sources/Noticeboard/Archive 88#Blogs as sources",
+        "WP:Reliable sources/Noticeboard/Archive 240#Request: RS check on BLP",
+        "WP:Reliable sources/Noticeboard/Archive 264#Reliability of sources that put affiliate links in their reviews"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "334",
@@ -117,13 +127,17 @@
     "sort_name": "Mary Sue",
     "shortcut": "WP:THEMARYSUE",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 189#The Mary Sue Disclaims Itself as an Unreliable Source",
-      "WP:Reliable sources/Noticeboard/Archive 213#Crash Override Network",
-      "WP:Reliable sources/Noticeboard/Archive 383#Mary Sue",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 9#The Mary Sue",
-      "Wikipedia talk:WikiProject Video games/Sources/Archive 11#The Mary Sue revisited"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 189#The Mary Sue Disclaims Itself as an Unreliable Source",
+        "WP:Reliable sources/Noticeboard/Archive 213#Crash Override Network",
+        "WP:Reliable sources/Noticeboard/Archive 383#Mary Sue"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 9#The Mary Sue",
+        "Wikipedia talk:WikiProject Video games/Sources/Archive 11#The Mary Sue revisited"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "There is consensus that ''The Mary Sue'' is generally reliable. Most editors consider ''The Mary Sue'' [[WP:BIASED|biased or opinionated]]. Opinions should be attributed.",
     "domain": "themarysue.com"
@@ -135,15 +149,17 @@
     "sort_name": "MDPI",
     "shortcut": "WP:MDPI",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 196#MDPI journals",
-      "WP:Reliable sources/Noticeboard/Archive 197#Vanity press or MEDRS-compliant source?",
-      "WP:Reliable sources/Noticeboard/Archive 205#Other predatory journals",
-      "WP:Reliable sources/Noticeboard/Archive 265#Reliability of a MDPI article",
-      "WP:Reliable sources/Noticeboard/Archive 306#Is Religions a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 329#MDPI journals",
-      "WP:Reliable sources/Noticeboard/Archive 351#MDPI/Entropy Journal?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 196#MDPI journals",
+        "WP:Reliable sources/Noticeboard/Archive 197#Vanity press or MEDRS-compliant source?",
+        "WP:Reliable sources/Noticeboard/Archive 205#Other predatory journals",
+        "WP:Reliable sources/Noticeboard/Archive 265#Reliability of a MDPI article",
+        "WP:Reliable sources/Noticeboard/Archive 306#Is Religions a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 329#MDPI journals",
+        "WP:Reliable sources/Noticeboard/Archive 351#MDPI/Entropy Journal?"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "Publications in MDPI journals are considered questionable. Editors have raised concerns about the robustness of MDPI's peer review process and their lack of selectivity in what they publish. Originally placed on [[Beall's List]] of predatory open journals in 2014, MDPI was removed from the list in 2015, while applying pressure on Beall's employer. As of early 2024, about 5% of MDPI journals had been rejected by the [[Norwegian Scientific Index]], and another 5% are under review.<ref>See https://kanalregister.hkdir.no/publiseringskanaler/KanalForlagInfo.action?id=26778 (the publisher's summary page) and click on \"Vis [+]\" in \"Assosierte tidsskrift\" line to see the list and their ratings. As of February 2024, 13 (5.2%) of the 250 journals listed were rated X (under review) and 11 (4.4%) were rated 0 (unsuitable for scholarly publications, although they do not label them as predatory ''per se'').]</ref>",
     "domain": "mdpi.com"
@@ -154,11 +170,13 @@
     "name": "MEAWW ",
     "sort_name": "MEAWW ",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 289#Is Meaww a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 332#News Website MEAWW Reliable or Unreliable Source?",
-      "WP:Reliable sources/Noticeboard/Archive 355#Pinkvilla, Meaww & Bollywood Life"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 289#Is Meaww a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 332#News Website MEAWW Reliable or Unreliable Source?",
+        "WP:Reliable sources/Noticeboard/Archive 355#Pinkvilla, Meaww & Bollywood Life"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "''MEAWW'' is a tabloid site covering pop culture and the internet. The site often employs clickbait and is considered generally unreliable.",
     "domain": "meaww.com"
@@ -170,13 +188,15 @@
     "sort_name": "Media Bias/Fact Check",
     "shortcut": "WP:MB/FC",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 248#Should we use mediabiasfactcheck.com to determine what sources are reliable?",
-      "WP:Reliable sources/Noticeboard/Archive 253#Media Bias Fact Check",
-      "WP:Reliable sources/Noticeboard/Archive 271#Media Bias/Fact Check at Toronto Sun",
-      "WP:Reliable sources/Noticeboard/Archive 346#News Guard + Media Bias Fact Check Redux",
-      "WP:Reliable sources/Noticeboard#Media Bias/Fact Check"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 248#Should we use mediabiasfactcheck.com to determine what sources are reliable?",
+        "WP:Reliable sources/Noticeboard/Archive 253#Media Bias Fact Check",
+        "WP:Reliable sources/Noticeboard/Archive 271#Media Bias/Fact Check at Toronto Sun",
+        "WP:Reliable sources/Noticeboard/Archive 346#News Guard + Media Bias Fact Check Redux",
+        "WP:Reliable sources/Noticeboard#Media Bias/Fact Check"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is consensus that ''Media Bias/Fact Check'' is generally unreliable, as it is [[WP:SPS|self-published]]. Editors have questioned the methodology of the site's ratings.",
     "domain": "mediabiasfactcheck.com"
@@ -188,7 +208,9 @@
     "sort_name": "Media Matters for America",
     "shortcut": "WP:MEDIAMATTERS",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "59",
@@ -214,14 +236,16 @@
     "sort_name": "Media Research Center",
     "shortcut": "WP:MRC",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 3#What about \"Cybercast News Service\" (CNSnews)?",
-      "WP:Reliable sources/Noticeboard/Archive 18#CNSnews.com aka cybercast",
-      "WP:Reliable sources/Noticeboard/Archive 65#Media Research Center / Newsbusters",
-      "WP:Reliable sources/Noticeboard/Archive 109#Can a blog on newsbusters.org be a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 227#Newsbusters and The Blaze at WP:BLP page Malcolm Nance ?",
-      "WP:Reliable sources/Noticeboard/Archive 283#Newsbusters and The Washington Examiner as sources for facts in the lead of CNN"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 3#What about \"Cybercast News Service\" (CNSnews)?",
+        "WP:Reliable sources/Noticeboard/Archive 18#CNSnews.com aka cybercast",
+        "WP:Reliable sources/Noticeboard/Archive 65#Media Research Center / Newsbusters",
+        "WP:Reliable sources/Noticeboard/Archive 109#Can a blog on newsbusters.org be a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 227#Newsbusters and The Blaze at WP:BLP page Malcolm Nance ?",
+        "WP:Reliable sources/Noticeboard/Archive 283#Newsbusters and The Washington Examiner as sources for facts in the lead of CNN"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "59",
@@ -252,12 +276,14 @@
     "sort_name": "Mediaite",
     "shortcut": "WP:MEDIAITE",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 225#Mediaite",
-      "WP:Reliable sources/Noticeboard/Archive 239#TheBlaze show Dana etc. w rgd Dana Loesch",
-      "WP:Reliable sources/Noticeboard/Archive 260#Consensus on Mediaite as reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 397#The Daily Beast and Mediaite for extraordinary claim in a BLP"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 225#Mediaite",
+        "WP:Reliable sources/Noticeboard/Archive 239#TheBlaze show Dana etc. w rgd Dana Loesch",
+        "WP:Reliable sources/Noticeboard/Archive 260#Consensus on Mediaite as reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 397#The Daily Beast and Mediaite for extraordinary claim in a BLP"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is some consensus that Mediaite is only marginally reliable, and should be avoided where better sources are available. Editors consider the source to inappropriately blur news and opinion, and [[WP:DUE|due weight]] should be considered if no other reliable sources support a given statement.",
     "domain": "mediaite.com"
@@ -268,12 +294,14 @@
     "sort_name": "Medium (website)",
     "shortcut": "WP:MEDIUM",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 192#Article by established journalist in Medium publication with editorial staff",
-      "WP:Reliable sources/Noticeboard/Archive 232#Medium as a reference",
-      "WP:Reliable sources/Noticeboard/Archive 260#Bob Pitt at Medium sourced for Jeremy Corbyn",
-      "WP:Reliable sources/Noticeboard/Archive 336#Pauline Montagna"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 192#Article by established journalist in Medium publication with editorial staff",
+        "WP:Reliable sources/Noticeboard/Archive 232#Medium as a reference",
+        "WP:Reliable sources/Noticeboard/Archive 260#Bob Pitt at Medium sourced for Jeremy Corbyn",
+        "WP:Reliable sources/Noticeboard/Archive 336#Pauline Montagna"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "381",
@@ -291,7 +319,9 @@
     "name": "Meduza",
     "sort_name": "Meduza",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "488",
@@ -311,7 +341,9 @@
     "sort_name": "Metacritic",
     "shortcut": "WP:METACRITIC",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2017",
     "summary": "Metacritic is considered generally reliable for its review aggregation and its news articles on film, TV, and video games. There is no consensus on whether its blog articles and critic opinion pages are generally reliable for facts. There is consensus that user reviews on Metacritic are generally unreliable, as they are [[WP:SPS|self-published source]]s. Reviewers tracked by Metacritic are not automatically reliable for their reviews. In December 2019, video game aggregate site [[GameRankings]] shut down and merged with Metacritic; GameRankings's content is no longer accessible unless archived.<ref>{{cite web|last=Plunkett|first=Luke|title=RIP Gamerankings.com|url=https://kotaku.com/rip-gamerankings-com-1840250954|website=[[Kotaku]]|publisher=[[G/O Media]]|accessdate=2019-12-06|date=2019-12-05|df=mdy-all}}</ref><ref>{{cite web|title=GameRankings Shutting down |url=https://www.gamerankings.com/news.html |archive-url=https://web.archive.org/web/20191204051348/https://www.gamerankings.com/news.html |archive-date=2019-12-04}}</ref><ref>{{cite web|url=https://gamasutra.com/view/news/355254/Review_aggregator_site_GameRankings_is_shutting_down.php|title=Review aggregator site GameRankings is shutting down |last=McAloon|first=Alissa|work=[[Gamasutra]]|date=December 5, 2019|accessdate=December 5, 2019}}</ref>",
     "domain": "metacritic.com"
@@ -322,7 +354,9 @@
     "sort_name": "Metal-experience.com ",
     "shortcut": "WP:METALEXPERIENCE",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "334",
@@ -340,11 +374,15 @@
     "name": "MetalSucks",
     "sort_name": "MetalSucks",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 146#MetalSucks",
-      "WP:Reliable sources/Noticeboard/Archive 251#Metal Sucks",
-      "Wikipedia talk:WikiProject Albums/Archive 50#MetalSucks – reliable?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 146#MetalSucks",
+        "WP:Reliable sources/Noticeboard/Archive 251#Metal Sucks"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Albums/Archive 50#MetalSucks – reliable?"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "MetalSucks is considered usable for its reviews and news articles. Avoid its overly satirical content and exercise caution when MetalSucks is the only source making a statement.",
     "domain": "metalsucks.net"
@@ -356,7 +394,9 @@
     "sort_name": "Metro (British newspaper)",
     "shortcut": "WP:METRO",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsp_last": "2025",
     "summary": "The reliability of ''Metro'' has been compared to that of the ''{{pslink|Daily Mail}}'' and other British tabloids. Articles published in the print newspaper are considered more reliable than articles published only on the metro.co.uk website. The newspaper articles were previously segregated online via the metro.news domain and are presently tagged under \"metro newspaper\" at the metro.co.uk domain.",
     "domain": "metro.co.uk"
@@ -368,12 +408,16 @@
     "sort_name": "Metro (British newspaper)",
     "shortcut": "WP:METROSOAPS",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 351#Metro soaps carve out",
-      "WP:Reliable sources/Noticeboard/Archive 378#Metro for coverage of soap operas",
-      "WP:Reliable sources/Noticeboard#Using the Metro as a source on soap opera articles",
-      "WT:WikiProject Soap Operas#The use of Metro as source in articles related to soap operas"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 351#Metro soaps carve out",
+        "WP:Reliable sources/Noticeboard/Archive 378#Metro for coverage of soap operas",
+        "WP:Reliable sources/Noticeboard#Using the Metro as a source on soap opera articles"
+      ],
+      "other": [
+        "WT:WikiProject Soap Operas#The use of Metro as source in articles related to soap operas"
+      ]
+    },
     "rsp_last": "2025",
     "summary": "There is consensus that the ''Metro'' is reliable as a source on soap operas.",
     "domain": "metro.co.uk"
@@ -385,13 +429,17 @@
     "sort_name": "Middle East Media Research Institute",
     "shortcut": "WP:MEMRI",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 8#MEMRI",
-      "WP:Reliable sources/Noticeboard/Archive 16#MEMRI, again",
-      "WP:Reliable sources/Noticeboard/Archive 32#Memri",
-      "WP:Reliable sources/Noticeboard/Archive 422#Is Kyiv Post or MEMRI right?",
-      "Wikipedia talk:Reliable sources/Perennial sources/Archive 9#MEMRI"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 8#MEMRI",
+        "WP:Reliable sources/Noticeboard/Archive 16#MEMRI, again",
+        "WP:Reliable sources/Noticeboard/Archive 32#Memri",
+        "WP:Reliable sources/Noticeboard/Archive 422#Is Kyiv Post or MEMRI right?"
+      ],
+      "other": [
+        "Wikipedia talk:Reliable sources/Perennial sources/Archive 9#MEMRI"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "305",
@@ -411,16 +459,20 @@
     "sort_name": "Middle East Monitor",
     "shortcut": "WP:MEMO",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 126#Middle East Monitor",
-      "WP:Reliable sources/Noticeboard/Archive 265#Middle East Monitor",
-      "WP:Reliable sources/Noticeboard/Archive 258#Middle East Monitor",
-      "WP:Reliable sources/Noticeboard/Archive 343#Middle East Monitor",
-      "WP:Reliable sources/Noticeboard/Archive 360#Middle East Monitor, Electronic Intifada, Palestine Chronicle and Twitter as sources in a BLP",
-      "WP:Reliable sources/Noticeboard/Archive 436#Middle East Monitor",
-      "WP:Reliable sources/Noticeboard/Archive 436#Assessment of use by others",
-      "Wikipedia talk:Reliable sources/Perennial sources/Archive 9#Middle East Monitor"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 126#Middle East Monitor",
+        "WP:Reliable sources/Noticeboard/Archive 265#Middle East Monitor",
+        "WP:Reliable sources/Noticeboard/Archive 258#Middle East Monitor",
+        "WP:Reliable sources/Noticeboard/Archive 343#Middle East Monitor",
+        "WP:Reliable sources/Noticeboard/Archive 360#Middle East Monitor, Electronic Intifada, Palestine Chronicle and Twitter as sources in a BLP",
+        "WP:Reliable sources/Noticeboard/Archive 436#Middle East Monitor",
+        "WP:Reliable sources/Noticeboard/Archive 436#Assessment of use by others"
+      ],
+      "other": [
+        "Wikipedia talk:Reliable sources/Perennial sources/Archive 9#Middle East Monitor"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is no consensus over the reliability of Middle East Monitor (MEMO). Previously consensus was established that it is a partisan think tank, with opinions ranging from \"sometimes usable with attribution\" to \"unreliable\".",
     "domain": "middleeastmonitor.com"
@@ -431,9 +483,11 @@
     "sort_name": "MintPress News",
     "shortcut": "WP:MINTPRESS",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 464#MintPress News"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 464#MintPress News"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "268",
@@ -452,12 +506,14 @@
     "sort_name": "Monde diplomatique",
     "shortcut": "WP:LEMONDEDIPLOMATIQUE",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 76#Le Monde Diplomatique",
-      "WP:Reliable sources/Noticeboard/Archive 83#Le Monde diplomatique and \"mondediplo.com\"",
-      "WP:Reliable sources/Noticeboard/Archive 235#Fringe newspaper's map sourced only to a literary critic used for wiki ethnographic map",
-      "WP:Reliable sources/Noticeboard/Archive 250#Le Monde Diplomatique"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 76#Le Monde Diplomatique",
+        "WP:Reliable sources/Noticeboard/Archive 83#Le Monde diplomatique and \"mondediplo.com\"",
+        "WP:Reliable sources/Noticeboard/Archive 235#Fringe newspaper's map sourced only to a literary critic used for wiki ethnographic map",
+        "WP:Reliable sources/Noticeboard/Archive 250#Le Monde Diplomatique"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is consensus that ''Le Monde diplomatique'' is generally reliable. Some editors consider ''Le Monde diplomatique'' to be a biased and opinionated source.",
     "domain": "monde-diplomatique.fr"
@@ -468,16 +524,18 @@
     "sort_name": "Mondoweiss",
     "shortcut": "WP:MONDOWEISS",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 130#Mondoweiss+Jessie Benjamin",
-      "WP:Reliable sources/Noticeboard/Archive 192#Mondoweiss",
-      "WP:Reliable sources/Noticeboard/Archive 204#Mondoweiss article on Noam Chomsky and criticism thereof?",
-      "WP:Reliable sources/Noticeboard/Archive 214#Is this article acceptable for a report on an obscure Israeli village?",
-      "WP:Reliable sources/Noticeboard/Archive 221#Mondoweiss",
-      "WP:Reliable sources/Noticeboard/Archive 222#Jonathan Ofir as translator",
-      "WP:Reliable sources/Noticeboard/Archive 223#Mondoweiss again",
-      "WP:Reliable sources/Noticeboard/Archive 265#Mondoweiss again"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 130#Mondoweiss+Jessie Benjamin",
+        "WP:Reliable sources/Noticeboard/Archive 192#Mondoweiss",
+        "WP:Reliable sources/Noticeboard/Archive 204#Mondoweiss article on Noam Chomsky and criticism thereof?",
+        "WP:Reliable sources/Noticeboard/Archive 214#Is this article acceptable for a report on an obscure Israeli village?",
+        "WP:Reliable sources/Noticeboard/Archive 221#Mondoweiss",
+        "WP:Reliable sources/Noticeboard/Archive 222#Jonathan Ofir as translator",
+        "WP:Reliable sources/Noticeboard/Archive 223#Mondoweiss again",
+        "WP:Reliable sources/Noticeboard/Archive 265#Mondoweiss again"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "427",
@@ -496,14 +554,18 @@
     "content_qualifier": "(UK)",
     "sort_name": "Morning Star (British newspaper)",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 66#Status of Morning Star (UK newspaper)",
-      "WP:Reliable sources/Noticeboard/Archive 84#Morning Star (UK newspaper)",
-      "WP:Reliable sources/Noticeboard/Archive 275#Morning Star (British newspaper)",
-      "WP:Reliable sources/Noticeboard/Archive 427#Morning Star (UK)",
-      "Talk:English Defence League/Archive 4#Morning Star",
-      "Talk:Jeremy Corbyn/Archive 16#RfC on use of Morning Star as a source"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 66#Status of Morning Star (UK newspaper)",
+        "WP:Reliable sources/Noticeboard/Archive 84#Morning Star (UK newspaper)",
+        "WP:Reliable sources/Noticeboard/Archive 275#Morning Star (British newspaper)",
+        "WP:Reliable sources/Noticeboard/Archive 427#Morning Star (UK)"
+      ],
+      "other": [
+        "Talk:English Defence League/Archive 4#Morning Star",
+        "Talk:Jeremy Corbyn/Archive 16#RfC on use of Morning Star as a source"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "The ''Morning Star'' describes itself as a British \"reader-owned co-operative and unique as a lone socialist voice in a sea of corporate media\" and has low circulation. There is no consensus on whether the ''Morning Star'' engages in factual reporting, and broad consensus that it is a [[WP:BIASED|biased and partisan]] source. All uses of the ''Morning Star'' should be [[WP:INTEXT|attributed]]. Take care to ensure that content from the ''Morning Star'' constitutes [[WP:DUE|due weight]] in the article and conforms to the [[WP:BLP|biographies of living persons]] policy.",
     "domain": "morningstaronline.co.uk"
@@ -515,13 +577,15 @@
     "sort_name": "Mother Jones (magazine)",
     "shortcut": "WP:MOTHERJONES",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 132#%5BMother Jones and Rolling Stone articles as RS sources in a BLP for a contentious claim",
-      "WP:Reliable sources/Noticeboard/Archive 149#Opinion column by Stephanie Mencimer in Mother Jones",
-      "WP:Reliable sources/Noticeboard/Archive 188#Buzzfeed, Mother Jones for BLP's.",
-      "WP:Reliable sources/Noticeboard/Archive 229#Is Mother Jones magazine a reliable source for investigative reporting?",
-      "WP:Reliable sources/Noticeboard/Archive 274#Does this Mother Jones article accurately summarize the arguments made by the PragerU videos it cites?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 132#%5BMother Jones and Rolling Stone articles as RS sources in a BLP for a contentious claim",
+        "WP:Reliable sources/Noticeboard/Archive 149#Opinion column by Stephanie Mencimer in Mother Jones",
+        "WP:Reliable sources/Noticeboard/Archive 188#Buzzfeed, Mother Jones for BLP's.",
+        "WP:Reliable sources/Noticeboard/Archive 229#Is Mother Jones magazine a reliable source for investigative reporting?",
+        "WP:Reliable sources/Noticeboard/Archive 274#Does this Mother Jones article accurately summarize the arguments made by the PragerU videos it cites?"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is consensus that ''Mother Jones'' is generally reliable. Almost all editors consider ''Mother Jones'' a [[WP:BIASED|biased source]], so its statements (particularly on political topics) may need to be [[WP:INTEXT|attributed]]. Consider whether content from this publication constitutes [[WP:DUE|due weight]] before citing it in an article.",
     "domain": "motherjones.com"
@@ -532,12 +596,14 @@
     "sort_name": "MSNBC",
     "shortcut": "WP:MSNBC",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 303#Also CNN & MSNBC",
-      "WP:Reliable sources/Noticeboard/Archive 307#Preliminary discussions for a potential RFC on CNN and MSNBC",
-      "WP:Reliable sources/Noticeboard/Archive 314#NBC News- 'Undecided voters' at NBC's Biden town hall were featured on MSNBC as Biden voters",
-      "WP:Reliable sources/Noticeboard/Archive 372#MSNBC"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 303#Also CNN & MSNBC",
+        "WP:Reliable sources/Noticeboard/Archive 307#Preliminary discussions for a potential RFC on CNN and MSNBC",
+        "WP:Reliable sources/Noticeboard/Archive 314#NBC News- 'Undecided voters' at NBC's Biden town hall were featured on MSNBC as Biden voters",
+        "WP:Reliable sources/Noticeboard/Archive 372#MSNBC"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "307",
@@ -556,9 +622,11 @@
     "name": "MyLife",
     "sort_name": "MyLife",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 233#Instantcheckmate and mylife"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 233#Instantcheckmate and mylife"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Due to persistent abuse, MyLife is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. MyLife (formerly known as Reunion.com) is an [[information broker]] that publishes [[WP:UGC|user-generated content]], and is considered generally unreliable.",
     "domain": "mylife.com"
@@ -569,17 +637,19 @@
     "sort_name": "Nation",
     "shortcut": "WP:THENATION",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 5#The Nation",
-      "WP:Reliable sources/Noticeboard/Archive 9#The Nation article re: Daniel Pipes",
-      "WP:Reliable sources/Noticeboard/Archive 11#Further Discussion of the Nation",
-      "WP:Reliable sources/Noticeboard/Archive 30#Article about William Timmons in The Nation",
-      "WP:Reliable sources/Noticeboard/Archive 39#Is The Nation a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 40#The Nation",
-      "WP:Reliable sources/Noticeboard/Archive 283#The Nation",
-      "WP:Reliable sources/Noticeboard/Archive 305#Is The Nation reliable for claims about the Douma Chemical attack?",
-      "WP:Reliable sources/Noticeboard/Archive 371#The nation"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 5#The Nation",
+        "WP:Reliable sources/Noticeboard/Archive 9#The Nation article re: Daniel Pipes",
+        "WP:Reliable sources/Noticeboard/Archive 11#Further Discussion of the Nation",
+        "WP:Reliable sources/Noticeboard/Archive 30#Article about William Timmons in The Nation",
+        "WP:Reliable sources/Noticeboard/Archive 39#Is The Nation a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 40#The Nation",
+        "WP:Reliable sources/Noticeboard/Archive 283#The Nation",
+        "WP:Reliable sources/Noticeboard/Archive 305#Is The Nation reliable for claims about the Douma Chemical attack?",
+        "WP:Reliable sources/Noticeboard/Archive 371#The nation"
+      ]
+    },
     "rsp_last": "2022",
     "summary": "There is consensus that ''The Nation'' is generally reliable. In the \"About\" section of their website, they identify as progressive. Most editors consider ''The Nation'' a [[WP:PARTISAN|partisan source]] whose statements should be [[WP:INTEXT|attributed]]. The publication's [[WP:RSOPINION|opinion pieces]] should be handled with the appropriate guideline. Take care to ensure that content from ''The Nation'' constitutes [[WP:DUE|due weight]] in the article and conforms to the [[WP:BLP|biographies of living persons]] policy.",
     "domain": "thenation.com"
@@ -589,14 +659,16 @@
     "name": "National Enquirer",
     "sort_name": "National Enquirer",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 35#National Enquirer",
-      "WP:Reliable sources/Noticeboard/Archive 85#Tabloid Newspapers",
-      "WP:Reliable sources/Noticeboard/Archive 114#Contactmusic.com on marital breakup",
-      "WP:Reliable sources/Noticeboard/Archive 204#Daily Mail again",
-      "WP:Reliable sources/Noticeboard/Archive 218#New York Daily News unreliable?",
-      "WP:Reliable sources/Noticeboard/Archive 232#List of banned UK newspapers?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 35#National Enquirer",
+        "WP:Reliable sources/Noticeboard/Archive 85#Tabloid Newspapers",
+        "WP:Reliable sources/Noticeboard/Archive 114#Contactmusic.com on marital breakup",
+        "WP:Reliable sources/Noticeboard/Archive 204#Daily Mail again",
+        "WP:Reliable sources/Noticeboard/Archive 218#New York Daily News unreliable?",
+        "WP:Reliable sources/Noticeboard/Archive 232#List of banned UK newspapers?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "261",
@@ -616,12 +688,14 @@
     "sort_name": "National Geographic",
     "shortcut": "WP:NATGEO",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 126#National Geographic",
-      "WP:Reliable sources/Noticeboard/Archive 240#National Geographic website, Krampus, and Hel",
-      "WP:Reliable sources/Noticeboard/Archive 313#National Geographic and Adam Weishaupt (the Illuminati guy)",
-      "WP:Reliable sources/Noticeboard/Archive 408#National Geographic"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 126#National Geographic",
+        "WP:Reliable sources/Noticeboard/Archive 240#National Geographic website, Krampus, and Hel",
+        "WP:Reliable sources/Noticeboard/Archive 313#National Geographic and Adam Weishaupt (the Illuminati guy)",
+        "WP:Reliable sources/Noticeboard/Archive 408#National Geographic"
+      ]
+    },
     "rsp_last": "2023",
     "summary": "There is consensus that ''National Geographic'' is generally reliable. For coverage by ''National Geographic'' of [[WP:FRINGE|fringe]] topics and ideas, [[WP:DUE|due weight]] and [[WP:PARITY|parity of sources]] should be considered.",
     "domain": "nationalgeographic.com"
@@ -633,14 +707,16 @@
     "sort_name": "National Post",
     "shortcut": "WP:NATIONALPOST",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 16#National Post",
-      "WP:Reliable sources/Noticeboard/Archive 23#National Post Rejected as Reliable Source",
-      "WP:Reliable sources/Noticeboard/Archive 28#National Post blog",
-      "WP:Reliable sources/Noticeboard/Archive 42#National Post Biography of Lawrence Solomon: SPS? or RS?",
-      "WP:Reliable sources/Noticeboard/Archive 269#National Post: Accusations of Plagriarism made in an opinion column",
-      "WP:Reliable sources/Noticeboard/Archive 420#National Post reprint of Foundation for Defense of Democracies paper"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 16#National Post",
+        "WP:Reliable sources/Noticeboard/Archive 23#National Post Rejected as Reliable Source",
+        "WP:Reliable sources/Noticeboard/Archive 28#National Post blog",
+        "WP:Reliable sources/Noticeboard/Archive 42#National Post Biography of Lawrence Solomon: SPS? or RS?",
+        "WP:Reliable sources/Noticeboard/Archive 269#National Post: Accusations of Plagriarism made in an opinion column",
+        "WP:Reliable sources/Noticeboard/Archive 420#National Post reprint of Foundation for Defense of Democracies paper"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "448",
@@ -660,14 +736,16 @@
     "sort_name": "National Review",
     "shortcut": "WP:NATIONALREVIEW",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 60#National Review a reliable source on China? MA thesis cites primary sources--okay or not?",
-      "WP:Reliable sources/Noticeboard/Archive 82#Ion Mihai Pacepa, National Review Online, Pave the Way Foundation",
-      "WP:Reliable sources/Noticeboard/Archive 128#Stanley Kurtz National Review article about Obama and the New Party",
-      "WP:Reliable sources/Noticeboard/Archive 153#National Review opinion rant",
-      "WP:Reliable sources/Noticeboard/Archive 214#Can National Review be considered a RS in the following context re Hillary Clinton's cattle trading?",
-      "WP:Reliable sources/Noticeboard/Archive 253#RFC: National Review"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 60#National Review a reliable source on China? MA thesis cites primary sources--okay or not?",
+        "WP:Reliable sources/Noticeboard/Archive 82#Ion Mihai Pacepa, National Review Online, Pave the Way Foundation",
+        "WP:Reliable sources/Noticeboard/Archive 128#Stanley Kurtz National Review article about Obama and the New Party",
+        "WP:Reliable sources/Noticeboard/Archive 153#National Review opinion rant",
+        "WP:Reliable sources/Noticeboard/Archive 214#Can National Review be considered a RS in the following context re Hillary Clinton's cattle trading?",
+        "WP:Reliable sources/Noticeboard/Archive 253#RFC: National Review"
+      ]
+    },
     "rsp_last": "2018",
     "summary": "There is no consensus on the reliability of ''National Review''. Most editors consider ''National Review'' a [[WP:PARTISAN|partisan source]] whose statements should be [[WP:INTEXT|attributed]]. The publication's [[WP:RSOPINION|opinion pieces]] should be handled with the appropriate guideline. Take care to ensure that content from the ''National Review'' constitutes [[WP:DUE|due weight]] in the article and conforms to the [[WP:BLP|biographies of living persons]] policy.",
     "domain": "nationalreview.com"
@@ -679,11 +757,15 @@
     "sort_name": "Natural News",
     "shortcut": "WP:NATURALNEWS",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 273#Natural News",
-      "WP:Fringe theories/Noticeboard/Archive 47#Incoming",
-      "Talk:Natural News/Archive 1#Fake news"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 273#Natural News"
+      ],
+      "other": [
+        "WP:Fringe theories/Noticeboard/Archive 47#Incoming",
+        "Talk:Natural News/Archive 1#Fake news"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "Due to persistent abuse, Natural News is on the [[WP:SPB|Wikipedia spam blacklist]], and links must be [[Wikipedia talk:WHITELIST|whitelisted]] before they can be used. There is a near-unanimous consensus that the site repeatedly publishes false or fabricated information, including an exceptionally large number of [[conspiracy theory|conspiracy theories]].",
     "domain": "naturalnews.com"
@@ -694,12 +776,14 @@
     "sort_name": "NBC News",
     "shortcut": "WP:NBC",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 186#Column on Donors Trust on (but not by) NBC",
-      "WP:Reliable sources/Noticeboard/Archive 296#Is NBC a reliable sources for the Wikipedia The Epoch Times (ET) article?",
-      "WP:Reliable sources/Noticeboard/Archive 314#NBC News- 'Undecided voters' at NBC's Biden town hall were featured on MSNBC as Biden voters",
-      "WP:Reliable sources/Noticeboard/Archive 424#NBC News for Wąsosz pogrom"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 186#Column on Donors Trust on (but not by) NBC",
+        "WP:Reliable sources/Noticeboard/Archive 296#Is NBC a reliable sources for the Wikipedia The Epoch Times (ET) article?",
+        "WP:Reliable sources/Noticeboard/Archive 314#NBC News- 'Undecided voters' at NBC's Biden town hall were featured on MSNBC as Biden voters",
+        "WP:Reliable sources/Noticeboard/Archive 424#NBC News for Wąsosz pogrom"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that NBC News is generally reliable for news. ''See also: {{pslink|MSNBC}}''",
     "domain": "nbcnews.com"
@@ -710,12 +794,16 @@
     "sort_name": "Needle Drop",
     "shortcut": "WP:FANTANO",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 228#The Needle Drop",
-      "Wikipedia talk:WikiProject Albums/Archive 50#The Needle Drop",
-      "Wikipedia talk:WikiProject Albums/Archive 54#Anthony Fantano responded with his take on the debate if his reviews on The Needle Drop are \"professional\" or not",
-      "Special:PermanentLink/1250481692#The Needle Drop: news section"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 228#The Needle Drop"
+      ],
+      "other": [
+        "Wikipedia talk:WikiProject Albums/Archive 50#The Needle Drop",
+        "Wikipedia talk:WikiProject Albums/Archive 54#Anthony Fantano responded with his take on the debate if his reviews on The Needle Drop are \"professional\" or not",
+        "Special:PermanentLink/1250481692#The Needle Drop: news section"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "326",
@@ -734,14 +822,16 @@
     "sort_name": "New American",
     "shortcut": "WP:NEWAMERICAN",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 39#The New American reliable source and is this appropriate for Immigration Equality (organization)",
-      "WP:Reliable sources/Noticeboard/Archive 82#Use of thenewamerican.com",
-      "WP:Reliable sources/Noticeboard/Archive 84#Disappearing page",
-      "WP:Reliable sources/Noticeboard/Archive 134#The New American usable as a RS?",
-      "WP:Reliable sources/Noticeboard/Archive 175#The New American (John Birch Society) as a source",
-      "WP:Reliable sources/Noticeboard/Archive 201#Glenn Beck usable as a RS?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 39#The New American reliable source and is this appropriate for Immigration Equality (organization)",
+        "WP:Reliable sources/Noticeboard/Archive 82#Use of thenewamerican.com",
+        "WP:Reliable sources/Noticeboard/Archive 84#Disappearing page",
+        "WP:Reliable sources/Noticeboard/Archive 134#The New American usable as a RS?",
+        "WP:Reliable sources/Noticeboard/Archive 175#The New American (John Birch Society) as a source",
+        "WP:Reliable sources/Noticeboard/Archive 201#Glenn Beck usable as a RS?"
+      ]
+    },
     "rsp_last": "2016",
     "summary": "There is consensus that ''The New American'' is generally unreliable for factual reporting. Some editors consider it usable for attributed opinions regarding the [[John Birch Society]].",
     "domain": "thenewamerican.com"
@@ -751,7 +841,9 @@
     "name": "New Eastern Outlook",
     "sort_name": "New Eastern Outlook",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "377",
@@ -770,12 +862,14 @@
     "sort_name": "New Republic",
     "shortcut": "WP:NEWREPUBLIC",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 157#Types of abortion restrictions in the United States",
-      "WP:Reliable sources/Noticeboard/Archive 277#The New Republic on Quillette",
-      "WP:Reliable sources/Noticeboard/Archive 381#Is The New Republic's Soapbox section a reliable source?",
-      "WP:Reliable sources/Noticeboard/Archive 433#A New Republic article"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 157#Types of abortion restrictions in the United States",
+        "WP:Reliable sources/Noticeboard/Archive 277#The New Republic on Quillette",
+        "WP:Reliable sources/Noticeboard/Archive 381#Is The New Republic's Soapbox section a reliable source?",
+        "WP:Reliable sources/Noticeboard/Archive 433#A New Republic article"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "287",
@@ -795,13 +889,15 @@
     "sort_name": "New York (magazine)",
     "shortcut": "WP:RSPVULTURE",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 63#David Lynch Foundation",
-      "WP:Reliable sources/Noticeboard/Archive 159#Vulture.com",
-      "WP:Reliable sources/Noticeboard/Archive 187#Unreliable Sources used in the GamerGate Article",
-      "WP:Reliable sources/Noticeboard/Archive 216#New York Magazine/\"New Journalism\"",
-      "WP:Reliable sources/Noticeboard/Archive 327#Are New York Magazine and Infection Control Today reliable sources for the idea that COVID-19 leaked from a Chinese lab?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 63#David Lynch Foundation",
+        "WP:Reliable sources/Noticeboard/Archive 159#Vulture.com",
+        "WP:Reliable sources/Noticeboard/Archive 187#Unreliable Sources used in the GamerGate Article",
+        "WP:Reliable sources/Noticeboard/Archive 216#New York Magazine/\"New Journalism\"",
+        "WP:Reliable sources/Noticeboard/Archive 327#Are New York Magazine and Infection Control Today reliable sources for the idea that COVID-19 leaked from a Chinese lab?"
+      ]
+    },
     "rsp_last": "2021",
     "summary": "There is consensus that ''New York'' magazine, including its subsidiary website ''Vulture'', is generally reliable. There is no consensus on whether it is generally reliable for contentious statements. ''See also: {{pslink|Polygon (pre-2025)}}, {{pslink|The Verge}}, {{pslink|Vox}}''",
     "domain": "nymag.com"
@@ -813,11 +909,13 @@
     "sort_name": "New York Daily News",
     "shortcut": "WP:NYDN",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 127#New York Daily News – reliable source for attribution of \"Incidents of zombie-like behavior in 2012\"",
-      "WP:Reliable sources/Noticeboard/Archive 218#New York Daily News unreliable?",
-      "WP:Reliable sources/Noticeboard/Archive 289#NY Daily News on NYC coronavirus outbreak"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 127#New York Daily News – reliable source for attribution of \"Incidents of zombie-like behavior in 2012\"",
+        "WP:Reliable sources/Noticeboard/Archive 218#New York Daily News unreliable?",
+        "WP:Reliable sources/Noticeboard/Archive 289#NY Daily News on NYC coronavirus outbreak"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "Most editors consider the content of New York ''Daily News'' articles to be generally reliable, but question the accuracy of its [[Tabloid journalism|tabloid-style]] headlines.",
     "domain": "nydailynews.com"
@@ -830,7 +928,9 @@
     "sort_name": "New York Post",
     "shortcut": "WP:NYPOST",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "312",
@@ -851,11 +951,13 @@
     "sort_name": "New York Post",
     "shortcut": "WP:PAGESIX",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 348#Using a Decider.com interview",
-      "WP:Reliable sources/Noticeboard/Archive 371#Decider.com / Jimmy DiResta / Naomi Wu",
-      "WP:Reliable sources/Noticeboard/Archive 431#Using Decider / Decider.com for interviews and reviews"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 348#Using a Decider.com interview",
+        "WP:Reliable sources/Noticeboard/Archive 371#Decider.com / Jimmy DiResta / Naomi Wu",
+        "WP:Reliable sources/Noticeboard/Archive 431#Using Decider / Decider.com for interviews and reviews"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "436",
@@ -875,7 +977,9 @@
     "sort_name": "New York Times",
     "shortcut": "WP:NYTIMES",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "244",
@@ -893,10 +997,12 @@
     "name": "The New Yorker",
     "sort_name": "New Yorker",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 74#The New York Times and The New Yorker magazine as sources in a WP:BLP",
-      "WP:Reliable sources/Noticeboard/Archive 92#The New Yorker, Jane Mayer, and the Koch brothers"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 74#The New York Times and The New Yorker magazine as sources in a WP:BLP",
+        "WP:Reliable sources/Noticeboard/Archive 92#The New Yorker, Jane Mayer, and the Koch brothers"
+      ]
+    },
     "rsp_last": "2011",
     "summary": "There is consensus that ''The New Yorker'' is generally reliable. Editors note the publication's robust fact-checking process.",
     "domain": "newyorker.com"
@@ -907,9 +1013,11 @@
     "name": "The New Zealand Herald",
     "sort_name": "New Zealand Herald, The",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 418#New Zealand Herald, Whanganui Chronicle, opinion piece?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 418#New Zealand Herald, Whanganui Chronicle, opinion piece?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "350",
@@ -928,9 +1036,11 @@
     "sort_name": "News of the World",
     "shortcut": "WP:NEWSOFTHEWORLD",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 353#Removing News of the World as a deprecated source"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 353#Removing News of the World as a deprecated source"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "279",
@@ -948,9 +1058,11 @@
     "name": "NewsBlaze",
     "sort_name": "NewsBlaze",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 352#Consensus for NewsBlaze.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 352#Consensus for NewsBlaze.com"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "353",
@@ -970,7 +1082,9 @@
     "sort_name": "NewsBreak",
     "shortcut": "WP:NEWSBREAK",
     "status": "d",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "301",
@@ -989,9 +1103,11 @@
     "sort_name": "NewsFront (website)",
     "shortcut": "WP:NEWSFRONT",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 281#news-front.info"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 281#news-front.info"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "281",
@@ -1009,7 +1125,9 @@
     "name": "Newslaundry",
     "sort_name": "Newslaundry",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "296",
@@ -1028,11 +1146,13 @@
     "sort_name": "Newsmax",
     "shortcut": "WP:NEWSMAX",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 159#Newsmax",
-      "WP:Reliable sources/Noticeboard/Archive 297#Is Newsmax reliable for the best Catholic Colleges?",
-      "WP:Reliable sources/Noticeboard/Archive 390#Newsmax interviewee's opinions"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 159#Newsmax",
+        "WP:Reliable sources/Noticeboard/Archive 297#Is Newsmax reliable for the best Catholic Colleges?",
+        "WP:Reliable sources/Noticeboard/Archive 390#Newsmax interviewee's opinions"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "319",
@@ -1052,7 +1172,9 @@
     "sort_name": "NewsNation",
     "shortcut": "WP:NEWSNATION",
     "status": "gr",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "465",
@@ -1072,7 +1194,9 @@
     "sort_name": "NewsNation",
     "shortcut": "WP:UFONATION",
     "status": "gu",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "465",
@@ -1091,9 +1215,11 @@
     "content_qualifier": "(pre-2013)",
     "sort_name": "Newsweek 1933",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 432#WP:NEWSWEEK"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 432#WP:NEWSWEEK"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "280",
@@ -1113,7 +1239,9 @@
     "sort_name": "Newsweek 2013",
     "shortcut": "WP:NEWSWEEK",
     "status": "nc",
-    "discussion": [],
+    "discussion": {
+      "rsn": []
+    },
     "rsnl": [
       {
         "notice_id": "280",
@@ -1132,12 +1260,14 @@
     "name": "The Next Web",
     "sort_name": "Next Web",
     "status": "nc",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 177#The Next Web",
-      "WP:Reliable sources/Noticeboard/Archive 204#Popcorn Time",
-      "WP:Reliable sources/Noticeboard/Archive 250#About The Next Web",
-      "WP:Reliable sources/Noticeboard/Archive 266#The Next Web for ProProfs"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 177#The Next Web",
+        "WP:Reliable sources/Noticeboard/Archive 204#Popcorn Time",
+        "WP:Reliable sources/Noticeboard/Archive 250#About The Next Web",
+        "WP:Reliable sources/Noticeboard/Archive 266#The Next Web for ProProfs"
+      ]
+    },
     "rsp_last": "2019",
     "summary": "There is no consensus on the reliability of The Next Web. Articles written by [[WP:CONTRIBUTOR|contributors]] may be subject to reduced or no editorial oversight. Avoid using The Next Web's [[WP:SPONSORED|sponsored content]].",
     "domain": "thenextweb.com"
@@ -1149,9 +1279,11 @@
     "sort_name": "NGO Monitor",
     "shortcut": "WP:NGOMONITOR",
     "status": "gu",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 429#Is NGO Monitor a reliable (but obviously not unbiased) source regarding statements about NGOs and the BLP associated with them?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 429#Is NGO Monitor a reliable (but obviously not unbiased) source regarding statements about NGOs and the BLP associated with them?"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "429",
@@ -1171,10 +1303,12 @@
     "sort_name": "NME",
     "shortcut": "WP:RSPNME",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 26#Rolling Stone, NME, Popmatters and Metal-Observer",
-      "WP:Reliable sources/Noticeboard/Archive 318#New Musical Express / NME / www.nme.com"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 26#Rolling Stone, NME, Popmatters and Metal-Observer",
+        "WP:Reliable sources/Noticeboard/Archive 318#New Musical Express / NME / www.nme.com"
+      ]
+    },
     "rsp_last": "2020",
     "summary": "There is consensus that British publication ''NME'' is generally reliable for content related to its areas of expertise, which include music.",
     "domain": "nme.com"
@@ -1186,12 +1320,14 @@
     "sort_name": "NNDB",
     "shortcut": "WP:NNDB",
     "status": "d",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 3#NNDB",
-      "WP:Reliable sources/Noticeboard/Archive 26#NNDB",
-      "WP:Reliable sources/Noticeboard/Archive 101#NNDB",
-      "WP:Reliable sources/Noticeboard/Archive 155#http://www.nndb.com/"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 3#NNDB",
+        "WP:Reliable sources/Noticeboard/Archive 26#NNDB",
+        "WP:Reliable sources/Noticeboard/Archive 101#NNDB",
+        "WP:Reliable sources/Noticeboard/Archive 155#http://www.nndb.com/"
+      ]
+    },
     "rsnl": [
       {
         "notice_id": "259",
@@ -1211,13 +1347,15 @@
     "sort_name": "NPR",
     "shortcut": "WP:RSPNPR",
     "status": "gr",
-    "discussion": [
-      "WP:Reliable sources/Noticeboard/Archive 139#NPR reference in War On Women",
-      "WP:Reliable sources/Noticeboard/Archive 149#NPR religion program claim from Judy Valente about membership estimate from Christian Science church",
-      "WP:Reliable sources/Noticeboard/Archive 292#NPR",
-      "WP:Reliable sources/Noticeboard/Archive 322#Using an NPR report in the article Misinformation related to the COVID-19 pandemic",
-      "WP:Reliable sources/Noticeboard/Archive 448#Is NPR a reliable source?"
-    ],
+    "discussion": {
+      "rsn": [
+        "WP:Reliable sources/Noticeboard/Archive 139#NPR reference in War On Women",
+        "WP:Reliable sources/Noticeboard/Archive 149#NPR religion program claim from Judy Valente about membership estimate from Christian Science church",
+        "WP:Reliable sources/Noticeboard/Archive 292#NPR",
+        "WP:Reliable sources/Noticeboard/Archive 322#Using an NPR report in the article Misinformation related to the COVID-19 pandemic",
+        "WP:Reliable sources/Noticeboard/Archive 448#Is NPR a reliable source?"
+      ]
+    },
     "rsp_last": "2024",
     "summary": "There is consensus that NPR, an American public service broadcaster, is generally reliable for news and statements of fact. NPR's [[WP:RSOPINION|opinion pieces]] should only be used with [[WP:INTEXT|attribution]].",
     "domain": "npr.org"
