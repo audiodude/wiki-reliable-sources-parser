@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 mwclient = "*"
 mwparserfromhell = "*"
+python-dotenv = "*"
+jinja2 = "*"
+requests = "*"
 
 [dev-packages]
 

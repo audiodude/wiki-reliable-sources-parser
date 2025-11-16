@@ -1,10 +1,16 @@
+import os
+
 import mwclient
-from jinja2 import Environment, PackageLoader, select_autoescape
+import requests
+from dotenv import load_dotenv
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from parser import parse
 
+load_dotenv()
+
 jinja = Environment(
-    loader=PackageLoader("templates"), autoescape=select_autoescape(["html", "xml"])
+    loader=FileSystemLoader("templates"), autoescape=select_autoescape(["html", "xml"])
 )
 
 USER_AGENT = "ReliableSourcesUpdaterBot/1.0 (User:Audiodude)"
@@ -19,22 +25,32 @@ def create_subpage(jinja, format, data):
 
 
 def main(limit, use_cache, dry_run):
-    site = mwclient.Site("en.wikipedia.org", clients_useragent=USER_AGENT)
-    for page_format in ("format1", "format2"):
-        for data in parse(site, use_cache=use_cache):
+    options = {
+        "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
+        "User-Agent": "Audiodude RSP Migration [1.0] (User:Audiodude) via mwclient",
+    }
+    site = mwclient.Site(
+        "en.wikipedia.org",  # Or the specific wiki you are targeting
+        connection_options={"headers": options},
+    )
+    for data in parse(site, use_cache=use_cache):
+        for page_format in ("format1", "format2"):
             page = create_subpage(jinja, page_format, data)
-            limit -= 1
-            if limit == 0:
-                break
+
             if dry_run:
                 print(f"--- {page['title']} ---")
                 print(page["update"])
                 print()
                 continue
-            site.save_page(
-                page["title"], page["update"], f"Test page for RSPS with {format}'"
+            wiki_page = site.pages[page["title"]]
+            print(f"Updating {page['title']}")
+            wiki_page.save(
+                page["update"], summary=f"Test page for RSPS with {page_format}"
             )
+        limit -= 1
+        if limit == 0:
+            return
 
 
 if __name__ == "__main__":
-    main(limit=10, use_cache=True, dry_run=True)
+    main(limit=1, use_cache=True, dry_run=True)
