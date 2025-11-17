@@ -43,6 +43,7 @@ def main(
     dry_run: bool = typer.Option(
         False, help="Print updates without saving to Wikipedia"
     ),
+    skip_to: str = typer.Option(None, help="Skip sources until this name is found"),
 ):
     options = {
         "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
@@ -55,6 +56,9 @@ def main(
     format_to_sources = {fmt: [] for fmt in FORMATS}
     try:
         for data in parse(site, use_cache=use_cache):
+            if skip_to and data["name"] < skip_to:
+                continue
+
             for page_format in FORMATS:
                 page = create_subpage(jinja, page_format, data)
                 summary = f"Test page for RSPS with {page_format}"
@@ -83,7 +87,10 @@ def main(
                         data["url"] = data["domain"]
                         page = create_subpage(jinja, page_format, data)
                         wiki_page.save(page["update"], summary=summary)
-                    elif e.code == "abusefilter-warning":
+                    elif (
+                        e.code == "abusefilter-warning"
+                        or e.code == "abusefilter-blocked-domains-attempted"
+                    ):
                         pass
                     else:
                         print(page["title"])
@@ -108,5 +115,4 @@ def main(
 
 
 if __name__ == "__main__":
-    app()
     app()
