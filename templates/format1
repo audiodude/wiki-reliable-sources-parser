@@ -52,6 +52,12 @@ __TOC__
 @@ else @@
 ''No Rfcs for this source.''
 @@- endfor @@
+==Notes==
+{{notelist}}
+
+==References==
+<references />
+
 == Original table row for comparison ==
 ''(remove this when this source page is ready to go live)''
 {|
