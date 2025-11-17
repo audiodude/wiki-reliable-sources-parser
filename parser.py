@@ -103,6 +103,9 @@ def parse(site, use_cache=False):
                     if text:
                         while text:
                             name = text[0]
+                            if RE_SORT_VALUE.search(str(name)):
+                                text.pop(0)
+                                continue
                             name = name.replace("| ", "").strip()
                             if name:
                                 data["name"] = name
@@ -175,3 +178,8 @@ def parse(site, use_cache=False):
 
         # Yield the last source
         yield data
+
+
+if __name__ == "__main__":
+    for data in parse(None, use_cache=True):
+        print(data)
