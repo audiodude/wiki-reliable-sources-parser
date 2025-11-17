@@ -103,7 +103,7 @@ def parse(site, use_cache=False):
                     if text:
                         while text:
                             name = text[0]
-                            name.replace("| ", "")
+                            name = name.replace("| ", "").strip()
                             if name:
                                 data["name"] = name
                                 break

@@ -57,6 +57,7 @@ def main(
         for data in parse(site, use_cache=use_cache):
             for page_format in FORMATS:
                 page = create_subpage(jinja, page_format, data)
+                summary = f"Test page for RSPS with {page_format}"
                 format_to_sources[page_format].append(
                     {
                         "link": page["title"],
@@ -74,26 +75,20 @@ def main(
                     f"Updating https://en.wikipedia.org/wiki/{page['title'].replace(' ', '_')}"
                 )
                 try:
-                    wiki_page.save(
-                        page["update"], summary=f"Test page for RSPS with {page_format}"
-                    )
+                    wiki_page.save(page["update"], summary=summary)
+                    # Be polite to Wikipedia's servers
+                    time.sleep(1)
                 except mwclient.errors.APIError as e:
                     if e.code == "spamblacklist":
                         data["url"] = data["domain"]
                         page = create_subpage(jinja, page_format, data)
-                        wiki_page.save(
-                            page["update"],
-                            summary=f"Test page for RSPS with {page_format}",
-                        )
+                        wiki_page.save(page["update"], summary=summary)
                     elif e.code == "abusefilter-warning":
                         pass
                     else:
                         print(page["title"])
                         print(page["update"])
                         raise
-
-            # Be polite to Wikipedia's servers
-            time.sleep(1)
 
             if limit is not None:
                 limit -= 1
