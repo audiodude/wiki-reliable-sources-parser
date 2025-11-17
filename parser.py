@@ -58,7 +58,7 @@ def parse(site, use_cache=False):
                     # Store the previous source
                     sources.append(data)
 
-                data = {}
+                data = {"alltext": item}
                 cell_index = 0
                 in_summary = False
 
@@ -71,6 +71,7 @@ def parse(site, use_cache=False):
 
             if item.startswith("|"):
                 cell_index += 1
+                data["alltext"] += "\n" + item
                 in_summary = False
             item_wikicode = mwparserfromhell.parse(item)
 

@@ -10,7 +10,12 @@ from parser import parse
 load_dotenv()
 
 jinja = Environment(
-    loader=FileSystemLoader("templates"), autoescape=select_autoescape(["html", "xml"])
+    loader=FileSystemLoader("templates"),
+    autoescape=select_autoescape(["html", "xml"]),
+    block_start_string="@@",
+    block_end_string="@@",
+    variable_start_string="@=",
+    variable_end_string="=@",
 )
 
 USER_AGENT = "ReliableSourcesUpdaterBot/1.0 (User:Audiodude)"
@@ -53,4 +58,4 @@ def main(limit, use_cache, dry_run):
 
 
 if __name__ == "__main__":
-    main(limit=1, use_cache=True, dry_run=True)
+    main(limit=2, use_cache=True, dry_run=True)

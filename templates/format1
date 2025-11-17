@@ -1,1 +1,48 @@
-{{name}} is {{status}}
+<templatestyles src="Wikipedia:Reliable sources/Perennial sources/styles.css" />
+{{WP:Reliable sources/Perennial sources/Header}}
+{{WP:RSPNutshell|@=status=@|shortcut=}}
+{{Infobox source reliability
+ | type			= website
+ | shortcut		= @=shortcut=@
+ | status		= @=status=@
+ | last			= @=rsp_last=@
+ | domain1		= @=domain=@
+@@ if rsnl and rsnl[0]  @@
+ | rfc			= [[Wikipedia:Reliable sources/Noticeboard/Archive @=rsnl[0]['notice_id']=@#@=rsnl[0]['notice_title']=@|Rfc]]
+ | rfcdate		= @=rsnl[0]['notice_year']=@
+@@ endif @@
+}}
+
+{{WP:RSPIntro|@=name=@}}
+__TOC__
+
+== Summary ==
+@=summary=@
+
+== Excerpt ==
+{{hatnote|Excerpt from the lead of [[@=name=@]]:}}
+<div class="source-excerpt">
+{{excerpt|@=name=@|paragraphs=1|only=paragraphs|hat=no|references=no|inline=yes}}
+</div>
+
+== Discussions ==
+{{WP:RSPLinks}}
+
+=== Links ===
+<div class="source-disc-list">
+@@ for link in discussion['rsn'] @@
+* @=link=@
+@@ endfor @@
+</div>
+
+=== Recency ===
+<span class="source-talk-last">{{WP:RSPLAST/sandbox|@=rsp_last=@|table=no}}</span>
+
+=== Rfcs ===
+@@ for rfc in discussion['rsnl'] @@
+# @= rfc['notice_year'] =@[[Wikipedia:Reliable sources/Noticeboard/Archive @=rsnl['notice_id']=@#@=rsnl['notice_title']=@|Rfc]]
+@@ endfor @@
+
+== Original table row for comparison ==
+
+@=alltext=@
