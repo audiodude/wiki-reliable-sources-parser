@@ -1,6 +1,7 @@
 {{Shortcut|@=shortcut=@}}
 {{WP:Reliable sources/Perennial sources/Header}}
-{{DISPLAYTITLE:Wikipedia:Reliable sources/Perennial sources/all/''@=name=@''}}
+<!-- TODO: Add DISPLAYTITLE back when generating actual pages, with correct URL -->
+<!-- {{DISPLAYTITLE:Wikipedia:Reliable sources/Perennial sources/all/''@=name=@''}} -->
 {{Infobox
 | title            = [[@=name=@]]
 | image            = [[File:Wikipedia-logo-v2-en.svg|200px|alt=logo]] ''(not part of original row)''
