@@ -29,17 +29,20 @@ __TOC__
 {{WP:RSPLinks}}
 
 === Links ===
+@@ if discussion['rsn'] @@
 ==== RSN ====
 <div class="source-disc-list">
 @@ for link in discussion['rsn'] @@
 * [[@=link=@]]
 @@ endfor @@
 </div>
+@@- endif @@
+@@ if discussion['other'] @@
 ==== Other ====
 @@ for link in discussion['other'] @@
 * [[@=link=@]]
 @@- endfor @@
-
+@@- endif @@
 === Recency ===
 <span class="source-talk-last">{{WP:RSPLAST/sandbox|@=rsp_last=@|table=no}}</span>
 

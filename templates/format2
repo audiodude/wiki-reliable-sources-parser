@@ -13,7 +13,7 @@
 | label3           = publisher
 | data3            = Fooland (state-funded media) ''(not part of original row)''
 | label5           = website
-| data5            = https://@=domain=@
+| data5            = @=url=@
 | label6           = classification
 @@ if status == 'gr' @@
 | data6            = [[File:Yes Check Circle.svg|20px]] Usually reliable for typical purposes

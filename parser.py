@@ -38,8 +38,6 @@ def parse(site, use_cache=False):
     data_dir = Path("data")
     data_dir.mkdir(exist_ok=True)
 
-    sources = []
-
     for page_num in page_numbers:
         url = f"Wikipedia:Reliable_sources/Perennial_sources/{page_num}"
         wikicode = get_page(site, url, use_cache=use_cache)
@@ -57,8 +55,8 @@ def parse(site, use_cache=False):
                 continue
             if "|-" in item:
                 if data:
-                    # Store the previous source
-                    sources.append(data)
+                    # Yield the previous source
+                    yield data
 
                 data = {"alltext": item}
                 cell_index = 0
@@ -102,16 +100,17 @@ def parse(site, use_cache=False):
                 links = item_wikicode.filter_wikilinks()
                 if not links:
                     text = item_wikicode.filter_text()
-                    if not text:
-                        raise IncompleteParseError(
-                            f"Could not find name in row: {item_wikicode}",
-                            alltext=data["alltext"],
-                        )
                     if text:
                         data["name"] = text[0].split("| ")[1]
                 else:
                     # Store a plain-text name (strip wikitext).
                     data["name"] = links[0].title.strip_code().strip()
+
+                if not data.get("name"):
+                    raise IncompleteParseError(
+                        f"Could not find name in row: {item_wikicode}",
+                        alltext=data["alltext"],
+                    )
                 # A qualifier, like "FooSite (movie reviews)".
                 content_qualifier = " ".join(
                     RE_PARENTHESIZED.findall(item_wikicode.strip_code())
@@ -156,6 +155,7 @@ def parse(site, use_cache=False):
                         data["shortcut"] = str(template.params[0])
                     elif template.name == "WP:RSPUSES":
                         data["domain"] = str(template.params[0])
+                        data["url"] = f"http://{data['domain']}/"
                     elif template.name == "rsnl":
                         entry = {}
                         entry["notice_id"] = str(template.params[0])
@@ -166,5 +166,5 @@ def parse(site, use_cache=False):
                         ).value.lower().startswith("y")
                         data.setdefault("rsnl", []).append(entry)
 
-        # Store the last source
+        # Yield the last source
         yield data

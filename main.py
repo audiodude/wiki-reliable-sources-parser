@@ -1,11 +1,10 @@
 import os
+from parser import IncompleteParseError, parse
 
 import mwclient
 import typer
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-
-from parser import IncompleteParseError, parse
 
 load_dotenv()
 
@@ -23,10 +22,10 @@ jinja = Environment(
 USER_AGENT = "ReliableSourcesUpdaterBot/1.0 (User:Audiodude)"
 
 
-def create_subpage(jinja, format, data):
+def create_subpage(jinja, page_format, data):
     page = {}
-    page["title"] = f"User:Audiodude/RSPTest/{format}/{data['name']}"
-    template = jinja.get_template(format)
+    page["title"] = f"User:Audiodude/RSPTest/{page_format}/{data['name']}"
+    template = jinja.get_template(page_format)
     page["update"] = template.render(data)
     return page
 
@@ -49,29 +48,46 @@ def main(
         "en.wikipedia.org",  # Or the specific wiki you are targeting
         connection_options={"headers": options},
     )
+    links = []
     try:
         for data in parse(site, use_cache=use_cache):
             for page_format in ("format1", "format2"):
                 page = create_subpage(jinja, page_format, data)
+                links.append(page["title"])
 
                 if dry_run:
                     print(f"--- {page['title']} ---")
-                    print(page["update"])
-                    print()
                     continue
 
                 wiki_page = site.pages[page["title"]]
                 print(
                     f"Updating https://en.wikipedia.org/wiki/{page['title'].replace(' ', '_')}"
                 )
-                wiki_page.save(
-                    page["update"], summary=f"Test page for RSPS with {page_format}"
-                )
-
+                try:
+                    wiki_page.save(
+                        page["update"], summary=f"Test page for RSPS with {page_format}"
+                    )
+                except mwclient.errors.APIError as e:
+                    if e.code == "spamblacklist":
+                        data["url"] = data["domain"]
+                        page = create_subpage(jinja, page_format, data)
+                        wiki_page.save(
+                            page["update"],
+                            summary=f"Test page for RSPS with {page_format}",
+                        )
+                    else:
+                        print(page["title"])
+                        print(page["update"])
+                        raise
             if limit is not None:
                 limit -= 1
                 if limit == 0:
                     return
+
+        template = jinja.get_template("index1")
+        index_page = template.render(links=links)
+        wiki_page = site.pages[f"User:Audiodude/RSPTest/{page_format}/Index"]
+        wiki_page.save(index_page, summary=f"Update index page for {page_format} pages")
     except IncompleteParseError as e:
         print(f"Error during parsing:\n{e}\nPartial row follows:\n{e.alltext}")
 
