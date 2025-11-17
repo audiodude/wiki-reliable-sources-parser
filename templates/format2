@@ -1,8 +1,49 @@
-@=name=@
-===
+{{Shortcut|@=shortcut=@}}
+{{WP:Reliable sources/Perennial sources/Header}}
+{{DISPLAYTITLE:Wikipedia:Reliable sources/Perennial sources/all/''@=name=@''}}
+{{Infobox
+| title            = [[@=name=@]]
+| image            = [[File:Wikipedia-logo-v2-en.svg|200px|alt=logo]] ''(not part of original row)''
+@@ if name_qualifier @@
+| label1           = other names
+| data1            = @= name_qualifier.strip('()') =@
+@@ endif @@
+| label2           = source type
+| data2            = foobar ''(not part of original row)''
+| label3           = publisher
+| data3            = Fooland (state-funded media) ''(not part of original row)''
+| label5           = website
+| data5            = https://@=domain=@
+| label6           = classification
+@@ if status == 'gr' @@
+| data6            = [[File:Yes Check Circle.svg|20px]] Usually reliable for typical purposes
+@@ elif status == 'nc' @@
+| data6            = [[File:Achtung-orange.svg|20px|No consensus|link=]] No consensus, unclear, or additional considerations apply
+@@ elif status == 'gu' @@
+| data6            = [[File:Argentina - NO symbol.svg|20px|Generally unreliable|link=]] Generally unreliable: Editors show consensus that the source is [[WP:QUESTIONABLE|questionable]] in most cases.
+@@ elif status == 'd' @@
+| data6            = [[File:Stop hand.svg|20px|Deprecated|link=]] '''Deprecated''': There is community consensus to [[WP:DEPS|deprecate]] the source.
+@@ endif @@
+}}
 
-@=discussion=@
+@=summary=@
 
----
+== Prior discussions ==
+{{WP:RSPLinks}}
 
-@=status=@
+<blockquote>''Please add links to other significant discussions.  When in doubt, read and rely on the discussions themselves, rather than the simple summary.''</blockquote>
+@@ for link in discussion['rsn'] @@
+* [[@=link=@]]
+@@- endfor @@
+@@ for link in discussion['other'] @@
+* [[@=link=@]]
+@@- endfor @@
+* Simple summary of prior discussions: @=summary=@
+
+{{DEFAULTSORT:@=sort_name=@, Perennial sources}}
+
+== Original table row for comparison ==
+''(remove this when this source page is ready to go live)''
+{|
+@=alltext=@
+|}

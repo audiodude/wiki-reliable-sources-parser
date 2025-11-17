@@ -29,11 +29,16 @@ __TOC__
 {{WP:RSPLinks}}
 
 === Links ===
+==== RSN ====
 <div class="source-disc-list">
 @@ for link in discussion['rsn'] @@
-* @=link=@
+* [[@=link=@]]
 @@ endfor @@
 </div>
+==== Other ====
+@@ for link in discussion['other'] @@
+* [[@=link=@]]
+@@- endfor @@
 
 === Recency ===
 <span class="source-talk-last">{{WP:RSPLAST/sandbox|@=rsp_last=@|table=no}}</span>
@@ -41,8 +46,11 @@ __TOC__
 === Rfcs ===
 @@ for rfc in discussion['rsnl'] @@
 # @= rfc['notice_year'] =@[[Wikipedia:Reliable sources/Noticeboard/Archive @=rsnl['notice_id']=@#@=rsnl['notice_title']=@|Rfc]]
-@@ endfor @@
-
+@@ else @@
+''No Rfcs for this source.''
+@@- endfor @@
 == Original table row for comparison ==
-
+''(remove this when this source page is ready to go live)''
+{|
 @=alltext=@
+|}
