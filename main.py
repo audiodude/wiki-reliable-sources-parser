@@ -1,13 +1,15 @@
 import os
 
 import mwclient
-import requests
+import typer
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from parser import parse
+from parser import IncompleteParseError, parse
 
 load_dotenv()
+
+app = typer.Typer()
 
 jinja = Environment(
     loader=FileSystemLoader("templates"),
@@ -29,7 +31,16 @@ def create_subpage(jinja, format, data):
     return page
 
 
-def main(limit, use_cache, dry_run):
+@app.command()
+def main(
+    limit: int = typer.Option(None, help="Maximum number of sources to process"),
+    use_cache: bool = typer.Option(
+        False, help="Use cached Wikipedia pages if available"
+    ),
+    dry_run: bool = typer.Option(
+        False, help="Print updates without saving to Wikipedia"
+    ),
+):
     options = {
         "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
         "User-Agent": "Audiodude RSP Migration [1.0] (User:Audiodude) via mwclient",
@@ -38,24 +49,32 @@ def main(limit, use_cache, dry_run):
         "en.wikipedia.org",  # Or the specific wiki you are targeting
         connection_options={"headers": options},
     )
-    for data in parse(site, use_cache=use_cache):
-        for page_format in ("format1", "format2"):
-            page = create_subpage(jinja, page_format, data)
+    try:
+        for data in parse(site, use_cache=use_cache):
+            for page_format in ("format1", "format2"):
+                page = create_subpage(jinja, page_format, data)
 
-            if dry_run:
-                print(f"--- {page['title']} ---")
-                print(page["update"])
-                print()
-                continue
-            wiki_page = site.pages[page["title"]]
-            print(f"Updating {page['title']}")
-            wiki_page.save(
-                page["update"], summary=f"Test page for RSPS with {page_format}"
-            )
-        limit -= 1
-        if limit == 0:
-            return
+                if dry_run:
+                    print(f"--- {page['title']} ---")
+                    print(page["update"])
+                    print()
+                    continue
+
+                wiki_page = site.pages[page["title"]]
+                print(
+                    f"Updating https://en.wikipedia.org/wiki/{page['title'].replace(' ', '_')}"
+                )
+                wiki_page.save(
+                    page["update"], summary=f"Test page for RSPS with {page_format}"
+                )
+
+            if limit is not None:
+                limit -= 1
+                if limit == 0:
+                    return
+    except IncompleteParseError as e:
+        print(f"Error during parsing:\n{e}\nPartial row follows:\n{e.alltext}")
 
 
 if __name__ == "__main__":
-    main(limit=2, use_cache=True, dry_run=True)
+    app()

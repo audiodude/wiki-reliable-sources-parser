@@ -5,7 +5,9 @@ import mwparserfromhell
 
 
 class IncompleteParseError(Exception):
-    pass
+    def __init__(self, message, alltext=""):
+        super().__init__(message)
+        self.alltext = alltext
 
 
 RE_ID = re.compile(r'id="([^"]+)"')
@@ -64,7 +66,9 @@ def parse(site, use_cache=False):
 
                 md = RE_ID.search(item)
                 if not md:
-                    raise IncompleteParseError(f"Could not find id in row: {item}")
+                    raise IncompleteParseError(
+                        f"Could not find id in row: {item}", alltext=data["alltext"]
+                    )
                 data["id"] = md.group(1)
 
                 continue
@@ -73,6 +77,8 @@ def parse(site, use_cache=False):
                 cell_index += 1
                 data["alltext"] += "\n" + item
                 in_summary = False
+            else:
+                continue
             item_wikicode = mwparserfromhell.parse(item)
 
             if in_summary:
@@ -98,7 +104,8 @@ def parse(site, use_cache=False):
                     text = item_wikicode.filter_text()
                     if not text:
                         raise IncompleteParseError(
-                            f"Could not find name in row: {item_wikicode}"
+                            f"Could not find name in row: {item_wikicode}",
+                            alltext=data["alltext"],
                         )
                     if text:
                         data["name"] = text[0].split("| ")[1]
