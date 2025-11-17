@@ -8,7 +8,7 @@ mwclient = "*"
 mwparserfromhell = "*"
 python-dotenv = "*"
 jinja2 = "*"
-requests = "*"
+typer = "*"
 
 [dev-packages]
 
