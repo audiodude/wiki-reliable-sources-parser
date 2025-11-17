@@ -100,8 +100,15 @@ def parse(site, use_cache=False):
                 links = item_wikicode.filter_wikilinks()
                 if not links:
                     text = item_wikicode.filter_text()
+                    print(text)
                     if text:
-                        data["name"] = text[0].split("| ")[1]
+                        while text:
+                            name = text[0]
+                            name.replace("| ", "")
+                            if name:
+                                data["name"] = name
+                                break
+                            text.pop(0)
                 else:
                     # Store a plain-text name (strip wikitext).
                     data["name"] = links[0].title.strip_code().strip()

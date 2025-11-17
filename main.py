@@ -20,6 +20,7 @@ jinja = Environment(
 )
 
 USER_AGENT = "ReliableSourcesUpdaterBot/1.0 (User:Audiodude)"
+FORMATS = ("format1", "format2")
 
 
 def create_subpage(jinja, page_format, data):
@@ -42,19 +43,25 @@ def main(
 ):
     options = {
         "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
-        "User-Agent": "Audiodude RSP Migration [1.0] (User:Audiodude) via mwclient",
+        "User-Agent": USER_AGENT,
     }
     site = mwclient.Site(
-        "en.wikipedia.org",  # Or the specific wiki you are targeting
+        "en.wikipedia.org",
         connection_options={"headers": options},
     )
-    links = []
+    format_to_sources = {fmt: [] for fmt in FORMATS}
     try:
         for data in parse(site, use_cache=use_cache):
-            for page_format in ("format1", "format2"):
+            for page_format in FORMATS:
                 page = create_subpage(jinja, page_format, data)
-                links.append(page["title"])
+                format_to_sources[page_format].append(
+                    {
+                        "link": page["title"],
+                        "name": data["name"],
+                    }
+                )
 
+                # Only print title and skip saving page to wiki if dry-run is enabled
                 if dry_run:
                     print(f"--- {page['title']} ---")
                     continue
@@ -84,10 +91,14 @@ def main(
                 if limit == 0:
                     return
 
-        template = jinja.get_template("index1")
-        index_page = template.render(links=links)
-        wiki_page = site.pages[f"User:Audiodude/RSPTest/{page_format}/Index"]
-        wiki_page.save(index_page, summary=f"Update index page for {page_format} pages")
+        # Create index pages
+        for page_format, sources in format_to_sources.items():
+            template = jinja.get_template("index1")
+            index_page = template.render(sites=sources)
+            wiki_page = site.pages[f"User:Audiodude/RSPTest/{page_format}/Index"]
+            wiki_page.save(
+                index_page, summary=f"Update index page for {page_format} pages"
+            )
     except IncompleteParseError as e:
         print(f"Error during parsing:\n{e}\nPartial row follows:\n{e.alltext}")
 
