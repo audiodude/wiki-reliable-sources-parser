@@ -100,7 +100,6 @@ def parse(site, use_cache=False):
                 links = item_wikicode.filter_wikilinks()
                 if not links:
                     text = item_wikicode.filter_text()
-                    print(text)
                     if text:
                         while text:
                             name = text[0]
