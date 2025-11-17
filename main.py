@@ -1,4 +1,5 @@
 import os
+import time
 from parser import IncompleteParseError, parse
 
 import mwclient
@@ -25,7 +26,9 @@ FORMATS = ("format1", "format2")
 
 def create_subpage(jinja, page_format, data):
     page = {}
-    page["title"] = f"User:Audiodude/RSPTest/{page_format}/{data['name']}"
+    page["title"] = (
+        f"User:Audiodude/RSPTest/{page_format}/{data.get('qualified_name', data.get('name'))}"
+    )
     template = jinja.get_template(page_format)
     page["update"] = template.render(data)
     return page
@@ -82,10 +85,16 @@ def main(
                             page["update"],
                             summary=f"Test page for RSPS with {page_format}",
                         )
+                    elif e.code == "abusefilter-warning":
+                        pass
                     else:
                         print(page["title"])
                         print(page["update"])
                         raise
+
+            # Be polite to Wikipedia's servers
+            time.sleep(1)
+
             if limit is not None:
                 limit -= 1
                 if limit == 0:
@@ -104,4 +113,5 @@ def main(
 
 
 if __name__ == "__main__":
+    app()
     app()

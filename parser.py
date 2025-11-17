@@ -124,6 +124,7 @@ def parse(site, use_cache=False):
                 ).strip()
                 if content_qualifier:
                     data["content_qualifier"] = content_qualifier
+                    data["qualified_name"] = f"{data['name']} {content_qualifier}"
 
                 md = RE_SORT_VALUE.search(item)
                 if md:
