@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-mwclient = "*"
 mwparserfromhell = "*"
 python-dotenv = "*"
 jinja2 = "*"
 typer = "*"
+mwclient = "*"
 
 [dev-packages]
 
