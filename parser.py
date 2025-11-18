@@ -95,6 +95,12 @@ def parse(site, use_cache=False):
                     # can get parenthesized content qualifiers.
                     item_wikicode.remove(small)
 
+                for tag in item_wikicode.filter_tags(
+                    matches=lambda node: node.tag == "span"
+                ):
+                    # Remove "plainlink" span tags.
+                    item_wikicode.remove(tag)
+
                 links = item_wikicode.filter_wikilinks()
                 if not links:
                     text = item_wikicode.filter_text()
