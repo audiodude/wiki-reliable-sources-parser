@@ -75,8 +75,6 @@ def parse(site, use_cache=False):
                 cell_index += 1
                 data["alltext"] += "\n" + item
                 in_summary = False
-            else:
-                continue
             item_wikicode = mwparserfromhell.parse(item)
 
             if in_summary:
