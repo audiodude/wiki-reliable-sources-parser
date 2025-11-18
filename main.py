@@ -34,6 +34,24 @@ def create_subpage(jinja, page_format, data):
     return page
 
 
+def save_with_retry(wiki_page, content, summary, max_retries=5):
+    for attempt in range(max_retries):
+        try:
+            wiki_page.save(content, summary=summary)
+            return
+        except mwclient.errors.APIError as e:
+            if e.code in ("ratelimited", "actionthrottled"):
+                wait_seconds = 2**attempt
+                print(
+                    f"Rate limited. Waiting {wait_seconds} seconds before retry {attempt + 1}/{max_retries}"
+                )
+                time.sleep(wait_seconds)
+            else:
+                raise
+
+    raise Exception(f"Max retries exceeded for rate limit on page: {wiki_page.name}")
+
+
 @app.command()
 def main(
     limit: int = typer.Option(None, help="Maximum number of sources to process"),
@@ -56,7 +74,7 @@ def main(
     format_to_sources = {fmt: [] for fmt in FORMATS}
     try:
         for data in parse(site, use_cache=use_cache):
-            if skip_to and data["name"] < skip_to:
+            if skip_to and data["sort_name"] < skip_to:
                 continue
 
             for page_format in FORMATS:
@@ -65,7 +83,7 @@ def main(
                 format_to_sources[page_format].append(
                     {
                         "link": page["title"],
-                        "name": data["name"],
+                        "name": data.get("qualified_name", data.get("name")),
                     }
                 )
 
@@ -79,15 +97,19 @@ def main(
                     f"Updating https://en.wikipedia.org/wiki/{page['title'].replace(' ', '_')}"
                 )
                 try:
-                    wiki_page.save(page["update"], summary=summary)
-                    # Be polite to Wikipedia's servers
-                    time.sleep(1)
+                    try:
+                        save_with_retry(wiki_page, page["update"], summary)
+                        # Be polite to Wikipedia's servers
+                        time.sleep(1)
+                    except mwclient.errors.APIError as e:
+                        if e.code == "spamblacklist":
+                            data["url"] = data["domain"]
+                            page = create_subpage(jinja, page_format, data)
+                            save_with_retry(wiki_page, page["update"], summary)
+                        else:
+                            raise
                 except mwclient.errors.APIError as e:
-                    if e.code == "spamblacklist":
-                        data["url"] = data["domain"]
-                        page = create_subpage(jinja, page_format, data)
-                        wiki_page.save(page["update"], summary=summary)
-                    elif (
+                    if (
                         e.code == "abusefilter-warning"
                         or e.code == "abusefilter-blocked-domains-attempted"
                     ):
@@ -107,8 +129,10 @@ def main(
             template = jinja.get_template("index1")
             index_page = template.render(sites=sources)
             wiki_page = site.pages[f"User:Audiodude/RSPTest/{page_format}/Index"]
-            wiki_page.save(
-                index_page, summary=f"Update index page for {page_format} pages"
+            save_with_retry(
+                wiki_page,
+                index_page,
+                summary=f"Update index page for {page_format} pages",
             )
     except IncompleteParseError as e:
         print(f"Error during parsing:\n{e}\nPartial row follows:\n{e.alltext}")
