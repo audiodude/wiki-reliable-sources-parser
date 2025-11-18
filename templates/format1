@@ -37,9 +37,9 @@ __TOC__
 @@ endfor @@
 </div>
 @@- endif @@
-@@ if discussion['other'] @@
+@@ if discussion.other @@
 ==== Other ====
-@@ for link in discussion['other'] @@
+@@ for link in discussion.other @@
 * [[@=link=@]]
 @@- endfor @@
 @@- endif @@
@@ -50,7 +50,7 @@ __TOC__
 @@- if rsnl @@
 <div class="source-rfc-list">
 @@ for rfc in rsnl @@
-# @= rfc['notice_year'] =@[[Wikipedia:Reliable sources/Noticeboard/Archive @=rfc['notice_id']=@#@=rfc['notice_title']=@|Rfc]]
+# @= rfc['notice_year'] =@ [[Wikipedia:Reliable sources/Noticeboard/Archive @=rfc['notice_id']=@#@=rfc['notice_title']=@|Rfc]]
 @@ endfor @@
 @@- else @@
 ''No Rfcs for this source.''
@@ -64,6 +64,6 @@ __TOC__
 
 == Original table row for comparison ==
 ''(remove this when this source page is ready to go live)''
-{|
+{{Wikipedia:RSPTableHeader}}
 @=alltext=@
 |}

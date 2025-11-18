@@ -6,7 +6,7 @@
 <!-- {{DISPLAYTITLE:Wikipedia:Reliable sources/Perennial sources/all/''@=name=@''}} -->
 {{Infobox
 | title            = [[@=name=@]]
-| image            = [[File:Wikipedia-logo-v2-en.svg|200px|alt=logo]] ''(not part of original row)''
+| image            = [[File:Wikipedia-logo-v2-en.svg|100px|alt=logo]] ''(not part of original row)''
 @@- if name_qualifier @@
 | label1           = other names
 | data1            = @= name_qualifier.strip('()') =@
@@ -51,6 +51,6 @@
 <references />
 == Original table row for comparison ==
 ''(remove this when this source page is ready to go live)''
-{|
+{{Wikipedia:RSPTableHeader}}
 @=alltext=@
 |}
