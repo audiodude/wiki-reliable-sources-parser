@@ -1,4 +1,5 @@
 import os
+import sys
 from parser import parse
 from pprint import pprint
 
@@ -36,4 +37,5 @@ def main(page_format="format1", filter_fn=lambda: True):
 
 
 if __name__ == "__main__":
-    main(filter_fn=lambda row: row.get("id") == "Bellingcat")
+    id_ = sys.argv[1] if len(sys.argv) > 1 else None
+    main(filter_fn=lambda row: row.get("id") == id_ if id_ else True)
