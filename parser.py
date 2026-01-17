@@ -169,7 +169,6 @@ def parse(site, use_cache=False):
                         data["shortcut"] = str(template.params[0])
                     elif template.name == "WP:RSPUSES":
                         data["domain"] = str(template.params[0])
-                        data["url"] = f"http://{data['domain']}/"
                     elif template.name == "rsnl":
                         entry = {}
                         entry["notice_id"] = str(template.params[0])
