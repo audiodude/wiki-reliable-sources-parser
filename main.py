@@ -97,17 +97,9 @@ def main(
                     f"Updating https://en.wikipedia.org/wiki/{page['title'].replace(' ', '_')}"
                 )
                 try:
-                    try:
-                        save_with_retry(wiki_page, page["update"], summary)
-                        # Be polite to Wikipedia's servers
-                        time.sleep(1)
-                    except mwclient.errors.APIError as e:
-                        if e.code == "spamblacklist":
-                            data["url"] = data["domain"]
-                            page = create_subpage(jinja, page_format, data)
-                            save_with_retry(wiki_page, page["update"], summary)
-                        else:
-                            raise
+                    save_with_retry(wiki_page, page["update"], summary)
+                    # Be polite to Wikipedia's servers
+                    time.sleep(1)
                 except mwclient.errors.APIError as e:
                     if (
                         e.code == "abusefilter-warning"
