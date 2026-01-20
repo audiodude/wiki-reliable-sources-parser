@@ -33,7 +33,7 @@ def get_page(site, title, use_cache=False):
 
 
 def parse(site, use_cache=False):
-    page_numbers = list(range(1, 9))
+    page_numbers = list(range(1, 10))
 
     data_dir = Path("data")
     data_dir.mkdir(exist_ok=True)
