@@ -121,11 +121,12 @@ def run(
                     }
                 )
 
+                safe_id = data["id"].replace("/", "_")
                 wikitext_file = None
                 if wikitext_output_dir is not None:
                     out_dir = wikitext_output_dir / page_format
                     out_dir.mkdir(parents=True, exist_ok=True)
-                    wikitext_file = out_dir / f"{data['id']}.mediawikitext"
+                    wikitext_file = out_dir / f"{safe_id}.mediawikitext"
                     # Only rewrite if content changed, so mtime stays stable
                     # for downstream dependency tracking.
                     existing = (
@@ -139,7 +140,7 @@ def run(
                 if html_dir is not None:
                     out_dir = html_dir / page_format
                     out_dir.mkdir(parents=True, exist_ok=True)
-                    html_file = out_dir / f"{data['id']}.html"
+                    html_file = out_dir / f"{safe_id}.html"
                     up_to_date = (
                         wikitext_file is not None
                         and wikitext_file.exists()
