@@ -22,13 +22,13 @@ RE_PARENTHESIZED = re.compile(r"(\([^)]+?\))")
 
 
 def get_site():
-    options = {
-        "Authorization": f"Bearer {os.environ.get('WIKIPEDIA_ACCESS_TOKEN', '')}",
-        "User-Agent": USER_AGENT,
-    }
+    headers = {"User-Agent": USER_AGENT}
+    token = os.environ.get("WIKIPEDIA_ACCESS_TOKEN", "").strip()
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     return mwclient.Site(
         "en.wikipedia.org",
-        connection_options={"headers": options},
+        connection_options={"headers": headers},
     )
 
 
