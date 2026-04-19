@@ -1,3 +1,4 @@
+import os
 import threading
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -13,10 +14,17 @@ from flask import (
 
 from main import run
 
-HTML_ROOT = (Path(__file__).parent / "html").resolve()
-WIKITEXT_ROOT = (Path(__file__).parent / "wikitext").resolve()
-LAST_REFRESH_FILE = Path(__file__).parent / ".last_refresh"
+DATA_DIR = Path(os.environ.get("DATA_DIR", str(Path(__file__).parent))).resolve()
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+HTML_ROOT = (DATA_DIR / "html").resolve()
+WIKITEXT_ROOT = (DATA_DIR / "wikitext").resolve()
+HTML_ROOT.mkdir(parents=True, exist_ok=True)
+WIKITEXT_ROOT.mkdir(parents=True, exist_ok=True)
+
+LAST_REFRESH_FILE = DATA_DIR / ".last_refresh"
 REFRESH_INTERVAL = timedelta(minutes=20)
+GITHUB_URL = "https://github.com/audiodude/wiki-reliable-sources-parser"
 
 _refresh_lock = threading.Lock()
 _refresh_running = False
@@ -40,8 +48,8 @@ def _background_refresh():
     try:
         run(
             dry_run=False,
-            wikitext_output_dir=Path("wikitext"),
-            html_dir=Path("html"),
+            wikitext_output_dir=WIKITEXT_ROOT,
+            html_dir=HTML_ROOT,
         )
     except Exception as e:
         print(f"Background refresh failed: {e}")
@@ -108,6 +116,33 @@ WRAPPER_HTML = (
 </html>"""
 )
 
+ROOT_INTRO = """
+{% if show_refresh %}
+<section class="intro">
+  <h2>wiki-reliable-sources-parser demo</h2>
+  <p>
+    Parses the
+    <a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources">Wikipedia Reliable Sources / Perennial Sources</a>
+    tables into structured data, re-renders each source as a standalone wikitext
+    page via Jinja templates, and previews the result as rendered HTML via the
+    Wikipedia REST API.
+  </p>
+  <p>
+    Source code:
+    <a href="{{ github_url }}">{{ github_url }}</a>
+  </p>
+  <h3>How to use</h3>
+  <ul>
+    <li>Browse into <code>format1/</code> or <code>format2/</code> below to see candidate layouts.</li>
+    <li>Clicking a source opens it in an iframe wrapper. Use <b>view wikitext</b> at the top to see the raw mediawikitext the HTML was rendered from.</li>
+    <li>Each generated HTML injects a <code>&lt;script&gt;var data = {...};&lt;/script&gt;</code> block with the full row dict — open devtools and poke <code>data</code> in the console.</li>
+    <li>Click <b>Refresh data</b> to re-run the parse pipeline against live Wikipedia. It is fire-and-forget and rate-limited to once per 20 minutes; the status banner at the top of every page shows the last refresh time.</li>
+    <li>On the hosted deployment the Wikipedia access token is intentionally unset, so the refresh will not successfully post anything back to Wikipedia.</li>
+  </ul>
+</section>
+{% endif %}
+"""
+
 LISTING_HTML = (
     """<!doctype html>
 <html>
@@ -115,16 +150,20 @@ LISTING_HTML = (
 <meta charset="utf-8">
 <title>Index of /{{ rel }}</title>
 <style>
-  body { font-family: monospace; margin: 2em; padding-top: 2em; }
+  body { font-family: monospace; margin: 2em; padding-top: 2em; max-width: 900px; }
   a { text-decoration: none; }
   li { padding: 2px 0; }
   form.refresh { margin: 1em 0; }
   form.refresh button { font-family: inherit; padding: 0.4em 0.8em; cursor: pointer; }
+  section.intro { font-family: sans-serif; color: #222; line-height: 1.5; }
+  section.intro h2 { margin-top: 1em; }
+  section.intro code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }
 </style>
 </head>
 <body>
 """
     + STATUS_BANNER
+    + ROOT_INTRO
     + """
 <h1>Index of /{{ rel }}</h1>
 {% if show_refresh %}
@@ -195,6 +234,7 @@ def browse(subpath: str = ""):
             parent_url=_parent_url(subpath) if subpath else None,
             show_refresh=(subpath == ""),
             refresh_url=url_for("refresh"),
+            github_url=GITHUB_URL,
             **_refresh_status(),
         )
 

@@ -23,7 +23,7 @@ RE_PARENTHESIZED = re.compile(r"(\([^)]+?\))")
 
 def get_site():
     options = {
-        "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
+        "Authorization": f"Bearer {os.environ.get('WIKIPEDIA_ACCESS_TOKEN', '')}",
         "User-Agent": USER_AGENT,
     }
     return mwclient.Site(
@@ -34,8 +34,8 @@ def get_site():
 
 def get_page(site, title, use_cache=False):
     if use_cache:
-        cache_dir = Path("cache")
-        cache_dir.mkdir(exist_ok=True)
+        cache_dir = Path(os.environ.get("DATA_DIR", ".")) / "cache"
+        cache_dir.mkdir(parents=True, exist_ok=True)
         cache_file = cache_dir / f"{title.replace('/', '_')}.txt"
         if cache_file.exists():
             with open(cache_file, "r", encoding="utf-8") as f:
