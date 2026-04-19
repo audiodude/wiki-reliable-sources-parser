@@ -39,7 +39,7 @@ def create_subpage(jinja, page_format, data):
     return page
 
 
-def wikitext_to_html(title, wikitext, max_retries=6):
+def wikitext_to_html(title, wikitext, max_retries=3, max_retry_sleep=60):
     url = "https://en.wikipedia.org/api/rest_v1/transform/wikitext/to/html/" + quote(
         title, safe=""
     )
@@ -51,12 +51,19 @@ def wikitext_to_html(title, wikitext, max_retries=6):
             timeout=30,
         )
         if response.status_code == 429:
-            retry_after = int(response.headers.get("Retry-After", 2 ** (attempt + 1)))
+            raw_retry = int(response.headers.get("Retry-After", 2 ** (attempt + 1)))
+            # Wikipedia sometimes returns Retry-After in the thousands of
+            # seconds when an IP hits a bucket limit. Don't actually hold
+            # the worker hostage for that long — cap the sleep and let the
+            # final attempt surface as a failure so the operator can retry
+            # later rather than having a refresh thread stuck for an hour.
+            sleep_for = min(raw_retry, max_retry_sleep)
             print(
-                f"REST API rate-limited ({title!r}); sleeping {retry_after}s "
+                f"REST API rate-limited ({title!r}); "
+                f"Retry-After={raw_retry}s, sleeping {sleep_for}s "
                 f"(attempt {attempt + 1}/{max_retries})"
             )
-            time.sleep(retry_after)
+            time.sleep(sleep_for)
             continue
         response.raise_for_status()
         return response.text
