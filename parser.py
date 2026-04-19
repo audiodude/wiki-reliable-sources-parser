@@ -1,7 +1,12 @@
+import os
 import re
 from pathlib import Path
 
+import mwclient
 import mwparserfromhell
+from dotenv import load_dotenv
+
+USER_AGENT = "ReliableSourcesUpdaterBot/1.0 (User:Audiodude)"
 
 
 class IncompleteParseError(Exception):
@@ -15,6 +20,17 @@ RE_SORT_VALUE = re.compile(r'data-sort-value="([^"]+)"')
 RE_PARENTHESIZED = re.compile(r"(\([^)]+?\))")
 
 
+def get_site():
+    options = {
+        "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
+        "User-Agent": USER_AGENT,
+    }
+    return mwclient.Site(
+        "en.wikipedia.org",
+        connection_options={"headers": options},
+    )
+
+
 def get_page(site, title, use_cache=False):
     if use_cache:
         cache_dir = Path("cache")
@@ -24,6 +40,9 @@ def get_page(site, title, use_cache=False):
             with open(cache_file, "r", encoding="utf-8") as f:
                 return mwparserfromhell.parse(f.read())
 
+    if site is None:
+        raise ValueError("Site must be provided if not using cache")
+
     page = site.pages[title]
 
     if use_cache:
@@ -32,18 +51,24 @@ def get_page(site, title, use_cache=False):
     return mwparserfromhell.parse(page.text())
 
 
-def parse(site, use_cache=False):
-    page_numbers = list(range(1, 10))
+def parse(use_cache=False):
+    page_numbers = list(range(1, 9)) + ["X"]
 
     data_dir = Path("data")
     data_dir.mkdir(exist_ok=True)
 
+    site = get_site()
+
     for page_num in page_numbers:
         url = f"Wikipedia:Reliable_sources/Perennial_sources/{page_num}"
         wikicode = get_page(site, url, use_cache=use_cache)
-        table = wikicode.filter_tags(matches=lambda node: node.tag == "table")[0]
+        table = wikicode.filter_tags(matches=lambda node: node.tag == "table")
+        if len(table) == 0:
+            raise IncompleteParseError(
+                f"Could not find table in page: {url}", alltext=wikicode
+            )
 
-        onlyinclude = table.contents.filter_tags(
+        onlyinclude = table[0].contents.filter_tags(
             recursive=True, matches=lambda node: node.tag == "onlyinclude"
         )[0]
         items = onlyinclude.contents.split("\n")
@@ -184,5 +209,6 @@ def parse(site, use_cache=False):
 
 
 if __name__ == "__main__":
-    for data in parse(None, use_cache=True):
+    load_dotenv()
+    for data in parse(use_cache=True):
         print(data)

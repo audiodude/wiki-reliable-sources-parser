@@ -1,11 +1,11 @@
-import os
 import time
-from parser import IncompleteParseError, parse
 
 import mwclient
 import typer
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+from parser import IncompleteParseError, get_site, parse
 
 load_dotenv()
 
@@ -20,7 +20,6 @@ jinja = Environment(
     variable_end_string="=@",
 )
 
-USER_AGENT = "ReliableSourcesUpdaterBot/1.0 (User:Audiodude)"
 FORMATS = ("format1", "format2")
 
 
@@ -63,17 +62,9 @@ def main(
     ),
     skip_to: str = typer.Option(None, help="Skip sources until this name is found"),
 ):
-    options = {
-        "Authorization": f"Bearer {os.environ['WIKIPEDIA_ACCESS_TOKEN']}",
-        "User-Agent": USER_AGENT,
-    }
-    site = mwclient.Site(
-        "en.wikipedia.org",
-        connection_options={"headers": options},
-    )
     format_to_sources = {fmt: [] for fmt in FORMATS}
     try:
-        for data in parse(site, use_cache=use_cache):
+        for data in parse(use_cache=use_cache):
             if skip_to and data["sort_name"] < skip_to:
                 continue
 
