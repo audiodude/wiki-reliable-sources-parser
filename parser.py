@@ -1,3 +1,4 @@
+import json
 import os
 import re
 from pathlib import Path
@@ -53,9 +54,6 @@ def get_page(site, title, use_cache=False):
 
 def parse(use_cache=False):
     page_numbers = list(range(1, 9)) + ["X"]
-
-    data_dir = Path("data")
-    data_dir.mkdir(exist_ok=True)
 
     site = get_site()
 
@@ -211,4 +209,4 @@ def parse(use_cache=False):
 if __name__ == "__main__":
     load_dotenv()
     for data in parse(use_cache=True):
-        print(data)
+        print(json.dumps(data))
