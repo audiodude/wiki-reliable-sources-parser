@@ -24,7 +24,7 @@ WIKITEXT_ROOT.mkdir(parents=True, exist_ok=True)
 
 LAST_REFRESH_FILE = DATA_DIR / ".last_refresh"
 REFRESH_INTERVAL = timedelta(minutes=20)
-GITHUB_URL = "https://github.com/audiodude/wiki-reliable-sources-parser"
+GITHUB_URL = "https://github.com/audiodude/rspdemo"
 
 _refresh_lock = threading.Lock()
 _refresh_running = False
