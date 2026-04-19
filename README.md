@@ -53,7 +53,7 @@ uv run python demo.py   # http://localhost:5000
 
 | Var | Purpose |
 | --- | --- |
-| `DATA_DIR` | Root directory for `html/`, `wikitext/`, `cache/`, and `.last_refresh`. Defaults to the repo directory locally. |
+| `DATA_DIR` | Root directory for `html/`, `wikitext/`, and `cache/`. Defaults to the repo directory locally. |
 | `WIKIPEDIA_ACCESS_TOKEN` | OAuth token for authenticated Wikipedia API calls. Only needed for non-dry-run posts; safe to leave empty for read-only previewing. |
 
 ## Deployment (Railway)
@@ -62,7 +62,7 @@ uv run python demo.py   # http://localhost:5000
 - Host: **rspdemo.vibes.travisbriggs.com**
 - Deploy flow: merge `main` → `release`, push. Railway auto-deploys from the `release` branch.
 - Start command: `gunicorn demo:app -b 0.0.0.0:$PORT --workers 2 --timeout 120` (see `Procfile`).
-- Persistence: a Railway volume is mounted at `/data`, and `DATA_DIR=/data` is set on the service. `html/`, `wikitext/`, `cache/`, and `.last_refresh` all live inside the volume so they survive deploys.
+- Persistence: a Railway volume is mounted at `/data`, and `DATA_DIR=/data` is set on the service. `html/`, `wikitext/`, and `cache/` live inside the volume so they survive deploys. `.last_refresh` deliberately lives outside the volume on ephemeral container storage so the refresh rate limit resets on every deploy.
 - `WIKIPEDIA_ACCESS_TOKEN` is intentionally left **unset** on the hosted service — the Refresh button will not successfully post to Wikipedia from production.
 
 Custom domain setup uses two Cloudflare DNS records (Railway's certificate issuance requires both):

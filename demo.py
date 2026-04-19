@@ -22,7 +22,9 @@ WIKITEXT_ROOT = (DATA_DIR / "wikitext").resolve()
 HTML_ROOT.mkdir(parents=True, exist_ok=True)
 WIKITEXT_ROOT.mkdir(parents=True, exist_ok=True)
 
-LAST_REFRESH_FILE = DATA_DIR / ".last_refresh"
+# Deliberately outside DATA_DIR so it lives on ephemeral container storage
+# and resets on every deploy.
+LAST_REFRESH_FILE = Path(__file__).parent / ".last_refresh"
 REFRESH_INTERVAL = timedelta(minutes=20)
 GITHUB_URL = "https://github.com/audiodude/rspdemo"
 
