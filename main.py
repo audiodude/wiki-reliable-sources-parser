@@ -1,4 +1,7 @@
+import json
+import re
 import time
+from html import escape as html_escape
 from pathlib import Path
 from urllib.parse import quote
 
@@ -50,6 +53,31 @@ def wikitext_to_html(title, wikitext):
     return response.text
 
 
+HEADER_STYLE = (
+    "font-family: 'Linux Libertine', Georgia, Times, serif;"
+    " font-size: 1.8em; font-weight: normal;"
+    " border-bottom: 1px solid #a2a9b1;"
+    " padding-bottom: 0.25em; margin: 0 0 0.5em 0;"
+)
+
+
+def inject_header_and_data(html, data):
+    heading = data.get("qualified_name", data.get("name", ""))
+    json_blob = json.dumps(data, ensure_ascii=False, default=str).replace(
+        "</", "<\\/"
+    )
+    injection = (
+        f'<h1 class="firstHeading" style="{HEADER_STYLE}">'
+        f"{html_escape(heading)}</h1>\n"
+        f"<script>var data = {json_blob};</script>\n"
+    )
+    body_open = re.search(r"<body\b[^>]*>", html)
+    if body_open:
+        idx = body_open.end()
+        return html[:idx] + "\n" + injection + html[idx:]
+    return injection + html
+
+
 def save_with_retry(wiki_page, content, summary, max_retries=5):
     for attempt in range(max_retries):
         try:
@@ -68,24 +96,13 @@ def save_with_retry(wiki_page, content, summary, max_retries=5):
     raise Exception(f"Max retries exceeded for rate limit on page: {wiki_page.name}")
 
 
-@app.command()
-def main(
-    limit: int = typer.Option(None, help="Maximum number of sources to process"),
-    use_cache: bool = typer.Option(
-        True, help="Use cached Wikipedia pages if available"
-    ),
-    dry_run: bool = typer.Option(
-        True, help="Print updates without saving to Wikipedia"
-    ),
-    skip_to: str = typer.Option(None, help="Skip sources until this name is found"),
-    wikitext_output_dir: Path = typer.Option(
-        None,
-        help="If set, write each formatted row to <dir>/<format>/<id>.mediawikitext",
-    ),
-    html_dir: Path = typer.Option(
-        None,
-        help="If set, render each row to HTML via the Wikipedia REST API and write to <dir>/<format>/<id>.html",
-    ),
+def run(
+    limit=None,
+    use_cache=True,
+    dry_run=True,
+    skip_to=None,
+    wikitext_output_dir=None,
+    html_dir=None,
 ):
     format_to_sources = {fmt: [] for fmt in FORMATS}
     try:
@@ -103,17 +120,36 @@ def main(
                     }
                 )
 
+                wikitext_file = None
                 if wikitext_output_dir is not None:
                     out_dir = wikitext_output_dir / page_format
                     out_dir.mkdir(parents=True, exist_ok=True)
-                    out_file = out_dir / f"{data['id']}.mediawikitext"
-                    out_file.write_text(page["update"], encoding="utf-8")
+                    wikitext_file = out_dir / f"{data['id']}.mediawikitext"
+                    # Only rewrite if content changed, so mtime stays stable
+                    # for downstream dependency tracking.
+                    existing = (
+                        wikitext_file.read_text(encoding="utf-8")
+                        if wikitext_file.exists()
+                        else None
+                    )
+                    if existing != page["update"]:
+                        wikitext_file.write_text(page["update"], encoding="utf-8")
 
                 if html_dir is not None:
                     out_dir = html_dir / page_format
                     out_dir.mkdir(parents=True, exist_ok=True)
-                    html = wikitext_to_html(page["title"], page["update"])
-                    (out_dir / f"{data['id']}.html").write_text(html, encoding="utf-8")
+                    html_file = out_dir / f"{data['id']}.html"
+                    up_to_date = (
+                        wikitext_file is not None
+                        and wikitext_file.exists()
+                        and html_file.exists()
+                        and html_file.stat().st_mtime
+                        >= wikitext_file.stat().st_mtime
+                    )
+                    if not up_to_date:
+                        html = wikitext_to_html(page["title"], page["update"])
+                        html = inject_header_and_data(html, data)
+                        html_file.write_text(html, encoding="utf-8")
 
                 # Only print title and skip saving page to wiki if dry-run is enabled
                 if dry_run:
@@ -156,6 +192,35 @@ def main(
             )
     except IncompleteParseError as e:
         print(f"Error during parsing:\n{e}\nPartial row follows:\n{e.alltext}")
+
+
+@app.command()
+def main(
+    limit: int = typer.Option(None, help="Maximum number of sources to process"),
+    use_cache: bool = typer.Option(
+        True, help="Use cached Wikipedia pages if available"
+    ),
+    dry_run: bool = typer.Option(
+        True, help="Print updates without saving to Wikipedia"
+    ),
+    skip_to: str = typer.Option(None, help="Skip sources until this name is found"),
+    wikitext_output_dir: Path = typer.Option(
+        None,
+        help="If set, write each formatted row to <dir>/<format>/<id>.mediawikitext",
+    ),
+    html_dir: Path = typer.Option(
+        None,
+        help="If set, render each row to HTML via the Wikipedia REST API and write to <dir>/<format>/<id>.html",
+    ),
+):
+    run(
+        limit=limit,
+        use_cache=use_cache,
+        dry_run=dry_run,
+        skip_to=skip_to,
+        wikitext_output_dir=wikitext_output_dir,
+        html_dir=html_dir,
+    )
 
 
 if __name__ == "__main__":
