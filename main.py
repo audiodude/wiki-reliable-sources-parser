@@ -1,11 +1,14 @@
 import time
+from pathlib import Path
+from urllib.parse import quote
 
 import mwclient
+import requests
 import typer
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from parser import IncompleteParseError, get_site, parse
+from parser import USER_AGENT, IncompleteParseError, get_site, parse
 
 load_dotenv()
 
@@ -33,6 +36,20 @@ def create_subpage(jinja, page_format, data):
     return page
 
 
+def wikitext_to_html(title, wikitext):
+    url = "https://en.wikipedia.org/api/rest_v1/transform/wikitext/to/html/" + quote(
+        title, safe=""
+    )
+    response = requests.post(
+        url,
+        data={"wikitext": wikitext},
+        headers={"User-Agent": USER_AGENT},
+        timeout=30,
+    )
+    response.raise_for_status()
+    return response.text
+
+
 def save_with_retry(wiki_page, content, summary, max_retries=5):
     for attempt in range(max_retries):
         try:
@@ -55,12 +72,20 @@ def save_with_retry(wiki_page, content, summary, max_retries=5):
 def main(
     limit: int = typer.Option(None, help="Maximum number of sources to process"),
     use_cache: bool = typer.Option(
-        False, help="Use cached Wikipedia pages if available"
+        True, help="Use cached Wikipedia pages if available"
     ),
     dry_run: bool = typer.Option(
-        False, help="Print updates without saving to Wikipedia"
+        True, help="Print updates without saving to Wikipedia"
     ),
     skip_to: str = typer.Option(None, help="Skip sources until this name is found"),
+    wikitext_output_dir: Path = typer.Option(
+        None,
+        help="If set, write each formatted row to <dir>/<format>/<id>.mediawikitext",
+    ),
+    html_dir: Path = typer.Option(
+        None,
+        help="If set, render each row to HTML via the Wikipedia REST API and write to <dir>/<format>/<id>.html",
+    ),
 ):
     format_to_sources = {fmt: [] for fmt in FORMATS}
     try:
@@ -78,9 +103,21 @@ def main(
                     }
                 )
 
+                if wikitext_output_dir is not None:
+                    out_dir = wikitext_output_dir / page_format
+                    out_dir.mkdir(parents=True, exist_ok=True)
+                    out_file = out_dir / f"{data['id']}.mediawikitext"
+                    out_file.write_text(page["update"], encoding="utf-8")
+
+                if html_dir is not None:
+                    out_dir = html_dir / page_format
+                    out_dir.mkdir(parents=True, exist_ok=True)
+                    html = wikitext_to_html(page["title"], page["update"])
+                    (out_dir / f"{data['id']}.html").write_text(html, encoding="utf-8")
+
                 # Only print title and skip saving page to wiki if dry-run is enabled
                 if dry_run:
-                    print(f"--- {page['title']} ---")
+                    print(f"--- {page['title']} --- {page_format}")
                     continue
 
                 wiki_page = site.pages[page["title"]]

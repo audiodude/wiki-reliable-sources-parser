@@ -3,3 +3,6 @@ reformatted-template.wiki
 .env
 notes/
 .venv/
+__pycache__/
+wikitext/
+html/
