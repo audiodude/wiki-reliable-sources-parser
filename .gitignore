@@ -1,3 +1,5 @@
 cache
 reformatted-template.wiki
 .env
+notes/
+.venv/
