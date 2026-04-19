@@ -39,16 +39,27 @@ def create_subpage(jinja, page_format, data):
     return page
 
 
-def wikitext_to_html(title, wikitext):
+def wikitext_to_html(title, wikitext, max_retries=6):
     url = "https://en.wikipedia.org/api/rest_v1/transform/wikitext/to/html/" + quote(
         title, safe=""
     )
-    response = requests.post(
-        url,
-        data={"wikitext": wikitext},
-        headers={"User-Agent": USER_AGENT},
-        timeout=30,
-    )
+    for attempt in range(max_retries):
+        response = requests.post(
+            url,
+            data={"wikitext": wikitext},
+            headers={"User-Agent": USER_AGENT},
+            timeout=30,
+        )
+        if response.status_code == 429:
+            retry_after = int(response.headers.get("Retry-After", 2 ** (attempt + 1)))
+            print(
+                f"REST API rate-limited ({title!r}); sleeping {retry_after}s "
+                f"(attempt {attempt + 1}/{max_retries})"
+            )
+            time.sleep(retry_after)
+            continue
+        response.raise_for_status()
+        return response.text
     response.raise_for_status()
     return response.text
 
