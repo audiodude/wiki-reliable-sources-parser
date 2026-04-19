@@ -105,6 +105,7 @@ def run(
     html_dir=None,
 ):
     format_to_sources = {fmt: [] for fmt in FORMATS}
+    site = get_site() if not dry_run else None
     try:
         for data in parse(use_cache=use_cache):
             if skip_to and data["sort_name"] < skip_to:
