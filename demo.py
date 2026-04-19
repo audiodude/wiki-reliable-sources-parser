@@ -47,9 +47,13 @@ def _write_last_refresh():
 
 def _background_refresh():
     global _refresh_running
+    # Without a Wikipedia OAuth token we can't save to the wiki, so downgrade
+    # to dry_run so the refresh still regenerates the local wikitext/html
+    # files (the only thing the hosted demo actually needs).
+    has_token = bool(os.environ.get("WIKIPEDIA_ACCESS_TOKEN", "").strip())
     try:
         run(
-            dry_run=False,
+            dry_run=not has_token,
             wikitext_output_dir=WIKITEXT_ROOT,
             html_dir=HTML_ROOT,
         )
