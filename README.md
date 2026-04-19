@@ -1,4 +1,4 @@
-= Auto-convert RSP table to subpages
+# Auto-convert RSP table to subpages
 
 https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment/Restructuring_RSP
 
